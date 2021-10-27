@@ -306,7 +306,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../application.cpp" line="900"/>
         <source>Keyboard Heatmap</source>
-        <translation>Carte de chaleur du clavier</translation>
+        <translation>Carte thermique du clavier</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="901"/>
@@ -316,7 +316,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../application.cpp" line="902"/>
         <source>Mouse Heatmap</source>
-        <translation>Carte de chaleur de la souris</translation>
+        <translation>Carte thermique de la souris</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="903"/>
@@ -890,12 +890,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="159"/>
         <source>Heatmap of Keys</source>
-        <translation>Carte de chaleur des Frappes</translation>
+        <translation>Carte thermique des Frappes</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="160"/>
         <source>Heatmap of Clicks</source>
-        <translation>Carte de chaleur des Clics</translation>
+        <translation>Carte thermique des Clics</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="161"/>
@@ -990,12 +990,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="374"/>
         <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Carte de chaleur des Frappes entre &apos;%1&apos; et &apos;%2&apos; </translation>
+        <translation>Carte thermique des Frappes entre &apos;%1&apos; et &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="436"/>
         <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Carte de chaleur des clics entre &apos;%1&apos; et &apos;%2&apos; </translation>
+        <translation>Carte thermique des clics entre &apos;%1&apos; et &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="443"/>
@@ -1045,12 +1045,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="99"/>
         <source>Keyboard Heatmap</source>
-        <translation>Carte de chaleur du clavier</translation>
+        <translation>Carte thermique du clavier</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="100"/>
         <source>Mouse Heatmap</source>
-        <translation>Carte de chaleur de la souris</translation>
+        <translation>Carte thermique de la souris</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="101"/>
@@ -1200,7 +1200,7 @@ Please check your permissions on: %2</source>
         <location filename="../interface/InputTab.cpp" line="407"/>
         <location filename="../interface/InputTab.cpp" line="711"/>
         <source>Enable Heatmap</source>
-        <translation>Activer la carte de chaleur</translation>
+        <translation>Activer la carte thermique</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="417"/>
@@ -1544,12 +1544,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="2824"/>
         <source>Prune Mouse Heatmap</source>
-        <translation>Purger les données de la carte de chaleur de souris</translation>
+        <translation>Purger la carte thermique de la souris</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="2825"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation>En ne rognant/élaguant pas votre carte de chaleur de souris, votre base de données va devenir assez large et ralentira possiblement WhatPulse. Mettre fin au rognage ?</translation>
+        <translation>En ne purgeant pas votre carte thermique de la souris, votre base de données va devenir assez large et ralentira possiblement WhatPulse. Mettre fin à la purge ?</translation>
     </message>
 </context>
 <context>
@@ -1600,7 +1600,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="422"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
-        <translation>Impossible de générer une image de la carte de chaleur. Réessayez ou vérifiez les permissions sur : </translation>
+        <translation>Impossible de générer une image de la carte thermique. Réessayez ou vérifiez les permissions sur : </translation>
     </message>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="460"/>
@@ -1704,7 +1704,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="99"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
-        <translation>Impossible de générer une image de la carte de chaleur. Réessayez ou vérifiez les permissions sur : </translation>
+        <translation>Impossible de générer une image de la carte thermique. Réessayez ou vérifiez les permissions sur : </translation>
     </message>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="281"/>
@@ -1714,7 +1714,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="282"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
-        <translation>Carte de chaleur de la souris téléchargée avec succès ! Voulez-vous l&apos;ouvrir dans votre navigateur ?</translation>
+        <translation>Carte thermique de la souris téléchargée avec succès ! Voulez-vous l&apos;ouvrir dans votre navigateur ?</translation>
     </message>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="294"/>
@@ -3055,7 +3055,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="289"/>
         <source>Upload heatmap info</source>
-        <translation>Téléverser les infos de la carte de chaleur</translation>
+        <translation>Téléverser les infos de la carte thermique</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="292"/>
