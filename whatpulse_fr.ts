@@ -2669,7 +2669,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="104"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
-        <translation>Démarerer une backup aura pour effet de redémarrer le client et affichera la fenêtre de backup. Poursuivre ?</translation>
+        <translation>Lancer une backup aura pour effet de redémarrer le client et affichera la fenêtre de backup. Poursuivre ?</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="154"/>
