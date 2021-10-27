@@ -852,7 +852,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="560"/>
         <source>SSL fingerprint check: The url %1 is not a ssl connection!</source>
-        <translation>Vérification de l&apos;empreinte SSL: L&apos;url %1 n&apos;est pas une connexion SSL !</translation>
+        <translation>Vérification de l&apos;empreinte SSL : L&apos;url %1 n&apos;est pas une connexion SSL !</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="653"/>
@@ -4874,7 +4874,7 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../online/whttpserver_responder.cpp" line="101"/>
         <source>{ &quot;error&quot;: &quot;Unable to parse information.&quot;}</source>
-        <translation>{ &apos;error&quot;: &quot;Unable to parse information.&quot;}</translation>
+        <translation>{ &apos;error&quot;: &quot;Impossible de formation les informations.&quot;}</translation>
     </message>
 </context>
 <context>
@@ -5017,7 +5017,7 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="408"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
-        <translation>Désolé, le site web m&apos;a retourné une erreur lors de la préparation de votre sauvegarde. Réessayez plus tard. Détails de l&apos;erreur: %1</translation>
+        <translation>Désolé, le site web m&apos;a retourné une erreur lors de la préparation de votre sauvegarde. Réessayez plus tard. Détails de l&apos;erreur : %1</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="423"/>
