@@ -26,12 +26,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="44"/>
         <source>Email:</source>
-        <translation>Email:</translation>
+        <translation>Email :</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="46"/>
         <source>Premium:</source>
-        <translation>Premium:</translation>
+        <translation>Premium :</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="70"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="74"/>
         <source>Total Download:</source>
-        <translation>Descendant au Total:</translation>
+        <translation>Descendant au Total :</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="76"/>
@@ -56,12 +56,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="78"/>
         <source>Total Uptime:</source>
-        <translation>Temps de fonctionnement cumulé:</translation>
+        <translation>Temps de fonctionnement cumulé :</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="132"/>
         <source> &amp;View Online Stats</source>
-        <translation> &amp;Visualiser se statistiques en ligne</translation>
+        <translation> &amp;Voir ses Statistiques en Ligne</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="140"/>
@@ -180,7 +180,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../interface/AccountTab.cpp" line="381"/>
         <source>Something went wrong while resetting your token:</source>
-        <translation>Une erreur est survenue lors de la réinitialisation de votre token:</translation>
+        <translation>Une erreur est survenue lors de la réinitialisation de votre token :</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="440"/>
@@ -200,7 +200,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../interface/AccountTab.cpp" line="448"/>
         <source>Something went wrong while refreshing your account data:</source>
-        <translation>Un problème est survenu lors de l&apos;actualisation des données de votre compte:</translation>
+        <translation>Un problème est survenu lors de l&apos;actualisation des données de votre compte :</translation>
     </message>
 </context>
 <context>
@@ -231,7 +231,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../application.cpp" line="235"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
-        <translation>Impossible de détecter une barre d&apos;état système (system tray), et j&apos;en ait besoin pour fonctionner.</translation>
+        <translation>Impossible de détecter une barre d&apos;état système, et j&apos;en ai besoin pour fonctionner.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="253"/>
@@ -246,7 +246,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../application.cpp" line="260"/>
         <source>AES failure</source>
-        <translation>Echec de l&apos;AES</translation>
+        <translation>Échec de l&apos;AES</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="337"/>
@@ -306,7 +306,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../application.cpp" line="900"/>
         <source>Keyboard Heatmap</source>
-        <translation>Carte de chaleur du clavier</translation>
+        <translation>Carte thermique du clavier</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="901"/>
@@ -316,7 +316,7 @@ Vous pouvez continuer de pulser.</translation>
     <message>
         <location filename="../application.cpp" line="902"/>
         <source>Mouse Heatmap</source>
-        <translation>Carte de chaleur de la souris</translation>
+        <translation>Carte thermique de la souris</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="903"/>
@@ -521,7 +521,7 @@ Maintien du Mode Portable activé.</translation>
         <location filename="../online/clientcommunication.cpp" line="276"/>
         <location filename="../online/clientcommunication.cpp" line="352"/>
         <source>Server error: Missing input! Please contact the developers.</source>
-        <translation>Erreur du serveur: Entrée manquante ! Merci de contacter les développeurs.</translation>
+        <translation>Erreur du serveur : Entrée manquante ! Merci de contacter les développeurs.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="324"/>
@@ -577,7 +577,7 @@ Maintien du Mode Portable activé.</translation>
     <message>
         <location filename="../online/clientcommunication.cpp" line="961"/>
         <source>Downloaded file does not look good: %1</source>
-        <translation>Le fichier téléchargé n&apos;a pas bonne mine: %1</translation>
+        <translation>Le fichier téléchargé n&apos;a pas bonne mine : %1</translation>
     </message>
 </context>
 <context>
@@ -586,19 +586,19 @@ Maintien du Mode Portable activé.</translation>
         <location filename="../util/database.cpp" line="54"/>
         <location filename="../util/database.cpp" line="66"/>
         <source>Database failure</source>
-        <translation>Echec de la base de données</translation>
+        <translation>Échec de la base de données</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="55"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
-        <translation>Impossible de mettre en place la base de données: %1 Vérifiez vos permissions sur: %2</translation>
+        <translation>Impossible de mettre en place la base de données : %1 Vérifiez vos permissions sur : %2</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="67"/>
         <source>Unable to setup database: %1</source>
-        <translation>Impossible de mettre en place la base de données: %1</translation>
+        <translation>Impossible de mettre en place la base de données : %1</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="152"/>
@@ -654,7 +654,7 @@ Please check your permissions on: %2</source>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="96"/>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="112"/>
         <source>Start Backup</source>
-        <translation>Faire une Backup</translation>
+        <translation>Lancer une Backup</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="126"/>
@@ -669,7 +669,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="162"/>
         <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
-        <translation>Désolé, les sauvegardes en lignes sont réservées aux membres Premium. Plus d&apos;informations : https://whatpulse.org/premium</translation>
+        <translation>Désolé, les sauvegardes en ligne sont réservées aux membres Premium. Plus d&apos;informations : https://whatpulse.org/premium</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="171"/>
@@ -679,7 +679,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="172"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
-        <translation>Désolé, le site web m&apos;a retourné une erreur lors de la préparation de votre sauvegarde. Réessayez plus tard. Détails de l&apos;erreur: %1</translation>
+        <translation>Désolé, le site web a retourné une erreur lors de la préparation de votre sauvegarde. Réessayez plus tard. Détails de l&apos;erreur : %1</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="184"/>
@@ -729,7 +729,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="20"/>
         <source>The update file is located at:</source>
-        <translation>Le fichier de mise à jour est situé à:</translation>
+        <translation>Le fichier de mise à jour est situé à :</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="27"/>
@@ -785,7 +785,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="63"/>
         <source>Release Notes:</source>
-        <translation>Notes de Version:</translation>
+        <translation>Notes de Version :</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="77"/>
@@ -795,7 +795,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="97"/>
         <source>Remind Me Later</source>
-        <translation>Me le rapeler ultérieurement</translation>
+        <translation>Me le rappeler ultérieurement</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="104"/>
@@ -817,12 +817,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="310"/>
         <source>Feed download failed: %1.</source>
-        <translation>Echec du flux de téléchargement : %1.</translation>
+        <translation>Échec du flux de téléchargement : %1.</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="429"/>
         <source>Feed parsing failed: %1 %2.</source>
-        <translation>Echec de l&apos;analyse du flux: %1 %2.</translation>
+        <translation>Échec de l&apos;analyse du flux : %1 %2.</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="457"/>
@@ -857,7 +857,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="653"/>
         <source>Unable to open</source>
-        <translation>Incapable d&apos;ouvrir</translation>
+        <translation>Impossible d&apos;ouvrir</translation>
     </message>
     <message>
         <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="653"/>
@@ -880,7 +880,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="151"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
-        <translation>Veuillez délectionner les éléments à exporter ci-dessous. Sélectionnez quelles données vous souhaitez, puis le laps de temps and si vous souhaitez ou non les grouper par jour, semaine ou mois. Enfin, appuyez sur Sauvegarder pour l&apos;exporter en tant que CSV.</translation>
+        <translation>Veuillez sélectionner les éléments à exporter ci-dessous. Sélectionnez quelles données vous souhaitez, puis le laps de temps and si vous souhaitez ou non les grouper par jour, semaine ou mois. Enfin, appuyez sur Sauvegarder pour l&apos;exporter en tant que CSV.</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="158"/>
@@ -890,12 +890,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="159"/>
         <source>Heatmap of Keys</source>
-        <translation>Carte de chaleur des Frappes</translation>
+        <translation>Carte thermique des Frappes</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="160"/>
         <source>Heatmap of Clicks</source>
-        <translation>Carte de chaleur des Clics</translation>
+        <translation>Carte thermique des Clics</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="161"/>
@@ -990,12 +990,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="374"/>
         <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Carte de chaleur des Frappes entre &apos;%1&apos; et &apos;%2&apos; </translation>
+        <translation>Carte thermique des Frappes entre &apos;%1&apos; et &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="436"/>
         <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Carte de chaleur des clics entre &apos;%1&apos; et &apos;%2&apos; </translation>
+        <translation>Carte thermique des clics entre &apos;%1&apos; et &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="443"/>
@@ -1040,17 +1040,17 @@ Please check your permissions on: %2</source>
         <location filename="../interface/InputTab.cpp" line="1152"/>
         <location filename="../interface/InputTab.cpp" line="1162"/>
         <source>Clicks:</source>
-        <translation>Clics:</translation>
+        <translation>Clics :</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="99"/>
         <source>Keyboard Heatmap</source>
-        <translation>Carte de chaleur du clavier</translation>
+        <translation>Carte thermique du clavier</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="100"/>
         <source>Mouse Heatmap</source>
-        <translation>Carte de chaleur de la souris</translation>
+        <translation>Carte thermique de la souris</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="101"/>
@@ -1200,7 +1200,7 @@ Please check your permissions on: %2</source>
         <location filename="../interface/InputTab.cpp" line="407"/>
         <location filename="../interface/InputTab.cpp" line="711"/>
         <source>Enable Heatmap</source>
-        <translation>Activer la carte de chaleur</translation>
+        <translation>Activer la carte thermique</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="417"/>
@@ -1544,12 +1544,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="2824"/>
         <source>Prune Mouse Heatmap</source>
-        <translation>Purger les données de la carte de chaleur de souris</translation>
+        <translation>Purger la carte thermique de la souris</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="2825"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation>En ne rognant/élaguant pas votre carte de chaleur de souris, votre base de données va devenir assez large et ralentira possiblement WhatPulse. Mettre fin au rognage ?</translation>
+        <translation>En ne purgeant pas votre carte thermique de la souris, votre base de données va devenir assez large et ralentira possiblement WhatPulse. Mettre fin à la purge ?</translation>
     </message>
 </context>
 <context>
@@ -1595,12 +1595,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="421"/>
         <source>Image not created!</source>
-        <translation>L&apos;image n&apos;a pas été créee!</translation>
+        <translation>L&apos;image n&apos;a pas été créée !</translation>
     </message>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="422"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
-        <translation>Impossible de générer une image de la carte de chaleur. Réessayez ou vérifiez les permissions sur : </translation>
+        <translation>Impossible de générer une image de la carte thermique. Réessayez ou vérifiez les permissions sur : </translation>
     </message>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="460"/>
@@ -1638,7 +1638,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../stats/localstats.cpp" line="308"/>
         <source>Error while pulsing!</source>
-        <translation>Erreur lors du pulsage!</translation>
+        <translation>Erreur lors du pulsage !</translation>
     </message>
 </context>
 <context>
@@ -1699,12 +1699,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="98"/>
         <source>Image not created!</source>
-        <translation>L&apos;image n&apos;a pas été créee!</translation>
+        <translation>L&apos;image n&apos;a pas été créée !</translation>
     </message>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="99"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
-        <translation>Impossible de générer une image de la carte de chaleur. Réessayez ou vérifiez les permissions sur : </translation>
+        <translation>Impossible de générer une image de la carte thermique. Réessayez ou vérifiez les permissions sur : </translation>
     </message>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="281"/>
@@ -1714,7 +1714,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="282"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
-        <translation>Carte de chaleur de la souris téléchargée avec succès ! Voulez-vous l&apos;ouvrir dans votre navigateur ?</translation>
+        <translation>Carte thermique de la souris téléchargée avec succès ! Voulez-vous l&apos;ouvrir dans votre navigateur ?</translation>
     </message>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="294"/>
@@ -2664,17 +2664,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="103"/>
         <source>Start Online Backup?</source>
-        <translation>Faire une Backup en Ligne ?</translation>
+        <translation>Lancer une Backup en Ligne ?</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="104"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
-        <translation>Faire une backup aura pour effet de redémarrer le clien et affichera la fenêtre de backup. Poursuivre ?</translation>
+        <translation>Lancer une backup aura pour effet de redémarrer le client et affichera la fenêtre de backup. Poursuivre ?</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="154"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
-        <translation>Temps de fonctionnement actuel: inconnu. Nbr de redémarrages inconnu.</translation>
+        <translation>Temps de fonctionnement actuel : inconnu. Nombre de redémarrages inconnu.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="160"/>
@@ -2837,7 +2837,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="211"/>
         <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Voici ce à quoi ça devrait ressembler : &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Si la case à cocher est déjà cochée, essayez de la décocher puis de la recocher. Ceci peut-être nécessaires après des upgrades.&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;Voici ce à quoi ça devrait ressembler : &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Si la case à cocher est déjà cochée, essayez de la décocher puis de la recocher. Ceci peut-être nécessaire après des upgrades.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="217"/>
@@ -3025,7 +3025,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="270"/>
         <source>Pulse on doubleclick trayicon</source>
-        <translation>Pulsez en double-cliquant sur l&apos;icone de tray</translation>
+        <translation>Pulsez en double-cliquant sur l&apos;icône dans la barre d'état</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="274"/>
@@ -3035,7 +3035,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="278"/>
         <source>Blink trayicon on input activity</source>
-        <translation>Faire clignoter l&apos;icone de tray lors d&apos;activité de la saisie</translation>
+        <translation>Faire clignoter l&apos;icône dans la barre d'état lors d&apos;une activité de saisie</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="281"/>
@@ -3055,7 +3055,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="289"/>
         <source>Upload heatmap info</source>
-        <translation>Téléverser les infos de la carte de chaleur</translation>
+        <translation>Téléverser les infos de la carte thermique</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="292"/>
@@ -3065,7 +3065,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="327"/>
         <source>Icon color: </source>
-        <translation>Couleur de l&apos;icone : </translation>
+        <translation>Couleur de l&apos;icône : </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="331"/>
@@ -3176,7 +3176,7 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="481"/>
         <source>&amp;Start Online Backup</source>
-        <translation>&amp;Faire une Backup en Ligne</translation>
+        <translation>&amp;Lancer une Backup en Ligne</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="488"/>
@@ -3236,12 +3236,12 @@ Non-pulsé: %2 descendant, %3 ascendant</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="615"/>
         <source>Start Online Backup?</source>
-        <translation>Faire une Backup en Ligne ?</translation>
+        <translation>Lancer une Backup en Ligne ?</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="616"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
-        <translation>Faire une backup aura pour effet de redémarrer le clien et affichera la fenêtre de backup. Poursuivre ?</translation>
+        <translation>Lancer une backup aura pour effet de redémarrer le client et affichera la fenêtre de backup. Poursuivre ?</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="774"/>
@@ -3949,12 +3949,12 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="230"/>
         <source>Listen on port:</source>
-        <translation>Ecouter sur les ports :</translation>
+        <translation>Écouter sur le port :</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="236"/>
         <source>Enter a value between 1024 and 65535</source>
-        <translation>Entrer une valeur entre 1024 et 65535</translation>
+        <translation>Entrez une valeur entre 1024 et 65535</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="253"/>
@@ -4420,7 +4420,7 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="327"/>
         <source>Total uptime:</source>
-        <translation>Temps de fonctionnement cumulé:</translation>
+        <translation>Temps de fonctionnement cumulé :</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="330"/>
@@ -4701,13 +4701,13 @@ Tous les labels personnalisés seront supprimés !</translation>
         <location filename="../utils.cpp" line="995"/>
         <location filename="../utils.cpp" line="1023"/>
         <source>Export Failed</source>
-        <translation>Echec de l&apos;exportation</translation>
+        <translation>Échec de l&apos;exportation</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="996"/>
         <location filename="../utils.cpp" line="1024"/>
         <source>Opening export file failed! Please try again in another directory.</source>
-        <translation>Echec de lk&apos;ouverture du fichier d&apos;export ! Veuillez réessayer à nouveau dans un autre dossier.</translation>
+        <translation>Échec de lk&apos;ouverture du fichier d&apos;export ! Veuillez réessayer à nouveau dans un autre dossier.</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1034"/>
@@ -4874,7 +4874,7 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../online/whttpserver_responder.cpp" line="101"/>
         <source>{ &quot;error&quot;: &quot;Unable to parse information.&quot;}</source>
-        <translation>{ &apos;error&quot;: &quot;Impossible de formation les informations.&quot;}</translation>
+        <translation>{ &apos;erreur&quot; : &quot;Impossible de traiter les informations.&quot;}</translation>
     </message>
 </context>
 <context>
@@ -4888,7 +4888,7 @@ Tous les labels personnalisés seront supprimés !</translation>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="38"/>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="80"/>
         <source>Waiting on authorization via website..</source>
-        <translation>En attante d&apos;une autorisation via le site web..</translation>
+        <translation>En attente d&apos;une autorisation via le site web..</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
@@ -5007,7 +5007,7 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="402"/>
         <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
-        <translation>Désolé, les sauvegardes en lignes sont réservées aux membres Premium. Plus d&apos;informations : https://whatpulse.org/premium</translation>
+        <translation>Désolé, les sauvegardes en ligne sont réservées aux membres Premium. Plus d&apos;informations : https://whatpulse.org/premium</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="407"/>
@@ -5100,12 +5100,12 @@ Tous les labels personnalisés seront supprimés !</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="145"/>
         <source>Also send online for your Dashboard &amp; Apps Overview.</source>
-        <translation>Envoyer aussi votre Vue Globale du Dashboards &amp; Apps en ligne.</translation>
+        <translation>Envoyer aussi votre Vue Globale du Dashboard &amp; Apps en ligne.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="159"/>
         <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;small&gt;Si vous souhaitez collecter toutes vos stats, sans les montrer publiquement, allez jeter un oeuil sur vos &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;paramètres de confidentialité&lt;/a&gt;.</translation>
+        <translation>&lt;small&gt;Si vous souhaitez collecter toutes vos stats, sans les montrer publiquement, allez jeter un oeil sur vos &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;paramètres de confidentialité&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>
