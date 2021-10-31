@@ -2865,6 +2865,11 @@ Ungepulst: %2 down, %3 up</translation>
         <source>Close</source>
         <translation>Schließen</translation>
     </message>
+    <message>
+        <location filename="../interface/widgets/progresswindow.cpp" line="24"/>
+        <source>Success!</source>
+        <translation>Erfolgreich!</translation>
+    </message>
 </context>
 <context>
     <name>QObject</name>
@@ -3072,25 +3077,25 @@ Ungepulst: %2 down, %3 up</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="331"/>
-        <location filename="../interface/SettingsTab.cpp" line="821"/>
+        <location filename="../interface/SettingsTab.cpp" line="820"/>
         <source>Auto</source>
         <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="331"/>
-        <location filename="../interface/SettingsTab.cpp" line="823"/>
+        <location filename="../interface/SettingsTab.cpp" line="822"/>
         <source>Black</source>
         <translation>Dunkel</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="331"/>
-        <location filename="../interface/SettingsTab.cpp" line="825"/>
+        <location filename="../interface/SettingsTab.cpp" line="824"/>
         <source>White</source>
         <translation>Hell</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="333"/>
-        <location filename="../interface/SettingsTab.cpp" line="828"/>
+        <location filename="../interface/SettingsTab.cpp" line="827"/>
         <source>Development</source>
         <translation>Entwicklung</translation>
     </message>
@@ -3100,159 +3105,159 @@ Ungepulst: %2 down, %3 up</translation>
         <translation>Sprache: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="375"/>
+        <location filename="../interface/SettingsTab.cpp" line="374"/>
         <source>Pulse Server: </source>
         <translation>Pulse Server: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="391"/>
+        <location filename="../interface/SettingsTab.cpp" line="390"/>
         <source>Active Stats</source>
         <translation>Aktive Statistiken</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="401"/>
+        <location filename="../interface/SettingsTab.cpp" line="400"/>
         <source>Input</source>
         <translation>Eingabe</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="407"/>
+        <location filename="../interface/SettingsTab.cpp" line="406"/>
         <source>Keyboard</source>
         <translation>Tastatur</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="408"/>
+        <location filename="../interface/SettingsTab.cpp" line="407"/>
         <source>Mouse</source>
         <translation>Maus</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="409"/>
-        <location filename="../interface/SettingsTab.cpp" line="429"/>
-        <location filename="../interface/SettingsTab.cpp" line="450"/>
+        <location filename="../interface/SettingsTab.cpp" line="408"/>
+        <location filename="../interface/SettingsTab.cpp" line="428"/>
+        <location filename="../interface/SettingsTab.cpp" line="449"/>
         <source>Per Application</source>
         <translation>Pro Anwendung</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="419"/>
+        <location filename="../interface/SettingsTab.cpp" line="418"/>
         <source>Network</source>
         <translation>Netzwerk</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="425"/>
+        <location filename="../interface/SettingsTab.cpp" line="424"/>
         <source>Per Interface</source>
         <translation>Pro Schnittstellen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="427"/>
+        <location filename="../interface/SettingsTab.cpp" line="426"/>
         <source>Per Country</source>
         <translation>Pro Land</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="431"/>
+        <location filename="../interface/SettingsTab.cpp" line="430"/>
         <source>Per Traffic Type</source>
         <translation>Pro Traffic Typ</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="441"/>
+        <location filename="../interface/SettingsTab.cpp" line="440"/>
         <source>Uptime</source>
         <translation>Laufzeit</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="447"/>
+        <location filename="../interface/SettingsTab.cpp" line="446"/>
         <source>Computer Uptime</source>
         <translation>Computerlaufzeit</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="448"/>
+        <location filename="../interface/SettingsTab.cpp" line="447"/>
         <source>Reboots</source>
         <translation>Neustarts</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="468"/>
+        <location filename="../interface/SettingsTab.cpp" line="467"/>
         <source>Advanced</source>
         <translation>Erweiterte</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="474"/>
+        <location filename="../interface/SettingsTab.cpp" line="473"/>
         <source>&amp;Open Data Directory</source>
         <translation>Datenverzeichnis &amp;öffnen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="481"/>
+        <location filename="../interface/SettingsTab.cpp" line="480"/>
         <source>&amp;Start Online Backup</source>
         <translation>Online-Sicherung &amp;starten</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="488"/>
+        <location filename="../interface/SettingsTab.cpp" line="487"/>
         <source>Re-upload &amp;applications</source>
         <translation>&amp;Anwendungen erneut hochladen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="494"/>
+        <location filename="../interface/SettingsTab.cpp" line="493"/>
         <source>Empty local &amp;database</source>
         <translation>Lokale &amp;Datenbank leeren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="500"/>
+        <location filename="../interface/SettingsTab.cpp" line="499"/>
         <source>Update &amp;GeoIP database</source>
         <translation>&amp;GeoIP-Datenbank aktualisieren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="507"/>
+        <location filename="../interface/SettingsTab.cpp" line="506"/>
         <source>Update Network Port Description database</source>
         <translation>Netzwerk-Port-Beschreibungsdatenbank aktualisieren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="514"/>
+        <location filename="../interface/SettingsTab.cpp" line="513"/>
         <source>&amp;Upload database</source>
         <translation>Datenbank &amp;hochladen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="526"/>
+        <location filename="../interface/SettingsTab.cpp" line="525"/>
         <source>Check macOS Permissions</source>
         <translation>macOS-Berechtigungen prüfen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="550"/>
+        <location filename="../interface/SettingsTab.cpp" line="549"/>
         <source>Uploading applications</source>
         <translation>Hochladen von Anwendungen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="577"/>
+        <location filename="../interface/SettingsTab.cpp" line="576"/>
         <source>Uploading Apps</source>
         <translation>Hochladen von Apps</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="578"/>
+        <location filename="../interface/SettingsTab.cpp" line="577"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Anwendungen wurden zum Hochladen markiert. Es kann eine Stunde dauern, bis sie auf der Website erscheinen.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="595"/>
+        <location filename="../interface/SettingsTab.cpp" line="594"/>
         <source>Empty Database</source>
         <translation>Leere Datenbank</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="596"/>
+        <location filename="../interface/SettingsTab.cpp" line="595"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Wenn Sie Ihre lokale Datenbank leeren, werden alle lokalen Statistiken zerstört und Ihr Konto abgemeldet. Es gibt keine Möglichkeit der Wiederherstellung, weiter?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="615"/>
+        <location filename="../interface/SettingsTab.cpp" line="614"/>
         <source>Start Online Backup?</source>
         <translation>Online-Sicherung starten?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="616"/>
+        <location filename="../interface/SettingsTab.cpp" line="615"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Wenn Sie eine Sicherung starten, wird der Client neu gestartet und das Sicherungsfenster angezeigt. Fortfahren?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="774"/>
+        <location filename="../interface/SettingsTab.cpp" line="773"/>
         <source>Settings saved...</source>
         <translation>Einstellungen gespeichert...</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="813"/>
+        <location filename="../interface/SettingsTab.cpp" line="812"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Wöchentliche Online-Backups (nur Premium)</translation>
     </message>
@@ -3385,7 +3390,7 @@ Ungepulst: %2 down, %3 up</translation>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="392"/>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="403"/>
         <source>you reach </source>
-        <translation>sie erreichen: </translation>
+        <translation>sie erreichen </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="395"/>
@@ -3409,17 +3414,17 @@ Ungepulst: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="415"/>
         <source>you&apos;ve downloaded </source>
-        <translation>sie mindestens heruntergeladen haben:</translation>
+        <translation>sie haben heruntergeladen </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="426"/>
         <source>you&apos;ve uploaded </source>
-        <translation>sie mindestens hochgeladen haben:</translation>
+        <translation>sie haben hochgeladen </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="437"/>
         <source>you&apos;ve collected </source>
-        <translation>sie mindestens gesammelt haben:</translation>
+        <translation>sie haben gesammelt </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="440"/>
@@ -3439,7 +3444,7 @@ Ungepulst: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="457"/>
         <source>every hour on </source>
-        <translation>jede Stunde an</translation>
+        <translation>jede Stunde an </translation>
     </message>
 </context>
 <context>
@@ -4054,11 +4059,85 @@ Dies wird alle benutzerdefinierten Layouts zurücksetzen!</translation>
     </message>
 </context>
 <context>
+    <name>TimePeriod</name>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="43"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="75"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="210"/>
+        <source>real-time</source>
+        <translation>echtzeit</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="48"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="77"/>
+        <source>today</source>
+        <translation>heute</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="52"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="79"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="133"/>
+        <source>yesterday</source>
+        <translation>gestern</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="56"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="81"/>
+        <source>week</source>
+        <translation>wochen</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="60"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="83"/>
+        <source>month</source>
+        <translation>monate</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="63"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="85"/>
+        <source>6 months</source>
+        <translation>6 monate</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="64"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="87"/>
+        <source>year</source>
+        <translation>jahr</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="70"/>
+        <source>all</source>
+        <translation>alles</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="71"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="89"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="217"/>
+        <source>custom</source>
+        <translation>anders</translation>
+    </message>
+</context>
+<context>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="363"/>
         <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
         <translation>Wählen Sie das Anfangs- und Enddatum des Zeitraums aus, für den Sie die Statistiken anzeigen möchten.</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="365"/>
+        <source>Save</source>
+        <translation>Speichern</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="369"/>
+        <source>From:</source>
+        <translation>Von:</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/timeperiod.cpp" line="381"/>
+        <source>To:</source>
+        <translation>Bis:</translation>
     </message>
 </context>
 <context>
@@ -4642,22 +4721,22 @@ Dies wird alle benutzerdefinierten Layouts zurücksetzen!</translation>
     <message>
         <location filename="../utils.cpp" line="376"/>
         <source>th</source>
-        <translation>.</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="379"/>
         <source>st</source>
-        <translation>.</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="381"/>
         <source>nd</source>
-        <translation>.</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="383"/>
         <source>rd</source>
-        <translation>.</translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="472"/>
