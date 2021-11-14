@@ -3023,7 +3023,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="268"/>
         <source>Enable Portable Mode</source>
-        <translation>Akrivera Portabelt Läge</translation>
+        <translation>Aktivera Portabelt Läge</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="270"/>
@@ -3068,7 +3068,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="327"/>
         <source>Icon color: </source>
-        <translation>Icon färg: </translation>
+        <translation>Ikon färg: </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="331"/>
@@ -3917,7 +3917,7 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="98"/>
         <source>Enable Client API</source>
-        <translation>Aktivera klient-API</translation>
+        <translation>Aktivera Klient-API</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="148"/>
@@ -4569,7 +4569,7 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1001"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1026"/>
