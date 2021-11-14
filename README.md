@@ -26,4 +26,7 @@ A few things to note:
 
 Here's a list of incredible people that have contributed:
 
-* *Maybe you'll be the first?*
+* **Slovak:** Richard Gráčik ([GitHub](https://github.com/TheMorc), [Twitter](https://twitter.com/morciatka))
+* **Frech:** UBrain ([GitHub](https://github.com/UBrainDev))
+* **German:** Finn ([GitHub](https://github.com/MoweME), [Twitter](https://twitter.com/MoweM3))
+* **Swedish:** Remlej9 ([GitHub](https://github.com/Remlej9), [Twitter](https://twitter.com/Remlej9))
