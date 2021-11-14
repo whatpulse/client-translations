@@ -2987,7 +2987,7 @@ Opulserat: %2 ner, %3 upp</translation>
         <translation>Online säkerhetskopieringar varje vecka</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="323"/>
+		 <location filename="../interface/SettingsTab.cpp" line="323"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
