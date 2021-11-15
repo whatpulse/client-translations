@@ -2086,12 +2086,12 @@ Kontrollera dina behörigheter på: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="20"/>
         <source>Current download</source>
-        <translation>Aktuell Nedladdning</translation>
+        <translation>Aktuell nedladdning</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="21"/>
         <source>Current upload</source>
-        <translation>Aktuell Nedladdning</translation>
+        <translation>Aktuell uppladdning</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="43"/>
@@ -2406,7 +2406,7 @@ Kontrollera dina behörigheter på: %2</translation>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="480"/>
         <source>Current upload</source>
-        <translation>Aktuell Nedladdning</translation>
+        <translation>Aktuell uppladdning</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
@@ -3266,7 +3266,7 @@ Opulserat: %2 ner, %3 upp</translation>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="12"/>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="13"/>
         <source>Auto pulse on </source>
-        <translation>Automatisk pulsering på </translation>
+        <translation>Automatisk pulsering vid </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="14"/>
@@ -3399,7 +3399,7 @@ Opulserat: %2 ner, %3 upp</translation>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="435"/>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="446"/>
         <source>, &lt;b&gt;or&lt;/b&gt; when </source>
-        <translation>, &lt;b&gt;or&lt;/b&gt; when </translation>
+        <translation>, &lt;b&gt;eller&lt;/b&gt; när </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="406"/>
@@ -3434,7 +3434,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="454"/>
         <source>, &lt;b&gt;and&lt;/b&gt; </source>
-        <translation>, &lt;b&gt;and&lt;/&gt; </translation>
+        <translation>, &lt;b&gt;och&lt;/&gt; </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="457"/>
