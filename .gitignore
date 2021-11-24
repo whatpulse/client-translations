@@ -3,6 +3,7 @@
 *.tmp
 *.php
 *.xml
+*.DS_Store
 
 # C++ objects and libs
 *.slo
@@ -15,6 +16,9 @@
 *.so.*
 *.dll
 *.dylib
+
+.idea/
+
 
 # Qt-es
 object_script.*.Release
