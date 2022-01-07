@@ -9,170 +9,170 @@
         <translation type="vanished">帐户信息</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="35"/>
+        <location filename="../interface/AccountTab.cpp" line="38"/>
         <source>Username:</source>
         <translation>用户名：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="37"/>
+        <location filename="../interface/AccountTab.cpp" line="40"/>
         <source>UserID:</source>
         <translation>用户 ID：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="40"/>
+        <location filename="../interface/AccountTab.cpp" line="43"/>
         <source>Computer:</source>
         <translatorcomment>或者“设备名”？</translatorcomment>
         <translation>计算机名：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="42"/>
+        <location filename="../interface/AccountTab.cpp" line="45"/>
         <source>Email:</source>
         <translation>电子邮箱：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="44"/>
+        <location filename="../interface/AccountTab.cpp" line="47"/>
         <source>Premium:</source>
         <translatorcomment>这个有点难翻译，“会员”？“高级版”？</translatorcomment>
         <translation>尊享版：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="68"/>
+        <location filename="../interface/AccountTab.cpp" line="71"/>
         <source>Total Keys:</source>
         <translation>总按键：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="70"/>
+        <location filename="../interface/AccountTab.cpp" line="73"/>
         <source>Total Clicks:</source>
         <translation>总点击：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="72"/>
+        <location filename="../interface/AccountTab.cpp" line="75"/>
         <source>Total Download:</source>
         <translation>总下载：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="74"/>
+        <location filename="../interface/AccountTab.cpp" line="77"/>
         <source>Total Upload:</source>
         <translation>总上传：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="76"/>
+        <location filename="../interface/AccountTab.cpp" line="79"/>
         <source>Total Uptime:</source>
         <translation>总上线：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="131"/>
+        <location filename="../interface/AccountTab.cpp" line="134"/>
         <source> &amp;View Online Stats</source>
         <translation> 查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="139"/>
+        <location filename="../interface/AccountTab.cpp" line="142"/>
         <source> &amp;Log out</source>
         <translation> 退出(&amp;L)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="145"/>
+        <location filename="../interface/AccountTab.cpp" line="148"/>
         <source> &amp;Reset Token</source>
         <translation> 重置(&amp;R)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="152"/>
+        <location filename="../interface/AccountTab.cpp" line="155"/>
         <source> Change &amp;Password</source>
         <translation> 修改密码(&amp;P)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="160"/>
+        <location filename="../interface/AccountTab.cpp" line="163"/>
         <source> Refresh &amp;Account</source>
         <translation> 刷新帐户(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="212"/>
-        <location filename="../interface/AccountTab.cpp" line="218"/>
-        <location filename="../interface/AccountTab.cpp" line="224"/>
-        <location filename="../interface/AccountTab.cpp" line="230"/>
-        <location filename="../interface/AccountTab.cpp" line="236"/>
+        <location filename="../interface/AccountTab.cpp" line="215"/>
+        <location filename="../interface/AccountTab.cpp" line="221"/>
+        <location filename="../interface/AccountTab.cpp" line="227"/>
+        <location filename="../interface/AccountTab.cpp" line="233"/>
+        <location filename="../interface/AccountTab.cpp" line="239"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="240"/>
+        <location filename="../interface/AccountTab.cpp" line="243"/>
         <source>Yes (expires at %1)</source>
         <translation>是（截至 %1）</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="244"/>
-        <location filename="../interface/AccountTab.cpp" line="310"/>
-        <location filename="../interface/AccountTab.cpp" line="340"/>
+        <location filename="../interface/AccountTab.cpp" line="247"/>
+        <location filename="../interface/AccountTab.cpp" line="313"/>
+        <location filename="../interface/AccountTab.cpp" line="343"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="303"/>
+        <location filename="../interface/AccountTab.cpp" line="306"/>
         <source>Log Out</source>
         <translation>登出</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="305"/>
+        <location filename="../interface/AccountTab.cpp" line="308"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>如果你退出登录并使用不同的帐户重新登录的话，那么未 Pulse 的统计将被重置（但是数据库会保留），并将重新启动设置向导。</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="309"/>
+        <location filename="../interface/AccountTab.cpp" line="312"/>
         <source>Do you want to continue?</source>
         <translation>是否继续？</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="310"/>
+        <location filename="../interface/AccountTab.cpp" line="313"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="325"/>
+        <location filename="../interface/AccountTab.cpp" line="328"/>
         <source>Change Password</source>
         <translation>修改密码</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="326"/>
+        <location filename="../interface/AccountTab.cpp" line="329"/>
         <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>无法在客户端里修改密码。请退出登录，然后使用相同的邮箱和计算机名重新登录以在客户端里修改密码。使用相同的信息时统计会保留。</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="331"/>
-        <location filename="../interface/AccountTab.cpp" line="370"/>
-        <location filename="../interface/AccountTab.cpp" line="376"/>
-        <location filename="../interface/AccountTab.cpp" line="443"/>
+        <location filename="../interface/AccountTab.cpp" line="334"/>
+        <location filename="../interface/AccountTab.cpp" line="372"/>
+        <location filename="../interface/AccountTab.cpp" line="378"/>
+        <location filename="../interface/AccountTab.cpp" line="444"/>
         <source>OK</source>
         <translation>好的</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="336"/>
-        <location filename="../interface/AccountTab.cpp" line="373"/>
+        <location filename="../interface/AccountTab.cpp" line="339"/>
+        <location filename="../interface/AccountTab.cpp" line="375"/>
         <source>Reset your token</source>
         <translation>重置令牌</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="337"/>
+        <location filename="../interface/AccountTab.cpp" line="340"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translatorcomment>Pulse 保留不翻译了吧</translatorcomment>
         <translation>重置令牌将重置你的本地统计，并允许你重新 Pulse。</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="339"/>
+        <location filename="../interface/AccountTab.cpp" line="342"/>
         <source>Are you sure?</source>
         <translation>确定？</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="340"/>
+        <location filename="../interface/AccountTab.cpp" line="343"/>
         <source>Yes, reset token</source>
         <translation>确定，重置令牌</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="368"/>
+        <location filename="../interface/AccountTab.cpp" line="370"/>
         <source>Token reset!</source>
         <translation>令牌已重置！</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="369"/>
+        <location filename="../interface/AccountTab.cpp" line="371"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -181,27 +181,27 @@ You can continue pulsing.</source>
 你可以重新 Pulse 了。</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="374"/>
+        <location filename="../interface/AccountTab.cpp" line="376"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>重置令牌时出错：</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="433"/>
+        <location filename="../interface/AccountTab.cpp" line="434"/>
         <source>Premium Membership</source>
         <translation>尊享版会员</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="434"/>
+        <location filename="../interface/AccountTab.cpp" line="435"/>
         <source>Your premium membership has just been activated!</source>
         <translation>你的尊享版会员已激活！</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="440"/>
+        <location filename="../interface/AccountTab.cpp" line="441"/>
         <source>Refresh Account Status</source>
         <translation>刷新帐户状态</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="441"/>
+        <location filename="../interface/AccountTab.cpp" line="442"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>刷新帐户数据时出错：</translation>
     </message>
@@ -227,184 +227,184 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="225"/>
+        <location filename="../application.cpp" line="188"/>
         <source>No system tray</source>
         <translation>没有系统托盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="226"/>
+        <location filename="../application.cpp" line="189"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>检测不到系统托盘，我启动不了。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="244"/>
+        <location filename="../application.cpp" line="207"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>无法使用 AES 函数。有没有 libeay32.dll 和 ssleay32.dll？如果没有的话，重装试试看！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="248"/>
+        <location filename="../application.cpp" line="211"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>无法使用 AES 函数。有没有 OpenSSL 库？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="251"/>
+        <location filename="../application.cpp" line="214"/>
         <source>AES failure</source>
         <translation>AES 失败</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="328"/>
+        <location filename="../application.cpp" line="291"/>
         <source>Cleanup Required</source>
         <translation>需要清理</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="329"/>
+        <location filename="../application.cpp" line="292"/>
         <source>I have detected a required cleanup after your update of just now. For the sake of cleanliness, I will run the cleanup program (whatpulse-after-update.exe) before loading. You might get a permission authorization request.</source>
         <translation>我检测到你刚刚的更新需要进行一个清理。我将在加载前运行清理程序（whatpulse-after-update.exe）。你可能会遇到一个权限验证请求。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="863"/>
+        <location filename="../application.cpp" line="826"/>
         <source>&amp;Open Window</source>
         <translation>打开窗口(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="867"/>
+        <location filename="../application.cpp" line="830"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>显示 / 隐藏悬浮窗(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="871"/>
+        <location filename="../application.cpp" line="834"/>
         <source>&amp;Open Settings</source>
         <translation>打开设置(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="875"/>
+        <location filename="../application.cpp" line="838"/>
         <source>&amp;Check for Updates</source>
         <translation>检查更新(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="879"/>
+        <location filename="../application.cpp" line="842"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="882"/>
+        <location filename="../application.cpp" line="845"/>
         <source>&amp;View Online Stats</source>
         <translation>查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="886"/>
+        <location filename="../application.cpp" line="849"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>退出 WhatPulse(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="889"/>
+        <location filename="../application.cpp" line="852"/>
         <source>Enabled Stats</source>
         <translation>开启统计</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="890"/>
+        <location filename="../application.cpp" line="853"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="891"/>
+        <location filename="../application.cpp" line="854"/>
         <source>Keyboard Heatmap</source>
         <translation>键盘热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="892"/>
+        <location filename="../application.cpp" line="855"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="893"/>
+        <location filename="../application.cpp" line="856"/>
         <source>Mouse Heatmap</source>
         <translation>鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="894"/>
+        <location filename="../application.cpp" line="857"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="895"/>
+        <location filename="../application.cpp" line="858"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1341"/>
+        <location filename="../application.cpp" line="1304"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1342"/>
+        <location filename="../application.cpp" line="1305"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1540"/>
+        <location filename="../application.cpp" line="1502"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开绿色模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携媒体的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1543"/>
-        <location filename="../application.cpp" line="1566"/>
-        <location filename="../application.cpp" line="1582"/>
-        <location filename="../application.cpp" line="1598"/>
-        <location filename="../application.cpp" line="1641"/>
-        <location filename="../application.cpp" line="1652"/>
+        <location filename="../application.cpp" line="1505"/>
+        <location filename="../application.cpp" line="1528"/>
+        <location filename="../application.cpp" line="1544"/>
+        <location filename="../application.cpp" line="1560"/>
+        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1614"/>
         <source>Portable Mode</source>
         <translation>绿色模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1563"/>
+        <location filename="../application.cpp" line="1525"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用绿色模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1579"/>
+        <location filename="../application.cpp" line="1541"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用绿色模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1599"/>
-        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1561"/>
+        <location filename="../application.cpp" line="1615"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1622"/>
+        <location filename="../application.cpp" line="1584"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 绿色模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1638"/>
+        <location filename="../application.cpp" line="1600"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 绿色模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2027"/>
-        <location filename="../application.cpp" line="2040"/>
+        <location filename="../application.cpp" line="2023"/>
+        <location filename="../application.cpp" line="2036"/>
         <source>Premium features disabled</source>
         <translation>尊享功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2028"/>
+        <location filename="../application.cpp" line="2024"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的尊享版资格了。我已经禁用了你的尊享版功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2041"/>
+        <location filename="../application.cpp" line="2037"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的尊享版会员已经过期，所以我已经禁用了你的尊享版功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
@@ -554,7 +554,7 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="355"/>
-        <location filename="../online/clientcommunication.cpp" line="874"/>
+        <location filename="../online/clientcommunication.cpp" line="872"/>
         <source>Success.</source>
         <translation>成功。</translation>
     </message>
@@ -564,22 +564,22 @@ Keeping Portable Mode enabled.</source>
         <translation>成功，你的信息已经在网页上了！</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="863"/>
+        <location filename="../online/clientcommunication.cpp" line="861"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>无法打开地理 IP 数据库（%1），拒绝访问。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="925"/>
+        <location filename="../online/clientcommunication.cpp" line="923"/>
         <source>Empty reply received</source>
         <translation>收到空响应</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="947"/>
+        <location filename="../online/clientcommunication.cpp" line="945"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>无法打开网络端口描述数据库（%1），拒绝访问。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="961"/>
+        <location filename="../online/clientcommunication.cpp" line="959"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>下载的文件不大对劲： %1</translation>
     </message>
@@ -735,149 +735,119 @@ Please check your permissions on: %2</source>
 <context>
     <name>FvUpdateConfirmDialog</name>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="14"/>
         <source>Software Update</source>
-        <translation>软件更新</translation>
+        <translation type="vanished">软件更新</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="20"/>
         <source>The update file is located at:</source>
-        <translation>更新文件位于：</translation>
+        <translation type="vanished">更新文件位于：</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="27"/>
         <source>&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
+        <translation type="vanished">&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="40"/>
         <source>Download this update, close &quot;%1&quot;, install it, and then reopen &quot;%1&quot;.</source>
-        <translation>下载该更新，关闭“%1”，安装它，然后重新打开“%1“。</translation>
+        <translation type="vanished">下载该更新，关闭“%1”，安装它，然后重新打开“%1“。</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdateconfirmdialog.ui" line="47"/>
         <source>When you click &quot;OK&quot;, this link will be opened in your browser.</source>
-        <translation>点击”好的“将在浏览器中打开该链接。</translation>
+        <translation type="vanished">点击”好的“将在浏览器中打开该链接。</translation>
     </message>
 </context>
 <context>
     <name>FvUpdateDownloadProgress</name>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatedownloadprogress.ui" line="23"/>
         <source>FvUpdateDownloadProgress</source>
         <translatorcomment>保留原文？</translatorcomment>
-        <translation>FvUpdateDownloadProgress</translation>
+        <translation type="vanished">FvUpdateDownloadProgress</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatedownloadprogress.ui" line="70"/>
         <source>Downloading Update...</source>
-        <translation>下载更新中…</translation>
+        <translation type="vanished">下载更新中…</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatedownloadprogress.ui" line="98"/>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="vanished">关闭</translation>
     </message>
 </context>
 <context>
     <name>FvUpdateWindow</name>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="26"/>
         <source>Software Update</source>
-        <translation>软件更新</translation>
+        <translation type="vanished">软件更新</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="43"/>
         <source>A new version of %1 is available!</source>
-        <translation>%1 有新版本了！</translation>
+        <translation type="vanished">%1 有新版本了！</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="50"/>
         <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation>%1 有 %2 了，而你在 %3。现在下载它？</translation>
+        <translation type="vanished">%1 有 %2 了，而你在 %3。现在下载它？</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="63"/>
         <source>Release Notes:</source>
-        <translation>发行说明：</translation>
+        <translation type="vanished">发行说明：</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="77"/>
         <source>Skip This Version</source>
-        <translation>忽略该版本</translation>
+        <translation type="vanished">忽略该版本</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="97"/>
         <source>Remind Me Later</source>
-        <translation>稍后提醒我</translation>
+        <translation type="vanished">稍后提醒我</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdatewindow.ui" line="104"/>
         <source>Install Update</source>
-        <translation>安装更新</translation>
+        <translation type="vanished">安装更新</translation>
     </message>
 </context>
 <context>
     <name>FvUpdater</name>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="310"/>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="429"/>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="457"/>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="466"/>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="470"/>
         <source>Error</source>
-        <translation>错误</translation>
+        <translation type="vanished">错误</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="310"/>
         <source>Feed download failed: %1.</source>
-        <translation>Feed 下载失败：%1。</translation>
+        <translation type="vanished">Feed 下载失败：%1。</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="429"/>
         <source>Feed parsing failed: %1 %2.</source>
-        <translation>Feed 解析失败：%1 %2。</translation>
+        <translation type="vanished">Feed 解析失败：%1 %2。</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="457"/>
         <source>Feed error: &quot;release notes&quot; link is empty</source>
-        <translation>Feed 错误：“发行说明”为空</translation>
+        <translation type="vanished">Feed 错误：“发行说明”为空</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="466"/>
         <source>Feed error: invalid &quot;release notes&quot; link</source>
-        <translation>Feed 错误：“发行说明”链接无效</translation>
+        <translation type="vanished">Feed 错误：“发行说明”链接无效</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="470"/>
         <source>Feed error: invalid &quot;enclosure&quot; with the download link</source>
         <translatorcomment>enclosure 的上下文是啥？</translatorcomment>
-        <translation>Feed 错误：下载链接的”附件“无效</translation>
+        <translation type="vanished">Feed 错误：下载链接的”附件“无效</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="477"/>
         <source>Updater</source>
-        <translation>更新器</translation>
+        <translation type="vanished">更新器</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="477"/>
         <source>&lt;b&gt;You&apos;re up to date!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;whatpulse %1 is currently the newest version available.</source>
-        <translation>&lt;b&gt;已是最新！&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;WhatPulse %1 是当前可用的最新版。</translation>
+        <translation type="vanished">&lt;b&gt;已是最新！&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;WhatPulse %1 是当前可用的最新版。</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="560"/>
         <source>SSL fingerprint check: The url %1 is not a ssl connection!</source>
-        <translation>SSL 指纹检查：URL %1 不是 SSL 链接！</translation>
+        <translation type="vanished">SSL 指纹检查：URL %1 不是 SSL 链接！</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="653"/>
         <source>Unable to open</source>
-        <translation>无法打开</translation>
+        <translation type="vanished">无法打开</translation>
     </message>
     <message>
-        <location filename="../3rdparty/fervor-autoupdate/fvupdater.cpp" line="653"/>
         <source>Unable to open this link in a browser. Please try manually.</source>
-        <translation>无法在浏览器中打开该链接。请手动重试。</translation>
+        <translation type="vanished">无法在浏览器中打开该链接。请手动重试。</translation>
     </message>
 </context>
 <context>
@@ -1036,526 +1006,526 @@ Please check your permissions on: %2</source>
 <context>
     <name>InputTab</name>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1097"/>
-        <location filename="../interface/InputTab.cpp" line="1107"/>
-        <location filename="../interface/InputTab.cpp" line="1117"/>
+        <location filename="../interface/InputTab.cpp" line="1099"/>
+        <location filename="../interface/InputTab.cpp" line="1109"/>
+        <location filename="../interface/InputTab.cpp" line="1119"/>
         <source>Keys:</source>
         <translation>按键：</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1098"/>
-        <location filename="../interface/InputTab.cpp" line="1108"/>
-        <location filename="../interface/InputTab.cpp" line="1118"/>
+        <location filename="../interface/InputTab.cpp" line="1100"/>
+        <location filename="../interface/InputTab.cpp" line="1110"/>
+        <location filename="../interface/InputTab.cpp" line="1120"/>
         <source>Clicks:</source>
         <translation>点击：</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="78"/>
+        <location filename="../interface/InputTab.cpp" line="80"/>
         <source>Keyboard Heatmap</source>
         <translation>键盘热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="79"/>
+        <location filename="../interface/InputTab.cpp" line="81"/>
         <source>Mouse Heatmap</source>
         <translation>鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="80"/>
+        <location filename="../interface/InputTab.cpp" line="82"/>
         <source>Applications</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="81"/>
+        <location filename="../interface/InputTab.cpp" line="83"/>
         <source>Input History</source>
         <translation>输入历史</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="83"/>
+        <location filename="../interface/InputTab.cpp" line="85"/>
         <source>Key Combinations</source>
         <translatorcomment>按键组合？</translatorcomment>
         <translation>组合键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="104"/>
+        <location filename="../interface/InputTab.cpp" line="106"/>
         <source> Reset</source>
         <translation> 重置</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="171"/>
+        <location filename="../interface/InputTab.cpp" line="173"/>
         <source>Combination</source>
         <translation>组合</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="171"/>
+        <location filename="../interface/InputTab.cpp" line="173"/>
         <source>Used</source>
         <translation>使用次数</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="188"/>
+        <location filename="../interface/InputTab.cpp" line="190"/>
         <source>Hide Shift only</source>
         <translation>隐藏纯 Shift</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="197"/>
+        <location filename="../interface/InputTab.cpp" line="199"/>
         <source>Hide Ctrl only</source>
         <translation>隐藏纯 Ctrl</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="266"/>
+        <location filename="../interface/InputTab.cpp" line="268"/>
         <source>Date</source>
         <translation>日期</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="266"/>
-        <location filename="../interface/InputTab.cpp" line="1029"/>
+        <location filename="../interface/InputTab.cpp" line="268"/>
+        <location filename="../interface/InputTab.cpp" line="1031"/>
         <source>Keys</source>
         <translation>按键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="267"/>
-        <location filename="../interface/InputTab.cpp" line="475"/>
-        <location filename="../interface/InputTab.cpp" line="1029"/>
+        <location filename="../interface/InputTab.cpp" line="269"/>
+        <location filename="../interface/InputTab.cpp" line="477"/>
+        <location filename="../interface/InputTab.cpp" line="1031"/>
         <source>Clicks</source>
         <translation>点击</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="277"/>
+        <location filename="../interface/InputTab.cpp" line="279"/>
         <source>Go Premium</source>
         <translation>开始尊享版</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="286"/>
-        <location filename="../interface/InputTab.cpp" line="406"/>
-        <location filename="../interface/InputTab.cpp" line="691"/>
-        <location filename="../interface/InputTab.cpp" line="1059"/>
+        <location filename="../interface/InputTab.cpp" line="288"/>
+        <location filename="../interface/InputTab.cpp" line="408"/>
+        <location filename="../interface/InputTab.cpp" line="693"/>
+        <location filename="../interface/InputTab.cpp" line="1061"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="294"/>
-        <location filename="../interface/InputTab.cpp" line="414"/>
-        <location filename="../interface/InputTab.cpp" line="699"/>
-        <location filename="../interface/InputTab.cpp" line="1067"/>
+        <location filename="../interface/InputTab.cpp" line="296"/>
+        <location filename="../interface/InputTab.cpp" line="416"/>
+        <location filename="../interface/InputTab.cpp" line="701"/>
+        <location filename="../interface/InputTab.cpp" line="1069"/>
         <source>&amp;Export to .csv</source>
         <translation>导出为 CSV 格式(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="298"/>
-        <location filename="../interface/InputTab.cpp" line="417"/>
-        <location filename="../interface/InputTab.cpp" line="703"/>
+        <location filename="../interface/InputTab.cpp" line="300"/>
+        <location filename="../interface/InputTab.cpp" line="419"/>
+        <location filename="../interface/InputTab.cpp" line="705"/>
         <source>&amp;Export to .png</source>
         <translation>导出为 PNG 格式(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="303"/>
-        <location filename="../interface/InputTab.cpp" line="421"/>
-        <location filename="../interface/InputTab.cpp" line="707"/>
-        <location filename="../interface/InputTab.cpp" line="1071"/>
+        <location filename="../interface/InputTab.cpp" line="305"/>
+        <location filename="../interface/InputTab.cpp" line="423"/>
+        <location filename="../interface/InputTab.cpp" line="709"/>
+        <location filename="../interface/InputTab.cpp" line="1073"/>
         <source>&amp;Export Wizard</source>
         <translation>导出向导(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="323"/>
+        <location filename="../interface/InputTab.cpp" line="325"/>
         <source>Last 12 hours</source>
         <translation>最近 12 小时</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="324"/>
+        <location filename="../interface/InputTab.cpp" line="326"/>
         <source>Last 24 hours</source>
         <translation>最近 24 小时</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="325"/>
+        <location filename="../interface/InputTab.cpp" line="327"/>
         <source>Last 7 days</source>
         <translation>最近 7 天</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="326"/>
+        <location filename="../interface/InputTab.cpp" line="328"/>
         <source>Last 7 weeks</source>
         <translation>最近 7 周</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="327"/>
+        <location filename="../interface/InputTab.cpp" line="329"/>
         <source>Last 7 months</source>
         <translation>最近 7 个月</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="330"/>
+        <location filename="../interface/InputTab.cpp" line="332"/>
         <source>Group by Hours</source>
         <translation>按小时分组</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="331"/>
+        <location filename="../interface/InputTab.cpp" line="333"/>
         <source>Group by Days</source>
         <translation>按日分组</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="332"/>
+        <location filename="../interface/InputTab.cpp" line="334"/>
         <source>Group by Weeks</source>
         <translation>按周分组</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="334"/>
+        <location filename="../interface/InputTab.cpp" line="336"/>
         <source>Group by Months</source>
         <translation>按月分组</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="335"/>
+        <location filename="../interface/InputTab.cpp" line="337"/>
         <source>Group by Years</source>
         <translation>按年分组</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="382"/>
-        <location filename="../interface/InputTab.cpp" line="678"/>
+        <location filename="../interface/InputTab.cpp" line="384"/>
+        <location filename="../interface/InputTab.cpp" line="680"/>
         <source>Enable Heatmap</source>
         <translation>开启热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="392"/>
+        <location filename="../interface/InputTab.cpp" line="394"/>
         <source>Prune older than 3 months</source>
         <translation>丢弃 3 个月以上的历史</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="430"/>
-        <location filename="../interface/InputTab.cpp" line="715"/>
+        <location filename="../interface/InputTab.cpp" line="432"/>
+        <location filename="../interface/InputTab.cpp" line="717"/>
         <source>Share</source>
         <translation>分享</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="469"/>
+        <location filename="../interface/InputTab.cpp" line="471"/>
         <source>&lt;b&gt;Buttons Usage&lt;/b&gt;</source>
         <translation>&lt;b&gt;按键使用&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="475"/>
+        <location filename="../interface/InputTab.cpp" line="477"/>
         <source>Button</source>
         <translation>按键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="504"/>
+        <location filename="../interface/InputTab.cpp" line="506"/>
         <source>Mouse heat map selected</source>
         <translation>已选择鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="508"/>
+        <location filename="../interface/InputTab.cpp" line="510"/>
         <source>Switch to button view</source>
         <translation>切换至按键界面</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="515"/>
+        <location filename="../interface/InputTab.cpp" line="517"/>
         <source>Switch to mouse heat map</source>
         <translation>切换至鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="520"/>
+        <location filename="../interface/InputTab.cpp" line="522"/>
         <source>Button view selected</source>
         <translation>已选择按键界面</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="604"/>
+        <location filename="../interface/InputTab.cpp" line="606"/>
         <source>Key</source>
         <translation>按键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="604"/>
+        <location filename="../interface/InputTab.cpp" line="606"/>
         <source>Amount</source>
         <translation>数量</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="646"/>
+        <location filename="../interface/InputTab.cpp" line="648"/>
         <source>Layout:</source>
         <translation>布局：</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="729"/>
+        <location filename="../interface/InputTab.cpp" line="731"/>
         <source>Application:</source>
         <translation>应用：</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="736"/>
+        <location filename="../interface/InputTab.cpp" line="738"/>
         <source>Per-App Stats Disabled</source>
         <translation>已禁用分应用统计</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="736"/>
-        <location filename="../interface/InputTab.cpp" line="739"/>
-        <location filename="../interface/InputTab.cpp" line="742"/>
-        <location filename="../interface/InputTab.cpp" line="1799"/>
-        <location filename="../interface/InputTab.cpp" line="1800"/>
-        <location filename="../interface/InputTab.cpp" line="1829"/>
-        <location filename="../interface/InputTab.cpp" line="1830"/>
+        <location filename="../interface/InputTab.cpp" line="738"/>
+        <location filename="../interface/InputTab.cpp" line="741"/>
+        <location filename="../interface/InputTab.cpp" line="744"/>
+        <location filename="../interface/InputTab.cpp" line="1801"/>
+        <location filename="../interface/InputTab.cpp" line="1802"/>
+        <location filename="../interface/InputTab.cpp" line="1831"/>
+        <location filename="../interface/InputTab.cpp" line="1832"/>
         <source>All</source>
         <translation>全部</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="739"/>
-        <location filename="../interface/InputTab.cpp" line="1799"/>
-        <location filename="../interface/InputTab.cpp" line="1800"/>
-        <location filename="../interface/InputTab.cpp" line="1829"/>
-        <location filename="../interface/InputTab.cpp" line="1830"/>
+        <location filename="../interface/InputTab.cpp" line="741"/>
+        <location filename="../interface/InputTab.cpp" line="1801"/>
+        <location filename="../interface/InputTab.cpp" line="1802"/>
+        <location filename="../interface/InputTab.cpp" line="1831"/>
+        <location filename="../interface/InputTab.cpp" line="1832"/>
         <source>Premium Only</source>
         <translation>尊享版独享</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="800"/>
-        <location filename="../interface/InputTab.cpp" line="1096"/>
+        <location filename="../interface/InputTab.cpp" line="802"/>
+        <location filename="../interface/InputTab.cpp" line="1098"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;今天&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="812"/>
-        <location filename="../interface/InputTab.cpp" line="1106"/>
+        <location filename="../interface/InputTab.cpp" line="814"/>
+        <location filename="../interface/InputTab.cpp" line="1108"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;昨天&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="824"/>
+        <location filename="../interface/InputTab.cpp" line="826"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;未 Pulse&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="836"/>
-        <location filename="../interface/InputTab.cpp" line="1116"/>
+        <location filename="../interface/InputTab.cpp" line="838"/>
+        <location filename="../interface/InputTab.cpp" line="1118"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;全部&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="895"/>
+        <location filename="../interface/InputTab.cpp" line="897"/>
         <source>Keyboard heat map selected</source>
         <translation>已选择键盘热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="899"/>
-        <location filename="../interface/InputTab.cpp" line="968"/>
+        <location filename="../interface/InputTab.cpp" line="901"/>
+        <location filename="../interface/InputTab.cpp" line="970"/>
         <source>Switch to table view</source>
         <translation>切换至表格界面</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="907"/>
+        <location filename="../interface/InputTab.cpp" line="909"/>
         <source>Switch to keyboard heat map</source>
         <translation>切换至键盘热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="912"/>
-        <location filename="../interface/InputTab.cpp" line="980"/>
+        <location filename="../interface/InputTab.cpp" line="914"/>
+        <location filename="../interface/InputTab.cpp" line="982"/>
         <source>Table view selected</source>
         <translation>已选择表格界面</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="964"/>
+        <location filename="../interface/InputTab.cpp" line="966"/>
         <source>Chart view selected</source>
         <translation>已选择图表界面</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="975"/>
+        <location filename="../interface/InputTab.cpp" line="977"/>
         <source>Switch to chart view</source>
         <translation>切换至图表界面</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1029"/>
+        <location filename="../interface/InputTab.cpp" line="1031"/>
         <source>Application</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1088"/>
-        <location filename="../interface/InputTab.cpp" line="1935"/>
+        <location filename="../interface/InputTab.cpp" line="1090"/>
+        <location filename="../interface/InputTab.cpp" line="1937"/>
         <source>Summary</source>
         <translation>总结</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1091"/>
-        <location filename="../interface/InputTab.cpp" line="1092"/>
-        <location filename="../interface/InputTab.cpp" line="1101"/>
-        <location filename="../interface/InputTab.cpp" line="1102"/>
-        <location filename="../interface/InputTab.cpp" line="1111"/>
-        <location filename="../interface/InputTab.cpp" line="1112"/>
-        <location filename="../interface/InputTab.cpp" line="2813"/>
-        <location filename="../interface/InputTab.cpp" line="2814"/>
+        <location filename="../interface/InputTab.cpp" line="1093"/>
+        <location filename="../interface/InputTab.cpp" line="1094"/>
+        <location filename="../interface/InputTab.cpp" line="1103"/>
+        <location filename="../interface/InputTab.cpp" line="1104"/>
+        <location filename="../interface/InputTab.cpp" line="1113"/>
+        <location filename="../interface/InputTab.cpp" line="1114"/>
+        <location filename="../interface/InputTab.cpp" line="2815"/>
+        <location filename="../interface/InputTab.cpp" line="2816"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1853"/>
+        <location filename="../interface/InputTab.cpp" line="1855"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1914"/>
+        <location filename="../interface/InputTab.cpp" line="1916"/>
         <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
         <translation>&lt;b&gt;你在设置中禁用了分应用输入统计。&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1942"/>
+        <location filename="../interface/InputTab.cpp" line="1944"/>
         <source>Summary of </source>
         <translation>总结 </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2042"/>
+        <location filename="../interface/InputTab.cpp" line="2044"/>
         <source>Left</source>
         <translation>左键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2042"/>
+        <location filename="../interface/InputTab.cpp" line="2044"/>
         <source>Middle</source>
         <translation>中键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2042"/>
+        <location filename="../interface/InputTab.cpp" line="2044"/>
         <source>Right</source>
         <translation>右键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2042"/>
+        <location filename="../interface/InputTab.cpp" line="2044"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2418"/>
+        <location filename="../interface/InputTab.cpp" line="2420"/>
         <source>keyboard historical data</source>
         <translation>键盘历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2423"/>
+        <location filename="../interface/InputTab.cpp" line="2425"/>
         <source>mouse historical data</source>
         <translation>鼠标历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2424"/>
+        <location filename="../interface/InputTab.cpp" line="2426"/>
         <source>Reset Mouse History</source>
         <translation>重置鼠标历史</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2428"/>
+        <location filename="../interface/InputTab.cpp" line="2430"/>
         <source>application historical data</source>
         <translation>应用历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2429"/>
+        <location filename="../interface/InputTab.cpp" line="2431"/>
         <source>Reset Application History</source>
         <translation>重置应用历史</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2433"/>
+        <location filename="../interface/InputTab.cpp" line="2435"/>
         <source>keyboard and mouse historical data</source>
         <translation>键盘与鼠标历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2434"/>
+        <location filename="../interface/InputTab.cpp" line="2436"/>
         <source>Reset Keyboard and Mouse History</source>
         <translation>重置键盘与鼠标历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2438"/>
+        <location filename="../interface/InputTab.cpp" line="2440"/>
         <source>key combination historical data</source>
         <translation>按键组合历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2439"/>
+        <location filename="../interface/InputTab.cpp" line="2441"/>
         <source>Reset Key Combinations History</source>
         <translation>重置按键组合历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2443"/>
+        <location filename="../interface/InputTab.cpp" line="2445"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2445"/>
+        <location filename="../interface/InputTab.cpp" line="2447"/>
         <source>Do you want to reset all input data or just the </source>
         <translation>你是准备重置全部输入数据还是说只是</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2448"/>
+        <location filename="../interface/InputTab.cpp" line="2450"/>
         <source>Reset All Data</source>
         <translation>重置全部数据</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2463"/>
-        <location filename="../interface/InputTab.cpp" line="2483"/>
-        <location filename="../interface/InputTab.cpp" line="2504"/>
-        <location filename="../interface/InputTab.cpp" line="2517"/>
-        <location filename="../interface/InputTab.cpp" line="2541"/>
-        <location filename="../interface/InputTab.cpp" line="2557"/>
+        <location filename="../interface/InputTab.cpp" line="2465"/>
+        <location filename="../interface/InputTab.cpp" line="2485"/>
+        <location filename="../interface/InputTab.cpp" line="2506"/>
+        <location filename="../interface/InputTab.cpp" line="2519"/>
+        <location filename="../interface/InputTab.cpp" line="2543"/>
+        <location filename="../interface/InputTab.cpp" line="2559"/>
         <source>Delete stats?</source>
         <translation>删除统计？</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2464"/>
+        <location filename="../interface/InputTab.cpp" line="2466"/>
         <source>Are you sure you want to delete all recorded keyboard statistics? This cannot be undone.</source>
         <translation>确定删除全部键盘统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2484"/>
+        <location filename="../interface/InputTab.cpp" line="2486"/>
         <source>Are you sure you want to delete all recorded mouse statistics? This cannot be undone.</source>
         <translation>确定删除全部鼠标统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2505"/>
+        <location filename="../interface/InputTab.cpp" line="2507"/>
         <source>Are you sure you want to delete all recorded per application input statistics? This cannot be undone.</source>
         <translation>确定删除全部分应用统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2518"/>
+        <location filename="../interface/InputTab.cpp" line="2520"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>确定删除全部键盘与鼠标统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2542"/>
+        <location filename="../interface/InputTab.cpp" line="2544"/>
         <source>Are you sure you want to delete all recorded key combination statistics? This cannot be undone.</source>
         <translation>确定删除全部按键组合统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2558"/>
+        <location filename="../interface/InputTab.cpp" line="2560"/>
         <source>Are you sure you want to delete all recorded input statistics? This cannot be undone.</source>
         <translation>确定删除全部输入统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2587"/>
+        <location filename="../interface/InputTab.cpp" line="2589"/>
         <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>未找到输入设备，你的&lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;权限&lt;/a&gt;设置对了吗？</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2668"/>
+        <location filename="../interface/InputTab.cpp" line="2670"/>
         <source>Ignore</source>
         <translation>忽略</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2674"/>
+        <location filename="../interface/InputTab.cpp" line="2676"/>
         <source>Open File Location</source>
         <translation>打开文件路径</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2680"/>
+        <location filename="../interface/InputTab.cpp" line="2682"/>
         <source>Open Online Profile</source>
         <translation>打开线上个人页</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2695"/>
+        <location filename="../interface/InputTab.cpp" line="2697"/>
         <source>Ignore application?</source>
         <translation>忽略应用？</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2696"/>
+        <location filename="../interface/InputTab.cpp" line="2698"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>确定忽略应用”%1“？这将同时移除该应用的历史。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2749"/>
+        <location filename="../interface/InputTab.cpp" line="2751"/>
         <source>Not yet</source>
         <translation>先不要</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2750"/>
+        <location filename="../interface/InputTab.cpp" line="2752"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>该应用尚未上传到网站，请一小时左右之后再试。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2773"/>
+        <location filename="../interface/InputTab.cpp" line="2775"/>
         <source>Prune Mouse Heatmap</source>
         <translation>丢弃鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2774"/>
+        <location filename="../interface/InputTab.cpp" line="2776"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>如果不丢弃鼠标热力图的话，数据库将会变得相当大并拖慢 WhatPulse。停止丢弃？</translation>
     </message>
@@ -1652,34 +1622,34 @@ Please check your permissions on: %2</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="178"/>
+        <location filename="../interface/MainWindow.cpp" line="189"/>
         <source>Overview</source>
         <translation>总览</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="179"/>
+        <location filename="../interface/MainWindow.cpp" line="190"/>
         <source>Input</source>
         <translation>输入</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="180"/>
+        <location filename="../interface/MainWindow.cpp" line="191"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="181"/>
+        <location filename="../interface/MainWindow.cpp" line="192"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="182"/>
+        <location filename="../interface/MainWindow.cpp" line="193"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="185"/>
-        <location filename="../interface/MainWindow.cpp" line="238"/>
-        <location filename="../interface/MainWindow.cpp" line="285"/>
+        <location filename="../interface/MainWindow.cpp" line="196"/>
+        <location filename="../interface/MainWindow.cpp" line="265"/>
+        <location filename="../interface/MainWindow.cpp" line="312"/>
         <source>Account</source>
         <translation>帐户</translation>
     </message>
@@ -1901,12 +1871,12 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkTab</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="34"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="36"/>
         <source>Interfaces</source>
         <translation>网卡</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="35"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="37"/>
         <source>Applications</source>
         <translation>应用</translation>
     </message>
@@ -1923,172 +1893,172 @@ Please check your permissions on: %2</source>
         <translation type="vanished">流量类型</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="36"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
         <source>Real-time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="37"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="39"/>
         <source>Countries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="40"/>
         <source>Port Types</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="57"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="59"/>
         <source> Reset</source>
         <translation> 重置</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="133"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="135"/>
         <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
         <translation>你的地理 IP 数据库是空的，分国家统计无法工作。点击&lt;a href=&quot;#&quot;&gt;这里&lt;/a&gt;刷新数据库。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="167"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="169"/>
         <source>Yes</source>
         <translation>是</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="169"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="171"/>
         <source>Yes, with IP </source>
         <translation>确定，IP </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="172"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="174"/>
         <source>Testing..</source>
         <translation>测试中…</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="174"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="176"/>
         <source>No</source>
         <translation>否</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="190"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="192"/>
         <source>interface historical data</source>
         <translation>网卡历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="191"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="193"/>
         <source>Reset Interface History</source>
         <translation>重置网卡历史</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="195"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="197"/>
         <source>per application history data</source>
         <translation>分应用历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="196"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="198"/>
         <source>Reset Application History</source>
         <translation>重置应用历史</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="200"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="202"/>
         <source>per country history data</source>
         <translation>分国家历史数据</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="201"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="203"/>
         <source>Reset Country History</source>
         <translation>重置国家历史</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="205"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="207"/>
         <source>per traffic type data</source>
         <translation>分类型流量数据</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="206"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="208"/>
         <source>Reset Traffic Types History</source>
         <translation>重置流量类型历史</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="210"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="212"/>
         <source>Cancel</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="212"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="214"/>
         <source>Do you want to reset all network data or just the %1?</source>
         <translation>你是准备重置全部网络数据还是说只是%1？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="215"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="217"/>
         <source>Reset All Data</source>
         <translation>重置全部数据</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="230"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="245"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="259"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="272"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="288"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="232"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="247"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="261"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="274"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="290"/>
         <source>Delete stats?</source>
         <translation>删除统计？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="231"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="233"/>
         <source>Are you sure you want to delete all recorded network interface statistics? This cannot be undone.</source>
         <translation>确定删除全部网卡统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="246"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="248"/>
         <source>Are you sure you want to delete all recorded per application network statistics? This cannot be undone.</source>
         <translation>确定删除全部分应用网络统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="260"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="262"/>
         <source>Are you sure you want to delete all recorded per country network statistics? This cannot be undone.</source>
         <translation>确定删除全部分国家网络统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="273"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="275"/>
         <source>Are you sure you want to delete all recorded per traffic type network statistics? This cannot be undone.</source>
         <translation>确定删除全部分类型网络统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="289"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="291"/>
         <source>Are you sure you want to delete all recorded network statistics? This cannot be undone.</source>
         <translation>确定删除全部网络统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="357"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="358"/>
         <source>Success!</source>
         <translation>成功！</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="357"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="358"/>
         <source>GeoIP Database updated succesfully!</source>
         <translation>地理 IP 数据库更新成功！</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="360"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="365"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="361"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="366"/>
         <source>Something went wrong!</source>
         <translation>出错了！</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="361"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="362"/>
         <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
         <translation>地理 IP 数据库更新失败，未知错误。请稍后再试。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="366"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="367"/>
         <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
         <translation>地理 IP 数据库更新失败，错误是： </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="375"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="376"/>
         <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</source>
         <translation>未找到用于网络统计的 Npcap。&lt;br&gt;在 &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt; 下载</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="379"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="380"/>
         <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
         <translation>未找到用于网络统计的 LibPcap。&lt;br&gt;请安装软件包。</translation>
     </message>
@@ -2662,134 +2632,134 @@ Please check your permissions on: %2</source>
 <context>
     <name>OverviewTab</name>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="26"/>
+        <location filename="../interface/OverviewTab.cpp" line="28"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; Apple M1 is not fully supported. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;More info here&lt;/a&gt;.</source>
         <translation>&lt;b&gt;注意：&lt;/b&gt;苹果 M1 并未完全支持。&lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;更多信息&lt;/a&gt;。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="44"/>
+        <location filename="../interface/OverviewTab.cpp" line="46"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute &lt;a href=&quot;#&quot;&gt;and do so now&lt;/a&gt;.</source>
         <translation>&lt;b&gt;注意：&lt;/b&gt;根据我的记录，你已经有 &lt;b&gt;%1&lt;/b&gt; 天没有在线备份数据库了。请花一分钟&lt;a href=&quot;#&quot;&gt;备份&lt;/a&gt;一下。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="64"/>
+        <location filename="../interface/OverviewTab.cpp" line="66"/>
         <source>Open Window on Startup</source>
         <translation>启动时打开窗口</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="71"/>
+        <location filename="../interface/OverviewTab.cpp" line="73"/>
         <source> Pulse!</source>
         <translation> Pulse!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="91"/>
+        <location filename="../interface/OverviewTab.cpp" line="93"/>
         <source>Start Online Backup?</source>
         <translation>开始线上备份？</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="92"/>
+        <location filename="../interface/OverviewTab.cpp" line="94"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>开始备份将重启客户端并显示备份窗口。继续？</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="142"/>
+        <location filename="../interface/OverviewTab.cpp" line="144"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
         <translation>当前在线时长：未知。重启次数未知。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="148"/>
+        <location filename="../interface/OverviewTab.cpp" line="150"/>
         <source>Total keycount: unknown</source>
         <translation>总按键次数：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="154"/>
+        <location filename="../interface/OverviewTab.cpp" line="156"/>
         <source>Total clickcount: unknown</source>
         <translation>总点击次数：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="160"/>
-        <location filename="../interface/OverviewTab.cpp" line="302"/>
+        <location filename="../interface/OverviewTab.cpp" line="162"/>
+        <location filename="../interface/OverviewTab.cpp" line="303"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>下载：未知
 上传：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="180"/>
-        <location filename="../interface/OverviewTab.cpp" line="225"/>
+        <location filename="../interface/OverviewTab.cpp" line="182"/>
+        <location filename="../interface/OverviewTab.cpp" line="226"/>
         <source>Total: %1
 Available: %2</source>
         <translation>总： %1
 可用： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="248"/>
+        <location filename="../interface/OverviewTab.cpp" line="249"/>
         <source>Total clickcount: %1
 Unpulsed: %2</source>
         <translation>总点击次数： %1
 未 Pulse： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="261"/>
+        <location filename="../interface/OverviewTab.cpp" line="262"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>总按键次数： %1
 未 Pulse： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="268"/>
         <location filename="../interface/OverviewTab.cpp" line="269"/>
+        <location filename="../interface/OverviewTab.cpp" line="270"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="286"/>
+        <location filename="../interface/OverviewTab.cpp" line="287"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>当前在线时长： %1。重启次数 %2 次
 未 Pulse： %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="298"/>
+        <location filename="../interface/OverviewTab.cpp" line="299"/>
         <source>Down: %1
 Up: %2</source>
         <translation>下载： %1
 上传： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="306"/>
+        <location filename="../interface/OverviewTab.cpp" line="307"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 未 Pulse：下载 %2，上传 %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="316"/>
+        <location filename="../interface/OverviewTab.cpp" line="317"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>“脱机工作”选项已开启，所以你无法 Pulse。关闭该选项以继续 Pulse。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="327"/>
+        <location filename="../interface/OverviewTab.cpp" line="328"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="328"/>
+        <location filename="../interface/OverviewTab.cpp" line="329"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="337"/>
+        <location filename="../interface/OverviewTab.cpp" line="338"/>
         <source>Pulsing..</source>
         <translation>Pulse…</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="338"/>
+        <location filename="../interface/OverviewTab.cpp" line="339"/>
         <source>Pulse underway, please wait!</source>
         <translation>正在 Pulse，请稍候！</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="343"/>
+        <location filename="../interface/OverviewTab.cpp" line="344"/>
         <source>Pulse!</source>
         <translation>Pulse!</translation>
     </message>
@@ -2868,17 +2838,17 @@ Unpulsed: %2 down, %3 up</source>
 <context>
     <name>ProgressWindow</name>
     <message>
-        <location filename="../resources/progresswindow.ui" line="23"/>
+        <location filename="../resources/forms/progresswindow.ui" line="23"/>
         <source>ProgressWindow</source>
         <translation>ProgressWindow</translation>
     </message>
     <message>
-        <location filename="../resources/progresswindow.ui" line="70"/>
+        <location filename="../resources/forms/progresswindow.ui" line="70"/>
         <source>Downloading Update...</source>
         <translation>下载更新中…</translation>
     </message>
     <message>
-        <location filename="../resources/progresswindow.ui" line="98"/>
+        <location filename="../resources/forms/progresswindow.ui" line="98"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
@@ -2959,7 +2929,7 @@ Unpulsed: %2 down, %3 up</source>
 <context>
     <name>SettingsTab</name>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="82"/>
+        <location filename="../interface/SettingsTab.cpp" line="85"/>
         <source>General Settings</source>
         <translation>通用设置</translation>
     </message>
@@ -2972,7 +2942,7 @@ Unpulsed: %2 down, %3 up</source>
         <translation type="vanished">悬浮窗布局</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="85"/>
+        <location filename="../interface/SettingsTab.cpp" line="88"/>
         <source>Ignored Applications</source>
         <translation>忽略的应用</translation>
     </message>
@@ -2981,122 +2951,122 @@ Unpulsed: %2 down, %3 up</source>
         <translation type="vanished">代理</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="83"/>
+        <location filename="../interface/SettingsTab.cpp" line="86"/>
         <source>Auto Pulsing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="84"/>
+        <location filename="../interface/SettingsTab.cpp" line="87"/>
         <source>Geek Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="87"/>
+        <location filename="../interface/SettingsTab.cpp" line="90"/>
         <source>Proxy &amp; Client API</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="88"/>
+        <location filename="../interface/SettingsTab.cpp" line="91"/>
         <source>Milestones</source>
         <translation>里程碑</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="94"/>
+        <location filename="../interface/SettingsTab.cpp" line="97"/>
         <source> Check for Updates</source>
         <translation> 检查更新</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="106"/>
+        <location filename="../interface/SettingsTab.cpp" line="109"/>
         <source> Report Bug</source>
         <translation> 报告缺陷</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="121"/>
+        <location filename="../interface/SettingsTab.cpp" line="124"/>
         <source> Save</source>
         <translation> 保存</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="155"/>
-        <location filename="../interface/SettingsTab.cpp" line="171"/>
+        <location filename="../interface/SettingsTab.cpp" line="159"/>
+        <location filename="../interface/SettingsTab.cpp" line="175"/>
         <source>Settings - General</source>
         <translation>设置 - 通用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="157"/>
-        <location filename="../interface/SettingsTab.cpp" line="172"/>
+        <location filename="../interface/SettingsTab.cpp" line="161"/>
+        <location filename="../interface/SettingsTab.cpp" line="176"/>
         <source>Settings - Automatic Pulsing</source>
         <translation>设置 - 自动 Pulse</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="159"/>
-        <location filename="../interface/SettingsTab.cpp" line="173"/>
+        <location filename="../interface/SettingsTab.cpp" line="163"/>
+        <location filename="../interface/SettingsTab.cpp" line="177"/>
         <source>Settings - Geek Window Layout</source>
         <translation>设置 - 悬浮窗布局</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="161"/>
-        <location filename="../interface/SettingsTab.cpp" line="174"/>
+        <location filename="../interface/SettingsTab.cpp" line="165"/>
+        <location filename="../interface/SettingsTab.cpp" line="178"/>
         <source>Settings - Ignored Applications</source>
         <translation>设置 - 忽略的应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="163"/>
-        <location filename="../interface/SettingsTab.cpp" line="175"/>
+        <location filename="../interface/SettingsTab.cpp" line="167"/>
+        <location filename="../interface/SettingsTab.cpp" line="179"/>
         <source>Settings - Proxy</source>
         <translation>设置 - 代理</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="165"/>
+        <location filename="../interface/SettingsTab.cpp" line="169"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="235"/>
+        <location filename="../interface/SettingsTab.cpp" line="239"/>
         <source>Launch when computer starts</source>
         <translation>计算机启动时启动</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="237"/>
+        <location filename="../interface/SettingsTab.cpp" line="241"/>
         <source>Enable Portable Mode</source>
         <translation>开启绿色模式</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="239"/>
+        <location filename="../interface/SettingsTab.cpp" line="243"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>双击托盘图标时 Pulse</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="243"/>
+        <location filename="../interface/SettingsTab.cpp" line="247"/>
         <source>Include beta versions updates</source>
         <translation>检查 Beta 版本更新</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="247"/>
+        <location filename="../interface/SettingsTab.cpp" line="251"/>
         <source>Blink trayicon on input activity</source>
         <translation>输入时闪烁托盘图标</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="250"/>
+        <location filename="../interface/SettingsTab.cpp" line="254"/>
         <source>Automatically install new versions</source>
         <translation>自动安装新版本</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="252"/>
+        <location filename="../interface/SettingsTab.cpp" line="256"/>
         <source>Upload application info</source>
         <translation>上传应用信息</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="255"/>
+        <location filename="../interface/SettingsTab.cpp" line="259"/>
         <source>Work offline (disables pulsing)</source>
         <translation>脱机工作（禁用 Pulse）</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="258"/>
+        <location filename="../interface/SettingsTab.cpp" line="262"/>
         <source>Upload heatmap info</source>
         <translation>上传热力图信息</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="261"/>
+        <location filename="../interface/SettingsTab.cpp" line="265"/>
         <source>Weekly online backups</source>
         <translation>每周线上备份</translation>
     </message>
@@ -3105,17 +3075,17 @@ Unpulsed: %2 down, %3 up</source>
         <translation type="vanished">图标颜色： </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="318"/>
+        <location filename="../interface/SettingsTab.cpp" line="322"/>
         <source>Auto</source>
         <translation>自动</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="319"/>
+        <location filename="../interface/SettingsTab.cpp" line="323"/>
         <source>Black</source>
         <translation>黑</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="320"/>
+        <location filename="../interface/SettingsTab.cpp" line="324"/>
         <source>White</source>
         <translation>白</translation>
     </message>
@@ -3128,184 +3098,184 @@ Unpulsed: %2 down, %3 up</source>
         <translation type="vanished">语言： </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="299"/>
+        <location filename="../interface/SettingsTab.cpp" line="303"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="302"/>
+        <location filename="../interface/SettingsTab.cpp" line="306"/>
         <source>Light</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="303"/>
+        <location filename="../interface/SettingsTab.cpp" line="307"/>
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="315"/>
+        <location filename="../interface/SettingsTab.cpp" line="319"/>
         <source>&lt;b&gt;Icon Color&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="336"/>
+        <location filename="../interface/SettingsTab.cpp" line="341"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="363"/>
+        <location filename="../interface/SettingsTab.cpp" line="368"/>
         <source>Pulse Server: </source>
         <translation>Pulse 服务器： </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="379"/>
+        <location filename="../interface/SettingsTab.cpp" line="384"/>
         <source>Active Stats</source>
         <translation>活跃的统计</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="389"/>
+        <location filename="../interface/SettingsTab.cpp" line="394"/>
         <source>Input</source>
         <translation>输入</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="395"/>
+        <location filename="../interface/SettingsTab.cpp" line="400"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="396"/>
+        <location filename="../interface/SettingsTab.cpp" line="401"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="397"/>
-        <location filename="../interface/SettingsTab.cpp" line="417"/>
-        <location filename="../interface/SettingsTab.cpp" line="438"/>
+        <location filename="../interface/SettingsTab.cpp" line="402"/>
+        <location filename="../interface/SettingsTab.cpp" line="422"/>
+        <location filename="../interface/SettingsTab.cpp" line="443"/>
         <source>Per Application</source>
         <translation>分应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="407"/>
+        <location filename="../interface/SettingsTab.cpp" line="412"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="413"/>
+        <location filename="../interface/SettingsTab.cpp" line="418"/>
         <source>Per Interface</source>
         <translation>分网卡</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="415"/>
+        <location filename="../interface/SettingsTab.cpp" line="420"/>
         <source>Per Country</source>
         <translation>分国家</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="419"/>
+        <location filename="../interface/SettingsTab.cpp" line="424"/>
         <source>Per Traffic Type</source>
         <translation>分类型</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="429"/>
+        <location filename="../interface/SettingsTab.cpp" line="434"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="435"/>
+        <location filename="../interface/SettingsTab.cpp" line="440"/>
         <source>Computer Uptime</source>
         <translation>计算机上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="436"/>
+        <location filename="../interface/SettingsTab.cpp" line="441"/>
         <source>Reboots</source>
         <translation>重启</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="450"/>
+        <location filename="../interface/SettingsTab.cpp" line="455"/>
         <source>Advanced</source>
         <translation>高级</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="454"/>
+        <location filename="../interface/SettingsTab.cpp" line="459"/>
         <source>&amp;Open Data Directory</source>
         <translation>打开数据目录(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="461"/>
+        <location filename="../interface/SettingsTab.cpp" line="466"/>
         <source>&amp;Start Online Backup</source>
         <translation>开始线上备份(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="468"/>
+        <location filename="../interface/SettingsTab.cpp" line="473"/>
         <source>Re-upload &amp;applications</source>
         <translation>重新上传应用(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="474"/>
+        <location filename="../interface/SettingsTab.cpp" line="479"/>
         <source>Empty local &amp;database</source>
         <translation>清空本地数据库(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="480"/>
+        <location filename="../interface/SettingsTab.cpp" line="485"/>
         <source>Update &amp;GeoIP database</source>
         <translation>更新地理 IP 数据库(&amp;G)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="487"/>
+        <location filename="../interface/SettingsTab.cpp" line="492"/>
         <source>Update Network Port Description database</source>
         <translation>更新网络端口描述数据库</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="494"/>
+        <location filename="../interface/SettingsTab.cpp" line="499"/>
         <source>&amp;Upload database</source>
         <translation>上传数据库(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="506"/>
+        <location filename="../interface/SettingsTab.cpp" line="511"/>
         <source>Check macOS Permissions</source>
         <translation>检查 macOS 权限</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="527"/>
+        <location filename="../interface/SettingsTab.cpp" line="532"/>
         <source>Uploading applications</source>
         <translation>上传应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="554"/>
+        <location filename="../interface/SettingsTab.cpp" line="559"/>
         <source>Uploading Apps</source>
         <translation>上传应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="555"/>
+        <location filename="../interface/SettingsTab.cpp" line="560"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>应用已标记为上传。它显示到网站上可能需要一个小时。</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="572"/>
+        <location filename="../interface/SettingsTab.cpp" line="577"/>
         <source>Empty Database</source>
         <translation>清空数据库</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="573"/>
+        <location filename="../interface/SettingsTab.cpp" line="578"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>清空本地数据库将摧毁全部本地统计数据并退出登录。这是无法恢复的，继续？</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="591"/>
+        <location filename="../interface/SettingsTab.cpp" line="596"/>
         <source>Start Online Backup?</source>
         <translation>开始线上备份？</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="592"/>
+        <location filename="../interface/SettingsTab.cpp" line="597"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>开始备份将重启客户端并显示备份窗口。继续？</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="752"/>
+        <location filename="../interface/SettingsTab.cpp" line="757"/>
         <source>Settings saved...</source>
         <translation>设置已保存……</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="795"/>
+        <location filename="../interface/SettingsTab.cpp" line="801"/>
         <source>Weekly online backups (premium only)</source>
         <translation>每周线上备份（尊享版特权）</translation>
     </message>
@@ -4256,6 +4226,34 @@ This will reset any custom layouts!</source>
     </message>
 </context>
 <context>
+    <name>UpdateReleaseNotesWindow</name>
+    <message>
+        <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="26"/>
+        <source>Software Update</source>
+        <translation type="unfinished">软件更新</translation>
+    </message>
+    <message>
+        <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="43"/>
+        <source>A new version of %1 is available!</source>
+        <translation type="unfinished">%1 有新版本了！</translation>
+    </message>
+    <message>
+        <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="50"/>
+        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
+        <translation type="unfinished">%1 有 %2 了，而你在 %3。现在下载它？</translation>
+    </message>
+    <message>
+        <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="82"/>
+        <source>Remind Me Later</source>
+        <translation type="unfinished">稍后提醒我</translation>
+    </message>
+    <message>
+        <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="89"/>
+        <source>Install Update</source>
+        <translation type="unfinished">安装更新</translation>
+    </message>
+</context>
+<context>
     <name>UploadDatabaseWindow</name>
     <message>
         <location filename="../interface/UploadDatabaseWindow.cpp" line="38"/>
@@ -4415,305 +4413,305 @@ This will reset any custom layouts!</source>
 <context>
     <name>UptimeTab</name>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="38"/>
+        <location filename="../interface/UptimeTab.cpp" line="40"/>
         <source>Computer Uptime</source>
         <translation>计算机上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="40"/>
+        <location filename="../interface/UptimeTab.cpp" line="42"/>
         <source>Reboot Calendar</source>
         <translation>重启日历</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="42"/>
+        <location filename="../interface/UptimeTab.cpp" line="44"/>
         <source>Applications</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="44"/>
+        <location filename="../interface/UptimeTab.cpp" line="46"/>
         <source>Application Activity</source>
         <translation>应用活动</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="58"/>
+        <location filename="../interface/UptimeTab.cpp" line="60"/>
         <source> Reset</source>
         <translation> 重置</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="73"/>
-        <location filename="../interface/UptimeTab.cpp" line="87"/>
+        <location filename="../interface/UptimeTab.cpp" line="75"/>
+        <location filename="../interface/UptimeTab.cpp" line="89"/>
         <source>Uptime - Computer Uptime</source>
         <translation>上线时长 - 计算机上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="75"/>
-        <location filename="../interface/UptimeTab.cpp" line="88"/>
+        <location filename="../interface/UptimeTab.cpp" line="77"/>
+        <location filename="../interface/UptimeTab.cpp" line="90"/>
         <source>Uptime - Reboot Calendar</source>
         <translation>上线时长 - 重启日历</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="77"/>
-        <location filename="../interface/UptimeTab.cpp" line="89"/>
+        <location filename="../interface/UptimeTab.cpp" line="79"/>
+        <location filename="../interface/UptimeTab.cpp" line="91"/>
         <source>Uptime - Applications</source>
         <translation>上线时长 - 应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="79"/>
-        <location filename="../interface/UptimeTab.cpp" line="90"/>
+        <location filename="../interface/UptimeTab.cpp" line="81"/>
+        <location filename="../interface/UptimeTab.cpp" line="92"/>
         <source>Uptime - Application Activity</source>
         <translation>上线时长 - 应用活动</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="81"/>
+        <location filename="../interface/UptimeTab.cpp" line="83"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="130"/>
-        <location filename="../interface/UptimeTab.cpp" line="258"/>
+        <location filename="../interface/UptimeTab.cpp" line="132"/>
+        <location filename="../interface/UptimeTab.cpp" line="260"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="138"/>
-        <location filename="../interface/UptimeTab.cpp" line="266"/>
+        <location filename="../interface/UptimeTab.cpp" line="140"/>
+        <location filename="../interface/UptimeTab.cpp" line="268"/>
         <source>&amp;Export to .csv</source>
         <translation>导出为 CSV 格式(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="142"/>
-        <location filename="../interface/UptimeTab.cpp" line="269"/>
+        <location filename="../interface/UptimeTab.cpp" line="144"/>
+        <location filename="../interface/UptimeTab.cpp" line="271"/>
         <source>&amp;Export Wizard</source>
         <translation>导出向导(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="172"/>
+        <location filename="../interface/UptimeTab.cpp" line="174"/>
         <source>Go Premium</source>
         <translation>开始尊享版</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="191"/>
+        <location filename="../interface/UptimeTab.cpp" line="193"/>
         <source>&lt;h3&gt;Favorite reboot days&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;重启日之最&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="217"/>
+        <location filename="../interface/UptimeTab.cpp" line="219"/>
         <source>Sun</source>
         <translation>日</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="217"/>
+        <location filename="../interface/UptimeTab.cpp" line="219"/>
         <source>Mon</source>
         <translation>一</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="217"/>
+        <location filename="../interface/UptimeTab.cpp" line="219"/>
         <source>Tue</source>
         <translation>二</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="217"/>
+        <location filename="../interface/UptimeTab.cpp" line="219"/>
         <source>Wed</source>
         <translation>三</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="218"/>
+        <location filename="../interface/UptimeTab.cpp" line="220"/>
         <source>Thu</source>
         <translation>四</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="218"/>
+        <location filename="../interface/UptimeTab.cpp" line="220"/>
         <source>Fri</source>
         <translation>五</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="218"/>
+        <location filename="../interface/UptimeTab.cpp" line="220"/>
         <source>Sat</source>
         <translation>六</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="233"/>
+        <location filename="../interface/UptimeTab.cpp" line="235"/>
         <source>Show only recently used applications</source>
         <translation>仅显示最近使用的应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="240"/>
+        <location filename="../interface/UptimeTab.cpp" line="242"/>
         <source>Show only running applications</source>
         <translation>仅显示运行着的应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="288"/>
-        <location filename="../interface/UptimeTab.cpp" line="289"/>
         <location filename="../interface/UptimeTab.cpp" line="290"/>
         <location filename="../interface/UptimeTab.cpp" line="291"/>
         <location filename="../interface/UptimeTab.cpp" line="292"/>
         <location filename="../interface/UptimeTab.cpp" line="293"/>
+        <location filename="../interface/UptimeTab.cpp" line="294"/>
+        <location filename="../interface/UptimeTab.cpp" line="295"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="304"/>
+        <location filename="../interface/UptimeTab.cpp" line="306"/>
         <source>Unpulsed uptime:</source>
         <translation>未 Pulse 上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="307"/>
+        <location filename="../interface/UptimeTab.cpp" line="309"/>
         <source>Current uptime:</source>
         <translation>当前上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="310"/>
+        <location filename="../interface/UptimeTab.cpp" line="312"/>
         <source>Total uptime:</source>
         <translation>总上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="313"/>
+        <location filename="../interface/UptimeTab.cpp" line="315"/>
         <source>Longest uptime:</source>
         <translation>最长上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="316"/>
+        <location filename="../interface/UptimeTab.cpp" line="318"/>
         <source>Average uptime:</source>
         <translation>平均上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="319"/>
+        <location filename="../interface/UptimeTab.cpp" line="321"/>
         <source>Total reboots:</source>
         <translation>总重启次数：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="329"/>
+        <location filename="../interface/UptimeTab.cpp" line="331"/>
         <source>Reboot history for </source>
         <translation>重启于 </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="374"/>
+        <location filename="../interface/UptimeTab.cpp" line="376"/>
         <source>No reboots found</source>
         <translation>当天没有重启</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="387"/>
+        <location filename="../interface/UptimeTab.cpp" line="389"/>
         <source>Reboot history</source>
         <translation>重启历史</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="446"/>
+        <location filename="../interface/UptimeTab.cpp" line="447"/>
         <source>Application</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="446"/>
+        <location filename="../interface/UptimeTab.cpp" line="448"/>
         <source>Total time</source>
         <translation>总时间</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="447"/>
+        <location filename="../interface/UptimeTab.cpp" line="449"/>
         <source>Total active time</source>
         <translation>总活跃时间</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="474"/>
+        <location filename="../interface/UptimeTab.cpp" line="476"/>
         <source>Ignore</source>
         <translation>忽略</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Open File Location</source>
         <translation>打开文件路径</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="486"/>
+        <location filename="../interface/UptimeTab.cpp" line="488"/>
         <source>Open Online Profile</source>
         <translation>打开线上个人页</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="501"/>
+        <location filename="../interface/UptimeTab.cpp" line="503"/>
         <source>Ignore application?</source>
         <translation>忽略应用？</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="502"/>
+        <location filename="../interface/UptimeTab.cpp" line="504"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>确定忽略应用”%1“？这将同时移除该应用的历史。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="553"/>
+        <location filename="../interface/UptimeTab.cpp" line="555"/>
         <source>Not yet</source>
         <translation>先不要</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="554"/>
+        <location filename="../interface/UptimeTab.cpp" line="556"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>该应用尚未上传到网站，请一小时左右之后再试。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="891"/>
-        <location filename="../interface/UptimeTab.cpp" line="897"/>
+        <location filename="../interface/UptimeTab.cpp" line="893"/>
+        <location filename="../interface/UptimeTab.cpp" line="899"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>上线和重启数据（除分应用之外） </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="892"/>
-        <location filename="../interface/UptimeTab.cpp" line="898"/>
+        <location filename="../interface/UptimeTab.cpp" line="894"/>
+        <location filename="../interface/UptimeTab.cpp" line="900"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>重置上线时间 / 重启历史</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="902"/>
-        <location filename="../interface/UptimeTab.cpp" line="907"/>
+        <location filename="../interface/UptimeTab.cpp" line="904"/>
+        <location filename="../interface/UptimeTab.cpp" line="909"/>
         <source>application uptime data</source>
         <translation>应用上线时长数据</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="903"/>
-        <location filename="../interface/UptimeTab.cpp" line="908"/>
+        <location filename="../interface/UptimeTab.cpp" line="905"/>
+        <location filename="../interface/UptimeTab.cpp" line="910"/>
         <source>Reset Application History</source>
         <translation>重置应用历史</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="912"/>
+        <location filename="../interface/UptimeTab.cpp" line="914"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="914"/>
+        <location filename="../interface/UptimeTab.cpp" line="916"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>你是准备重置全部上线时长数据还是说只是%1？</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="917"/>
+        <location filename="../interface/UptimeTab.cpp" line="919"/>
         <source>Reset All Data</source>
         <translation>重置全部数据</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="932"/>
-        <location filename="../interface/UptimeTab.cpp" line="950"/>
-        <location filename="../interface/UptimeTab.cpp" line="968"/>
-        <location filename="../interface/UptimeTab.cpp" line="983"/>
-        <location filename="../interface/UptimeTab.cpp" line="991"/>
-        <location filename="../interface/UptimeTab.cpp" line="1008"/>
+        <location filename="../interface/UptimeTab.cpp" line="934"/>
+        <location filename="../interface/UptimeTab.cpp" line="952"/>
+        <location filename="../interface/UptimeTab.cpp" line="970"/>
+        <location filename="../interface/UptimeTab.cpp" line="985"/>
+        <location filename="../interface/UptimeTab.cpp" line="993"/>
+        <location filename="../interface/UptimeTab.cpp" line="1010"/>
         <source>Delete stats?</source>
         <translation>删除统计？</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="933"/>
-        <location filename="../interface/UptimeTab.cpp" line="951"/>
+        <location filename="../interface/UptimeTab.cpp" line="935"/>
+        <location filename="../interface/UptimeTab.cpp" line="953"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部上线时长数据记录（除分应用之外）？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="969"/>
-        <location filename="../interface/UptimeTab.cpp" line="992"/>
+        <location filename="../interface/UptimeTab.cpp" line="971"/>
+        <location filename="../interface/UptimeTab.cpp" line="994"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部分应用上线时长数据记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="984"/>
+        <location filename="../interface/UptimeTab.cpp" line="986"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>确定删除全部键盘与鼠标统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1009"/>
+        <location filename="../interface/UptimeTab.cpp" line="1011"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部上线时长统计记录？该操作无法撤销。</translation>
     </message>
@@ -4781,198 +4779,229 @@ This will reset any custom layouts!</source>
         <translation>%1 分钟</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="377"/>
+        <location filename="../utils.cpp" line="376"/>
         <source>th</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="380"/>
+        <location filename="../utils.cpp" line="379"/>
         <source>st</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="382"/>
+        <location filename="../utils.cpp" line="381"/>
         <source>nd</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="384"/>
+        <location filename="../utils.cpp" line="383"/>
         <source>rd</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="473"/>
+        <location filename="../utils.cpp" line="472"/>
         <source>Sunday</source>
         <translation>周日</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="475"/>
+        <location filename="../utils.cpp" line="474"/>
         <source>Monday</source>
         <translation>周一</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="477"/>
+        <location filename="../utils.cpp" line="476"/>
         <source>Tuesday</source>
         <translation>周二</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="479"/>
+        <location filename="../utils.cpp" line="478"/>
         <source>Wednesday</source>
         <translation>周三</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="481"/>
+        <location filename="../utils.cpp" line="480"/>
         <source>Thursday</source>
         <translation>周四</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="483"/>
+        <location filename="../utils.cpp" line="482"/>
         <source>Friday</source>
         <translation>周五</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="485"/>
+        <location filename="../utils.cpp" line="484"/>
         <source>Saturday</source>
         <translation>周六</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="995"/>
-        <location filename="../utils.cpp" line="1021"/>
+        <location filename="../utils.cpp" line="994"/>
+        <location filename="../utils.cpp" line="1020"/>
         <source>Save as...</source>
         <translation>另存为…</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1008"/>
-        <location filename="../utils.cpp" line="1036"/>
+        <location filename="../utils.cpp" line="1007"/>
+        <location filename="../utils.cpp" line="1035"/>
         <source>Export Failed</source>
         <translation>导出失败</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1009"/>
-        <location filename="../utils.cpp" line="1037"/>
+        <location filename="../utils.cpp" line="1008"/>
+        <location filename="../utils.cpp" line="1036"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>打开导出文件失败！请使用其他目录重试。</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1047"/>
+        <location filename="../utils.cpp" line="1046"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1050"/>
+        <location filename="../utils.cpp" line="1049"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1053"/>
+        <location filename="../utils.cpp" line="1052"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1056"/>
+        <location filename="../utils.cpp" line="1055"/>
         <source>Capslock</source>
         <translation>Capslock</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1059"/>
+        <location filename="../utils.cpp" line="1058"/>
         <source>Left Shift</source>
         <translation>左 Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1062"/>
+        <location filename="../utils.cpp" line="1061"/>
         <source>Left Control</source>
         <translation>左 Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1065"/>
+        <location filename="../utils.cpp" line="1064"/>
         <source>Left Alt</source>
         <translation>左 Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1068"/>
+        <location filename="../utils.cpp" line="1067"/>
         <source>Right Alt</source>
         <translation>右 Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1071"/>
+        <location filename="../utils.cpp" line="1070"/>
         <source>Right Control</source>
         <translation>右 Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1074"/>
+        <location filename="../utils.cpp" line="1073"/>
         <source>Right Shift</source>
         <translation>右 Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1077"/>
+        <location filename="../utils.cpp" line="1076"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1080"/>
+        <location filename="../utils.cpp" line="1079"/>
         <source>Down</source>
         <translation>下</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1083"/>
+        <location filename="../utils.cpp" line="1082"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1086"/>
+        <location filename="../utils.cpp" line="1085"/>
         <source>Up</source>
         <translation>上</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1089"/>
+        <location filename="../utils.cpp" line="1088"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1092"/>
+        <location filename="../utils.cpp" line="1091"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1095"/>
+        <location filename="../utils.cpp" line="1094"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1098"/>
+        <location filename="../utils.cpp" line="1097"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1101"/>
+        <location filename="../utils.cpp" line="1100"/>
         <source>End</source>
         <translation>End</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1104"/>
+        <location filename="../utils.cpp" line="1103"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1107"/>
+        <location filename="../utils.cpp" line="1106"/>
         <source>Escape</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1149"/>
+        <location filename="../utils.cpp" line="1148"/>
         <source>Space</source>
         <translation>Space</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1266"/>
+        <location filename="../utils.cpp" line="1265"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="705"/>
-        <location filename="../utils.cpp" line="1387"/>
+        <location filename="../utils.cpp" line="704"/>
+        <location filename="../utils.cpp" line="1386"/>
         <source>unknown</source>
         <translation>未知</translation>
+    </message>
+</context>
+<context>
+    <name>VersionCheck</name>
+    <message>
+        <location filename="../online/versioncheck.cpp" line="139"/>
+        <source>Latest version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../online/versioncheck.cpp" line="140"/>
+        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WindowUpdateAlert</name>
+    <message>
+        <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="30"/>
+        <source>There&apos;s a new version available!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="35"/>
+        <source>What&apos;s new?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="39"/>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5180,12 +5209,12 @@ This will reset any custom layouts!</source>
         <translation>解压数据库中…</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="453"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="455"/>
         <source>All done! Please restart the client by clicking Finished.</source>
         <translation>可以啦！请点击完成以重启客户端。</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="455"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="457"/>
         <source>Finished</source>
         <translation>完成</translation>
     </message>
