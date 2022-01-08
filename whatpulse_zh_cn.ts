@@ -729,7 +729,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
-        <translation type="unfinished"></translation>
+        <translation>FlatTab 控件</translation>
     </message>
 </context>
 <context>
@@ -1895,17 +1895,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
         <source>Real-time</source>
-        <translation type="unfinished"></translation>
+        <translation>实时</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="39"/>
         <source>Countries</source>
-        <translation type="unfinished"></translation>
+        <translation>国家</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="40"/>
         <source>Port Types</source>
-        <translation type="unfinished"></translation>
+        <translation>端口类型</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="59"/>
@@ -1980,7 +1980,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="212"/>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="214"/>
@@ -2587,7 +2587,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="122"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation></translation>
+        <translation>&lt;b&gt;今天&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="123"/>
@@ -2953,17 +2953,17 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="86"/>
         <source>Auto Pulsing</source>
-        <translation type="unfinished"></translation>
+        <translation>自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="87"/>
         <source>Geek Window</source>
-        <translation type="unfinished"></translation>
+        <translation>悬浮窗</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="90"/>
         <source>Proxy &amp; Client API</source>
-        <translation type="unfinished"></translation>
+        <translation>代理 &amp; 客户端 API</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="91"/>
@@ -3100,27 +3100,27 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="303"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;主题&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="306"/>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>亮色</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="307"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>暗色</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="319"/>
         <source>&lt;b&gt;Icon Color&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;图标颜色&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="341"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;语言&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="368"/>
