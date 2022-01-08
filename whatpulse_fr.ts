@@ -483,98 +483,98 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="230"/>
+        <location filename="../online/clientcommunication.cpp" line="236"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>Le site web ne renvoie pas une réponse correcte à votre requête, veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="258"/>
+        <location filename="../online/clientcommunication.cpp" line="264"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Votre compte est en attente d&apos;activation, veuillez confirmer votre email et réessayer une fois l&apos;activation complétée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="262"/>
-        <location filename="../online/clientcommunication.cpp" line="318"/>
+        <location filename="../online/clientcommunication.cpp" line="268"/>
+        <location filename="../online/clientcommunication.cpp" line="324"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Compte ou machine non-reconnue ! Vous-êtes vous enregistrés ?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="265"/>
-        <location filename="../online/clientcommunication.cpp" line="321"/>
+        <location filename="../online/clientcommunication.cpp" line="271"/>
+        <location filename="../online/clientcommunication.cpp" line="327"/>
         <source>Wrong password! Try again.</source>
         <translation>Mot de passe incorrect ! Veuillez réessayer.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="269"/>
-        <location filename="../online/clientcommunication.cpp" line="345"/>
+        <location filename="../online/clientcommunication.cpp" line="275"/>
+        <location filename="../online/clientcommunication.cpp" line="351"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Le serveur est hors-service pour cause de maintenance, veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="272"/>
-        <location filename="../online/clientcommunication.cpp" line="348"/>
+        <location filename="../online/clientcommunication.cpp" line="278"/>
+        <location filename="../online/clientcommunication.cpp" line="354"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Erreur interne au serveur. Veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="276"/>
-        <location filename="../online/clientcommunication.cpp" line="352"/>
+        <location filename="../online/clientcommunication.cpp" line="282"/>
+        <location filename="../online/clientcommunication.cpp" line="358"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Erreur du serveur : Entrée manquante ! Merci de contacter les développeurs.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="324"/>
+        <location filename="../online/clientcommunication.cpp" line="330"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Activitée limitée dépassée, cela signifie que votre nombre de frappes ou clics par seconde est trop important. Attendez une heure ou plus pour que celui-ci soit plus bas, puis réessayez.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="330"/>
+        <location filename="../online/clientcommunication.cpp" line="336"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Mauvais token, avez-vous utilisé ce compte sur un autre ordinateur ?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="333"/>
+        <location filename="../online/clientcommunication.cpp" line="339"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Le pseudonyme entré est déjà enregistré ! Choissisez-en un autre, puis réessayer.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="338"/>
+        <location filename="../online/clientcommunication.cpp" line="344"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulsage limité. Vous pouvez seulement pulser toutes les 60 secondes.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="341"/>
+        <location filename="../online/clientcommunication.cpp" line="347"/>
         <source>Premium only feature.</source>
         <translation>Fonctionnalitée réservée aux premiums.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="355"/>
-        <location filename="../online/clientcommunication.cpp" line="872"/>
+        <location filename="../online/clientcommunication.cpp" line="361"/>
+        <location filename="../online/clientcommunication.cpp" line="902"/>
         <source>Success.</source>
         <translation>Succès.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="358"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
         <source>Success, your file is now on the website!</source>
         <translation>Succès ! Votre fichier est désormais sur le site web !</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="861"/>
+        <location filename="../online/clientcommunication.cpp" line="891"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Impossible d&apos;ouvrir la base de données GeoIP (%1), permission refusée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="923"/>
+        <location filename="../online/clientcommunication.cpp" line="953"/>
         <source>Empty reply received</source>
         <translation>Réponse vide reçue</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="945"/>
+        <location filename="../online/clientcommunication.cpp" line="975"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Impossible d&apos;ouvrir la base de données de Network Port Description (%1), permission refusée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="959"/>
+        <location filename="../online/clientcommunication.cpp" line="989"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Le fichier téléchargé n&apos;a pas bonne mine : %1</translation>
     </message>
@@ -4964,12 +4964,12 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="139"/>
+        <location filename="../online/versioncheck.cpp" line="140"/>
         <source>Latest version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="140"/>
+        <location filename="../online/versioncheck.cpp" line="141"/>
         <source>You&apos;re running the latest version of WhatPulse.</source>
         <translation type="unfinished"></translation>
     </message>

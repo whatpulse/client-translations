@@ -484,98 +484,98 @@ Draagbare modus blijft ingeschakeld.</translation>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="230"/>
+        <location filename="../online/clientcommunication.cpp" line="236"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>De website reageert niet correct op uw verzoek, probeer het later nog eens.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="258"/>
+        <location filename="../online/clientcommunication.cpp" line="264"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Uw account is in afwachting van activering, controleer uw e-mail en probeer het opnieuw na activering.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="262"/>
-        <location filename="../online/clientcommunication.cpp" line="318"/>
+        <location filename="../online/clientcommunication.cpp" line="268"/>
+        <location filename="../online/clientcommunication.cpp" line="324"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Account of computer onbekend! Heeft u zich geregistreerd?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="265"/>
-        <location filename="../online/clientcommunication.cpp" line="321"/>
+        <location filename="../online/clientcommunication.cpp" line="271"/>
+        <location filename="../online/clientcommunication.cpp" line="327"/>
         <source>Wrong password! Try again.</source>
         <translation>Verkeerd paswoord! Probeer opnieuw.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="269"/>
-        <location filename="../online/clientcommunication.cpp" line="345"/>
+        <location filename="../online/clientcommunication.cpp" line="275"/>
+        <location filename="../online/clientcommunication.cpp" line="351"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Server is down wegens onderhoud, probeer het later nog eens.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="272"/>
-        <location filename="../online/clientcommunication.cpp" line="348"/>
+        <location filename="../online/clientcommunication.cpp" line="278"/>
+        <location filename="../online/clientcommunication.cpp" line="354"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Interne serverfout. Probeer het later nog eens.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="276"/>
-        <location filename="../online/clientcommunication.cpp" line="352"/>
+        <location filename="../online/clientcommunication.cpp" line="282"/>
+        <location filename="../online/clientcommunication.cpp" line="358"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Serverfout: Ontbrekende invoer! Neem contact op met de ontwikkelaars.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="324"/>
+        <location filename="../online/clientcommunication.cpp" line="330"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Activiteit throttled doorbroken, dit betekent dat je toetsen of klikken per seconde te hoog is. Wacht een uur of zo om het te verlagen en probeer het opnieuw.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="330"/>
+        <location filename="../online/clientcommunication.cpp" line="336"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Verkeerde token, heb je dit profiel op een andere computer gebruikt?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="333"/>
+        <location filename="../online/clientcommunication.cpp" line="339"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>De gevraagde gebruikersnaam is al geregistreerd! Kies een andere gebruikersnaam en probeer het opnieuw.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="338"/>
+        <location filename="../online/clientcommunication.cpp" line="344"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulse throttled. Je kunt maar om de 60 seconden pulseren.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="341"/>
+        <location filename="../online/clientcommunication.cpp" line="347"/>
         <source>Premium only feature.</source>
         <translation>Alleen Premium functie.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="355"/>
-        <location filename="../online/clientcommunication.cpp" line="872"/>
+        <location filename="../online/clientcommunication.cpp" line="361"/>
+        <location filename="../online/clientcommunication.cpp" line="902"/>
         <source>Success.</source>
         <translation>Succes.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="358"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
         <source>Success, your file is now on the website!</source>
         <translation>Succes, uw bestand staat nu op de website!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="861"/>
+        <location filename="../online/clientcommunication.cpp" line="891"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Kan GeoIP database (%1) niet openen, toestemming geweigerd.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="923"/>
+        <location filename="../online/clientcommunication.cpp" line="953"/>
         <source>Empty reply received</source>
         <translation>Leeg antwoord ontvangen</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="945"/>
+        <location filename="../online/clientcommunication.cpp" line="975"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Kan Network Port Description database (%1) niet openen, toestemming geweigerd.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="959"/>
+        <location filename="../online/clientcommunication.cpp" line="989"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Het gedownloade bestand ziet er niet goed uit: %1</translation>
     </message>
@@ -4967,12 +4967,12 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="139"/>
+        <location filename="../online/versioncheck.cpp" line="140"/>
         <source>Latest version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="140"/>
+        <location filename="../online/versioncheck.cpp" line="141"/>
         <source>You&apos;re running the latest version of WhatPulse.</source>
         <translation type="unfinished"></translation>
     </message>
