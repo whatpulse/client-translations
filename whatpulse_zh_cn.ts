@@ -1058,17 +1058,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="173"/>
         <source>Used</source>
-        <translation>使用次数</translation>
+        <translation>按键次数</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="190"/>
         <source>Hide Shift only</source>
-        <translation>隐藏纯 Shift</translation>
+        <translation>隐藏只带 Shift 的组合</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="199"/>
         <source>Hide Ctrl only</source>
-        <translation>隐藏纯 Ctrl</translation>
+        <translation>隐藏只带 Ctrl 的组合</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="268"/>
@@ -1925,7 +1925,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="171"/>
         <source>Yes, with IP </source>
-        <translation>确定，IP </translation>
+        <translation>有网络，IP 是</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="174"/>
@@ -1935,7 +1935,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="176"/>
         <source>No</source>
-        <translation>否</translation>
+        <translation>没有网络</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="192"/>
@@ -3023,7 +3023,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="239"/>
         <source>Launch when computer starts</source>
-        <translation>计算机启动时启动</translation>
+        <translation>随系统启动</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="241"/>
@@ -3977,7 +3977,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="169"/>
         <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>客户端 API 是一种从 WhatPulse 客户端提取实时信息的方式。你可以用它去填充别的应用中的数据。从我们的&lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;开发者中心&lt;/a&gt;寻找更多信息</translation>
+        <translation>客户端 API 是一种从 WhatPulse 客户端提取实时信息的方式。你可以用它去填充别的应用中的数据。从我们的&lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;开发者中心&lt;/a&gt;寻找更多信息。</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="190"/>
@@ -4002,12 +4002,12 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="326"/>
         <source>Please fill out both the proxy hostname and port number before testing.</source>
-        <translation>测试前请填写代理主机和端口号。</translation>
+        <translation>测试前请填写代理服务器和端口号。</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="332"/>
         <source> Testing..</source>
-        <translation>测试中…</translation>
+        <translation> 测试中…</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="369"/>
@@ -4230,27 +4230,27 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="26"/>
         <source>Software Update</source>
-        <translation type="unfinished">软件更新</translation>
+        <translation>软件更新</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="43"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished">%1 有新版本了！</translation>
+        <translation>%1 有新版本了！</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="50"/>
         <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="unfinished">%1 有 %2 了，而你在 %3。现在下载它？</translation>
+        <translation>%1 有 %2 了，而你在使用 %3。现在下载它？</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="82"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished">稍后提醒我</translation>
+        <translation>稍后提醒我</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="89"/>
         <source>Install Update</source>
-        <translation type="unfinished">安装更新</translation>
+        <translation>安装更新</translation>
     </message>
 </context>
 <context>
@@ -4978,12 +4978,12 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../online/versioncheck.cpp" line="140"/>
         <source>Latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>最新版本</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="141"/>
         <source>You&apos;re running the latest version of WhatPulse.</source>
-        <translation type="unfinished"></translation>
+        <translation>你的 WhatPulse 已经是最新版本。</translation>
     </message>
 </context>
 <context>
@@ -4991,17 +4991,17 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="30"/>
         <source>There&apos;s a new version available!</source>
-        <translation type="unfinished"></translation>
+        <translation>有新版本！</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="35"/>
         <source>What&apos;s new?</source>
-        <translation type="unfinished"></translation>
+        <translation>新功能</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="39"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
 </context>
 <context>
