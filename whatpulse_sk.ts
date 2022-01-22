@@ -4,10 +4,6 @@
 <context>
     <name>AccountTab</name>
     <message>
-        <source>Account information</source>
-        <translation type="vanished">Informácie účtu</translation>
-    </message>
-    <message>
         <location filename="../interface/AccountTab.cpp" line="38"/>
         <source>Username:</source>
         <translation>Používateľské meno:</translation>
@@ -725,123 +721,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateConfirmDialog</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="vanished">Dostupná aktualizácia</translation>
-    </message>
-    <message>
-        <source>The update file is located at:</source>
-        <translation type="vanished">Súbor aktualizácie sa na nachádza na:</translation>
-    </message>
-    <message>
-        <source>&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</source>
-        <translation type="vanished">&lt;a href=&quot;%1&quot;&gt;%1&lt;/a&gt;</translation>
-    </message>
-    <message>
-        <source>Download this update, close &quot;%1&quot;, install it, and then reopen &quot;%1&quot;.</source>
-        <translation type="vanished">Stiahnite túto aktualizáciu, zatvorte &quot;%1&quot;, nainštalujte ju, a potom znovu otvorte &quot;%1&quot;.</translation>
-    </message>
-    <message>
-        <source>When you click &quot;OK&quot;, this link will be opened in your browser.</source>
-        <translation type="vanished">Keď kliknete na &quot;OK&quot;. tento odkaz sa otvorí v prehliadači.</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateDownloadProgress</name>
-    <message>
-        <source>FvUpdateDownloadProgress</source>
-        <translation type="vanished">FvUpdateDownloadProgress</translation>
-    </message>
-    <message>
-        <source>Downloading Update...</source>
-        <translation type="vanished">Sťahovanie Aktualizácie...</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="vanished">Zatvoriť</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateWindow</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="vanished">Dostupná aktualizácia</translation>
-    </message>
-    <message>
-        <source>A new version of %1 is available!</source>
-        <translation type="vanished">Nová verzia %1 je dostupná!</translation>
-    </message>
-    <message>
-        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="vanished">%1 %2 je dostupná - vy máte %3. Chceli by ste ju stiahnuť teraz?</translation>
-    </message>
-    <message>
-        <source>Release Notes:</source>
-        <translation type="vanished">Poznámky Vydania:</translation>
-    </message>
-    <message>
-        <source>Skip This Version</source>
-        <translation type="vanished">Preskočiť Túto Verziu</translation>
-    </message>
-    <message>
-        <source>Remind Me Later</source>
-        <translation type="vanished">Pripomenúť Neskôr</translation>
-    </message>
-    <message>
-        <source>Install Update</source>
-        <translation type="vanished">Nainštalovať Aktualizáciu</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdater</name>
-    <message>
-        <source>Error</source>
-        <translation type="vanished">Chyba</translation>
-    </message>
-    <message>
-        <source>Feed download failed: %1.</source>
-        <translation type="vanished">Nepodarilo sa stiahnuť feed: %1.</translation>
-    </message>
-    <message>
-        <source>Feed parsing failed: %1 %2.</source>
-        <translation type="vanished">Nepodarilo sa vyparsovať feed: %1 %2.</translation>
-    </message>
-    <message>
-        <source>Feed error: &quot;release notes&quot; link is empty</source>
-        <translation type="vanished">Chyba vo feede: &quot;release notes&quot; odkaz je prázdny</translation>
-    </message>
-    <message>
-        <source>Feed error: invalid &quot;release notes&quot; link</source>
-        <translation type="vanished">Chyba fo feede: neplatný &quot;release notes&quot; odkaz</translation>
-    </message>
-    <message>
-        <source>Feed error: invalid &quot;enclosure&quot; with the download link</source>
-        <translation type="vanished">Chyba vo feede: neplatný &quot;enclosure&quot; s odkazom stiahnutia</translation>
-    </message>
-    <message>
-        <source>Updater</source>
-        <translation type="vanished">Aktualizátor</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;You&apos;re up to date!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;whatpulse %1 is currently the newest version available.</source>
-        <translation type="vanished">&lt;b&gt;Máte najnovšiu verziu!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;whatpulse %1 je momentálne najnovšia dostupná verzia.</translation>
-    </message>
-    <message>
-        <source>SSL fingerprint check: The url %1 is not a ssl connection!</source>
-        <translation type="vanished">Kontrola SSL odtlačku: URL adresa %1 nie je ssl pripojenie!</translation>
-    </message>
-    <message>
-        <source>Unable to open</source>
-        <translation type="vanished">Nepodarilo sa otvoriť</translation>
-    </message>
-    <message>
-        <source>Unable to open this link in a browser. Please try manually.</source>
-        <translation type="vanished">Nepodarilo sa otvoriť tento odkaz v prehliadači. Skúste to manuálne.</translation>
+        <translation>FlatTabWidget</translation>
     </message>
 </context>
 <context>
@@ -1607,7 +1487,7 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>Pulz obmedzený! Váš posledný pulz bol pred %1 sekúndami, skúste to prosím neskôr za 10 sekúnd.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="308"/>
+        <location filename="../stats/localstats.cpp" line="313"/>
         <source>Error while pulsing!</source>
         <translation>Chyba pri pulzovaní!</translation>
     </message>
@@ -1641,8 +1521,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="196"/>
-        <location filename="../interface/MainWindow.cpp" line="265"/>
-        <location filename="../interface/MainWindow.cpp" line="312"/>
+        <location filename="../interface/MainWindow.cpp" line="270"/>
+        <location filename="../interface/MainWindow.cpp" line="317"/>
         <source>Account</source>
         <translation>Účet</translation>
     </message>
@@ -1874,31 +1754,19 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>Aplikácie</translation>
     </message>
     <message>
-        <source>Realtime Bandwidth</source>
-        <translation type="vanished">Širka pásma v Reálnom Čase</translation>
-    </message>
-    <message>
-        <source>Bandwidth per Country</source>
-        <translation type="vanished">Šírka pásma podľa Krajiny</translation>
-    </message>
-    <message>
-        <source>Traffic Types</source>
-        <translation type="vanished">Typy Prenosov</translation>
-    </message>
-    <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
         <source>Real-time</source>
-        <translation type="unfinished"></translation>
+        <translation>v reálnom čase</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="39"/>
         <source>Countries</source>
-        <translation type="unfinished"></translation>
+        <translation>Krajín</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="40"/>
         <source>Port Types</source>
-        <translation type="unfinished"></translation>
+        <translation>Typy Portov</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="59"/>
@@ -2655,104 +2523,104 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>Spustenie zálohy reštartuje klienta a zobrazí zálohovacie okno. Pokračovať?</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="144"/>
+        <location filename="../interface/OverviewTab.cpp" line="145"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
         <translation>Aktuálny uptime: neznámy. Neznámy počet reštartov.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="150"/>
+        <location filename="../interface/OverviewTab.cpp" line="151"/>
         <source>Total keycount: unknown</source>
         <translation>Celkový počet kláves: neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="157"/>
         <source>Total clickcount: unknown</source>
         <translation>Celkový počet kliknutí: neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="162"/>
-        <location filename="../interface/OverviewTab.cpp" line="303"/>
+        <location filename="../interface/OverviewTab.cpp" line="163"/>
+        <location filename="../interface/OverviewTab.cpp" line="304"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>Stiahnutých: unknown
 Nahratých: unknown</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="182"/>
-        <location filename="../interface/OverviewTab.cpp" line="226"/>
+        <location filename="../interface/OverviewTab.cpp" line="183"/>
+        <location filename="../interface/OverviewTab.cpp" line="227"/>
         <source>Total: %1
 Available: %2</source>
         <translation>Celkovo: %1
 Dostupných: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="249"/>
+        <location filename="../interface/OverviewTab.cpp" line="250"/>
         <source>Total clickcount: %1
 Unpulsed: %2</source>
         <translation>Celkový počet kliknutí: %1
 Nepulzovaných: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="262"/>
+        <location filename="../interface/OverviewTab.cpp" line="263"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>Celkový počet kláves: %1
 Nepulzovaných: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="269"/>
         <location filename="../interface/OverviewTab.cpp" line="270"/>
+        <location filename="../interface/OverviewTab.cpp" line="271"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="287"/>
+        <location filename="../interface/OverviewTab.cpp" line="288"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>Celkový uptime: %1. %2 reštartov
 Nepulzovaných: %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="299"/>
+        <location filename="../interface/OverviewTab.cpp" line="300"/>
         <source>Down: %1
 Up: %2</source>
         <translation>Stiahnutých: %1
 Nahratých: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="307"/>
+        <location filename="../interface/OverviewTab.cpp" line="308"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="317"/>
+        <location filename="../interface/OverviewTab.cpp" line="318"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>Možnosť &apos;Pracovať Offline&apos; je zapnutá takže nemôžete pulzovať. Vypnite ju aby ste mohli pokračovať v pulzovaní.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="328"/>
+        <location filename="../interface/OverviewTab.cpp" line="329"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulzovanie Vypnuté!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="329"/>
+        <location filename="../interface/OverviewTab.cpp" line="330"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Možnosť &apos;Pracovať Offline&apos; je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli pulzovať znova.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="338"/>
+        <location filename="../interface/OverviewTab.cpp" line="339"/>
         <source>Pulsing..</source>
         <translation>Pulzovanie..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="339"/>
+        <location filename="../interface/OverviewTab.cpp" line="340"/>
         <source>Pulse underway, please wait!</source>
         <translation>Pulz pred nami, počkajte prosím!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="344"/>
+        <location filename="../interface/OverviewTab.cpp" line="345"/>
         <source>Pulse!</source>
         <translation>Pulz!</translation>
     </message>
@@ -2926,348 +2794,329 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
         <translation>Všeobecné Nastavenia</translation>
     </message>
     <message>
-        <source>Automatic Pulsing</source>
-        <translation type="vanished">Automatické Pulzovanie</translation>
-    </message>
-    <message>
-        <source>Geek Window Layout</source>
-        <translation type="vanished">Rozloženie Geek Okna</translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="88"/>
-        <source>Ignored Applications</source>
-        <translation>Ignorované Aplikácie</translation>
-    </message>
-    <message>
-        <source>Proxy</source>
-        <translation type="vanished">Proxy</translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="86"/>
-        <source>Auto Pulsing</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../interface/SettingsTab.cpp" line="87"/>
         <source>Geek Window</source>
-        <translation type="unfinished"></translation>
+        <translation>Geek Okno</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="89"/>
+        <source>Proxy &amp; Client API</source>
+        <translation>Proxy &amp; API</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="90"/>
-        <source>Proxy &amp; Client API</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="91"/>
         <source>Milestones</source>
         <translation>Miľníky</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="97"/>
+        <location filename="../interface/SettingsTab.cpp" line="96"/>
         <source> Check for Updates</source>
         <translation> Skontrolovať aktualizácie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="109"/>
+        <location filename="../interface/SettingsTab.cpp" line="108"/>
         <source> Report Bug</source>
         <translation> Nahlásiť bug</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="124"/>
+        <location filename="../interface/SettingsTab.cpp" line="123"/>
         <source> Save</source>
         <translation> Uložiť</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="159"/>
-        <location filename="../interface/SettingsTab.cpp" line="175"/>
+        <location filename="../interface/SettingsTab.cpp" line="158"/>
+        <location filename="../interface/SettingsTab.cpp" line="174"/>
         <source>Settings - General</source>
         <translation>Nastavenia - Všeobecné</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="161"/>
-        <location filename="../interface/SettingsTab.cpp" line="176"/>
+        <location filename="../interface/SettingsTab.cpp" line="160"/>
+        <location filename="../interface/SettingsTab.cpp" line="175"/>
         <source>Settings - Automatic Pulsing</source>
         <translation>Nastavenia - Automatické Pulzovanie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="163"/>
-        <location filename="../interface/SettingsTab.cpp" line="177"/>
+        <location filename="../interface/SettingsTab.cpp" line="162"/>
+        <location filename="../interface/SettingsTab.cpp" line="176"/>
         <source>Settings - Geek Window Layout</source>
         <translation>Nastavenia - Rozloženie Geek Okna</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="165"/>
-        <location filename="../interface/SettingsTab.cpp" line="178"/>
+        <location filename="../interface/SettingsTab.cpp" line="164"/>
+        <location filename="../interface/SettingsTab.cpp" line="177"/>
         <source>Settings - Ignored Applications</source>
         <translation>Nastavenia - Ignorované Aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="167"/>
-        <location filename="../interface/SettingsTab.cpp" line="179"/>
+        <location filename="../interface/SettingsTab.cpp" line="166"/>
+        <location filename="../interface/SettingsTab.cpp" line="178"/>
         <source>Settings - Proxy</source>
         <translation>Nastavenia - Proxy</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="169"/>
+        <location filename="../interface/SettingsTab.cpp" line="168"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="239"/>
+        <location filename="../interface/SettingsTab.cpp" line="238"/>
         <source>Launch when computer starts</source>
         <translation>Spustiť keď sa zapne počítač</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="241"/>
+        <location filename="../interface/SettingsTab.cpp" line="240"/>
         <source>Enable Portable Mode</source>
         <translation>Zapnúť Prenosný Režim</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="243"/>
+        <location filename="../interface/SettingsTab.cpp" line="244"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>Pulzovať pri dvojkliku na tray ikonu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="247"/>
+        <location filename="../interface/SettingsTab.cpp" line="248"/>
         <source>Include beta versions updates</source>
         <translation>Zahrnúť beta verzie aktualizácií</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="251"/>
+        <location filename="../interface/SettingsTab.cpp" line="252"/>
         <source>Blink trayicon on input activity</source>
         <translation>Blikať tray ikonou pri aktivite vstupu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="254"/>
+        <location filename="../interface/SettingsTab.cpp" line="255"/>
         <source>Automatically install new versions</source>
         <translation>Automaticky inštalovať nové verzie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="256"/>
+        <location filename="../interface/SettingsTab.cpp" line="257"/>
         <source>Upload application info</source>
         <translation>Nahrať informácie aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="259"/>
+        <location filename="../interface/SettingsTab.cpp" line="260"/>
         <source>Work offline (disables pulsing)</source>
         <translation>Pracovať offline (vypne pulzovanie)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="262"/>
+        <location filename="../interface/SettingsTab.cpp" line="263"/>
         <source>Upload heatmap info</source>
         <translation>Nahrať informácie heatmapy</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="265"/>
+        <location filename="../interface/SettingsTab.cpp" line="266"/>
         <source>Weekly online backups</source>
         <translation>Týždenné online zálohy</translation>
     </message>
     <message>
-        <source>Icon color: </source>
-        <translation type="vanished">Farba ikony: </translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="322"/>
+        <location filename="../interface/SettingsTab.cpp" line="323"/>
         <source>Auto</source>
         <translation>Automatická</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="323"/>
+        <location filename="../interface/SettingsTab.cpp" line="324"/>
         <source>Black</source>
         <translation>Čierna</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="324"/>
+        <location filename="../interface/SettingsTab.cpp" line="325"/>
         <source>White</source>
         <translation>Biela</translation>
     </message>
     <message>
-        <source>Development</source>
-        <translation type="vanished">Vývoj</translation>
+        <location filename="../interface/SettingsTab.cpp" line="86"/>
+        <source>Auto Pulse</source>
+        <translation>Auto Pulz</translation>
     </message>
     <message>
-        <source>Language: </source>
-        <translation type="vanished">Jazyk: </translation>
+        <location filename="../interface/SettingsTab.cpp" line="88"/>
+        <source>Ignored</source>
+        <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="303"/>
+        <location filename="../interface/SettingsTab.cpp" line="242"/>
+        <source>Open Window on Startup</source>
+        <translation>Otvoriť okno pri štarte</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="304"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="306"/>
-        <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Téma&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="307"/>
+        <source>Light</source>
+        <translation>Svetlo</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="308"/>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Tmavý</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="319"/>
+        <location filename="../interface/SettingsTab.cpp" line="320"/>
         <source>&lt;b&gt;Icon Color&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Farba Ikony&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="341"/>
+        <location filename="../interface/SettingsTab.cpp" line="342"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Jazyk&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="368"/>
+        <location filename="../interface/SettingsTab.cpp" line="369"/>
         <source>Pulse Server: </source>
         <translation>Pulzový Server: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="384"/>
+        <location filename="../interface/SettingsTab.cpp" line="385"/>
         <source>Active Stats</source>
         <translation>Aktívne Štatistiky</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="394"/>
+        <location filename="../interface/SettingsTab.cpp" line="395"/>
         <source>Input</source>
         <translation>Vstup</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="400"/>
+        <location filename="../interface/SettingsTab.cpp" line="401"/>
         <source>Keyboard</source>
         <translation>Klávesnica</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="401"/>
+        <location filename="../interface/SettingsTab.cpp" line="402"/>
         <source>Mouse</source>
         <translation>Myš</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="402"/>
-        <location filename="../interface/SettingsTab.cpp" line="422"/>
-        <location filename="../interface/SettingsTab.cpp" line="443"/>
+        <location filename="../interface/SettingsTab.cpp" line="403"/>
+        <location filename="../interface/SettingsTab.cpp" line="423"/>
+        <location filename="../interface/SettingsTab.cpp" line="444"/>
         <source>Per Application</source>
         <translation>Podľa Aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="412"/>
+        <location filename="../interface/SettingsTab.cpp" line="413"/>
         <source>Network</source>
         <translation>Sieť</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="418"/>
+        <location filename="../interface/SettingsTab.cpp" line="419"/>
         <source>Per Interface</source>
         <translation>Podľa Rozhrania</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="420"/>
+        <location filename="../interface/SettingsTab.cpp" line="421"/>
         <source>Per Country</source>
         <translation>Podľa Krajiny</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="424"/>
+        <location filename="../interface/SettingsTab.cpp" line="425"/>
         <source>Per Traffic Type</source>
         <translation>Podľa Typu Prenosu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="434"/>
+        <location filename="../interface/SettingsTab.cpp" line="435"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="440"/>
+        <location filename="../interface/SettingsTab.cpp" line="441"/>
         <source>Computer Uptime</source>
         <translation>Uptime Počítača</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="441"/>
+        <location filename="../interface/SettingsTab.cpp" line="442"/>
         <source>Reboots</source>
         <translation>Reštarty</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="455"/>
+        <location filename="../interface/SettingsTab.cpp" line="456"/>
         <source>Advanced</source>
         <translation>Rozšírené</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="459"/>
+        <location filename="../interface/SettingsTab.cpp" line="460"/>
         <source>&amp;Open Data Directory</source>
         <translation>&amp;Otvoriť Priečinok Dát</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="466"/>
+        <location filename="../interface/SettingsTab.cpp" line="467"/>
         <source>&amp;Start Online Backup</source>
         <translation>&amp;Spustiť Online Zálohu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="473"/>
+        <location filename="../interface/SettingsTab.cpp" line="474"/>
         <source>Re-upload &amp;applications</source>
         <translation>Znovu nahrať &amp;aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="479"/>
+        <location filename="../interface/SettingsTab.cpp" line="480"/>
         <source>Empty local &amp;database</source>
         <translation>Vyčistiť lokálnu &amp;databázu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="485"/>
+        <location filename="../interface/SettingsTab.cpp" line="486"/>
         <source>Update &amp;GeoIP database</source>
         <translation>Aktualizovať &amp;GeoIP databázu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="492"/>
+        <location filename="../interface/SettingsTab.cpp" line="493"/>
         <source>Update Network Port Description database</source>
         <translation>Aktualizovať databázu Popisov Sieťových Portov</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="499"/>
+        <location filename="../interface/SettingsTab.cpp" line="500"/>
         <source>&amp;Upload database</source>
         <translation>&amp;Nahrať databázu</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="511"/>
+        <location filename="../interface/SettingsTab.cpp" line="512"/>
         <source>Check macOS Permissions</source>
         <translation>Skontrolovať macOS povolenia</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="532"/>
+        <location filename="../interface/SettingsTab.cpp" line="533"/>
         <source>Uploading applications</source>
         <translation>Nahrávanie aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="559"/>
+        <location filename="../interface/SettingsTab.cpp" line="560"/>
         <source>Uploading Apps</source>
         <translation>Nahrávanie Apiek</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="560"/>
+        <location filename="../interface/SettingsTab.cpp" line="561"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Aplikácie boli označené na nahranie. Môže to trvať hodinu predtým ako sa objavia na stránke.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="577"/>
+        <location filename="../interface/SettingsTab.cpp" line="578"/>
         <source>Empty Database</source>
         <translation>Prázdna Databáza</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="578"/>
+        <location filename="../interface/SettingsTab.cpp" line="579"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Vyčistenie vašej lokálnej databázy zničí všetky lokálne štatistiky a odhlási váš účet. Neexistuje žiadne obnovenie na toto, pokračovať?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="596"/>
+        <location filename="../interface/SettingsTab.cpp" line="597"/>
         <source>Start Online Backup?</source>
         <translation>Spustiť Online Zálohu?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="597"/>
+        <location filename="../interface/SettingsTab.cpp" line="598"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Spustenie zálohy reštartuje klienta a zobrazí zálohovacie okno. Pokračovať?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="757"/>
+        <location filename="../interface/SettingsTab.cpp" line="758"/>
         <source>Settings saved...</source>
         <translation>Nastavenia uložené...</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="801"/>
+        <location filename="../interface/SettingsTab.cpp" line="802"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Týždenné online zálohy (iba premium)</translation>
     </message>
@@ -4221,27 +4070,27 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="26"/>
         <source>Software Update</source>
-        <translation type="unfinished">Dostupná aktualizácia</translation>
+        <translation>Dostupná aktualizácia</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="43"/>
         <source>A new version of %1 is available!</source>
-        <translation type="unfinished">Nová verzia %1 je dostupná!</translation>
+        <translation>Nová verzia %1 je dostupná!</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="50"/>
         <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="unfinished">%1 %2 je dostupná - vy máte %3. Chceli by ste ju stiahnuť teraz?</translation>
+        <translation>%1 %2 je dostupná - vy máte %3. Chceli by ste ju stiahnuť teraz?</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="82"/>
         <source>Remind Me Later</source>
-        <translation type="unfinished">Pripomenúť Neskôr</translation>
+        <translation>Pripomenúť Neskôr</translation>
     </message>
     <message>
         <location filename="../resources/forms/updateReleaseNotesWindow.ui" line="89"/>
         <source>Install Update</source>
-        <translation type="unfinished">Nainštalovať Aktualizáciu</translation>
+        <translation>Nainštalovať Aktualizáciu</translation>
     </message>
 </context>
 <context>
@@ -4967,14 +4816,14 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="140"/>
+        <location filename="../online/versioncheck.cpp" line="141"/>
         <source>Latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Najnovšia verzia</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="141"/>
+        <location filename="../online/versioncheck.cpp" line="142"/>
         <source>You&apos;re running the latest version of WhatPulse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Používate najnovšiu verziu WhatPulse.</translation>
     </message>
 </context>
 <context>
@@ -4982,17 +4831,17 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="30"/>
         <source>There&apos;s a new version available!</source>
-        <translation type="unfinished"></translation>
+        <translation>K dispozícii je nová verzia!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="35"/>
         <source>What&apos;s new?</source>
-        <translation type="unfinished"></translation>
+        <translation>Čo je nové?</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="39"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualizovať</translation>
     </message>
 </context>
 <context>
