@@ -2927,7 +2927,7 @@ Niezapulsowane: %2 pobranych, %3 wysłanych</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="86"/>
         <source>Auto Pulse</source>
-        <translation>Auto Pulsuj</translation>
+        <translation>Automatyczne pulsowanie</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="87"/>
@@ -2947,17 +2947,17 @@ Niezapulsowane: %2 pobranych, %3 wysłanych</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="242"/>
         <source>Open Window on Startup</source>
-        <translation>Uruchamiaj WhatPulse ze startem systemu</translation>
+        <translation>Pokazuj okno WhatPulse po uruchomieniu</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="304"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Temat&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Motyw&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="307"/>
         <source>Light</source>
-        <translation>Światło</translation>
+        <translation>Jasny</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="308"/>
@@ -2967,7 +2967,7 @@ Niezapulsowane: %2 pobranych, %3 wysłanych</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="320"/>
         <source>&lt;b&gt;Icon Color&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Kolor Ikony&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Kolor ikony&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="342"/>
