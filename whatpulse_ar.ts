@@ -26,7 +26,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="47"/>
         <source>Premium:</source>
-        <translation>التميز:</translation>
+        <translation>العضوية المتميزة:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="71"/>
@@ -771,7 +771,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="205"/>
         <source>Group by:</source>
-        <translation>الجميع حسب:</translation>
+        <translation>التجميع حسب:</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="207"/>
@@ -1151,7 +1151,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="826"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation>&lt;b&gt;غير النابض&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;غير المنبوض&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="838"/>
@@ -2933,7 +2933,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="88"/>
         <source>Ignored</source>
-        <translation>تم التجاهل</translation>
+        <translation>المتجاهل</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="242"/>
@@ -3154,22 +3154,22 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="109"/>
         <source>keys</source>
-        <translation>المفاتيح</translation>
+        <translation>مفتاحاً</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="114"/>
         <source>clicks</source>
-        <translation>النقرات</translation>
+        <translation>نقرة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="119"/>
         <source>MB downloaded</source>
-        <translation>الميجابايت المنزلة</translation>
+        <translation>ميجابايت منزلة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="124"/>
         <source>MB uploaded</source>
-        <translation>الميجابايت المرفوعة</translation>
+        <translation>ميجابايت مرفوعة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="129"/>
@@ -3280,7 +3280,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="409"/>
         <source>you&apos;ve collected </source>
-        <translation>لقد جمعت </translation>
+        <translation>تجمع </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="412"/>
@@ -3332,55 +3332,55 @@ Unpulsed: %2 down, %3 up</source>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="115"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="403"/>
         <source>Unpulsed Keys</source>
-        <translation>المفاتيح غير النابضة</translation>
+        <translation>المفاتيح غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="116"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="405"/>
         <source>Unpulsed Clicks</source>
-        <translation>النقرات غير النابضة</translation>
+        <translation>النقرات غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="117"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="407"/>
         <source>Unpulsed Download</source>
-        <translation>التنزيل غير النابض</translation>
+        <translation>التنزيل غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="118"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="409"/>
         <source>Unpulsed Upload</source>
-        <translation>الرفع غير النابض</translation>
+        <translation>الرفع غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="119"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="411"/>
         <source>Unpulsed Uptime</source>
-        <translation>مدة التشغيل غير النابضة</translation>
+        <translation>مدة التشغيل غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="120"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="413"/>
         <source>Unpulsed Click Rate</source>
-        <translation>معدل النقرات غير النابضة</translation>
+        <translation>معدل النقرات غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="121"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="415"/>
         <source>Unpulsed Key Rate</source>
-        <translation>معدل المفتاح غير النابض</translation>
+        <translation>معدل المفتاح غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="122"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="417"/>
         <source>Unpulsed Download Rate</source>
-        <translation>معدل التنزيل غير النابض</translation>
+        <translation>معدل التنزيل غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="123"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="419"/>
         <source>Unpulsed Upload Rate</source>
-        <translation>معدل الرفع غير النابض</translation>
+        <translation>معدل الرفع غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="124"/>
@@ -3564,7 +3564,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="300"/>
         <source>Close Geek Window on double click</source>
-        <translation>إغلاف نافذة الوَلُوع عند النقر المزدوج</translation>
+        <translation>إغلاق نافذة الوَلُوع عند النقر المزدوج</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="306"/>
@@ -4870,7 +4870,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../online/whttpserver_responder.cpp" line="33"/>
         <source>Get all unpulsed stats</source>
-        <translation>الحصول على جميع الإحصائيات غير النابضة</translation>
+        <translation>الحصول على جميع الإحصائيات غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../online/whttpserver_responder.cpp" line="38"/>
