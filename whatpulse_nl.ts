@@ -546,7 +546,7 @@ Draagbare modus blijft ingeschakeld.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="361"/>
-        <location filename="../online/clientcommunication.cpp" line="902"/>
+        <location filename="../online/clientcommunication.cpp" line="911"/>
         <source>Success.</source>
         <translation>Succes.</translation>
     </message>
@@ -556,22 +556,27 @@ Draagbare modus blijft ingeschakeld.</translation>
         <translation>Succes, uw bestand staat nu op de website!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="891"/>
+        <location filename="../online/clientcommunication.cpp" line="887"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Kan GeoIP database (%1) niet openen, toestemming geweigerd.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="953"/>
+        <location filename="../online/clientcommunication.cpp" line="899"/>
+        <source>New GeoIP database seems to be too small (%1), stopping update.</source>
+        <translation>Nieuwe GeoIP-database lijkt te klein (%1), waardoor de update wordt stopgezet.</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="963"/>
         <source>Empty reply received</source>
         <translation>Leeg antwoord ontvangen</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="975"/>
+        <location filename="../online/clientcommunication.cpp" line="985"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Kan Network Port Description database (%1) niet openen, toestemming geweigerd.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="989"/>
+        <location filename="../online/clientcommunication.cpp" line="999"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Het gedownloade bestand ziet er niet goed uit: %1</translation>
     </message>
@@ -722,6 +727,54 @@ Controleer uw permissies op: %2</translation>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
         <translation>FlatTabWidget</translation>
+    </message>
+</context>
+<context>
+    <name>FvUpdateConfirmDialog</name>
+    <message>
+        <source>Software Update</source>
+        <translation type="obsolete">Software bijwerken</translation>
+    </message>
+</context>
+<context>
+    <name>FvUpdateDownloadProgress</name>
+    <message>
+        <source>Downloading Update...</source>
+        <translation type="obsolete">Update aan het downloaden...</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Sluiten</translation>
+    </message>
+</context>
+<context>
+    <name>FvUpdateWindow</name>
+    <message>
+        <source>Software Update</source>
+        <translation type="obsolete">Software bijwerken</translation>
+    </message>
+    <message>
+        <source>A new version of %1 is available!</source>
+        <translation type="obsolete">Een nieuwe versie van %1 is beschikbaar!</translation>
+    </message>
+    <message>
+        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
+        <translation type="obsolete">%1 %2 is nu beschikbaar - u heeft %3. Wilt u het nu downloaden?</translation>
+    </message>
+    <message>
+        <source>Remind Me Later</source>
+        <translation type="obsolete">Herinner me later</translation>
+    </message>
+    <message>
+        <source>Install Update</source>
+        <translation type="obsolete">Update installeren</translation>
+    </message>
+</context>
+<context>
+    <name>FvUpdater</name>
+    <message>
+        <source>Error</source>
+        <translation type="obsolete">Fout</translation>
     </message>
 </context>
 <context>
@@ -1212,8 +1265,8 @@ Controleer uw permissies op: %2</translation>
         <location filename="../interface/InputTab.cpp" line="1104"/>
         <location filename="../interface/InputTab.cpp" line="1113"/>
         <location filename="../interface/InputTab.cpp" line="1114"/>
-        <location filename="../interface/InputTab.cpp" line="2815"/>
-        <location filename="../interface/InputTab.cpp" line="2816"/>
+        <location filename="../interface/InputTab.cpp" line="2810"/>
+        <location filename="../interface/InputTab.cpp" line="2811"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
@@ -1253,152 +1306,152 @@ Controleer uw permissies op: %2</translation>
         <translation>Andere</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2420"/>
+        <location filename="../interface/InputTab.cpp" line="2415"/>
         <source>keyboard historical data</source>
         <translation>historische gegevens over het toetsenbord</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2425"/>
+        <location filename="../interface/InputTab.cpp" line="2420"/>
         <source>mouse historical data</source>
         <translation>historische muisgegevens</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2426"/>
+        <location filename="../interface/InputTab.cpp" line="2421"/>
         <source>Reset Mouse History</source>
         <translation>Muis geschiedenis resetten</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2430"/>
+        <location filename="../interface/InputTab.cpp" line="2425"/>
         <source>application historical data</source>
         <translation>applicatie historische gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2431"/>
+        <location filename="../interface/InputTab.cpp" line="2426"/>
         <source>Reset Application History</source>
         <translation>Reset Applicatiegeschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2435"/>
+        <location filename="../interface/InputTab.cpp" line="2430"/>
         <source>keyboard and mouse historical data</source>
         <translation>historische gegevens over toetsenbord en muis</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2436"/>
+        <location filename="../interface/InputTab.cpp" line="2431"/>
         <source>Reset Keyboard and Mouse History</source>
         <translation>Reset toetsenbord en muis geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2440"/>
+        <location filename="../interface/InputTab.cpp" line="2435"/>
         <source>key combination historical data</source>
         <translation>toetscombinatie historische gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2441"/>
+        <location filename="../interface/InputTab.cpp" line="2436"/>
         <source>Reset Key Combinations History</source>
         <translation>Reset Toetscombinaties Geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2445"/>
+        <location filename="../interface/InputTab.cpp" line="2440"/>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2447"/>
+        <location filename="../interface/InputTab.cpp" line="2442"/>
         <source>Do you want to reset all input data or just the </source>
         <translation>Wilt u alle invoergegevens resetten of alleen de </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2450"/>
+        <location filename="../interface/InputTab.cpp" line="2445"/>
         <source>Reset All Data</source>
         <translation>Reset alle gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2465"/>
-        <location filename="../interface/InputTab.cpp" line="2485"/>
-        <location filename="../interface/InputTab.cpp" line="2506"/>
-        <location filename="../interface/InputTab.cpp" line="2519"/>
-        <location filename="../interface/InputTab.cpp" line="2543"/>
-        <location filename="../interface/InputTab.cpp" line="2559"/>
+        <location filename="../interface/InputTab.cpp" line="2460"/>
+        <location filename="../interface/InputTab.cpp" line="2480"/>
+        <location filename="../interface/InputTab.cpp" line="2501"/>
+        <location filename="../interface/InputTab.cpp" line="2514"/>
+        <location filename="../interface/InputTab.cpp" line="2538"/>
+        <location filename="../interface/InputTab.cpp" line="2554"/>
         <source>Delete stats?</source>
         <translation>Statistieken wissen?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2466"/>
+        <location filename="../interface/InputTab.cpp" line="2461"/>
         <source>Are you sure you want to delete all recorded keyboard statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen toetsenbordstatistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2486"/>
+        <location filename="../interface/InputTab.cpp" line="2481"/>
         <source>Are you sure you want to delete all recorded mouse statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen muisstatistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2507"/>
+        <location filename="../interface/InputTab.cpp" line="2502"/>
         <source>Are you sure you want to delete all recorded per application input statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle geregistreerde invoerstatistieken per toepassing wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2520"/>
+        <location filename="../interface/InputTab.cpp" line="2515"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen toetsenbord- en muisstatistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2544"/>
+        <location filename="../interface/InputTab.cpp" line="2539"/>
         <source>Are you sure you want to delete all recorded key combination statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgeslagen toetscombinatie-statistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2560"/>
+        <location filename="../interface/InputTab.cpp" line="2555"/>
         <source>Are you sure you want to delete all recorded input statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle geregistreerde invoerstatistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2589"/>
+        <location filename="../interface/InputTab.cpp" line="2584"/>
         <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>Geen invoerapparaten gevonden, zijn uw &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;toestemmingen&lt;/a&gt; correct ingesteld?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2670"/>
+        <location filename="../interface/InputTab.cpp" line="2665"/>
         <source>Ignore</source>
         <translation>Negeren</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2676"/>
+        <location filename="../interface/InputTab.cpp" line="2671"/>
         <source>Open File Location</source>
         <translation>Bestandslocatie openen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2682"/>
+        <location filename="../interface/InputTab.cpp" line="2677"/>
         <source>Open Online Profile</source>
         <translation>Online Profiel Openen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2697"/>
+        <location filename="../interface/InputTab.cpp" line="2692"/>
         <source>Ignore application?</source>
         <translation>Applicatie negeren?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2698"/>
+        <location filename="../interface/InputTab.cpp" line="2693"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2751"/>
+        <location filename="../interface/InputTab.cpp" line="2746"/>
         <source>Not yet</source>
         <translation>Nog niet</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2752"/>
+        <location filename="../interface/InputTab.cpp" line="2747"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Deze applicatie is nog niet geupload naar de website, kom over een uur nog eens terug.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2775"/>
+        <location filename="../interface/InputTab.cpp" line="2770"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Opruimen Muis Heatmap</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2776"/>
+        <location filename="../interface/InputTab.cpp" line="2771"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Door je muis heatmap niet te opruimen zal je database behoorlijk groot worden en WhatPulse mogelijk vertragen. Stoppen met opruimen?</translation>
     </message>
@@ -1477,17 +1530,17 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="231"/>
+        <location filename="../stats/localstats.cpp" line="235"/>
         <source>Pulse throttled!</source>
         <translation>Pulse throttled!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="232"/>
+        <location filename="../stats/localstats.cpp" line="236"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Pulse afgeslagen! Uw laatste pulse was %1 seconden geleden, probeer opnieuw over 10 seconden.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="313"/>
+        <location filename="../stats/localstats.cpp" line="317"/>
         <source>Error while pulsing!</source>
         <translation>Fout bij pulsen!</translation>
     </message>
@@ -1495,36 +1548,41 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="189"/>
+        <location filename="../interface/MainWindow.cpp" line="196"/>
         <source>Overview</source>
         <translation>Overzicht</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="190"/>
+        <location filename="../interface/MainWindow.cpp" line="197"/>
         <source>Input</source>
         <translation>Input</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="191"/>
+        <location filename="../interface/MainWindow.cpp" line="198"/>
         <source>Network</source>
         <translation>Netwerk</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="192"/>
+        <location filename="../interface/MainWindow.cpp" line="199"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="193"/>
+        <location filename="../interface/MainWindow.cpp" line="200"/>
         <source>Settings</source>
         <translation>Instellingen</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="196"/>
-        <location filename="../interface/MainWindow.cpp" line="270"/>
-        <location filename="../interface/MainWindow.cpp" line="317"/>
+        <location filename="../interface/MainWindow.cpp" line="203"/>
+        <location filename="../interface/MainWindow.cpp" line="277"/>
+        <location filename="../interface/MainWindow.cpp" line="324"/>
         <source>Account</source>
         <translation>Account</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="335"/>
+        <source>Disabled</source>
+        <translation>Gedeactiveerd</translation>
     </message>
 </context>
 <context>
@@ -1888,38 +1946,38 @@ Controleer uw permissies op: %2</translation>
         <translation>Weet u zeker dat u alle opgenomen netwerkstatistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="358"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="359"/>
         <source>Success!</source>
         <translation>Succes!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="358"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="359"/>
         <source>GeoIP Database updated succesfully!</source>
         <translation>GeoIP Database succesvol bijgewerkt!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="361"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="366"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="362"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="367"/>
         <source>Something went wrong!</source>
         <translation>Er is iets fout gegaan!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="362"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="363"/>
         <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
         <translation>GeoIP Database is niet succesvol bijgewerkt, onbekende fout. Probeer het later opnieuw.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="367"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="368"/>
         <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
         <translation>GeoIP Database is niet succesvol bijgewerkt, hier is de fout: </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="376"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="377"/>
         <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</source>
         <translation>Npcap niet gevonden, wat nodig is voor netwerkstatistieken.&lt;br&gt;Download op &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="380"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="381"/>
         <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
         <translation>LibPcap niet gevonden, nodig voor netwerkstatistieken. &lt;br&gt;Installeer pakket a.u.b.</translation>
     </message>
@@ -2539,7 +2597,7 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="163"/>
-        <location filename="../interface/OverviewTab.cpp" line="304"/>
+        <location filename="../interface/OverviewTab.cpp" line="310"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>Download: onbekend
@@ -2561,66 +2619,86 @@ Unpulsed: %2</source>
 Ongepulsed: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="263"/>
+        <location filename="../interface/OverviewTab.cpp" line="256"/>
+        <source>Click counting is disabled</source>
+        <translation>Klik metingen is uitgeschakeld</translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="265"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>Totaal aantal toetsen: %1
 Ongepulsed: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="270"/>
         <location filename="../interface/OverviewTab.cpp" line="271"/>
+        <source>Key counting is disabled</source>
+        <translation>Toets metingen is uitgeschakeld</translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="274"/>
+        <location filename="../interface/OverviewTab.cpp" line="275"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="288"/>
+        <location filename="../interface/OverviewTab.cpp" line="292"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>Huidige uptime: %1. %2 herstarts
 Ongepulsed: %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="300"/>
+        <location filename="../interface/OverviewTab.cpp" line="296"/>
+        <source>Uptime is disabled</source>
+        <translation>Uptime is uitgeschakeld</translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="306"/>
         <source>Down: %1
 Up: %2</source>
         <translation>Download: %1
 Upload: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="308"/>
+        <location filename="../interface/OverviewTab.cpp" line="314"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 Niet gepulsed: %2 down, %3 up</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="318"/>
+        <location filename="../interface/OverviewTab.cpp" line="321"/>
+        <source>Network is disabled</source>
+        <translation>Netwerk is uitgeschakeld</translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="326"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>De optie &apos;Offline werken&apos; is ingeschakeld, dus u kunt niet pulsen. Schakel die optie uit om het pulsen te hervatten.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="329"/>
+        <location filename="../interface/OverviewTab.cpp" line="337"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsen Uitgeschakeld!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="330"/>
+        <location filename="../interface/OverviewTab.cpp" line="338"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>De instelling &quot;Offline werken&quot; is ingeschakeld. Dit voorkomt dat de client online gaat, wat pulsen inhoudt. Zet die instelling uit en je kunt weer pulsen.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="339"/>
+        <location filename="../interface/OverviewTab.cpp" line="347"/>
         <source>Pulsing..</source>
         <translation>Pulsing..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="340"/>
+        <location filename="../interface/OverviewTab.cpp" line="348"/>
         <source>Pulse underway, please wait!</source>
         <translation>Pulse onderweg, wacht alstublieft!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="345"/>
+        <location filename="../interface/OverviewTab.cpp" line="353"/>
         <source>Pulse!</source>
         <translation>Pulse!</translation>
     </message>
@@ -3101,22 +3179,22 @@ Niet gepulsed: %2 down, %3 up</translation>
         <translation>Het legen van je lokale database zal alle lokale statistieken vernietigen en je account uitloggen. Er is geen herstel voor dit, ga verder?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="597"/>
+        <location filename="../interface/SettingsTab.cpp" line="599"/>
         <source>Start Online Backup?</source>
         <translation>Online Back-up Starten?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="598"/>
+        <location filename="../interface/SettingsTab.cpp" line="600"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Als u een back-up start, wordt de client opnieuw opgestart en wordt het back-upvenster weergegeven. Doorgaan?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="758"/>
+        <location filename="../interface/SettingsTab.cpp" line="760"/>
         <source>Settings saved...</source>
         <translation>Instellingen opgeslagen...</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="802"/>
+        <location filename="../interface/SettingsTab.cpp" line="804"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Wekelijkse online back-ups (alleen premium)</translation>
     </message>
@@ -3927,64 +4005,65 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>TimePeriod</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="44"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="76"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="136"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="244"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="78"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="140"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="248"/>
         <source>real-time</source>
         <translation>real-time</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="49"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="78"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="137"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="80"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="141"/>
         <source>today</source>
         <translation>vandaag</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="53"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="80"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="135"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="82"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="139"/>
         <source>yesterday</source>
         <translation>gisteren</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="57"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="82"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="138"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="84"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="142"/>
         <source>week</source>
         <translation>week</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="61"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="84"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="139"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="86"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="143"/>
         <source>month</source>
         <translation>maand</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="64"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="86"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="140"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="90"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="144"/>
         <source>6 months</source>
         <translation>6 maanden</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="65"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="88"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="141"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="92"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="145"/>
         <source>year</source>
         <translation>jaar</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="71"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="88"/>
         <source>all</source>
         <translation>alles</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="72"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="90"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="142"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="251"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="74"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="94"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="146"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="255"/>
         <source>custom</source>
         <translation>anders</translation>
     </message>
@@ -3992,22 +4071,22 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="393"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="397"/>
         <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
         <translation>Selecteer de begin- en einddatum van de periode waarvan u de statistieken wilt zien.</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="395"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="399"/>
         <source>Save</source>
         <translation>Opslaan</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="399"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="403"/>
         <source>From:</source>
         <translation>Van:</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="411"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="415"/>
         <source>To:</source>
         <translation>Naar:</translation>
     </message>
@@ -4253,305 +4332,305 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>UptimeTab</name>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="40"/>
+        <location filename="../interface/UptimeTab.cpp" line="47"/>
         <source>Computer Uptime</source>
         <translation>Computer Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="42"/>
+        <location filename="../interface/UptimeTab.cpp" line="49"/>
         <source>Reboot Calendar</source>
         <translation>Herstart Kalender</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="44"/>
+        <location filename="../interface/UptimeTab.cpp" line="51"/>
         <source>Applications</source>
         <translation>Applicaties</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="46"/>
+        <location filename="../interface/UptimeTab.cpp" line="53"/>
         <source>Application Activity</source>
         <translation>Applicatie Activiteit</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="60"/>
+        <location filename="../interface/UptimeTab.cpp" line="67"/>
         <source> Reset</source>
         <translation> Reset</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="75"/>
-        <location filename="../interface/UptimeTab.cpp" line="89"/>
+        <location filename="../interface/UptimeTab.cpp" line="82"/>
+        <location filename="../interface/UptimeTab.cpp" line="96"/>
         <source>Uptime - Computer Uptime</source>
         <translation>Uptime - Computer Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="77"/>
-        <location filename="../interface/UptimeTab.cpp" line="90"/>
+        <location filename="../interface/UptimeTab.cpp" line="84"/>
+        <location filename="../interface/UptimeTab.cpp" line="97"/>
         <source>Uptime - Reboot Calendar</source>
         <translation>Uptime - Herstart Kalender</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="79"/>
-        <location filename="../interface/UptimeTab.cpp" line="91"/>
+        <location filename="../interface/UptimeTab.cpp" line="86"/>
+        <location filename="../interface/UptimeTab.cpp" line="98"/>
         <source>Uptime - Applications</source>
         <translation>Uptime - Applicaties</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="81"/>
-        <location filename="../interface/UptimeTab.cpp" line="92"/>
+        <location filename="../interface/UptimeTab.cpp" line="88"/>
+        <location filename="../interface/UptimeTab.cpp" line="99"/>
         <source>Uptime - Application Activity</source>
         <translation>Uptime - Applicatie Activiteit</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="83"/>
+        <location filename="../interface/UptimeTab.cpp" line="90"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="132"/>
-        <location filename="../interface/UptimeTab.cpp" line="260"/>
+        <location filename="../interface/UptimeTab.cpp" line="139"/>
+        <location filename="../interface/UptimeTab.cpp" line="279"/>
         <source>Export</source>
         <translation>Export</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="140"/>
-        <location filename="../interface/UptimeTab.cpp" line="268"/>
+        <location filename="../interface/UptimeTab.cpp" line="147"/>
+        <location filename="../interface/UptimeTab.cpp" line="287"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exporteer naar .csv</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="144"/>
-        <location filename="../interface/UptimeTab.cpp" line="271"/>
+        <location filename="../interface/UptimeTab.cpp" line="151"/>
+        <location filename="../interface/UptimeTab.cpp" line="290"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Exporteer Wizard</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="174"/>
+        <location filename="../interface/UptimeTab.cpp" line="186"/>
         <source>Go Premium</source>
         <translation>Ga Premium</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="193"/>
+        <location filename="../interface/UptimeTab.cpp" line="205"/>
         <source>&lt;h3&gt;Favorite reboot days&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Favoriete herstart dagen&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="219"/>
+        <location filename="../interface/UptimeTab.cpp" line="231"/>
         <source>Sun</source>
         <translation>Zo</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="219"/>
+        <location filename="../interface/UptimeTab.cpp" line="231"/>
         <source>Mon</source>
         <translation>Ma</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="219"/>
+        <location filename="../interface/UptimeTab.cpp" line="231"/>
         <source>Tue</source>
         <translation>Di</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="219"/>
+        <location filename="../interface/UptimeTab.cpp" line="231"/>
         <source>Wed</source>
         <translation>Woe</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="220"/>
+        <location filename="../interface/UptimeTab.cpp" line="232"/>
         <source>Thu</source>
         <translation>Do</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="220"/>
+        <location filename="../interface/UptimeTab.cpp" line="232"/>
         <source>Fri</source>
         <translation>Vr</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="220"/>
+        <location filename="../interface/UptimeTab.cpp" line="232"/>
         <source>Sat</source>
         <translation>Zat</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="235"/>
+        <location filename="../interface/UptimeTab.cpp" line="254"/>
         <source>Show only recently used applications</source>
         <translation>Toon alleen recent gebruikte applicaties</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="242"/>
+        <location filename="../interface/UptimeTab.cpp" line="261"/>
         <source>Show only running applications</source>
         <translation>Toon alleen draaiende applicaties</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="290"/>
-        <location filename="../interface/UptimeTab.cpp" line="291"/>
-        <location filename="../interface/UptimeTab.cpp" line="292"/>
-        <location filename="../interface/UptimeTab.cpp" line="293"/>
-        <location filename="../interface/UptimeTab.cpp" line="294"/>
-        <location filename="../interface/UptimeTab.cpp" line="295"/>
+        <location filename="../interface/UptimeTab.cpp" line="309"/>
+        <location filename="../interface/UptimeTab.cpp" line="310"/>
+        <location filename="../interface/UptimeTab.cpp" line="311"/>
+        <location filename="../interface/UptimeTab.cpp" line="312"/>
+        <location filename="../interface/UptimeTab.cpp" line="313"/>
+        <location filename="../interface/UptimeTab.cpp" line="314"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="306"/>
+        <location filename="../interface/UptimeTab.cpp" line="325"/>
         <source>Unpulsed uptime:</source>
         <translation>Ongepulsed uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="309"/>
+        <location filename="../interface/UptimeTab.cpp" line="328"/>
         <source>Current uptime:</source>
         <translation>Huidige uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="312"/>
+        <location filename="../interface/UptimeTab.cpp" line="331"/>
         <source>Total uptime:</source>
         <translation>Totale uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="315"/>
+        <location filename="../interface/UptimeTab.cpp" line="334"/>
         <source>Longest uptime:</source>
         <translation>Langste uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="318"/>
+        <location filename="../interface/UptimeTab.cpp" line="337"/>
         <source>Average uptime:</source>
         <translation>Gemiddelde uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="321"/>
+        <location filename="../interface/UptimeTab.cpp" line="340"/>
         <source>Total reboots:</source>
         <translation>Totale herstarts:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="331"/>
+        <location filename="../interface/UptimeTab.cpp" line="350"/>
         <source>Reboot history for </source>
         <translation>Herstart geschiedenis voor </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="376"/>
+        <location filename="../interface/UptimeTab.cpp" line="395"/>
         <source>No reboots found</source>
         <translation>Geen herstarts gevonden</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="389"/>
+        <location filename="../interface/UptimeTab.cpp" line="408"/>
         <source>Reboot history</source>
         <translation>Herstart geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="447"/>
+        <location filename="../interface/UptimeTab.cpp" line="467"/>
         <source>Application</source>
         <translation>Applicatie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="448"/>
+        <location filename="../interface/UptimeTab.cpp" line="467"/>
         <source>Total time</source>
         <translation>Totale tijd</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="449"/>
+        <location filename="../interface/UptimeTab.cpp" line="468"/>
         <source>Total active time</source>
         <translation>Totale actieve tijd</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="476"/>
+        <location filename="../interface/UptimeTab.cpp" line="495"/>
         <source>Ignore</source>
         <translation>Negeren</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="482"/>
+        <location filename="../interface/UptimeTab.cpp" line="501"/>
         <source>Open File Location</source>
         <translation>Bestandslocatie openen</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="488"/>
+        <location filename="../interface/UptimeTab.cpp" line="507"/>
         <source>Open Online Profile</source>
         <translation>Online Profiel Openen</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="503"/>
+        <location filename="../interface/UptimeTab.cpp" line="522"/>
         <source>Ignore application?</source>
         <translation>Applicatie negeren?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="504"/>
+        <location filename="../interface/UptimeTab.cpp" line="523"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="555"/>
+        <location filename="../interface/UptimeTab.cpp" line="574"/>
         <source>Not yet</source>
         <translation>Nog niet</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="556"/>
+        <location filename="../interface/UptimeTab.cpp" line="575"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Deze applicatie is nog niet geupload naar de website, kom over een uur nog eens terug.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="893"/>
-        <location filename="../interface/UptimeTab.cpp" line="899"/>
+        <location filename="../interface/UptimeTab.cpp" line="994"/>
+        <location filename="../interface/UptimeTab.cpp" line="1000"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>uptime en herstartgegevens (alle behalve per applicatie) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="894"/>
-        <location filename="../interface/UptimeTab.cpp" line="900"/>
+        <location filename="../interface/UptimeTab.cpp" line="995"/>
+        <location filename="../interface/UptimeTab.cpp" line="1001"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Reset Uptime/Herstart Geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="904"/>
-        <location filename="../interface/UptimeTab.cpp" line="909"/>
+        <location filename="../interface/UptimeTab.cpp" line="1005"/>
+        <location filename="../interface/UptimeTab.cpp" line="1010"/>
         <source>application uptime data</source>
         <translation>applicatie uptime gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="905"/>
-        <location filename="../interface/UptimeTab.cpp" line="910"/>
+        <location filename="../interface/UptimeTab.cpp" line="1006"/>
+        <location filename="../interface/UptimeTab.cpp" line="1011"/>
         <source>Reset Application History</source>
         <translation>Reset Applicatiegeschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="914"/>
+        <location filename="../interface/UptimeTab.cpp" line="1015"/>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="916"/>
+        <location filename="../interface/UptimeTab.cpp" line="1017"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Wilt u alle uptime gegevens resetten of alleen de %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="919"/>
+        <location filename="../interface/UptimeTab.cpp" line="1020"/>
         <source>Reset All Data</source>
         <translation>Reset Alle Gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="934"/>
-        <location filename="../interface/UptimeTab.cpp" line="952"/>
-        <location filename="../interface/UptimeTab.cpp" line="970"/>
-        <location filename="../interface/UptimeTab.cpp" line="985"/>
-        <location filename="../interface/UptimeTab.cpp" line="993"/>
-        <location filename="../interface/UptimeTab.cpp" line="1010"/>
+        <location filename="../interface/UptimeTab.cpp" line="1035"/>
+        <location filename="../interface/UptimeTab.cpp" line="1053"/>
+        <location filename="../interface/UptimeTab.cpp" line="1071"/>
+        <location filename="../interface/UptimeTab.cpp" line="1086"/>
+        <location filename="../interface/UptimeTab.cpp" line="1094"/>
+        <location filename="../interface/UptimeTab.cpp" line="1111"/>
         <source>Delete stats?</source>
         <translation>Statistieken wissen?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="935"/>
-        <location filename="../interface/UptimeTab.cpp" line="953"/>
+        <location filename="../interface/UptimeTab.cpp" line="1036"/>
+        <location filename="../interface/UptimeTab.cpp" line="1054"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle (behalve per applicatie) opgenomen uptime statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="971"/>
-        <location filename="../interface/UptimeTab.cpp" line="994"/>
+        <location filename="../interface/UptimeTab.cpp" line="1072"/>
+        <location filename="../interface/UptimeTab.cpp" line="1095"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen uptime-statistieken per applicatie wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="986"/>
+        <location filename="../interface/UptimeTab.cpp" line="1087"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen toetsenbord- en muisstatistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1011"/>
+        <location filename="../interface/UptimeTab.cpp" line="1112"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle geregistreerde uptime statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
@@ -4853,7 +4932,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>SSL fouten, er is iets verdachts aan de hand!</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="529"/>
+        <location filename="../online/whttp.cpp" line="531"/>
         <source>SSL Connection to website failed! This could be our fault, but it could also be a proxy trying to peek into our communication. Please disable the proxy, if that&apos;s the case.</source>
         <translation>SSL verbinding met website mislukt! Dit kan onze fout zijn, maar het kan ook een proxy zijn die probeert in onze communicatie te gluren. Gelieve de proxy uit te schakelen, als dat het geval is.</translation>
     </message>
