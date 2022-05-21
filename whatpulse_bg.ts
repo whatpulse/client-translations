@@ -563,7 +563,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../online/clientcommunication.cpp" line="899"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
-        <translation>Новая база данных GeoIP слишком мала (%1), обновление останавливается.</translation>
+        <translation>Новата база данни GeoIP изглежда е твърде малка (%1), спира актуализацията.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="963"/>
@@ -1535,7 +1535,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/MainWindow.cpp" line="335"/>
         <source>Disabled</source>
-        <translation>отключено</translation>
+        <translation>изключено</translation>
     </message>
 </context>
 <context>
@@ -2574,7 +2574,7 @@ Unpulsed: %2</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="256"/>
         <source>Click counting is disabled</source>
-        <translation>Подсчет кликов отключен</translation>
+        <translation>Броенето на кликове е изключено</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="265"/>
@@ -2586,7 +2586,7 @@ Unpulsed: %2</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="271"/>
         <source>Key counting is disabled</source>
-        <translation>Подсчет ключей отключен</translation>
+        <translation>Броенето на клавиши е изключено</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="274"/>
@@ -2604,7 +2604,7 @@ Unpulsed: %3</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="296"/>
         <source>Uptime is disabled</source>
-        <translation>Время работы отключено</translation>
+        <translation>Следенето на време на работа е изключено</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="306"/>
@@ -2623,7 +2623,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="321"/>
         <source>Network is disabled</source>
-        <translation>Сеть отключена</translation>
+        <translation>Следенето на интернет трафика е изключено</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="326"/>
