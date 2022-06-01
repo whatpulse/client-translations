@@ -2944,7 +2944,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="241"/>
         <source>Enable Portable Mode</source>
-        <translation>Akrivera Portabelt Läge</translation>
+        <translation>Aktivera Portabelt Läge</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="245"/>
@@ -2987,7 +2987,7 @@ Opulserat: %2 ner, %3 upp</translation>
         <translation>Online säkerhetskopieringar varje vecka</translation>
     </message>
     <message>
-		 <location filename="../interface/SettingsTab.cpp" line="323"/>
+        <location filename="../interface/SettingsTab.cpp" line="323"/>
         <source>Auto</source>
         <translation>Auto</translation>
     </message>
@@ -3864,7 +3864,7 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="71"/>
         <source>Enable Client API</source>
-        <translation>Aktivera klient-API</translation>
+        <translation>Aktivera Klient-API</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="110"/>
@@ -4621,17 +4621,17 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <location filename="../interface/UptimeTab.cpp" line="1082"/>
         <location filename="../interface/UptimeTab.cpp" line="1105"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad upptidsstatistik per applikation? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad upptidsstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1097"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1122"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
     </message>
 </context>
 <context>
