@@ -1993,12 +1993,12 @@ Kontrollera dina behörigheter på: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="24"/>
         <source>Current download</source>
-        <translation>Aktuell Nedladdning</translation>
+        <translation>Aktuell nedladdning</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
         <source>Current upload</source>
-        <translation>Aktuell Nedladdning</translation>
+        <translation>Aktuell uppladdning</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="47"/>
@@ -2313,7 +2313,7 @@ Kontrollera dina behörigheter på: %2</translation>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="30"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="481"/>
         <source>Current upload</source>
-        <translation>Aktuell Nedladdning</translation>
+        <translation>Aktuell uppladdning</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="30"/>
@@ -2945,7 +2945,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="241"/>
         <source>Enable Portable Mode</source>
-        <translation>Akrivera Portabelt Läge</translation>
+        <translation>Aktivera Portabelt Läge</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="245"/>
@@ -3208,7 +3208,7 @@ Opulserat: %2 ner, %3 upp</translation>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="15"/>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="16"/>
         <source>Auto pulse on </source>
-        <translation>Automatisk pulsering på </translation>
+        <translation>Automatisk pulsering vid </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="17"/>
@@ -3341,7 +3341,7 @@ Opulserat: %2 ner, %3 upp</translation>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="409"/>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="420"/>
         <source>, &lt;b&gt;or&lt;/b&gt; when </source>
-        <translation>, &lt;b&gt;or&lt;/b&gt; when </translation>
+        <translation>, &lt;b&gt;eller&lt;/b&gt; när </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="380"/>
@@ -3376,7 +3376,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="428"/>
         <source>, &lt;b&gt;and&lt;/b&gt; </source>
-        <translation>, &lt;b&gt;and&lt;/&gt; </translation>
+        <translation>, &lt;b&gt;och&lt;/&gt; </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="431"/>
@@ -3865,7 +3865,7 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="71"/>
         <source>Enable Client API</source>
-        <translation>Aktivera klient-API</translation>
+        <translation>Aktivera Klient-API</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="110"/>
@@ -4622,17 +4622,17 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <location filename="../interface/UptimeTab.cpp" line="1082"/>
         <location filename="../interface/UptimeTab.cpp" line="1105"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad upptidsstatistik per applikation? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad upptidsstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1097"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1122"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
-        <translation>Är du säker på att du vill radera all registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
+        <translation>Är du säker på att du vill ta bort all registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
     </message>
 </context>
 <context>
