@@ -714,157 +714,157 @@ Controleer uw permissies op: %2</translation>
     <message>
         <location filename="../facts.cpp" line="322"/>
         <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt &lt;b&gt;vandaag&lt;/b&gt; het meest toetsaanslagen (&lt;b&gt;%VAR1:int%&lt;/b&gt;) ooit!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="338"/>
         <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt &lt;b&gt;vandaag&lt;/b&gt; het meest kliks (&lt;b&gt;%VAR1:int%&lt;/b&gt;) ooit!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="354"/>
         <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Op &lt;b&gt;%VAR2:date%&lt;/b&gt; heb je het meeste geklikt (&lt;b&gt;%VAR1:int%&lt;/b&gt; kliks)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
         <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt de meeste toetsaanslagen op &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% toetsen!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
         <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt het meeste geklikt binnen &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kliks)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt het meeste getypt binnen &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% toetsaanslagen)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="412"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je maakt gemiddeld &lt;b&gt;%VAR1:int%&lt;/b&gt; toetsaanslagen per dag.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="427"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je klikt gemiddeld &lt;b&gt;%VAR1:int%&lt;/b&gt; per dag.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="441"/>
         <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je meest productieve dag qua toetsaanslagen is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, met een totaal van &lt;b&gt;%VAR2:int%&lt;/b&gt; toetsen.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="457"/>
         <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je meest productieve dag qua kliks is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, met een totaal van &lt;b&gt;%VAR2:int%&lt;/b&gt; kliks.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="473"/>
         <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je minst productieve dag qua toetsaanslagen is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, met een totaal van &lt;b&gt;%VAR2:int%&lt;/b&gt; toetsen.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="489"/>
         <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je minst productieve dag op de muis is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, met een totaal van &lt;b&gt;%VAR2:int%&lt;/b&gt; kliks.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="505"/>
         <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je meest productieve uur qua toetsaanslagen is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, met een totaal van &lt;b&gt;%VAR2:int%&lt;/b&gt; toetsen.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="521"/>
         <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je meest productieve uur qua muiskliks is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, met een totaal van &lt;b&gt;%VAR2:int%&lt;/b&gt; kliks.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="540"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt &lt;b&gt;%VAR1:filesize%&lt;/b&gt; gedownload op %VAR2:date%!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="557"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt &lt;b&gt;%VAR1:filesize%&lt;/b&gt; geupload op %VAR2:date%!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="571"/>
         <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Vandaag&lt;/b&gt; is je beste dag qua downloaden met &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt nog nooit zoveel geupload als &lt;b&gt;vandaag&lt;/b&gt;, met &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
         <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>De app welke het meeste download is &lt;b&gt;%VAR2:appname%&lt;/b&gt; met &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="623"/>
         <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>De applicatie welke het meeste upload, is &lt;b&gt;%VAR2:appname%&lt;/b&gt;, met &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="638"/>
         <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR2:appname%&lt;/b&gt; heeft het meeste gedownload vandaag, met &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="653"/>
         <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
-        <translation type="unfinished"></translation>
+        <translation>De app &lt;b&gt;%VAR1:appname%&lt;/b&gt; heeft vandaag het meeste geupload.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="668"/>
         <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemiddeld download je &lt;b&gt;%VAR1:filesize%&lt;/b&gt; per dag.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="682"/>
         <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per dag upload je &lt;b&gt;%VAR1:filesize%&lt;/b&gt; gemiddeld.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt &lt;b&gt;%VAR1:filesize%&lt;/b&gt; gedownload via bedraadloos en &lt;b&gt;%VAR2:filesize%&lt;/b&gt; via bedraad internet.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt &lt;b&gt;%VAR1:filesize%&lt;/b&gt; geupload via bedraadloos en &lt;b&gt;%VAR2:filesize%&lt;/b&gt; via bedraad internet.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="737"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; heeft het meeste draaitijd van alle applicaties.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="751"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; heeft het meeste verbruikstijd van alle applicaties.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
         <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt je computer &lt;b&gt;%VAR1:int%&lt;/b&gt; keer herstart.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="779"/>
         <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je langste computer tijd ooit is &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="794"/>
         <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er draaien momenteel &lt;b&gt;%VAR1:int%&lt;/b&gt; applicaties.</translation>
     </message>
 </context>
 <context>
@@ -3148,7 +3148,7 @@ Niet gepulsed: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="281"/>
         <source>Pauze notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notifications pauzeren</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="326"/>
@@ -3183,7 +3183,7 @@ Niet gepulsed: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="277"/>
         <source>Send bug and usage reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur bug en gebruiks rapportages</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="307"/>
