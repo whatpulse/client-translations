@@ -710,6 +710,164 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
 </context>
 <context>
+    <name>Facts</name>
+    <message>
+        <location filename="../facts.cpp" line="317"/>
+        <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="333"/>
+        <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="349"/>
+        <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="364"/>
+        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="379"/>
+        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="393"/>
+        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="407"/>
+        <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="422"/>
+        <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="436"/>
+        <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="452"/>
+        <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="468"/>
+        <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="484"/>
+        <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="500"/>
+        <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="516"/>
+        <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="535"/>
+        <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="552"/>
+        <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="566"/>
+        <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="584"/>
+        <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="602"/>
+        <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="618"/>
+        <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="633"/>
+        <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="648"/>
+        <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="663"/>
+        <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="677"/>
+        <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="691"/>
+        <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="710"/>
+        <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="732"/>
+        <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="746"/>
+        <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="760"/>
+        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="774"/>
+        <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="789"/>
+        <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FactsWindow</name>
     <message>
         <location filename="../interface/FactsWindow.cpp" line="16"/>
@@ -1541,7 +1699,7 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>Pulz obmedzený! Váš posledný pulz bol pred %1 sekúndami, skúste to prosím neskôr za 10 sekúnd.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="317"/>
+        <location filename="../stats/localstats.cpp" line="328"/>
         <source>Error while pulsing!</source>
         <translation>Chyba pri pulzovaní!</translation>
     </message>
@@ -2988,6 +3146,11 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
         <translation>Týždenné online zálohy</translation>
     </message>
     <message>
+        <location filename="../interface/SettingsTab.cpp" line="281"/>
+        <source>Pauze notifications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../interface/SettingsTab.cpp" line="326"/>
         <source>Auto</source>
         <translation>Automatická</translation>
@@ -3016,6 +3179,11 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
         <location filename="../interface/SettingsTab.cpp" line="243"/>
         <source>Open Window on Startup</source>
         <translation>Otvoriť okno pri štarte</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="277"/>
+        <source>Send bug and usage reports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="307"/>
