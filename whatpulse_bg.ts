@@ -254,149 +254,149 @@ You can continue pulsing.</source>
         <translation>Открих необходимост почистване след актуализацията ви току-що. За по-голяма чистота ще стартираме програмата за почистване (whatpulse-after-update.exe) преди зареждане. Може да получите заявка за разрешение.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="817"/>
+        <location filename="../application.cpp" line="820"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="821"/>
+        <location filename="../application.cpp" line="824"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="825"/>
+        <location filename="../application.cpp" line="828"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="829"/>
+        <location filename="../application.cpp" line="832"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="836"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="839"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="840"/>
+        <location filename="../application.cpp" line="843"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="843"/>
+        <location filename="../application.cpp" line="846"/>
         <source>Enabled Stats</source>
         <translation>Включени статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="844"/>
+        <location filename="../application.cpp" line="847"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="848"/>
         <source>Keyboard Heatmap</source>
         <translation>Топлинна карта на клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="849"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="847"/>
+        <location filename="../application.cpp" line="850"/>
         <source>Mouse Heatmap</source>
         <translation>Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="848"/>
+        <location filename="../application.cpp" line="851"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="852"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1295"/>
+        <location filename="../application.cpp" line="1298"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1296"/>
+        <location filename="../application.cpp" line="1299"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1493"/>
+        <location filename="../application.cpp" line="1496"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1496"/>
-        <location filename="../application.cpp" line="1519"/>
-        <location filename="../application.cpp" line="1535"/>
-        <location filename="../application.cpp" line="1551"/>
-        <location filename="../application.cpp" line="1594"/>
-        <location filename="../application.cpp" line="1605"/>
+        <location filename="../application.cpp" line="1499"/>
+        <location filename="../application.cpp" line="1522"/>
+        <location filename="../application.cpp" line="1538"/>
+        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1597"/>
+        <location filename="../application.cpp" line="1608"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1519"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1532"/>
+        <location filename="../application.cpp" line="1535"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1552"/>
-        <location filename="../application.cpp" line="1606"/>
+        <location filename="../application.cpp" line="1555"/>
+        <location filename="../application.cpp" line="1609"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1575"/>
+        <location filename="../application.cpp" line="1578"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1591"/>
+        <location filename="../application.cpp" line="1594"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2024"/>
-        <location filename="../application.cpp" line="2037"/>
+        <location filename="../application.cpp" line="2027"/>
+        <location filename="../application.cpp" line="2040"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2025"/>
+        <location filename="../application.cpp" line="2028"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2038"/>
+        <location filename="../application.cpp" line="2041"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -712,157 +712,157 @@ Please check your permissions on: %2</source>
 <context>
     <name>Facts</name>
     <message>
-        <location filename="../facts.cpp" line="317"/>
+        <location filename="../facts.cpp" line="322"/>
         <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="333"/>
+        <location filename="../facts.cpp" line="338"/>
         <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="349"/>
+        <location filename="../facts.cpp" line="354"/>
         <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="364"/>
+        <location filename="../facts.cpp" line="369"/>
         <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="379"/>
+        <location filename="../facts.cpp" line="384"/>
         <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="393"/>
+        <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="407"/>
+        <location filename="../facts.cpp" line="412"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="422"/>
+        <location filename="../facts.cpp" line="427"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="436"/>
+        <location filename="../facts.cpp" line="441"/>
         <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="452"/>
+        <location filename="../facts.cpp" line="457"/>
         <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="468"/>
+        <location filename="../facts.cpp" line="473"/>
         <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="484"/>
+        <location filename="../facts.cpp" line="489"/>
         <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="500"/>
+        <location filename="../facts.cpp" line="505"/>
         <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="516"/>
+        <location filename="../facts.cpp" line="521"/>
         <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="535"/>
+        <location filename="../facts.cpp" line="540"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="552"/>
+        <location filename="../facts.cpp" line="557"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="566"/>
+        <location filename="../facts.cpp" line="571"/>
         <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="584"/>
+        <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="602"/>
+        <location filename="../facts.cpp" line="607"/>
         <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="618"/>
+        <location filename="../facts.cpp" line="623"/>
         <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="633"/>
+        <location filename="../facts.cpp" line="638"/>
         <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="648"/>
+        <location filename="../facts.cpp" line="653"/>
         <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="663"/>
+        <location filename="../facts.cpp" line="668"/>
         <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="677"/>
+        <location filename="../facts.cpp" line="682"/>
         <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="691"/>
+        <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="710"/>
+        <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="732"/>
+        <location filename="../facts.cpp" line="737"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="746"/>
+        <location filename="../facts.cpp" line="751"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="760"/>
+        <location filename="../facts.cpp" line="765"/>
         <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="774"/>
+        <location filename="../facts.cpp" line="779"/>
         <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../facts.cpp" line="789"/>
+        <location filename="../facts.cpp" line="794"/>
         <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
         <translation type="unfinished"></translation>
     </message>
