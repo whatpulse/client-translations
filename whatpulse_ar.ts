@@ -252,149 +252,149 @@ You can continue pulsing.</source>
         <translation>لقد رصدت عملية تنظيف مطلوبة بعد التحديث للتو. من أجل النظافة، سأقوم بتشغيل برنامج التنظيف (whatpulse-after-update.exe) قبل التحميل. قد يظهر لك طلب منح إذن.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="817"/>
+        <location filename="../application.cpp" line="820"/>
         <source>&amp;Open Window</source>
         <translation>&amp;فتح النافذة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="821"/>
+        <location filename="../application.cpp" line="824"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;تبديل وضع نافذة الوَلُوع</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="825"/>
+        <location filename="../application.cpp" line="828"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;فتح الإعدادات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="829"/>
+        <location filename="../application.cpp" line="832"/>
         <source>&amp;Check for Updates</source>
         <translation>التحقق من ال&amp;تحديثات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="836"/>
         <source>&amp;Pulse!</source>
         <translation>انب&amp;ض!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="839"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;رؤية الإحصائيات عبر الإنترنت</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="840"/>
+        <location filename="../application.cpp" line="843"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>ال&amp;خروج من وات-بولس</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="843"/>
+        <location filename="../application.cpp" line="846"/>
         <source>Enabled Stats</source>
         <translation>تم تفعيل الإحصائيات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="844"/>
+        <location filename="../application.cpp" line="847"/>
         <source>Keyboard</source>
         <translation>لوحة المفاتيح</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="848"/>
         <source>Keyboard Heatmap</source>
         <translation>خريطة لوحة المفاتيح الحرارية</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="849"/>
         <source>Mouse</source>
         <translation>الفأرة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="847"/>
+        <location filename="../application.cpp" line="850"/>
         <source>Mouse Heatmap</source>
         <translation>خريطة الفأرة الحرارية</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="848"/>
+        <location filename="../application.cpp" line="851"/>
         <source>Network</source>
         <translation>الشبكة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="852"/>
         <source>Uptime</source>
         <translation>مدة التشغيل</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1295"/>
+        <location filename="../application.cpp" line="1298"/>
         <source>Pulsing Disabled!</source>
         <translation>تم إلغاء تفعيل النبض!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1296"/>
+        <location filename="../application.cpp" line="1299"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>إن الإعداد &quot;العمل من دون إنترنت&quot; مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1493"/>
+        <location filename="../application.cpp" line="1496"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>لقد قمت بتفعيل الوضع المحمول. يجب استخدام هذا فقط عند وضع وات-بولس في وسيط محمول، مثل محرك أقراص USB.
 أتود المتابعة؟</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1496"/>
-        <location filename="../application.cpp" line="1519"/>
-        <location filename="../application.cpp" line="1535"/>
-        <location filename="../application.cpp" line="1551"/>
-        <location filename="../application.cpp" line="1594"/>
-        <location filename="../application.cpp" line="1605"/>
+        <location filename="../application.cpp" line="1499"/>
+        <location filename="../application.cpp" line="1522"/>
+        <location filename="../application.cpp" line="1538"/>
+        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1597"/>
+        <location filename="../application.cpp" line="1608"/>
         <source>Portable Mode</source>
         <translation>الوضع المحمول</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1519"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>فشل نسخ قاعدة البيانات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1532"/>
+        <location filename="../application.cpp" line="1535"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>فشل نسخ ملف الإحصائيات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1552"/>
-        <location filename="../application.cpp" line="1606"/>
+        <location filename="../application.cpp" line="1555"/>
+        <location filename="../application.cpp" line="1609"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>لقد قمت بإعادة ترتيب بعض ملفات قاعدة البيانات وأحتاج إلى إعادة تشغيل نفس، أراك بعد قليل!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1575"/>
+        <location filename="../application.cpp" line="1578"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>فشل نسخ قاعدة البيانات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1591"/>
+        <location filename="../application.cpp" line="1594"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>فشل نسخ ملف الإحصائيات إلى %1! تحقق من أذونات الكتابة.
 سيتم إبقاء الوضع المحمول مفعلاً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2024"/>
-        <location filename="../application.cpp" line="2037"/>
+        <location filename="../application.cpp" line="2027"/>
+        <location filename="../application.cpp" line="2040"/>
         <source>Premium features disabled</source>
         <translation>تم إلغاء تفعيل مزايا العضوية المتميزة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2025"/>
+        <location filename="../application.cpp" line="2028"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>لم أتمكن من التواصل مع الموقع للتحقق من عضويتك المتميزة لـ96 ساعة. لقد قمت بإلغاء مزايا العضوية المتميزة. عاود الاتصال بالإنترنت لتفعيلها مجدداً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2038"/>
+        <location filename="../application.cpp" line="2041"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>لقد انتهت صلاحية عضويتك المتميزة فلذلك قمت بإلغاء تفعيل مزايا النسخة الكاملة. يمكن إعادة تفعيل عضويتك من خلال الموقع.</translation>
     </message>
@@ -704,6 +704,164 @@ Please check your permissions on: %2</source>
         <source>WhatPulse Export Wizard</source>
         <translatorcomment>معالج وات-بولس للتصدير</translatorcomment>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>Facts</name>
+    <message>
+        <location filename="../facts.cpp" line="322"/>
+        <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
+        <translation>لم يسبق لك أن ضغطت أزراراً أكثر (&lt;b&gt;%VAR1:int%&lt;/b&gt;) من &lt;b&gt;اليوم&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="338"/>
+        <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
+        <translation>لم يسبق لك أن نقرت كل هذا القدر &lt;b&gt;اليوم&lt;/b&gt;. &lt;b&gt;%VAR1:int%&lt;/b&gt; نقرة!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="354"/>
+        <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
+        <translation>نقراتك الأكثر كانت بتاريخ &lt;b&gt;%VAR2:date%&lt;/b&gt;. (&lt;b&gt;%VAR1:int%&lt;/b&gt; نقرة)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="369"/>
+        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <translation>نقراتك الأكثر كانت بتاريخ &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% مفتاح!)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="384"/>
+        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <translation>نقراتك الأكثر كانت بداخل التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% نقرة)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="398"/>
+        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <translation>طباعتك الأكثر كانت في التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% مفتاح)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="412"/>
+        <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
+        <translation>أنت تتوسط &lt;b&gt;%VAR1:int%&lt;/b&gt; مفتاحاً باليوم.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="427"/>
+        <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
+        <translation>أنت تتوسط &lt;b&gt;%VAR1:int%&lt;/b&gt; نقرة فأرة باليوم.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="441"/>
+        <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation>يومك الأكثر إنتاجية على لوحة المفاتيح هو &lt;b&gt;%VAR1:weekday%&lt;/b&gt;، بإجمالي &lt;b&gt;%VAR2:int%&lt;/b&gt; مفتاح.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="457"/>
+        <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation>يومك الأكثر إنتاجية على الفأرة هو &lt;b&gt;%VAR1:weekday%&lt;/b&gt;، بإجمالي &lt;b&gt;%VAR2:int%&lt;/b&gt; نقرة.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="473"/>
+        <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation>يومك الأقل إنتاجية على لوحة المفاتيح هو &lt;b&gt;%VAR1:weekday%&lt;/b&gt;، بإجمالي &lt;b&gt;%VAR2:int%&lt;/b&gt; مفتاح.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="489"/>
+        <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation>يومك الأقل إنتاجية على الفأرة هو &lt;b&gt;%VAR1:weekday%&lt;/b&gt;، بإجمالي &lt;b&gt;%VAR2:int%&lt;/b&gt; نقرة.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="505"/>
+        <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation>ساعتك الأكثر إنتاجية على لوحة المفاتيح هي &lt;b&gt;%VAR1:int%:00&lt;/b&gt;، بإجمالي &lt;b&gt;%VAR2:int%&lt;/b&gt; مفتاح.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="521"/>
+        <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation>ساعتك الأكثر إنتاجية على فأرتك هي &lt;b&gt;%VAR1:int%:00&lt;/b&gt;، بإجمالي &lt;b&gt;%VAR2:int%&lt;/b&gt; نقرة.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="540"/>
+        <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
+        <translation>لقد حملت &lt;b&gt;%VAR1:filesize%&lt;/b&gt; بتاريخ %VAR2:date%!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="557"/>
+        <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
+        <translation>لقد رفعت &lt;b&gt;%VAR1:filesize%&lt;/b&gt; بتاريخ %VAR2:date%!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="571"/>
+        <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
+        <translation>&lt;b&gt;اليوم&lt;/b&gt; هو يومك الأفضل، لقد حملت &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="589"/>
+        <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
+        <translation>لم يسبق لك أن رفعت أكثر من &lt;b&gt;اليوم&lt;/b&gt;، &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;&lt;b&gt; بالفعل!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="607"/>
+        <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
+        <translation>التطبيق الذي يحمل أكثر الشيء هو &lt;b&gt;%VAR2:appname%&lt;/b&gt; بـ&lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="623"/>
+        <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
+        <translation>.التطبيق الذي قام بالرفع الأكثر (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) هو &lt;b&gt;%VAR2:appname%&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="638"/>
+        <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
+        <translation>التطبيق الذي قام بالتحميل الأكثر اليوم هو &lt;b&gt;%VAR2:appname%&lt;/b&gt; بـ&lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="653"/>
+        <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
+        <translation>التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt; كان الأكثر انشغالاً في الرفع اليوم.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="668"/>
+        <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
+        <translation>كمتوسط، أنت تحمل &lt;b&gt;%VAR1:filesize%&lt;/b&gt; بشكل يومي.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="682"/>
+        <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
+        <translation>كمتوسط، أنت ترفع &lt;b&gt;%VAR1:filesize%&lt;/b&gt; بشكل يومي.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="696"/>
+        <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
+        <translation>لقد حملت &lt;b&gt;%VAR1:filesize%&lt;/b&gt; على الشبكة اللاسلكية و&lt;b&gt;%VAR2:filesize%&lt;/b&gt; على الشبكة السلكية.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="715"/>
+        <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
+        <translation>لقد رفعت &lt;b&gt;%VAR1:filesize%&lt;/b&gt; على الشبكة اللاسلكية و&lt;b&gt;%VAR2:filesize%&lt;/b&gt; على الشبكة السلكية.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="737"/>
+        <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; يملك أطول مدة تشغيل تطبيق.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="751"/>
+        <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; هو أكثر تطبيق مستخدم على الإطلاق.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="765"/>
+        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <translation>لقد أعدت تشغيل حاسوبك &lt;b&gt;%VAR1:int%&lt;/b&gt; مرة.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="779"/>
+        <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
+        <translation>أطول مدة تشغيل كانت &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="794"/>
+        <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
+        <translation>يوجد حالياً &lt;b&gt;%VAR1:int%&lt;/b&gt; تطبيق قيد التشغيل.</translation>
     </message>
 </context>
 <context>
@@ -1490,7 +1648,7 @@ Please check your permissions on: %2</source>
         <translation>تم خنق النبض! إن آخر نبض لك كان منذ %1 ثانية/ثوان، يرجى المحاولة مجدداً بعد 10 ثوان.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="317"/>
+        <location filename="../stats/localstats.cpp" line="328"/>
         <source>Error while pulsing!</source>
         <translation>حدث خطأ أثناء النبض!</translation>
     </message>
@@ -2937,6 +3095,11 @@ Unpulsed: %2 down, %3 up</source>
         <translation>خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية</translation>
     </message>
     <message>
+        <location filename="../interface/SettingsTab.cpp" line="281"/>
+        <source>Pauze notifications</source>
+        <translation>إيقاف الإشعارات مؤقتاً</translation>
+    </message>
+    <message>
         <location filename="../interface/SettingsTab.cpp" line="326"/>
         <source>Auto</source>
         <translation>تلقائي</translation>
@@ -2970,6 +3133,11 @@ Unpulsed: %2 down, %3 up</source>
         <location filename="../interface/SettingsTab.cpp" line="243"/>
         <source>Open Window on Startup</source>
         <translation>فتح النافذة عند بدء التشغيل</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="277"/>
+        <source>Send bug and usage reports</source>
+        <translation>إرسال تقارير الاستخدام والأعطال</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="310"/>
