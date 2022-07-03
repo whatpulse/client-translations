@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ru_RU">
+<TS version="2.1" language="ru">
 <context>
     <name>AccountTab</name>
     <message>
@@ -711,6 +711,164 @@ Please check your permissions on: %2</source>
         <location filename="../interface/ExportWindow.cpp" line="22"/>
         <source>WhatPulse Export Wizard</source>
         <translation>Мастер экспорта данных WhatPulse</translation>
+    </message>
+</context>
+<context>
+    <name>Facts</name>
+    <message>
+        <location filename="../facts.cpp" line="322"/>
+        <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
+        <translation>Вы никогда не нажимали больше клавиш (&lt;b&gt;%VAR1:int%&lt;/b&gt;), чем &lt;b&gt;сегодня&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="338"/>
+        <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
+        <translation>Вы никогда не кликали так много, как &lt;b&gt;сегодня&lt;/b&gt;. Уже &lt;b&gt;%VAR1:int%&lt;/b&gt; кликов!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="354"/>
+        <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
+        <translation>Больше всего вы накликали &lt;b&gt;%VAR2:date%&lt;/b&gt; (&lt;b&gt;%VAR1:int%&lt;/b&gt; щелчков)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="369"/>
+        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <translation>Больше всего вы печатали &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% нажатий клавиш!)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="384"/>
+        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <translation>Больше всего щелчков мышью сделано в приложении &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% кликов)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="398"/>
+        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <translation>Вы больше всего печатали в приложении &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% нажатий клавиш)</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="412"/>
+        <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
+        <translation>В среднем вы нажимаете &lt;b&gt;%VAR1:int%&lt;/b&gt; клавиш в день.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="427"/>
+        <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
+        <translation>В среднем вы делаете &lt;b&gt;%VAR1:int%&lt;/b&gt; щелчков мыши в день.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="441"/>
+        <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation>Ваш самый продуктивный день по клавиатуре - &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с итогом в &lt;b&gt;%VAR2:int%&lt;/b&gt; нажатий клавиш.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="457"/>
+        <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation>Ваш самый продуктивный день по мыши - &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с итогом в &lt;b&gt;%VAR2:int%&lt;/b&gt; щелчков.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="473"/>
+        <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation>Ваш самый непродуктивный день по клавиатуре - &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с итогом в &lt;b&gt;%VAR2:int%&lt;/b&gt; нажатий клавиш.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="489"/>
+        <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation>Ваш самый непродуктивный день по мыши - &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с итогом в &lt;b&gt;%VAR2:int%&lt;/b&gt; щелчков.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="505"/>
+        <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
+        <translation>Больше всего вы печатаете в &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, с общим результатом в &lt;b&gt;%VAR2:int%&lt;/b&gt; нажатий клавиш.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="521"/>
+        <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
+        <translation>Больше всего вы щелкаете мышью в &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, с общим результатом в &lt;b&gt;%VAR2:int%&lt;/b&gt; щелчков.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="540"/>
+        <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
+        <translation>Вы скачали &lt;b&gt;%VAR1:filesize%&lt;/b&gt; %VAR2:date%!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="557"/>
+        <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
+        <translation>Вы отправили &lt;b&gt;%VAR1:filesize%&lt;/b&gt; %VAR2:date%!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="571"/>
+        <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
+        <translation>&lt;b&gt;Сегодня&lt;/b&gt; ваш лучший день, вы скачали &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="589"/>
+        <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
+        <translation>Вы никогда не отдавали больше данных, чем &lt;b&gt;сегодня&lt;/b&gt;, уже &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="607"/>
+        <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
+        <translation>Самое активное по скачиванию данных - &lt;b&gt;%VAR2:appname%&lt;/b&gt; с результатом в &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="623"/>
+        <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
+        <translation>Приложение, отправляющее больше всего данных (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) - &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="638"/>
+        <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
+        <translation>Приложение, скачавшее сегодня больше всего данных - &lt;b&gt;%VAR2:appname%&lt;/b&gt; с результатом в &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="653"/>
+        <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
+        <translation>Приложение &lt;b&gt;%VAR1:appname%&lt;/b&gt; сегодня отправляет больше всего данных.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="668"/>
+        <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
+        <translation>В среднем, вы скачиваете &lt;b&gt;%VAR1:filesize%&lt;/b&gt; в день.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="682"/>
+        <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
+        <translation>В среднем, вы отправляете &lt;b&gt;%VAR1:filesize%&lt;/b&gt; в день.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="696"/>
+        <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
+        <translation>Вы скачали &lt;b&gt;%VAR1:filesize%&lt;/b&gt; по беспроводному соединению и &lt;b&gt;%VAR2:filesize%&lt;/b&gt; по проводному.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="715"/>
+        <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
+        <translation>Вы отправили &lt;b&gt;%VAR1:filesize%&lt;/b&gt; по беспроводному соединению и &lt;b&gt;%VAR2:filesize%&lt;/b&gt; по проводному.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="737"/>
+        <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; работает дольше всего.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="751"/>
+        <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; - самое используемое вами приложение.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="765"/>
+        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <translation>Вы перезагружали ПК &lt;b&gt;%VAR1:int%&lt;/b&gt; раз(а).</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="779"/>
+        <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
+        <translation>Самое долгое время работы ПК составило &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../facts.cpp" line="794"/>
+        <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
+        <translation>Сейчас запущено &lt;b&gt;%VAR1:int%&lt;/b&gt; приложений.</translation>
     </message>
 </context>
 <context>
@@ -2888,6 +3046,11 @@ Unpulsed: %2 down, %3 up</source>
         <translation> Сообщить об ошибке</translation>
     </message>
     <message>
+        <location filename="../interface/SettingsTab.cpp" line="153"/>
+        <source> Save</source>
+        <translation> Сохранить</translation>
+    </message>
+    <message>
         <location filename="../interface/SettingsTab.cpp" line="114"/>
         <source>Automatic Pulsing</source>
         <translation>Автоматическая отправка статистики</translation>
@@ -2906,11 +3069,6 @@ Unpulsed: %2 down, %3 up</source>
         <location filename="../interface/SettingsTab.cpp" line="119"/>
         <source>Proxy</source>
         <translation>Прокси-сервер</translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="153"/>
-        <source> Save</source>
-        <translation> Сохранить</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="186"/>
@@ -3003,6 +3161,16 @@ Unpulsed: %2 down, %3 up</source>
         <translation>Еженедельное резервное копирование онлайн</translation>
     </message>
     <message>
+        <location filename="../interface/SettingsTab.cpp" line="277"/>
+        <source>Send bug and usage reports</source>
+        <translation>Отправлять отчеты об ошибках и статистику использования</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="281"/>
+        <source>Pauze notifications</source>
+        <translation>Приостановить уведомления</translation>
+    </message>
+    <message>
         <location filename="../interface/SettingsTab.cpp" line="307"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
         <translation>&lt;b&gt;Тема&lt;/b&gt;</translation>
@@ -3035,15 +3203,15 @@ Unpulsed: %2 down, %3 up</source>
         <translation>Черный</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="327"/>
-        <source>Icon color: </source>
-        <translation>Цвет значка: </translation>
-    </message>
-    <message>
         <location filename="../interface/SettingsTab.cpp" line="331"/>
         <location filename="../interface/SettingsTab.cpp" line="825"/>
         <source>White</source>
         <translation>Белый</translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab.cpp" line="327"/>
+        <source>Icon color: </source>
+        <translation>Цвет значка: </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="333"/>
@@ -3174,6 +3342,11 @@ Unpulsed: %2 down, %3 up</source>
         <translation>Проверить разрешения MacOS</translation>
     </message>
     <message>
+        <location filename="../interface/SettingsTab.cpp" line="550"/>
+        <source>Uploading applications</source>
+        <translation>Отправка приложений</translation>
+    </message>
+    <message>
         <location filename="../interface/SettingsTab.cpp" line="577"/>
         <source>Uploading Apps</source>
         <translation>Отправка приложений</translation>
@@ -3182,11 +3355,6 @@ Unpulsed: %2 down, %3 up</source>
         <location filename="../interface/SettingsTab.cpp" line="578"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Приложения были помечены на отправку. Они появятся на сайте примерно через час.</translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="550"/>
-        <source>Uploading applications</source>
-        <translation>Отправка приложений</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="595"/>
