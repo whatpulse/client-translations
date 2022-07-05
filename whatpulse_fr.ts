@@ -1637,8 +1637,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="73"/>
         <source>Uptime</source>
-        <translatorcomment>Switch back to &quot;Uptime&quot; because &quot;Temps de fonctionnement&quot; didn&apos;t fit and it looked ugly</translatorcomment>
-        <translation>Uptime</translation>
+        <translation>Temps de fonctionnement</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="89"/>
@@ -1722,7 +1721,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/MainWindow.cpp" line="199"/>
         <source>Uptime</source>
-        <translation>Temps de fonctionnement</translation>
+        <translation>Temps</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="200"/>
