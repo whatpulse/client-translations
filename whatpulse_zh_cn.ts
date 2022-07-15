@@ -11,7 +11,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="41"/>
         <source>UserID:</source>
-        <translation>用户 ID：</translation>
+        <translation>用户 ID: </translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="44"/>
@@ -717,157 +717,159 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../facts.cpp" line="322"/>
         <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Translated a little literately.</translatorcomment>
+        <translation>你从来没有一天跟&lt;b&gt;今天&lt;/b&gt;一样按键这么多（&lt;b&gt;%VAR1:int%&lt;/b&gt;）次！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="338"/>
         <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
-        <translation type="unfinished"></translation>
+        <translation>你从未像&lt;b&gt;今天&lt;/b&gt;一样点击过这么多次。已经点击 &lt;b&gt;%VAR1:int%&lt;/b&gt; 次了！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="354"/>
         <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>你点击最多的日子是 &lt;b&gt;%VAR2:date%&lt;/b&gt;（&lt;b&gt;%VAR1:int%&lt;/b&gt; 次）</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
         <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 &lt;b&gt;%VAR2:date%&lt;/b&gt; 输入最多（%VAR1:int% 次！）</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
         <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 &lt;b&gt;%VAR1:appname%&lt;/b&gt; 应用中点击最多！（%VAR2:int% 次）</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 &lt;b&gt;%VAR1:appname%&lt;/b&gt; 应用中按键最多！（%VAR2:int% 次）</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="412"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>你平均一天按键 &lt;b&gt;%VAR1:int%&lt;/b&gt; 次。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="427"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>你平均一天鼠标点击 &lt;b&gt;%VAR1:int%&lt;/b&gt; 次。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="441"/>
         <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>你在&lt;b&gt;%VAR1:weekday%&lt;/b&gt;使用键盘最多，多达 &lt;b&gt;%VAR2:int%&lt;/b&gt; 次按键。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="457"/>
         <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>你在&lt;b&gt;%VAR1:weekday%&lt;/b&gt;使用鼠标最多，多达 &lt;b&gt;%VAR2:int%&lt;/b&gt; 次点击。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="473"/>
         <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>你在&lt;b&gt;%VAR1:weekday%&lt;/b&gt;使用键盘最少，仅有 &lt;b&gt;%VAR2:int%&lt;/b&gt; 次按键。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="489"/>
         <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>你在&lt;b&gt;%VAR1:weekday%&lt;/b&gt;使用鼠标最少，仅有 &lt;b&gt;%VAR2:int%&lt;/b&gt; 次点击。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="505"/>
         <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 &lt;b&gt;%VAR1:int%:00&lt;/b&gt; 时使用键盘最多，多达 &lt;b&gt;%VAR2:int%&lt;/b&gt; 次按键。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="521"/>
         <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 &lt;b&gt;%VAR1:int%:00&lt;/b&gt; 时使用鼠标最多，多达 &lt;b&gt;%VAR2:int%&lt;/b&gt; 次点击。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="540"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 %VAR2:date% 下载了 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="557"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>你在 %VAR2:date% 上传了 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="571"/>
         <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;今天&lt;/b&gt;你下载了 &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;，是最棒的一天！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>你从来没有一天跟&lt;b&gt;今天&lt;/b&gt;一样上传这么多，已经 &lt;b&gt;%VAR1%:filesize%&lt;/b&gt; 了！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
         <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Literally translation: “&lt;b&gt;%VAR2:appname%&lt;/b&gt; 以 &lt;b&gt;%VAR1:filesize%&lt;/b&gt; 的成绩夺得下载量冠军”</translatorcomment>
+        <translation>下载最多的应用是 &lt;b&gt;%VAR2:appname%&lt;/b&gt;，共下载了 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="623"/>
         <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传最多（&lt;b&gt;%VAR1:filesize%&lt;/b&gt;）的应用是 &lt;b&gt;%VAR2:appname%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="638"/>
         <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>今天下载最多的应用是 &lt;b&gt;%VAR2:appname%&lt;/b&gt;，共下载了 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="653"/>
         <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
-        <translation type="unfinished"></translation>
+        <translation>今天上传最多的应用是 &lt;b&gt;%VAR1:appname%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="668"/>
         <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>你日均下载 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="682"/>
         <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>你日均上传 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>你用无线网下载了 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;，有线网则下载了 &lt;b&gt;%VAR2:filesize%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>你用无线网上传了 &lt;b&gt;%VAR1:filesize%&lt;/b&gt;，有线网则上传了 &lt;b&gt;%VAR2:filesize%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="737"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
-        <translation type="unfinished"></translation>
+        <translation>应用 &lt;b&gt;%VAR1:appname%&lt;/b&gt; 有最久的上线时长。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="751"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
-        <translation type="unfinished"></translation>
+        <translation>应用 &lt;b&gt;%VAR1:appname%&lt;/b&gt; 打开最频繁。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
         <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
-        <translation type="unfinished"></translation>
+        <translation>你重启过 &lt;b&gt;%VAR1:int%&lt;/b&gt; 次。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="779"/>
         <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>你最长的上线时长有 &lt;b&gt;%VAR1:duration%&lt;/b&gt;。</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="794"/>
         <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
-        <translation type="unfinished"></translation>
+        <translation>当前有 &lt;b&gt;%VAR1:int%&lt;/b&gt; 个应用在运行。</translation>
     </message>
 </context>
 <context>
@@ -3148,7 +3150,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="277"/>
         <source>Pauze notifications</source>
-        <translation>暫停通知</translation>
+        <translation>暂停通知</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="325"/>
@@ -3193,7 +3195,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="273"/>
         <source>Send bug and usage reports</source>
-        <translation>發送錯誤和使用報告</translation>
+        <translation>发送缺陷与使用报告</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="305"/>

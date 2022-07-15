@@ -30,3 +30,4 @@ Here's a list of incredible people that have contributed:
 * **Frech:** UBrain ([GitHub](https://github.com/UBrainDev))
 * **German:** Finn ([GitHub](https://github.com/MoweME), [Twitter](https://twitter.com/MoweM3))
 * **Swedish:** Remlej9 ([GitHub](https://github.com/Remlej9), [Twitter](https://twitter.com/Remlej9))
+* **Simplified Chinese:** Geno1024([GitHub](https://github.com/Geno1024))
