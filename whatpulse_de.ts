@@ -714,157 +714,157 @@ Bitte überprüfen Sie Ihre Berechtigungen auf: %2</translation>
     <message>
         <location filename="../facts.cpp" line="322"/>
         <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Du hast nie mehr Tasten (&lt;b&gt;%VAR1:int%&lt;/b&gt;) gedrückt als &lt;b&gt;Heute&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="338"/>
         <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Heute&lt;/b&gt; hast du noch nie so viel geklickt. Schon &lt;b&gt;%VAR1:int%&lt;/b&gt; geklickt!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="354"/>
         <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Am &lt;b&gt;%VAR2:date%&lt;/b&gt; haben Sie am meisten geklickt (&lt;b&gt;%VAR1:int%&lt;/b&gt; Klicks)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
         <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
-        <translation type="unfinished"></translation>
+        <translation>Du hast am meisten auf &lt;b&gt;%VAR2:date%&lt;/b&gt; getippt (%VAR1:int% Tasten!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
         <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben die meisten Klicks innerhalb der Anwendung &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% Klicks)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben das meiste innerhalb der Anwendung &lt;b&gt;%VAR1:appname%&lt;/b&gt; eingetippt! (%VAR2:int% Schlüssel)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="412"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben durchschnittlich &lt;b&gt;%VAR1:int%&lt;/b&gt; Schlüssel pro Tag.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="427"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben durchschnittlich &lt;b&gt;%VAR1:int%&lt;/b&gt; Mausklicks pro Tag.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="441"/>
         <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr produktivster Tag auf der Tastatur ist &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, mit insgesamt &lt;b&gt;%VAR2:int%&lt;/b&gt; Tasten.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="457"/>
         <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr produktivster Tag mit der Maus ist &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, mit insgesamt &lt;b&gt;%VAR2:int%&lt;/b&gt; Klicks.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="473"/>
         <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr unproduktivster Tag auf der Tastatur ist &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, mit insgesamt &lt;b&gt;%VAR2:int%&lt;/b&gt; Tasten.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="489"/>
         <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihr am wenigsten produktiver Tag ist &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, mit insgesamt &lt;b&gt;%VAR2:int%&lt;/b&gt; Klicks.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="505"/>
         <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre produktivste Stunde auf der Tastatur ist &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, mit einer Gesamtzahl von &lt;b&gt;%VAR2:int%&lt;/b&gt; Tasten.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="521"/>
         <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre produktivste Stunde mit der Maus ist &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, mit insgesamt &lt;b&gt;%VAR2:int%&lt;/b&gt; Klicks.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="540"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben &lt;b&gt;%VAR1:filesize%&lt;/b&gt; am %VAR2:date% heruntergeladen!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="557"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben &lt;b&gt;%VAR1:filesize%&lt;/b&gt; am %VAR2:date% hochgeladen!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="571"/>
         <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Heute&lt;/b&gt; ist dein bester Tag, du hast &lt;b&gt;%VAR1%:filesize%&lt;/b&gt; heruntergeladen!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Du hast noch nie so viel hochgeladen wie &lt;b&gt;Heute&lt;/b&gt;, schon &lt;b&gt;%VAR1:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
         <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anwendung mit dem größten Download-Hunger ist &lt;b&gt;%VAR2:appname%&lt;/b&gt; mit &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="623"/>
         <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anwendung, die am meisten hochgeladen hat (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) ist &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="638"/>
         <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anwendung, die heute am meisten heruntergeladen wurde, ist &lt;b&gt;%VAR2:appname%&lt;/b&gt; mit &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="653"/>
         <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anwendung &lt;b&gt;%VAR1:appname%&lt;/b&gt; war heute am meisten mit dem Hochladen beschäftigt.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="668"/>
         <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Durchschnitt laden Sie täglich &lt;b&gt;%VAR1:filesize%&lt;/b&gt; herunter.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="682"/>
         <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Durchschnitt laden Sie täglich &lt;b&gt;%VAR1:filesize%&lt;/b&gt; hoch.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben &lt;b&gt;%VAR1:filesize%&lt;/b&gt; über Funk und &lt;b&gt;%VAR2:filesize%&lt;/b&gt; über Kabel heruntergeladen.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben &lt;b&gt;%VAR1:filesize%&lt;/b&gt; über Funk und &lt;b&gt;%VAR2:filesize%&lt;/b&gt; über Kabel hochgeladen.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="737"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; hat die meiste Betriebszeit der Anwendung.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="751"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; ist die meistgenutzte Anwendung überhaupt.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
         <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben Ihren Computer &lt;b&gt;%VAR1:int%&lt;/b&gt; mal neu gestartet.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="779"/>
         <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre längste Betriebszeit war &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="794"/>
         <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es laufen derzeit &lt;b&gt;%VAR1:int%&lt;/b&gt; Anwendungen.</translation>
     </message>
 </context>
 <context>
@@ -886,50 +886,6 @@ Bitte überprüfen Sie Ihre Berechtigungen auf: %2</translation>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
         <translation>FlatTabWidget</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateConfirmDialog</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Software-Aktualisierung</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateDownloadProgress</name>
-    <message>
-        <source>Downloading Update...</source>
-        <translation type="obsolete">Update herunterladen...</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Schließen</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateWindow</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Software-Aktualisierung</translation>
-    </message>
-    <message>
-        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="obsolete">%1 %2 ist jetzt verfügbar - Sie haben %3. Möchten Sie es jetzt herunterladen?</translation>
-    </message>
-    <message>
-        <source>Remind Me Later</source>
-        <translation type="obsolete">Später erinnern</translation>
-    </message>
-    <message>
-        <source>Install Update</source>
-        <translation type="obsolete">Update installieren</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdater</name>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Fehler</translation>
     </message>
 </context>
 <context>
@@ -3369,7 +3325,7 @@ Ungepulst: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="505"/>
         <source>Upload &amp;Computer Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Hochladen &amp;Computerprofil</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="512"/>
@@ -3418,12 +3374,12 @@ Ungepulst: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Computerinformationen hochladen</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Upload des Computerprofils wurde erfolgreich gestartet. Die Website wird in ein paar Minuten aktualisiert.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="763"/>

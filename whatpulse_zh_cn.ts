@@ -11,7 +11,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="41"/>
         <source>UserID:</source>
-        <translation>用户 ID: </translation>
+        <translation>用户 ID:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="44"/>
@@ -803,7 +803,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation>你从来没有一天跟&lt;b&gt;今天&lt;/b&gt;一样上传这么多，已经 &lt;b&gt;%VAR1%:filesize%&lt;/b&gt; 了！</translation>
+        <translation>你从来没有一天跟&lt;b&gt;今天&lt;/b&gt;一样上传这么多，已经 &lt;b&gt;%VAR1:filesize%&lt;/b&gt; 了！</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
@@ -3332,7 +3332,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="505"/>
         <source>Upload &amp;Computer Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;上传电脑资料</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="512"/>
@@ -3381,12 +3381,12 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>上传计算机信息</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>成功地开始了计算机资料的上传。网站将在几分钟内更新.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="763"/>

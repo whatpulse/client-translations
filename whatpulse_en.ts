@@ -799,7 +799,7 @@ Please check your permissions on: %2</translation>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
+        <translation>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
@@ -886,54 +886,6 @@ Please check your permissions on: %2</translation>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
         <translation>FlatTabWidget</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateConfirmDialog</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Software Update</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateDownloadProgress</name>
-    <message>
-        <source>Downloading Update...</source>
-        <translation type="obsolete">Downloading Update...</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Close</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateWindow</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Software Update</translation>
-    </message>
-    <message>
-        <source>A new version of %1 is available!</source>
-        <translation type="obsolete">A new version of %1 is available!</translation>
-    </message>
-    <message>
-        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="obsolete">%1 %2 is now available - you have %3. Would you like to download it now?</translation>
-    </message>
-    <message>
-        <source>Remind Me Later</source>
-        <translation type="obsolete">Remind Me Later</translation>
-    </message>
-    <message>
-        <source>Install Update</source>
-        <translation type="obsolete">Install Update</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdater</name>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Error</translation>
     </message>
 </context>
 <context>
@@ -3373,7 +3325,7 @@ Unpulsed: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="505"/>
         <source>Upload &amp;Computer Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload &amp;Computer Profile</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="512"/>
@@ -3422,12 +3374,12 @@ Unpulsed: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Upload Computer Info</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Successfully started the computer profile upload. The website will be updated in a few minutes.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="763"/>

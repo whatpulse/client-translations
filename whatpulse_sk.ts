@@ -714,157 +714,157 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../facts.cpp" line="322"/>
         <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikdy ste nestlačili viac kláves (&lt;b&gt;%VAR1:int%&lt;/b&gt;) ako &lt;b&gt;Dnes&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="338"/>
         <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Dnes&lt;/b&gt; ste ešte nikdy neklikali toľko. Už &lt;b&gt;%VAR1:int%&lt;/b&gt; kliká!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="354"/>
         <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Na &lt;b&gt;%VAR2:date%&lt;/b&gt; ste klikli najviac (&lt;b&gt;%VAR1:int%&lt;/b&gt; kliknutí)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
         <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
-        <translation type="unfinished"></translation>
+        <translation>Najviac ste napísali na &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% kľúče!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
         <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klikli ste na najvnútornejšiu aplikáciu &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kliknutí)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadali ste najviac vnútri aplikácie &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kľúče)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="412"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Priemerne &lt;b&gt;%VAR1:int%&lt;/b&gt; kľúčov za deň.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="427"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Priemerne &lt;b&gt;%VAR1:int%&lt;/b&gt; kliknete myšou za deň.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="441"/>
         <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš najproduktívnejší deň na klávesnici je &lt;b&gt;%VAR1:weekday%&lt;/b&gt; s celkovým počtom &lt;b&gt;%VAR2:int%&lt;/b&gt; kláves.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="457"/>
         <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš najproduktívnejší deň na myši je &lt;b&gt;%VAR1:weekday%&lt;/b&gt; s celkovým počtom &lt;b&gt;%VAR2:int%&lt;/b&gt; kliknutí.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="473"/>
         <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš najmenej produktívny deň na klávesnici je &lt;b&gt;%VAR1:weekday%&lt;/b&gt; s celkovým počtom &lt;b&gt;%VAR2:int%&lt;/b&gt; kláves.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="489"/>
         <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš najmenej produktívny deň na myši je &lt;b&gt;%VAR1:weekday%&lt;/b&gt; s celkovým počtom &lt;b&gt;%VAR2:int%&lt;/b&gt; kliknutí.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="505"/>
         <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaša najproduktívnejšia hodina na klávesnici je &lt;b&gt;%VAR1:int%:00&lt;/b&gt; s celkovým počtom &lt;b&gt;%VAR2:int%&lt;/b&gt; klávesov.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="521"/>
         <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaša najproduktívnejšia hodina práce s myšou je &lt;b&gt;%VAR1:int%:00&lt;/b&gt; s celkovým počtom &lt;b&gt;%VAR2:int%&lt;/b&gt; kliknutí.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="540"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahli ste &lt;b&gt;%VAR1:filesize%&lt;/b&gt; dňa %VAR2:date%!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="557"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrali ste &lt;b&gt;%VAR1:filesize%&lt;/b&gt; dňa %VAR2:date%!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="571"/>
         <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Dnes je tvoj najlepší deň&lt;/b&gt;, stiahol si &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nikdy ste nenahrali toľko ako &lt;b&gt;dnes&lt;/b&gt;, už &lt;b&gt;%VAR1:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
         <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Najnáročnejšou aplikáciou na sťahovanie je &lt;b&gt;%VAR2:appname%&lt;/b&gt; s &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="623"/>
         <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikácia, ktorá nahrala najviac súborov (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;), je &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="638"/>
         <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikácia, ktorá sa dnes stiahla najviac, je &lt;b&gt;%VAR2:appname%&lt;/b&gt; s &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="653"/>
         <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikácia &lt;b&gt;%VAR1:appname%&lt;/b&gt; bola dnes najviac zaťažená nahrávaním.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="668"/>
         <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>V priemere sťahujete &lt;b&gt;%VAR1:filesize%&lt;/b&gt; denne.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="682"/>
         <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>V priemere nahrávate &lt;b&gt;%VAR1:filesize%&lt;/b&gt; denne.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahli ste &lt;b&gt;%VAR1:filesize%&lt;/b&gt; na bezdrôtové pripojenie a &lt;b&gt;%VAR2:filesize%&lt;/b&gt; na káblové pripojenie.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrali ste &lt;b&gt;%VAR1:filesize%&lt;/b&gt; na bezdrôtové pripojenie a &lt;b&gt;%VAR2:filesize%&lt;/b&gt; na káblové pripojenie.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="737"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; má najviac času prevádzky aplikácie.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="751"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; je najpoužívanejšia aplikácia vôbec.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
         <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
-        <translation type="unfinished"></translation>
+        <translation>Počítač ste reštartovali &lt;b&gt;%VAR1:int%&lt;/b&gt; niekoľkokrát.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="779"/>
         <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Váš najdlhší čas prevádzky bol &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="794"/>
         <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
-        <translation type="unfinished"></translation>
+        <translation>V súčasnosti sú spustené &lt;b&gt;%VAR1:int%&lt;/b&gt; aplikácie.</translation>
     </message>
 </context>
 <context>
@@ -886,54 +886,6 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
         <translation>FlatTabWidget</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateConfirmDialog</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Dostupná aktualizácia</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateDownloadProgress</name>
-    <message>
-        <source>Downloading Update...</source>
-        <translation type="obsolete">Sťahujem Aktualizáciu...</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Zatvoriť</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateWindow</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Dostupná aktualizácia</translation>
-    </message>
-    <message>
-        <source>A new version of %1 is available!</source>
-        <translation type="obsolete">Nová verzia %1 je dostupná!</translation>
-    </message>
-    <message>
-        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="obsolete">%1 %2 je dostupná - vy máte %3. Chceli by ste ju stiahnuť teraz?</translation>
-    </message>
-    <message>
-        <source>Remind Me Later</source>
-        <translation type="obsolete">Pripomenúť Neskôr</translation>
-    </message>
-    <message>
-        <source>Install Update</source>
-        <translation type="obsolete">Nainštalovať Aktualizáciu</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdater</name>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Chyba</translation>
     </message>
 </context>
 <context>
@@ -3373,7 +3325,7 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="505"/>
         <source>Upload &amp;Computer Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahratie profilu počítača &amp;Computer</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="512"/>
@@ -3422,12 +3374,12 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Odoslanie informácií o počítači</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Úspešne sa spustilo nahrávanie profilu počítača. Webová stránka bude aktualizovaná za niekoľko minút.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="763"/>

@@ -799,7 +799,7 @@ Kontrollera dina behörigheter på: %2</translation>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation>Du har aldrig laddat upp så mycket som &lt;b&gt;Idag&lt;/b&gt;, redan &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
+        <translation>Du har aldrig laddat upp så mycket som &lt;b&gt;Idag&lt;/b&gt;, redan &lt;b&gt;%VAR1:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
@@ -886,54 +886,6 @@ Kontrollera dina behörigheter på: %2</translation>
         <location filename="../3rdparty/FlatTabWidget/flattabwidget.ui" line="14"/>
         <source>FlatTabWidget</source>
         <translation>FlatTabWidget</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateConfirmDialog</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Mjukvare Uppdatering</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateDownloadProgress</name>
-    <message>
-        <source>Downloading Update...</source>
-        <translation type="obsolete">Laddar ner uppdatering...</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Stäng</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdateWindow</name>
-    <message>
-        <source>Software Update</source>
-        <translation type="obsolete">Mjukvare Uppdatering</translation>
-    </message>
-    <message>
-        <source>A new version of %1 is available!</source>
-        <translation type="obsolete">En ny version av %1 är tillgänglig!</translation>
-    </message>
-    <message>
-        <source>%1 %2 is now available - you have %3. Would you like to download it now?</source>
-        <translation type="obsolete">%1 %2 är nu tillgänglig - du har %3. Vill du ladda ner den nu?</translation>
-    </message>
-    <message>
-        <source>Remind Me Later</source>
-        <translation type="obsolete">Påminn Mig Senare</translation>
-    </message>
-    <message>
-        <source>Install Update</source>
-        <translation type="obsolete">Installera Uppdatering</translation>
-    </message>
-</context>
-<context>
-    <name>FvUpdater</name>
-    <message>
-        <source>Error</source>
-        <translation type="obsolete">Fel</translation>
     </message>
 </context>
 <context>
@@ -3373,7 +3325,7 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="505"/>
         <source>Upload &amp;Computer Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppladdning och &amp;datorprofil</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="512"/>
@@ -3422,12 +3374,12 @@ Opulserat: %2 ner, %3 upp</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda upp datorinformation</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppladdningen av datorprofilen har startats. Webbplatsen kommer att uppdateras om några minuter.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="763"/>

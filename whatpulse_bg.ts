@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ts_ZA">
+<TS version="2.1" language="bg">
 <context>
     <name>AccountTab</name>
     <message>
@@ -799,7 +799,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation>Никога не сте теглили толкова, колкото &lt;b&gt;днес&lt;/b&gt;, вече &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
+        <translation>Никога не сте теглили толкова, колкото &lt;b&gt;днес&lt;/b&gt;, вече &lt;b&gt;%VAR1:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
@@ -3326,7 +3326,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="505"/>
         <source>Upload &amp;Computer Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Качване на профил на компютъра &amp;Computer</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="512"/>
@@ -3375,12 +3375,12 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Качване на информация за компютъра</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Успешно стартира качването на профила на компютъра. Уебсайтът ще бъде актуализиран след няколко минути.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="763"/>
