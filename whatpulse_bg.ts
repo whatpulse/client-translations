@@ -714,157 +714,157 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../facts.cpp" line="322"/>
         <source>You have never pressed more keys (&lt;b&gt;%VAR1:int%&lt;/b&gt;) than &lt;b&gt;Today&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Никога не сте натискали повече клавиши (&lt;b&gt;%VAR1:int%&lt;/b&gt;) от &lt;b&gt;днес&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="338"/>
         <source>&lt;b&gt;Today&lt;/b&gt; you never clicked so much. Already &lt;b&gt;%VAR1:int%&lt;/b&gt; clicks!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Днес&lt;/b&gt; е денят ви с най-много кликове. Вече &lt;b&gt;%VAR1:int%&lt;/b&gt; клика!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="354"/>
         <source>On &lt;b&gt;%VAR2:date%&lt;/b&gt; you clicked the most (&lt;b&gt;%VAR1:int%&lt;/b&gt; clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>На &lt;b&gt;%VAR2:date%&lt;/b&gt; сте кликали най-много (&lt;b&gt;%VAR1:int%&lt;/b&gt; клика)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
         <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
-        <translation type="unfinished"></translation>
+        <translation>Писали сте най-много на &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% клавиша!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
         <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
-        <translation type="unfinished"></translation>
+        <translation>Кликали сте най-много в приложението &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% клика)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
-        <translation type="unfinished"></translation>
+        <translation>Писали сте най-много в приложениет &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% клавиша)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="412"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; keys per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие натискате &lt;b&gt;%VAR1:int%&lt;/b&gt; клавиша за ден средно аритметично.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="427"/>
         <source>You average &lt;b&gt;%VAR1:int%&lt;/b&gt; mouse clicks per day.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие кликате &lt;b&gt;%VAR1:int%&lt;/b&gt; клика за ден средно аритметично.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="441"/>
         <source>Your most productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-продуктивният ви ден на клавиатурата е &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с общо &lt;b&gt;%VAR2:int%&lt;/b&gt; клавиша.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="457"/>
         <source>Your most productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-продуктивният ви ден с мишката е &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с общо &lt;b&gt;%VAR2:int%&lt;/b&gt; клика.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="473"/>
         <source>Your least productive day on the keyboard is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-непродуктивният ви ден на клавиатурата е &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с общо &lt;b&gt;%VAR2:int%&lt;/b&gt; клавиша.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="489"/>
         <source>Your least productive day on your mouse is &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-непродуктивният ви ден с мишката е &lt;b&gt;%VAR1:weekday%&lt;/b&gt;, с общо &lt;b&gt;%VAR2:int%&lt;/b&gt; клика.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="505"/>
         <source>Your most productive hour on the keyboard is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; keys.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-продуктивният ви час на клавиатурата е &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, с общо &lt;b&gt;%VAR2:int%&lt;/b&gt; клавиша.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="521"/>
         <source>Your most productive hour on your mouse is &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, with a total of &lt;b&gt;%VAR2:int%&lt;/b&gt; clicks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-непродуктивният ви час с мишката е &lt;b&gt;%VAR1:int%:00&lt;/b&gt;, с общо &lt;b&gt;%VAR2:int%&lt;/b&gt; клика.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="540"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие сте изтеглили &lt;b&gt;%VAR1:filesize%&lt;/b&gt; на %VAR2:date%!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="557"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on %VAR2:date%!</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие сте качили &lt;b&gt;%VAR1:filesize%&lt;/b&gt; на %VAR2:date%!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="571"/>
         <source>&lt;b&gt;Today&lt;/b&gt; is your best day, you downloaded &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Днес&lt;/b&gt; е вашият ден с най-много изтегляне. Изтеглили сте &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="589"/>
         <source>You never uploaded as much as &lt;b&gt;Today&lt;/b&gt;, already &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation>Никога не сте теглили толкова, колкото &lt;b&gt;днес&lt;/b&gt;, вече &lt;b&gt;%VAR1%:filesize%&lt;/b&gt;!</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="607"/>
         <source>The most download-hungry application is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложението, теглещо най-много е &lt;b&gt;%VAR2:appname%&lt;/b&gt; с &lt;b&gt;%VAR1:filesize%&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="623"/>
         <source>The application that uploaded the most (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) is &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложението, качило най-много (&lt;b&gt;%VAR1:filesize%&lt;/b&gt;) е &lt;b&gt;%VAR2:appname%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="638"/>
         <source>The application that downloaded the most today is &lt;b&gt;%VAR2:appname%&lt;/b&gt; with &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложението, което е изтеглило най-много днес е &lt;b&gt;%VAR2:appname%&lt;/b&gt; с &lt;b&gt;%VAR1:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="653"/>
         <source>The application &lt;b&gt;%VAR1:appname%&lt;/b&gt; was the busiest with uploading today.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приложениети &lt;b&gt;%VAR1:appname%&lt;/b&gt; е качило най-много днес.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="668"/>
         <source>On average, you download &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Средно аритметично, вие теглите &lt;b&gt;%VAR1:filesize%&lt;/b&gt; на ден.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="682"/>
         <source>On average, you upload &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on a daily basis.</source>
-        <translation type="unfinished"></translation>
+        <translation>Средно аритметично, вие качвате &lt;b&gt;%VAR1:filesize%&lt;/b&gt; на ден.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие сте изтеглили &lt;b&gt;%VAR1:filesize%&lt;/b&gt; безжично и &lt;b&gt;%VAR2:filesize%&lt;/b&gt; жично.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вие сте качили &lt;b&gt;%VAR1:filesize%&lt;/b&gt; безжично и &lt;b&gt;%VAR2:filesize%&lt;/b&gt; жично.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="737"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; has the most application uptime.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; е приложението, работило най-много време.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="751"/>
         <source>&lt;b&gt;%VAR1:appname%&lt;/b&gt; is the most used application ever.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;%VAR1:appname%&lt;/b&gt; е най-използваното ви приложение.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
         <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
-        <translation type="unfinished"></translation>
+        <translation>Рестартирали сте компютъра си &lt;b&gt;%VAR1:int%&lt;/b&gt; пъти.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="779"/>
         <source>Your longest uptime was &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Най-дългото време, за което е бил включен компюътра е &lt;b&gt;%VAR1:duration%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="794"/>
         <source>There are currently &lt;b&gt;%VAR1:int%&lt;/b&gt; applications running.</source>
-        <translation type="unfinished"></translation>
+        <translation>В момента има &lt;b&gt;%VAR1:int%&lt;/b&gt; работещи приложения.</translation>
     </message>
 </context>
 <context>
@@ -1271,7 +1271,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="660"/>
         <source>Update data</source>
-        <translation>Обновить данные</translation>
+        <translation>Обнови данни</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="682"/>
