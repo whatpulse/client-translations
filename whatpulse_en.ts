@@ -3153,7 +3153,7 @@ Unpulsed: %2 down, %3 up</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="277"/>
         <source>Pauze notifications</source>
-        <translation>Pauze notifications</translation>
+        <translation>Pause notifications</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="325"/>
