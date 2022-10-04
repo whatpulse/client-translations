@@ -1042,16 +1042,16 @@ Por favor compurebe sus permisos en: %2</translation>
 <context>
     <name>InputTab</name>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1152"/>
-        <location filename="../interface/InputTab.cpp" line="1162"/>
-        <location filename="../interface/InputTab.cpp" line="1172"/>
+        <location filename="../interface/InputTab.cpp" line="1146"/>
+        <location filename="../interface/InputTab.cpp" line="1156"/>
+        <location filename="../interface/InputTab.cpp" line="1166"/>
         <source>Keys:</source>
         <translation>Teclas:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1153"/>
-        <location filename="../interface/InputTab.cpp" line="1163"/>
-        <location filename="../interface/InputTab.cpp" line="1173"/>
+        <location filename="../interface/InputTab.cpp" line="1147"/>
+        <location filename="../interface/InputTab.cpp" line="1157"/>
+        <location filename="../interface/InputTab.cpp" line="1167"/>
         <source>Clicks:</source>
         <translation>Clicks:</translation>
     </message>
@@ -1112,14 +1112,14 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="296"/>
-        <location filename="../interface/InputTab.cpp" line="1082"/>
+        <location filename="../interface/InputTab.cpp" line="1076"/>
         <source>Keys</source>
         <translation>Teclas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="297"/>
-        <location filename="../interface/InputTab.cpp" line="510"/>
-        <location filename="../interface/InputTab.cpp" line="1082"/>
+        <location filename="../interface/InputTab.cpp" line="504"/>
+        <location filename="../interface/InputTab.cpp" line="1076"/>
         <source>Clicks</source>
         <translation>Clicks</translation>
     </message>
@@ -1130,32 +1130,32 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="316"/>
-        <location filename="../interface/InputTab.cpp" line="447"/>
-        <location filename="../interface/InputTab.cpp" line="727"/>
-        <location filename="../interface/InputTab.cpp" line="1112"/>
+        <location filename="../interface/InputTab.cpp" line="444"/>
+        <location filename="../interface/InputTab.cpp" line="721"/>
+        <location filename="../interface/InputTab.cpp" line="1106"/>
         <source>Export</source>
         <translation>Exportar</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="326"/>
-        <location filename="../interface/InputTab.cpp" line="457"/>
-        <location filename="../interface/InputTab.cpp" line="737"/>
-        <location filename="../interface/InputTab.cpp" line="1122"/>
+        <location filename="../interface/InputTab.cpp" line="454"/>
+        <location filename="../interface/InputTab.cpp" line="731"/>
+        <location filename="../interface/InputTab.cpp" line="1116"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportar a .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="330"/>
-        <location filename="../interface/InputTab.cpp" line="460"/>
-        <location filename="../interface/InputTab.cpp" line="741"/>
+        <location filename="../interface/InputTab.cpp" line="457"/>
+        <location filename="../interface/InputTab.cpp" line="735"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exportar a .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="335"/>
-        <location filename="../interface/InputTab.cpp" line="464"/>
-        <location filename="../interface/InputTab.cpp" line="745"/>
-        <location filename="../interface/InputTab.cpp" line="1126"/>
+        <location filename="../interface/InputTab.cpp" line="461"/>
+        <location filename="../interface/InputTab.cpp" line="739"/>
+        <location filename="../interface/InputTab.cpp" line="1120"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Asistente de Exportación</translation>
     </message>
@@ -1210,362 +1210,362 @@ Por favor compurebe sus permisos en: %2</translation>
         <translation>Agrupar por AÑos</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="423"/>
-        <location filename="../interface/InputTab.cpp" line="714"/>
+        <location filename="../interface/InputTab.cpp" line="420"/>
+        <location filename="../interface/InputTab.cpp" line="708"/>
         <source>Enable Heatmap</source>
         <translation>Activar el Mapa de Calor</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="433"/>
+        <location filename="../interface/InputTab.cpp" line="430"/>
         <source>Prune older than 3 months</source>
         <translation>Depurar datos anteriores a 3 meses</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="473"/>
-        <location filename="../interface/InputTab.cpp" line="753"/>
+        <location filename="../interface/InputTab.cpp" line="470"/>
+        <location filename="../interface/InputTab.cpp" line="747"/>
         <source>Share</source>
         <translation>Compartir</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="504"/>
+        <location filename="../interface/InputTab.cpp" line="498"/>
         <source>&lt;b&gt;Buttons Usage&lt;/b&gt;</source>
         <translation>&lt;b&gt;Uso de los Botones&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="510"/>
+        <location filename="../interface/InputTab.cpp" line="504"/>
         <source>Button</source>
         <translation>Botón</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="539"/>
+        <location filename="../interface/InputTab.cpp" line="533"/>
         <source>Mouse heat map selected</source>
         <translation>Mapa de calor del Ratón seleccionado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="543"/>
+        <location filename="../interface/InputTab.cpp" line="537"/>
         <source>Switch to button view</source>
         <translation>Cambiar a vista de botones</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="550"/>
+        <location filename="../interface/InputTab.cpp" line="544"/>
         <source>Switch to mouse heat map</source>
         <translation>Cambiar a mapa de calor del ratón</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="555"/>
+        <location filename="../interface/InputTab.cpp" line="549"/>
         <source>Button view selected</source>
         <translation>Botón de vistas seleccionado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="642"/>
+        <location filename="../interface/InputTab.cpp" line="636"/>
         <source>Key</source>
         <translation>Tecla</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="642"/>
+        <location filename="../interface/InputTab.cpp" line="636"/>
         <source>Amount</source>
         <translation>Cantidad</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="660"/>
+        <location filename="../interface/InputTab.cpp" line="654"/>
         <source>Update data</source>
         <translation>Actualizar datos</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="682"/>
+        <location filename="../interface/InputTab.cpp" line="676"/>
         <source>Layout:</source>
         <translation>Diseño:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="767"/>
+        <location filename="../interface/InputTab.cpp" line="761"/>
         <source>Application:</source>
         <translation>Aplicación:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="774"/>
+        <location filename="../interface/InputTab.cpp" line="768"/>
         <source>Per-App Stats Disabled</source>
         <translation>Estadísticas Específicas de Aplicaciones Desactivadas</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab.cpp" line="768"/>
+        <location filename="../interface/InputTab.cpp" line="771"/>
         <location filename="../interface/InputTab.cpp" line="774"/>
-        <location filename="../interface/InputTab.cpp" line="777"/>
-        <location filename="../interface/InputTab.cpp" line="780"/>
-        <location filename="../interface/InputTab.cpp" line="1846"/>
-        <location filename="../interface/InputTab.cpp" line="1847"/>
-        <location filename="../interface/InputTab.cpp" line="1876"/>
-        <location filename="../interface/InputTab.cpp" line="1877"/>
+        <location filename="../interface/InputTab.cpp" line="1840"/>
+        <location filename="../interface/InputTab.cpp" line="1841"/>
+        <location filename="../interface/InputTab.cpp" line="1870"/>
+        <location filename="../interface/InputTab.cpp" line="1871"/>
         <source>All</source>
         <translation>Todo</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="777"/>
-        <location filename="../interface/InputTab.cpp" line="1846"/>
-        <location filename="../interface/InputTab.cpp" line="1847"/>
-        <location filename="../interface/InputTab.cpp" line="1876"/>
-        <location filename="../interface/InputTab.cpp" line="1877"/>
+        <location filename="../interface/InputTab.cpp" line="771"/>
+        <location filename="../interface/InputTab.cpp" line="1840"/>
+        <location filename="../interface/InputTab.cpp" line="1841"/>
+        <location filename="../interface/InputTab.cpp" line="1870"/>
+        <location filename="../interface/InputTab.cpp" line="1871"/>
         <source>Premium Only</source>
         <translation>Solo Prémium</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="844"/>
-        <location filename="../interface/InputTab.cpp" line="1151"/>
+        <location filename="../interface/InputTab.cpp" line="838"/>
+        <location filename="../interface/InputTab.cpp" line="1145"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Hoy&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="856"/>
-        <location filename="../interface/InputTab.cpp" line="1161"/>
+        <location filename="../interface/InputTab.cpp" line="850"/>
+        <location filename="../interface/InputTab.cpp" line="1155"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Ayer&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="868"/>
+        <location filename="../interface/InputTab.cpp" line="862"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;Sin Pulsar&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="880"/>
-        <location filename="../interface/InputTab.cpp" line="1171"/>
+        <location filename="../interface/InputTab.cpp" line="874"/>
+        <location filename="../interface/InputTab.cpp" line="1165"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Total&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="939"/>
+        <location filename="../interface/InputTab.cpp" line="933"/>
         <source>Keyboard heat map selected</source>
         <translation>Mapa de calor del Teclado seleccionado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="943"/>
-        <location filename="../interface/InputTab.cpp" line="1016"/>
+        <location filename="../interface/InputTab.cpp" line="937"/>
+        <location filename="../interface/InputTab.cpp" line="1010"/>
         <source>Switch to table view</source>
         <translation>Cambiar a vista de tabla</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="951"/>
+        <location filename="../interface/InputTab.cpp" line="945"/>
         <source>Switch to keyboard heat map</source>
         <translation>Cambiar a mapa de calor del teclado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="956"/>
-        <location filename="../interface/InputTab.cpp" line="1028"/>
+        <location filename="../interface/InputTab.cpp" line="950"/>
+        <location filename="../interface/InputTab.cpp" line="1022"/>
         <source>Table view selected</source>
         <translation>Vista de tabla seleccionado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1012"/>
+        <location filename="../interface/InputTab.cpp" line="1006"/>
         <source>Chart view selected</source>
         <translation>Vista de gráficas seleccionada</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1023"/>
+        <location filename="../interface/InputTab.cpp" line="1017"/>
         <source>Switch to chart view</source>
         <translation>Cambiar a vista por gráficas</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1082"/>
+        <location filename="../interface/InputTab.cpp" line="1076"/>
         <source>Application</source>
         <translation>Aplicación</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1143"/>
-        <location filename="../interface/InputTab.cpp" line="1982"/>
+        <location filename="../interface/InputTab.cpp" line="1137"/>
+        <location filename="../interface/InputTab.cpp" line="1976"/>
         <source>Summary</source>
         <translation>Resumen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1146"/>
-        <location filename="../interface/InputTab.cpp" line="1147"/>
-        <location filename="../interface/InputTab.cpp" line="1156"/>
-        <location filename="../interface/InputTab.cpp" line="1157"/>
-        <location filename="../interface/InputTab.cpp" line="1166"/>
-        <location filename="../interface/InputTab.cpp" line="1167"/>
-        <location filename="../interface/InputTab.cpp" line="2886"/>
-        <location filename="../interface/InputTab.cpp" line="2887"/>
+        <location filename="../interface/InputTab.cpp" line="1140"/>
+        <location filename="../interface/InputTab.cpp" line="1141"/>
+        <location filename="../interface/InputTab.cpp" line="1150"/>
+        <location filename="../interface/InputTab.cpp" line="1151"/>
+        <location filename="../interface/InputTab.cpp" line="1160"/>
+        <location filename="../interface/InputTab.cpp" line="1161"/>
+        <location filename="../interface/InputTab.cpp" line="2880"/>
+        <location filename="../interface/InputTab.cpp" line="2881"/>
         <source>unknown</source>
         <translation>desconocido</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1900"/>
+        <location filename="../interface/InputTab.cpp" line="1894"/>
         <source>Unknown</source>
         <translation>Desconocido</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1961"/>
+        <location filename="../interface/InputTab.cpp" line="1955"/>
         <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Has desactivado estadísticas específicas de aplicaciones en la Configuración&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1989"/>
+        <location filename="../interface/InputTab.cpp" line="1983"/>
         <source>Summary of </source>
         <translation>Resumen de </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2089"/>
+        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Left</source>
         <translation>Izquierda</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2089"/>
+        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Middle</source>
         <translation>Centro</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2089"/>
+        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Right</source>
         <translation>Derecha</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2089"/>
+        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Other</source>
         <translation>Otro</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2461"/>
+        <location filename="../interface/InputTab.cpp" line="2455"/>
         <source>keyboard historical data</source>
         <translation>información histórica del teclado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2467"/>
+        <location filename="../interface/InputTab.cpp" line="2461"/>
         <source>mouse historical data</source>
         <translation>información histórica del ratón</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2468"/>
+        <location filename="../interface/InputTab.cpp" line="2462"/>
         <source>Reset Mouse History</source>
         <translation>Reiniciar Historial del Ratón</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2473"/>
+        <location filename="../interface/InputTab.cpp" line="2467"/>
         <source>application historical data</source>
         <translation>información histórica de aplicaciones</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2474"/>
+        <location filename="../interface/InputTab.cpp" line="2468"/>
         <source>Reset Application History</source>
         <translation>Reiniciar Historial de Aplicaciones</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2479"/>
+        <location filename="../interface/InputTab.cpp" line="2473"/>
         <source>keyboard and mouse historical data</source>
         <translation>información histórica del teclado y ratón</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2480"/>
+        <location filename="../interface/InputTab.cpp" line="2474"/>
         <source>Reset Keyboard and Mouse History</source>
         <translation>Reiniciar Historial del Ratón y Teclado</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2485"/>
+        <location filename="../interface/InputTab.cpp" line="2479"/>
         <source>key combination historical data</source>
         <translation>información histórica de combinaciones de teclas</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2486"/>
+        <location filename="../interface/InputTab.cpp" line="2480"/>
         <source>Reset Key Combinations History</source>
         <translation>Reiniciar Historial de Combinaciones de teclas</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2494"/>
+        <location filename="../interface/InputTab.cpp" line="2488"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2496"/>
+        <location filename="../interface/InputTab.cpp" line="2490"/>
         <source>Do you want to reset all input data or just the </source>
         <translation>Quieres reiniciar toda la información o solo </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2499"/>
+        <location filename="../interface/InputTab.cpp" line="2493"/>
         <source>Reset All Data</source>
         <translation>Reiniciar todos los datos</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2514"/>
-        <location filename="../interface/InputTab.cpp" line="2534"/>
-        <location filename="../interface/InputTab.cpp" line="2555"/>
-        <location filename="../interface/InputTab.cpp" line="2568"/>
-        <location filename="../interface/InputTab.cpp" line="2592"/>
-        <location filename="../interface/InputTab.cpp" line="2608"/>
+        <location filename="../interface/InputTab.cpp" line="2508"/>
+        <location filename="../interface/InputTab.cpp" line="2528"/>
+        <location filename="../interface/InputTab.cpp" line="2549"/>
+        <location filename="../interface/InputTab.cpp" line="2562"/>
+        <location filename="../interface/InputTab.cpp" line="2586"/>
+        <location filename="../interface/InputTab.cpp" line="2602"/>
         <source>Delete stats?</source>
         <translation>Eliminar estadísticas?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2515"/>
+        <location filename="../interface/InputTab.cpp" line="2509"/>
         <source>Are you sure you want to delete all recorded keyboard statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas del teclado? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2535"/>
+        <location filename="../interface/InputTab.cpp" line="2529"/>
         <source>Are you sure you want to delete all recorded mouse statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas del ratón? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2556"/>
+        <location filename="../interface/InputTab.cpp" line="2550"/>
         <source>Are you sure you want to delete all recorded per application input statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas de las aplicaciones? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2569"/>
+        <location filename="../interface/InputTab.cpp" line="2563"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas del teclado y ratón? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2593"/>
+        <location filename="../interface/InputTab.cpp" line="2587"/>
         <source>Are you sure you want to delete all recorded key combination statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas de las combinaciones de teclas? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2609"/>
+        <location filename="../interface/InputTab.cpp" line="2603"/>
         <source>Are you sure you want to delete all recorded input statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2638"/>
+        <location filename="../interface/InputTab.cpp" line="2632"/>
         <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>No se han enctrado dispositivos de entrada, ¿están tus &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permisos&lt;/a&gt; configurados correctamente?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2741"/>
+        <location filename="../interface/InputTab.cpp" line="2735"/>
         <source>Ignore</source>
         <translation>Ignorar</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2747"/>
+        <location filename="../interface/InputTab.cpp" line="2741"/>
         <source>Open File Location</source>
         <translation>Abrir la Ubicación del Archivo</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2753"/>
+        <location filename="../interface/InputTab.cpp" line="2747"/>
         <source>Open Online Profile</source>
         <translation>Abrir Perfil Online</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2768"/>
+        <location filename="../interface/InputTab.cpp" line="2762"/>
         <source>Ignore application?</source>
         <translation>¿Ignorar aplicación?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2769"/>
+        <location filename="../interface/InputTab.cpp" line="2763"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>¿Estás seguro que quieres ignorar la aplicación &apos;%1&apos;? Esto también eliminará el historial de la aplicación.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2822"/>
+        <location filename="../interface/InputTab.cpp" line="2816"/>
         <source>Not yet</source>
         <translation>Todavía no</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2823"/>
+        <location filename="../interface/InputTab.cpp" line="2817"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Esta aplicación no se ha subido todavía a la página web, por favor comprueba de nuevo en más o menos una hora.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2846"/>
+        <location filename="../interface/InputTab.cpp" line="2840"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Depurar el Mapa de Calor del Ratón</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2847"/>
+        <location filename="../interface/InputTab.cpp" line="2841"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Si no depuras el mapa de calor del teclado, la base de datos crecerá bastante y posiblemente relentizará WhatPulse. ¿Desea parar de depurar?</translation>
     </message>
