@@ -3170,7 +3170,7 @@ Unpulsed: %2 down, %3 up</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="87"/>
         <source>Auto Pulse</source>
-        <translation>汽车 Pulse</translation>
+        <translation>自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="88"/>
