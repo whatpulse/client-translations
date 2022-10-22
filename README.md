@@ -24,10 +24,110 @@ A few things to note:
 
 # Contributors
 
-Here's a list of incredible people that have contributed:
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/smitmartijn>
+            <img src=https://avatars.githubusercontent.com/u/6500836?v=4 width="100;"  alt=Martijn Smit/>
+            <br />
+            <sub style="font-size:14px"><b>Martijn Smit</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Geno1024>
+            <img src=https://avatars.githubusercontent.com/u/6427392?v=4 width="100;"  alt=Y. Z. Chen/>
+            <br />
+            <sub style="font-size:14px"><b>Y. Z. Chen</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Remlej9>
+            <img src=https://avatars.githubusercontent.com/u/47269799?v=4 width="100;"  alt=Remlej9/>
+            <br />
+            <sub style="font-size:14px"><b>Remlej9</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/UBrainDev>
+            <img src=https://avatars.githubusercontent.com/u/47057465?v=4 width="100;"  alt=UBrain/>
+            <br />
+            <sub style="font-size:14px"><b>UBrain</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/jinai>
+            <img src=https://avatars.githubusercontent.com/u/7669687?v=4 width="100;"  alt=jinai/>
+            <br />
+            <sub style="font-size:14px"><b>jinai</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Radotornado>
+            <img src=https://avatars.githubusercontent.com/u/16245632?v=4 width="100;"  alt=Radoslav Mandev/>
+            <br />
+            <sub style="font-size:14px"><b>Radoslav Mandev</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Stardisk>
+            <img src=https://avatars.githubusercontent.com/u/24385735?v=4 width="100;"  alt=Stardisk/>
+            <br />
+            <sub style="font-size:14px"><b>Stardisk</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/AA0000-33>
+            <img src=https://avatars.githubusercontent.com/u/22997509?v=4 width="100;"  alt=#AA0000/>
+            <br />
+            <sub style="font-size:14px"><b>#AA0000</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/TheMorc>
+            <img src=https://avatars.githubusercontent.com/u/13377926?v=4 width="100;"  alt=Morc - Richard Gráčik/>
+            <br />
+            <sub style="font-size:14px"><b>Morc - Richard Gráčik</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/ksetlak>
+            <img src=https://avatars.githubusercontent.com/u/9848795?v=4 width="100;"  alt=Krzysiek Setlak/>
+            <br />
+            <sub style="font-size:14px"><b>Krzysiek Setlak</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/MoweME>
+            <img src=https://avatars.githubusercontent.com/u/20139023?v=4 width="100;"  alt=Finn/>
+            <br />
+            <sub style="font-size:14px"><b>Finn</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Inktest>
+            <img src=https://avatars.githubusercontent.com/u/40661903?v=4 width="100;"  alt=Inktest/>
+            <br />
+            <sub style="font-size:14px"><b>Inktest</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/CorruptComputer>
+            <img src=https://avatars.githubusercontent.com/u/5573038?v=4 width="100;"  alt=Nickolas Gupton/>
+            <br />
+            <sub style="font-size:14px"><b>Nickolas Gupton</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/suliveevil>
+            <img src=https://avatars.githubusercontent.com/u/35763237?v=4 width="100;"  alt=suliveevil/>
+            <br />
+            <sub style="font-size:14px"><b>suliveevil</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
 
-* **Slovak:** Richard Gráčik ([GitHub](https://github.com/TheMorc), [Twitter](https://twitter.com/morciatka))
-* **Frech:** UBrain ([GitHub](https://github.com/UBrainDev))
-* **German:** Finn ([GitHub](https://github.com/MoweME), [Twitter](https://twitter.com/MoweM3))
-* **Swedish:** Remlej9 ([GitHub](https://github.com/Remlej9), [Twitter](https://twitter.com/Remlej9))
-* **Simplified Chinese:** Geno1024([GitHub](https://github.com/Geno1024))
