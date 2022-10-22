@@ -211,7 +211,7 @@ You can continue pulsing.</source>
         <translation>Назад</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="92"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="94"/>
         <source>Welcome to WhatPulse</source>
         <translation>Добре дошли в WhatPulse</translation>
     </message>
@@ -219,184 +219,184 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="197"/>
+        <location filename="../application.cpp" line="198"/>
         <source>No system tray</source>
         <translation>Няма област за уведомяване</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="198"/>
+        <location filename="../application.cpp" line="199"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>Не можахме да намерим област за уведомяване на вашият компютър, а е нуждна за нашата програма.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="216"/>
+        <location filename="../application.cpp" line="217"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES функционалността не е налична. Налични ли са файловете libeay32.dll и ssleay32.dll? Ако не, пробвайте да инсталирате програмата отново!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="220"/>
+        <location filename="../application.cpp" line="221"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES функционалността не е налична. Налична ли е OpenSSL библиотеката?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="224"/>
         <source>AES failure</source>
         <translation>провал на AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="318"/>
+        <location filename="../application.cpp" line="319"/>
         <source>Cleanup Required</source>
         <translation>Нужно е изчистване на ненужни файлове</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="319"/>
+        <location filename="../application.cpp" line="320"/>
         <source>I have detected a required cleanup after your update of just now. For the sake of cleanliness, I will run the cleanup program (whatpulse-after-update.exe) before loading. You might get a permission authorization request.</source>
         <translation>Открих необходимост почистване след актуализацията ви току-що. За по-голяма чистота ще стартираме програмата за почистване (whatpulse-after-update.exe) преди зареждане. Може да получите заявка за разрешение.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="838"/>
+        <location filename="../application.cpp" line="841"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="842"/>
+        <location filename="../application.cpp" line="845"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="849"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="850"/>
+        <location filename="../application.cpp" line="853"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="854"/>
+        <location filename="../application.cpp" line="857"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="857"/>
+        <location filename="../application.cpp" line="860"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="861"/>
+        <location filename="../application.cpp" line="864"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="864"/>
+        <location filename="../application.cpp" line="867"/>
         <source>Enabled Stats</source>
         <translation>Включени статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="865"/>
+        <location filename="../application.cpp" line="868"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="866"/>
+        <location filename="../application.cpp" line="869"/>
         <source>Keyboard Heatmap</source>
         <translation>Топлинна карта на клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="867"/>
+        <location filename="../application.cpp" line="870"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="868"/>
+        <location filename="../application.cpp" line="871"/>
         <source>Mouse Heatmap</source>
         <translation>Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="872"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="870"/>
+        <location filename="../application.cpp" line="873"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1316"/>
+        <location filename="../application.cpp" line="1319"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1317"/>
+        <location filename="../application.cpp" line="1320"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1514"/>
+        <location filename="../application.cpp" line="1525"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1517"/>
-        <location filename="../application.cpp" line="1540"/>
-        <location filename="../application.cpp" line="1556"/>
-        <location filename="../application.cpp" line="1572"/>
-        <location filename="../application.cpp" line="1615"/>
+        <location filename="../application.cpp" line="1528"/>
+        <location filename="../application.cpp" line="1551"/>
+        <location filename="../application.cpp" line="1567"/>
+        <location filename="../application.cpp" line="1583"/>
         <location filename="../application.cpp" line="1626"/>
+        <location filename="../application.cpp" line="1637"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1537"/>
+        <location filename="../application.cpp" line="1548"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1553"/>
+        <location filename="../application.cpp" line="1564"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1573"/>
-        <location filename="../application.cpp" line="1627"/>
+        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1638"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1596"/>
+        <location filename="../application.cpp" line="1607"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1612"/>
+        <location filename="../application.cpp" line="1623"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2045"/>
         <location filename="../application.cpp" line="2058"/>
+        <location filename="../application.cpp" line="2071"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2046"/>
+        <location filename="../application.cpp" line="2059"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2059"/>
+        <location filename="../application.cpp" line="2072"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -889,6 +889,567 @@ Please check your permissions on: %2</source>
     </message>
 </context>
 <context>
+    <name>InputApplicationsPage</name>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
+        <source>Keys</source>
+        <translation type="unfinished">Клавиши</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Кликове</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
+        <source>Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
+        <source>Scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
+        <source>Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="61"/>
+        <source>Export</source>
+        <translation type="unfinished">Експорт</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="71"/>
+        <source>&amp;Export to .csv</source>
+        <translation type="unfinished">&amp;Изтегли данни в .csv формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="75"/>
+        <source>&amp;Export Wizard</source>
+        <translation type="unfinished">&amp;Съветник за изтегляне на данни</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="92"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="175"/>
+        <source>Summary</source>
+        <translation type="unfinished">Обобщение</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="95"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="96"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="97"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="98"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="109"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="110"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="111"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="112"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="123"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="124"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="125"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="126"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="464"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="465"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="466"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="467"/>
+        <source>unknown</source>
+        <translation type="unfinished">непознат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="102"/>
+        <source>&lt;b&gt;Today&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Днес&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="103"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="117"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="131"/>
+        <source>Keys:</source>
+        <translation type="unfinished">Клавиши:</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="104"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="118"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="132"/>
+        <source>Clicks:</source>
+        <translation type="unfinished">Кликове:</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="105"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="119"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="133"/>
+        <source>Scrolls:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="106"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="120"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="134"/>
+        <source>Distance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="116"/>
+        <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Вчера&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="130"/>
+        <source>&lt;b&gt;All time&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Цялото време&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="154"/>
+        <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Забранили сте статистиките за запис на бутони за вход в настройките.&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="182"/>
+        <source>Summary of </source>
+        <translation type="unfinished">Обобщение от </translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="204"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="224"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="243"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="332"/>
+        <source>Ignore</source>
+        <translation type="unfinished">Игнорирай</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="338"/>
+        <source>Open File Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="344"/>
+        <source>Open Online Profile</source>
+        <translation type="unfinished">Отвори онлайн профил</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="359"/>
+        <source>Ignore application?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="360"/>
+        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="413"/>
+        <source>Not yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="414"/>
+        <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>InputHistoryPage</name>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="173"/>
+        <source>Date</source>
+        <translation type="unfinished">Дата</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="173"/>
+        <source>Keys</source>
+        <translation type="unfinished">Клавиши</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="173"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Кликове</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
+        <source>Scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
+        <source>Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="184"/>
+        <source>Go Premium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="193"/>
+        <source>Export</source>
+        <translation type="unfinished">Експорт</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="203"/>
+        <source>&amp;Export to .csv</source>
+        <translation type="unfinished">&amp;Изтегли данни в .csv формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="207"/>
+        <source>&amp;Export to .png</source>
+        <translation type="unfinished">&amp;Изтегли данни в .png формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="212"/>
+        <source>&amp;Export Wizard</source>
+        <translation type="unfinished">&amp;Съветник за изтегляне на данни</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="232"/>
+        <source>Last 12 hours</source>
+        <translation type="unfinished">Последните 12 часа</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="233"/>
+        <source>Last 24 hours</source>
+        <translation type="unfinished">Полседните 24 часа</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="234"/>
+        <source>Last 7 days</source>
+        <translation type="unfinished">Последните 7 дни</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="235"/>
+        <source>Last 7 weeks</source>
+        <translation type="unfinished">Последните 7 седмици</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="236"/>
+        <source>Last 7 months</source>
+        <translation type="unfinished">Последните 7 месеца</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="239"/>
+        <source>Group by Hours</source>
+        <translation type="unfinished">Групирай по часове</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="240"/>
+        <source>Group by Days</source>
+        <translation type="unfinished">Групирай по дни</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="241"/>
+        <source>Group by Weeks</source>
+        <translation type="unfinished">Групирай по седмици</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="243"/>
+        <source>Group by Months</source>
+        <translation type="unfinished">Групирай по месеци</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="244"/>
+        <source>Group by Years</source>
+        <translation type="unfinished">Групирай по години</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="255"/>
+        <source>Chart view selected</source>
+        <translation type="unfinished">Изгледът с диаграми е селектиран</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="259"/>
+        <source>Switch to table view</source>
+        <translation type="unfinished">Смени на табличен изглед</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="266"/>
+        <source>Switch to chart view</source>
+        <translation type="unfinished">Смени на графичен изглед</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputhistorypage.cpp" line="271"/>
+        <source>Table view selected</source>
+        <translation type="unfinished">Табличен изглед е селектиран</translation>
+    </message>
+</context>
+<context>
+    <name>InputKeyCombinationsPage</name>
+    <message>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="98"/>
+        <source>Combination</source>
+        <translation type="unfinished">Комбинации</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="99"/>
+        <source>Used</source>
+        <translation type="unfinished">Използван</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
+        <source>Hide Shift only</source>
+        <translation type="unfinished">Скрий само Shift</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
+        <source>Hide Ctrl only</source>
+        <translation type="unfinished">Скрий само Ctrl</translation>
+    </message>
+</context>
+<context>
+    <name>InputKeyboardPage</name>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
+        <source>Key</source>
+        <translation type="unfinished">Клавиш</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
+        <source>Amount</source>
+        <translation type="unfinished">Количество</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="99"/>
+        <source>Layout:</source>
+        <translation type="unfinished">Оформление:</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="131"/>
+        <source>Enable Heatmap</source>
+        <translation type="unfinished">Включи топлинна карта</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="144"/>
+        <source>Export</source>
+        <translation type="unfinished">Експорт</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="154"/>
+        <source>&amp;Export to .csv</source>
+        <translation type="unfinished">&amp;Изтегли данни в .csv формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="158"/>
+        <source>&amp;Export to .png</source>
+        <translation type="unfinished">&amp;Изтегли данни в .png формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="162"/>
+        <source>&amp;Export Wizard</source>
+        <translation type="unfinished">&amp;Съветник за изтегляне на данни</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="170"/>
+        <source>Share</source>
+        <translation type="unfinished">Сподели</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="184"/>
+        <source>Application:</source>
+        <translation type="unfinished">Приложение:</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
+        <source>Per-App Stats Disabled</source>
+        <translation type="unfinished">Статистики по приложение забранени</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="197"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="524"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="525"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
+        <source>All</source>
+        <translation type="unfinished">Винаги</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="524"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="525"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
+        <source>Premium Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="309"/>
+        <source>&lt;b&gt;Today&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Днес&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="312"/>
+        <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Вчера&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="315"/>
+        <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Не-пулснати&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="318"/>
+        <source>&lt;b&gt;All time&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Цялото време&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="322"/>
+        <source>Show Heat Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="324"/>
+        <source>Show Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keyboard heat map selected</source>
+        <translation type="obsolete">Селектирана топлинна карта за клавиатурата</translation>
+    </message>
+    <message>
+        <source>Switch to table view</source>
+        <translation type="obsolete">Смени на табличен изглед</translation>
+    </message>
+    <message>
+        <source>Switch to keyboard heat map</source>
+        <translation type="obsolete">Смени на топлинна карта на клавиатурата</translation>
+    </message>
+    <message>
+        <source>Table view selected</source>
+        <translation type="obsolete">Табличен изглед е селектиран</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="583"/>
+        <source>Unknown</source>
+        <translation type="unfinished">Непознат</translation>
+    </message>
+</context>
+<context>
+    <name>InputMousePage</name>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="78"/>
+        <source>More Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="104"/>
+        <source>&lt;b&gt;Today&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Днес&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="107"/>
+        <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Вчера&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="110"/>
+        <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Не-пулснати&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="113"/>
+        <source>&lt;b&gt;All time&lt;/b&gt;</source>
+        <translation type="unfinished">&lt;b&gt;Цялото време&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="189"/>
+        <source>Enable Heatmap</source>
+        <translation type="unfinished">Включи топлинна карта</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="198"/>
+        <source>Prune older than 3 months</source>
+        <translation type="unfinished">Изчисти по-стари от 3 месеца</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="213"/>
+        <source>Export</source>
+        <translation type="unfinished">Експорт</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="223"/>
+        <source>&amp;Export to .csv</source>
+        <translation type="unfinished">&amp;Изтегли данни в .csv формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="226"/>
+        <source>&amp;Export to .png</source>
+        <translation type="unfinished">&amp;Изтегли данни в .png формат</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="230"/>
+        <source>&amp;Export Wizard</source>
+        <translation type="unfinished">&amp;Съветник за изтегляне на данни</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="239"/>
+        <source>Share</source>
+        <translation type="unfinished">Сподели</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
+        <source>Button</source>
+        <translation type="unfinished">Бутон</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Кликове</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="620"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="622"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <source>Middle</source>
+        <translation type="unfinished">Среден</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="623"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="651"/>
+        <source>Scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="666"/>
+        <source>Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="771"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="799"/>
+        <source>Prune Mouse Heatmap</source>
+        <translation type="unfinished">Изчисти топлинната карта на мишката</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="800"/>
+        <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
+        <translation type="unfinished">Ако горещите точки на мишката не се изтриват периодично, базата данни ще стане голяма и ще забави WhatPulse. Сигурни ли сте че искате да спрете почистването?</translation>
+    </message>
+</context>
+<context>
     <name>InputPage</name>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="140"/>
@@ -983,30 +1544,31 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="304"/>
         <location filename="../interface/ExportWindow.cpp" line="392"/>
-        <location filename="../interface/ExportWindow.cpp" line="461"/>
-        <location filename="../interface/ExportWindow.cpp" line="511"/>
+        <location filename="../interface/ExportWindow.cpp" line="468"/>
+        <location filename="../interface/ExportWindow.cpp" line="519"/>
         <source>grouped by Week </source>
         <translation>групирано по седмица </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="315"/>
         <location filename="../interface/ExportWindow.cpp" line="399"/>
-        <location filename="../interface/ExportWindow.cpp" line="519"/>
+        <location filename="../interface/ExportWindow.cpp" line="527"/>
         <source>grouped by Month </source>
         <translation>групирано по месец </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="328"/>
         <location filename="../interface/ExportWindow.cpp" line="408"/>
-        <location filename="../interface/ExportWindow.cpp" line="529"/>
+        <location filename="../interface/ExportWindow.cpp" line="458"/>
+        <location filename="../interface/ExportWindow.cpp" line="537"/>
         <source>grouped by Hour </source>
         <translation>групирано по час </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="339"/>
         <location filename="../interface/ExportWindow.cpp" line="415"/>
-        <location filename="../interface/ExportWindow.cpp" line="474"/>
-        <location filename="../interface/ExportWindow.cpp" line="537"/>
+        <location filename="../interface/ExportWindow.cpp" line="482"/>
+        <location filename="../interface/ExportWindow.cpp" line="545"/>
         <source>grouped by Day </source>
         <translation>групирано по ден </translation>
     </message>
@@ -1021,22 +1583,20 @@ Please check your permissions on: %2</source>
         <translation>Топлинна карта на кликове между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="450"/>
         <source>Unsupported Grouping</source>
-        <translation>Неподдържано групиране</translation>
+        <translation type="vanished">Неподдържано групиране</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="451"/>
         <source>Unfortunately, per hour grouping on the mouse heat map is not supported. I&apos;ve changed the grouping to per day.</source>
-        <translation>За жалост групирането по часове на топлинната карта на мишката не е поддържано. Смених групирането за ден.</translation>
+        <translation type="vanished">За жалост групирането по часове на топлинната карта на мишката не е поддържано. Смених групирането за ден.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="499"/>
+        <location filename="../interface/ExportWindow.cpp" line="507"/>
         <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Приложение между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="584"/>
+        <location filename="../interface/ExportWindow.cpp" line="592"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Селектирали сте обхват на дните повече от 90 дни. Експортирането може да отнеме време.</translation>
     </message>
@@ -1044,533 +1604,428 @@ Please check your permissions on: %2</source>
 <context>
     <name>InputTab</name>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1146"/>
-        <location filename="../interface/InputTab.cpp" line="1156"/>
-        <location filename="../interface/InputTab.cpp" line="1166"/>
         <source>Keys:</source>
-        <translation>Клавиши:</translation>
+        <translation type="vanished">Клавиши:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1147"/>
-        <location filename="../interface/InputTab.cpp" line="1157"/>
-        <location filename="../interface/InputTab.cpp" line="1167"/>
         <source>Clicks:</source>
-        <translation>Кликове:</translation>
+        <translation type="vanished">Кликове:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="83"/>
         <source>Keyboard Heatmap</source>
-        <translation>Топлинна карта на клавиатурата</translation>
+        <translation type="vanished">Топлинна карта на клавиатурата</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="84"/>
         <source>Mouse Heatmap</source>
-        <translation>Топлинна карта за мишката</translation>
+        <translation type="vanished">Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="85"/>
+        <location filename="../interface/InputTab.cpp" line="57"/>
         <source>Applications</source>
         <translation>Приложения</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="86"/>
+        <location filename="../interface/InputTab.cpp" line="59"/>
         <source>Input History</source>
         <translation>История за вход</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="88"/>
+        <location filename="../interface/InputTab.cpp" line="62"/>
         <source>Key Combinations</source>
         <translation>Клавишни комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="109"/>
+        <location filename="../interface/InputTab.cpp" line="80"/>
         <source> Reset</source>
         <translation> Нулирай</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="201"/>
         <source>Combination</source>
-        <translation>Комбинации</translation>
+        <translation type="vanished">Комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="201"/>
         <source>Used</source>
-        <translation>Използван</translation>
+        <translation type="vanished">Използван</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="218"/>
         <source>Hide Shift only</source>
-        <translation>Скрий само Shift</translation>
+        <translation type="vanished">Скрий само Shift</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="227"/>
         <source>Hide Ctrl only</source>
-        <translation>Скрий само Ctrl</translation>
+        <translation type="vanished">Скрий само Ctrl</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="296"/>
         <source>Date</source>
-        <translation>Дата</translation>
+        <translation type="vanished">Дата</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="296"/>
-        <location filename="../interface/InputTab.cpp" line="1076"/>
         <source>Keys</source>
-        <translation>Клавиши</translation>
+        <translation type="vanished">Клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="297"/>
-        <location filename="../interface/InputTab.cpp" line="504"/>
-        <location filename="../interface/InputTab.cpp" line="1076"/>
         <source>Clicks</source>
-        <translation>Кликове</translation>
+        <translation type="vanished">Кликове</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="307"/>
         <source>Go Premium</source>
-        <translation>Поръчай премиум</translation>
+        <translation type="vanished">Поръчай премиум</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="316"/>
-        <location filename="../interface/InputTab.cpp" line="444"/>
-        <location filename="../interface/InputTab.cpp" line="721"/>
-        <location filename="../interface/InputTab.cpp" line="1106"/>
         <source>Export</source>
-        <translation>Експорт</translation>
+        <translation type="vanished">Експорт</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="326"/>
-        <location filename="../interface/InputTab.cpp" line="454"/>
-        <location filename="../interface/InputTab.cpp" line="731"/>
-        <location filename="../interface/InputTab.cpp" line="1116"/>
         <source>&amp;Export to .csv</source>
-        <translation>&amp;Изтегли данни в .csv формат</translation>
+        <translation type="vanished">&amp;Изтегли данни в .csv формат</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="330"/>
-        <location filename="../interface/InputTab.cpp" line="457"/>
-        <location filename="../interface/InputTab.cpp" line="735"/>
         <source>&amp;Export to .png</source>
-        <translation>&amp;Изтегли данни в .png формат</translation>
+        <translation type="vanished">&amp;Изтегли данни в .png формат</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="335"/>
-        <location filename="../interface/InputTab.cpp" line="461"/>
-        <location filename="../interface/InputTab.cpp" line="739"/>
-        <location filename="../interface/InputTab.cpp" line="1120"/>
         <source>&amp;Export Wizard</source>
-        <translation>&amp;Съветник за изтегляне на данни</translation>
+        <translation type="vanished">&amp;Съветник за изтегляне на данни</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="355"/>
         <source>Last 12 hours</source>
-        <translation>Последните 12 часа</translation>
+        <translation type="vanished">Последните 12 часа</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="356"/>
         <source>Last 24 hours</source>
-        <translation>Полседните 24 часа</translation>
+        <translation type="vanished">Полседните 24 часа</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="357"/>
         <source>Last 7 days</source>
-        <translation>Последните 7 дни</translation>
+        <translation type="vanished">Последните 7 дни</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="358"/>
         <source>Last 7 weeks</source>
-        <translation>Последните 7 седмици</translation>
+        <translation type="vanished">Последните 7 седмици</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="359"/>
         <source>Last 7 months</source>
-        <translation>Последните 7 месеца</translation>
+        <translation type="vanished">Последните 7 месеца</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="362"/>
         <source>Group by Hours</source>
-        <translation>Групирай по часове</translation>
+        <translation type="vanished">Групирай по часове</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="363"/>
         <source>Group by Days</source>
-        <translation>Групирай по дни</translation>
+        <translation type="vanished">Групирай по дни</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="364"/>
         <source>Group by Weeks</source>
-        <translation>Групирай по седмици</translation>
+        <translation type="vanished">Групирай по седмици</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="366"/>
         <source>Group by Months</source>
-        <translation>Групирай по месеци</translation>
+        <translation type="vanished">Групирай по месеци</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="367"/>
         <source>Group by Years</source>
-        <translation>Групирай по години</translation>
+        <translation type="vanished">Групирай по години</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="420"/>
-        <location filename="../interface/InputTab.cpp" line="708"/>
         <source>Enable Heatmap</source>
-        <translation>Включи топлинна карта</translation>
+        <translation type="vanished">Включи топлинна карта</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="430"/>
         <source>Prune older than 3 months</source>
-        <translation>Изчисти по-стари от 3 месеца</translation>
+        <translation type="vanished">Изчисти по-стари от 3 месеца</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="470"/>
-        <location filename="../interface/InputTab.cpp" line="747"/>
         <source>Share</source>
-        <translation>Сподели</translation>
+        <translation type="vanished">Сподели</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="498"/>
         <source>&lt;b&gt;Buttons Usage&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Използване на бутони&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;Използване на бутони&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="504"/>
         <source>Button</source>
-        <translation>Бутон</translation>
+        <translation type="vanished">Бутон</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="533"/>
         <source>Mouse heat map selected</source>
-        <translation>Селектирана топлинна карта за мишката</translation>
+        <translation type="vanished">Селектирана топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="537"/>
         <source>Switch to button view</source>
-        <translation>Смени на бутонен изглед</translation>
+        <translation type="vanished">Смени на бутонен изглед</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="544"/>
         <source>Switch to mouse heat map</source>
-        <translation>Смени на топлинна карта на мишката</translation>
+        <translation type="vanished">Смени на топлинна карта на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="549"/>
         <source>Button view selected</source>
-        <translation>Секция с бутони е селектирана</translation>
+        <translation type="vanished">Секция с бутони е селектирана</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="636"/>
         <source>Key</source>
-        <translation>Клавиш</translation>
+        <translation type="vanished">Клавиш</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="636"/>
         <source>Amount</source>
-        <translation>Количество</translation>
+        <translation type="vanished">Количество</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="654"/>
         <source>Update data</source>
-        <translation>Обнови данни</translation>
+        <translation type="vanished">Обнови данни</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="676"/>
         <source>Layout:</source>
-        <translation>Оформление:</translation>
+        <translation type="vanished">Оформление:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="761"/>
         <source>Application:</source>
-        <translation>Приложение:</translation>
+        <translation type="vanished">Приложение:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="768"/>
         <source>Per-App Stats Disabled</source>
-        <translation>Статистики по приложение забранени</translation>
+        <translation type="vanished">Статистики по приложение забранени</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="768"/>
-        <location filename="../interface/InputTab.cpp" line="771"/>
-        <location filename="../interface/InputTab.cpp" line="774"/>
-        <location filename="../interface/InputTab.cpp" line="1840"/>
-        <location filename="../interface/InputTab.cpp" line="1841"/>
-        <location filename="../interface/InputTab.cpp" line="1870"/>
-        <location filename="../interface/InputTab.cpp" line="1871"/>
         <source>All</source>
-        <translation>Винаги</translation>
+        <translation type="vanished">Винаги</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="771"/>
-        <location filename="../interface/InputTab.cpp" line="1840"/>
-        <location filename="../interface/InputTab.cpp" line="1841"/>
-        <location filename="../interface/InputTab.cpp" line="1870"/>
-        <location filename="../interface/InputTab.cpp" line="1871"/>
         <source>Premium Only</source>
-        <translation>Само за премиум</translation>
+        <translation type="vanished">Само за премиум</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="838"/>
-        <location filename="../interface/InputTab.cpp" line="1145"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Днес&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;Днес&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="850"/>
-        <location filename="../interface/InputTab.cpp" line="1155"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Вчера&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;Вчера&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="862"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Не-пулснати&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;Не-пулснати&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="874"/>
-        <location filename="../interface/InputTab.cpp" line="1165"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Цялото време&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;Цялото време&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="933"/>
         <source>Keyboard heat map selected</source>
-        <translation>Селектирана топлинна карта за клавиатурата</translation>
+        <translation type="vanished">Селектирана топлинна карта за клавиатурата</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="937"/>
-        <location filename="../interface/InputTab.cpp" line="1010"/>
         <source>Switch to table view</source>
-        <translation>Смени на табличен изглед</translation>
+        <translation type="vanished">Смени на табличен изглед</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="945"/>
         <source>Switch to keyboard heat map</source>
-        <translation>Смени на топлинна карта на клавиатурата</translation>
+        <translation type="vanished">Смени на топлинна карта на клавиатурата</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="950"/>
-        <location filename="../interface/InputTab.cpp" line="1022"/>
         <source>Table view selected</source>
-        <translation>Табличен изглед е селектиран</translation>
+        <translation type="vanished">Табличен изглед е селектиран</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1006"/>
         <source>Chart view selected</source>
-        <translation>Изгледът с диаграми е селектиран</translation>
+        <translation type="vanished">Изгледът с диаграми е селектиран</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1017"/>
         <source>Switch to chart view</source>
-        <translation>Смени на графичен изглед</translation>
+        <translation type="vanished">Смени на графичен изглед</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1076"/>
         <source>Application</source>
-        <translation>Приложение</translation>
+        <translation type="vanished">Приложение</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1137"/>
-        <location filename="../interface/InputTab.cpp" line="1976"/>
         <source>Summary</source>
-        <translation>Обобщение</translation>
+        <translation type="vanished">Обобщение</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1140"/>
-        <location filename="../interface/InputTab.cpp" line="1141"/>
-        <location filename="../interface/InputTab.cpp" line="1150"/>
-        <location filename="../interface/InputTab.cpp" line="1151"/>
-        <location filename="../interface/InputTab.cpp" line="1160"/>
-        <location filename="../interface/InputTab.cpp" line="1161"/>
-        <location filename="../interface/InputTab.cpp" line="2880"/>
-        <location filename="../interface/InputTab.cpp" line="2881"/>
         <source>unknown</source>
-        <translation>непознат</translation>
+        <translation type="vanished">непознат</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1894"/>
         <source>Unknown</source>
-        <translation>Непознат</translation>
+        <translation type="vanished">Непознат</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1955"/>
         <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Забранили сте статистиките за запис на бутони за вход в настройките.&lt;/b&gt;</translation>
+        <translation type="vanished">&lt;b&gt;Забранили сте статистиките за запис на бутони за вход в настройките.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="1983"/>
         <source>Summary of </source>
-        <translation>Обобщение от </translation>
+        <translation type="vanished">Обобщение от </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Left</source>
-        <translation>Ляв</translation>
+        <translation type="vanished">Ляв</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Middle</source>
-        <translation>Среден</translation>
+        <translation type="vanished">Среден</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Right</source>
-        <translation>Десен</translation>
+        <translation type="vanished">Десен</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2083"/>
         <source>Other</source>
-        <translation>Други</translation>
+        <translation type="vanished">Други</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2455"/>
+        <location filename="../interface/InputTab.cpp" line="55"/>
+        <source>Keyboard</source>
+        <translation type="unfinished">Клавиатура</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab.cpp" line="56"/>
+        <source>Mouse</source>
+        <translation type="unfinished">Мишка</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab.cpp" line="188"/>
         <source>keyboard historical data</source>
         <translation>данни за клавиатурата</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2461"/>
+        <location filename="../interface/InputTab.cpp" line="194"/>
         <source>mouse historical data</source>
         <translatorcomment>данни за мишката</translatorcomment>
         <translation></translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2462"/>
+        <location filename="../interface/InputTab.cpp" line="195"/>
         <source>Reset Mouse History</source>
         <translation>Нулирай историята на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2467"/>
+        <location filename="../interface/InputTab.cpp" line="200"/>
         <source>application historical data</source>
         <translation>данни за истроия на приложение</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2468"/>
+        <location filename="../interface/InputTab.cpp" line="201"/>
         <source>Reset Application History</source>
         <translation>Нулирай историята на приложенията</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2473"/>
+        <location filename="../interface/InputTab.cpp" line="206"/>
         <source>keyboard and mouse historical data</source>
         <translation>данни за клавиатурата и мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2474"/>
+        <location filename="../interface/InputTab.cpp" line="207"/>
         <source>Reset Keyboard and Mouse History</source>
         <translation>Нулирай историята на клавиатурата и мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2479"/>
+        <location filename="../interface/InputTab.cpp" line="212"/>
         <source>key combination historical data</source>
         <translation>данни за историята на клавишните комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2480"/>
+        <location filename="../interface/InputTab.cpp" line="213"/>
         <source>Reset Key Combinations History</source>
         <translation>Нулирай историята на клавишните комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2488"/>
+        <location filename="../interface/InputTab.cpp" line="221"/>
         <source>Cancel</source>
         <translation>Откажи</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2490"/>
+        <location filename="../interface/InputTab.cpp" line="223"/>
         <source>Do you want to reset all input data or just the </source>
         <translation>Искате да изтриете всички данни за вход или само </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2493"/>
+        <location filename="../interface/InputTab.cpp" line="226"/>
         <source>Reset All Data</source>
         <translation>Нулирай всички данни</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2508"/>
-        <location filename="../interface/InputTab.cpp" line="2528"/>
-        <location filename="../interface/InputTab.cpp" line="2549"/>
-        <location filename="../interface/InputTab.cpp" line="2562"/>
-        <location filename="../interface/InputTab.cpp" line="2586"/>
-        <location filename="../interface/InputTab.cpp" line="2602"/>
+        <location filename="../interface/InputTab.cpp" line="241"/>
+        <location filename="../interface/InputTab.cpp" line="261"/>
+        <location filename="../interface/InputTab.cpp" line="282"/>
+        <location filename="../interface/InputTab.cpp" line="295"/>
+        <location filename="../interface/InputTab.cpp" line="319"/>
+        <location filename="../interface/InputTab.cpp" line="335"/>
         <source>Delete stats?</source>
         <translation>Изтрий статистики?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2509"/>
+        <location filename="../interface/InputTab.cpp" line="242"/>
         <source>Are you sure you want to delete all recorded keyboard statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за клавиатура? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2529"/>
+        <location filename="../interface/InputTab.cpp" line="262"/>
         <source>Are you sure you want to delete all recorded mouse statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за мишка? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2550"/>
+        <location filename="../interface/InputTab.cpp" line="283"/>
         <source>Are you sure you want to delete all recorded per application input statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни относно приложенията? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2563"/>
+        <location filename="../interface/InputTab.cpp" line="296"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за мишка и клавиатура? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2587"/>
+        <location filename="../interface/InputTab.cpp" line="320"/>
         <source>Are you sure you want to delete all recorded key combination statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за клавишмни комбинации? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2603"/>
+        <location filename="../interface/InputTab.cpp" line="336"/>
         <source>Are you sure you want to delete all recorded input statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за вход? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2632"/>
+        <location filename="../interface/InputTab.cpp" line="365"/>
         <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>Не са намерени входни устройсва, позволени ли са вашите &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;разрешения&lt;/a&gt;?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2735"/>
         <source>Ignore</source>
-        <translation>Игнорирай</translation>
+        <translation type="vanished">Игнорирай</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2741"/>
         <source>Open File Location</source>
-        <translation>Селектирай файл</translation>
+        <translation type="vanished">Селектирай файл</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2747"/>
         <source>Open Online Profile</source>
-        <translation>Отвори онлайн профил</translation>
+        <translation type="vanished">Отвори онлайн профил</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2762"/>
         <source>Ignore application?</source>
-        <translation>Ингонирай приложение?</translation>
+        <translation type="vanished">Ингонирай приложение?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2763"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Сигурни ли сте че искате да игнорирате приложение &apos;%1&apos;? Това също ще премахне историята на това приложение.</translation>
+        <translation type="vanished">Сигурни ли сте че искате да игнорирате приложение &apos;%1&apos;? Това също ще премахне историята на това приложение.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2816"/>
         <source>Not yet</source>
-        <translation>Още не</translation>
+        <translation type="vanished">Още не</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2817"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation>Това приложение не е качено още в уебсайта, моля изчакай поне час.</translation>
+        <translation type="vanished">Това приложение не е качено още в уебсайта, моля изчакай поне час.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2840"/>
         <source>Prune Mouse Heatmap</source>
-        <translation>Изчисти топлинната карта на мишката</translation>
+        <translation type="vanished">Изчисти топлинната карта на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="2841"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation>Ако горещите точки на мишката не се изтриват периодично, базата данни ще стане голяма и ще забави WhatPulse. Сигурни ли сте че искате да спрете почистването?</translation>
+        <translation type="vanished">Ако горещите точки на мишката не се изтриват периодично, базата данни ще стане голяма и ще забави WhatPulse. Сигурни ли сте че искате да спрете почистването?</translation>
     </message>
 </context>
 <context>
@@ -1614,32 +2069,32 @@ Please check your permissions on: %2</source>
 <context>
     <name>KeyboardHeatmap</name>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="427"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="428"/>
         <source>Image not created!</source>
         <translation>Изображението не е създадено!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="428"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Не може да се създаде изображение на топлинната карта. Моля пробвай пак или провери настройките за достъп на: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="465"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="466"/>
         <source>Pressed</source>
         <translation>Натиснат</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="520"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="521"/>
         <source>Image posted online!</source>
         <translation>Изображението е качено онлайн!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="521"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="522"/>
         <source>Keyboard image succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Топлинната карта на клавиатурата беше успешно качена! Искаш ли да я видиш в браузъра?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="533"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="534"/>
         <source>Error uploading file!</source>
         <translation>Възникна грешка при качването на файла!</translation>
     </message>
@@ -1657,7 +2112,7 @@ Please check your permissions on: %2</source>
         <translation>Пулс спрян! Последният пулс беше преди %1 секунди, моля пробвайте пак след 10 секунди.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="334"/>
+        <location filename="../stats/localstats.cpp" line="345"/>
         <source>Error while pulsing!</source>
         <translation>Грешка по време на пулс!</translation>
     </message>
@@ -1665,39 +2120,39 @@ Please check your permissions on: %2</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="196"/>
+        <location filename="../interface/MainWindow.cpp" line="187"/>
         <source>Overview</source>
         <translation>Общи данни</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="197"/>
+        <location filename="../interface/MainWindow.cpp" line="188"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="198"/>
+        <location filename="../interface/MainWindow.cpp" line="189"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="199"/>
+        <location filename="../interface/MainWindow.cpp" line="190"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="200"/>
+        <location filename="../interface/MainWindow.cpp" line="191"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="203"/>
+        <location filename="../interface/MainWindow.cpp" line="194"/>
         <location filename="../interface/MainWindow.cpp" line="277"/>
-        <location filename="../interface/MainWindow.cpp" line="324"/>
+        <location filename="../interface/MainWindow.cpp" line="328"/>
         <source>Account</source>
         <translation>Акаунт</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="335"/>
+        <location filename="../interface/MainWindow.cpp" line="339"/>
         <source>Disabled</source>
         <translation>изключено</translation>
     </message>
@@ -1705,17 +2160,17 @@ Please check your permissions on: %2</source>
 <context>
     <name>MouseButtons</name>
     <message>
-        <location filename="../interface/widgets/MouseButtons.cpp" line="27"/>
+        <location filename="../interface/widgets/MouseButtons.cpp" line="23"/>
         <source>Right</source>
         <translation>Десен</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseButtons.cpp" line="30"/>
+        <location filename="../interface/widgets/MouseButtons.cpp" line="26"/>
         <source>Left</source>
         <translation>Ляв</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseButtons.cpp" line="33"/>
+        <location filename="../interface/widgets/MouseButtons.cpp" line="29"/>
         <source>Middle</source>
         <translation>Среден</translation>
     </message>
@@ -1723,27 +2178,27 @@ Please check your permissions on: %2</source>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="98"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="100"/>
         <source>Image not created!</source>
         <translation>Изображението не е създадено!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="99"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="101"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Не може да се създаде изображение на топлинната карта. Моля пробвай пак или провери настройките за достъп на: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="281"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="283"/>
         <source>Image posted online!</source>
         <translation>Изображението е качено онлайн!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="282"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="284"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Топлинната карта на мишката беше успешно качена! Искаш ли да я видиш в браузъра?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="294"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="296"/>
         <source>Error uploading file!</source>
         <translation>Възникна грешка при качването на файла!</translation>
     </message>
@@ -1774,144 +2229,144 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="594"/>
+        <location filename="../interface/ExportWindow.cpp" line="602"/>
         <source>Exporting Network</source>
         <translation>Експорт на мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="595"/>
+        <location filename="../interface/ExportWindow.cpp" line="603"/>
         <source>Close</source>
         <translation>Затвори</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="601"/>
+        <location filename="../interface/ExportWindow.cpp" line="609"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Моля направете селекцията за експорт отдолу. Селектирайте каквито данни искате и времето, относно дали искате да я групирате за ден, седмица или месец и натистенете Запази за да експротнете в CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="608"/>
+        <location filename="../interface/ExportWindow.cpp" line="616"/>
         <source>Traffic per application</source>
         <translation>Трафик за приложение</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="609"/>
+        <location filename="../interface/ExportWindow.cpp" line="617"/>
         <source>Traffic per country</source>
         <translation>Трафик за държава</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="610"/>
+        <location filename="../interface/ExportWindow.cpp" line="618"/>
         <source>Traffic per network interface</source>
         <translation>Трафик за мрежов интерфейс</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="611"/>
+        <location filename="../interface/ExportWindow.cpp" line="619"/>
         <source>Traffic per type</source>
         <translation>Трафик за тип</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="623"/>
+        <location filename="../interface/ExportWindow.cpp" line="631"/>
         <source>Export from:</source>
         <translation>Експорт от:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="633"/>
+        <location filename="../interface/ExportWindow.cpp" line="641"/>
         <source>to:</source>
         <translation>до:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="652"/>
+        <location filename="../interface/ExportWindow.cpp" line="660"/>
         <source>Group by:</source>
         <translation>Групирай по:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="654"/>
+        <location filename="../interface/ExportWindow.cpp" line="662"/>
         <source>Day</source>
         <translation>Ден</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="655"/>
-        <location filename="../interface/ExportWindow.cpp" line="753"/>
-        <location filename="../interface/ExportWindow.cpp" line="817"/>
-        <location filename="../interface/ExportWindow.cpp" line="876"/>
-        <location filename="../interface/ExportWindow.cpp" line="939"/>
+        <location filename="../interface/ExportWindow.cpp" line="663"/>
+        <location filename="../interface/ExportWindow.cpp" line="761"/>
+        <location filename="../interface/ExportWindow.cpp" line="825"/>
+        <location filename="../interface/ExportWindow.cpp" line="884"/>
+        <location filename="../interface/ExportWindow.cpp" line="947"/>
         <source>Week</source>
         <translation>Седмица</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="656"/>
-        <location filename="../interface/ExportWindow.cpp" line="761"/>
-        <location filename="../interface/ExportWindow.cpp" line="824"/>
-        <location filename="../interface/ExportWindow.cpp" line="884"/>
-        <location filename="../interface/ExportWindow.cpp" line="948"/>
+        <location filename="../interface/ExportWindow.cpp" line="664"/>
+        <location filename="../interface/ExportWindow.cpp" line="769"/>
+        <location filename="../interface/ExportWindow.cpp" line="832"/>
+        <location filename="../interface/ExportWindow.cpp" line="892"/>
+        <location filename="../interface/ExportWindow.cpp" line="956"/>
         <source>Month</source>
         <translation>Месец</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="666"/>
+        <location filename="../interface/ExportWindow.cpp" line="674"/>
         <source>Save</source>
         <translation>Запази</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="674"/>
+        <location filename="../interface/ExportWindow.cpp" line="682"/>
         <source>Premium Only</source>
         <translation>Само за премиум</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="683"/>
+        <location filename="../interface/ExportWindow.cpp" line="691"/>
         <source>Working..</source>
         <translation>Прави се..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="730"/>
+        <location filename="../interface/ExportWindow.cpp" line="738"/>
         <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>История на мрежов интерфейс между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="760"/>
-        <location filename="../interface/ExportWindow.cpp" line="823"/>
-        <location filename="../interface/ExportWindow.cpp" line="883"/>
-        <location filename="../interface/ExportWindow.cpp" line="947"/>
+        <location filename="../interface/ExportWindow.cpp" line="768"/>
+        <location filename="../interface/ExportWindow.cpp" line="831"/>
+        <location filename="../interface/ExportWindow.cpp" line="891"/>
+        <location filename="../interface/ExportWindow.cpp" line="955"/>
         <source>grouped by Week </source>
         <translation>групирано по седмица </translation>
-    </message>
-    <message>
-        <location filename="../interface/ExportWindow.cpp" line="768"/>
-        <location filename="../interface/ExportWindow.cpp" line="830"/>
-        <location filename="../interface/ExportWindow.cpp" line="891"/>
-        <location filename="../interface/ExportWindow.cpp" line="956"/>
-        <source>grouped by Month </source>
-        <translation>групирано по месец </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="776"/>
         <location filename="../interface/ExportWindow.cpp" line="838"/>
         <location filename="../interface/ExportWindow.cpp" line="899"/>
-        <location filename="../interface/ExportWindow.cpp" line="965"/>
+        <location filename="../interface/ExportWindow.cpp" line="964"/>
+        <source>grouped by Month </source>
+        <translation>групирано по месец </translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="784"/>
+        <location filename="../interface/ExportWindow.cpp" line="846"/>
+        <location filename="../interface/ExportWindow.cpp" line="907"/>
+        <location filename="../interface/ExportWindow.cpp" line="973"/>
         <source>grouped by Day </source>
         <translation>групирано по ден </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="795"/>
+        <location filename="../interface/ExportWindow.cpp" line="803"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="812"/>
+        <location filename="../interface/ExportWindow.cpp" line="820"/>
         <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Мрежа за приложение между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="871"/>
+        <location filename="../interface/ExportWindow.cpp" line="879"/>
         <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Трафик на мрежа за държава между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="934"/>
+        <location filename="../interface/ExportWindow.cpp" line="942"/>
         <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Мрежа за вид между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1019"/>
+        <location filename="../interface/ExportWindow.cpp" line="1027"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Селектирали сте обхват на дните повече от 90 дни. Експортирането може да отнеме време.</translation>
     </message>
@@ -2668,154 +3123,177 @@ Please check your permissions on: %2</source>
 <context>
     <name>OverviewTab</name>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="29"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; Apple M1 is not fully supported. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;More info here&lt;/a&gt;.</source>
-        <translation>&lt;b&gt;Бележка:&lt;/b&gt; Apple M1 не е изцяло поддържан. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;тук има повече информация&lt;/a&gt;.</translation>
+        <translation type="vanished">&lt;b&gt;Бележка:&lt;/b&gt; Apple M1 не е изцяло поддържан. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;тук има повече информация&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="47"/>
+        <location filename="../interface/OverviewTab.cpp" line="51"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute &lt;a href=&quot;#&quot;&gt;and do so now&lt;/a&gt;.</source>
         <translation>&lt;b&gt;Бележка:&lt;/b&gt; Според нашите записки, са минали &lt;b&gt;%1&lt;/b&gt; дни от последното ви онлайн резервно копие. Моля направете го &lt;a href=&quot;#&quot;&gt;сега&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="67"/>
+        <location filename="../interface/OverviewTab.cpp" line="71"/>
         <source>Open Window on Startup</source>
         <translation>Отвори прозорец при включване на компютъра</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="74"/>
+        <location filename="../interface/OverviewTab.cpp" line="78"/>
         <source> Pulse!</source>
         <translation> Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="94"/>
+        <location filename="../interface/OverviewTab.cpp" line="98"/>
         <source>Start Online Backup?</source>
         <translation>Стартиране на създаване на онлайн резервно копие?</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="95"/>
+        <location filename="../interface/OverviewTab.cpp" line="99"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Стартиране на създаване на резервно копие ще рестартира приложението и ще покаже прозореца за резервно копие. Да продължим ли?</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="146"/>
+        <location filename="../interface/OverviewTab.cpp" line="150"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
         <translation>Сегашно време на работа: незнайно. Непознат брой рестартирания.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="152"/>
+        <location filename="../interface/OverviewTab.cpp" line="156"/>
         <source>Total keycount: unknown</source>
         <translation>Общ брой клавиши: непознат</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="158"/>
+        <location filename="../interface/OverviewTab.cpp" line="162"/>
         <source>Total clickcount: unknown</source>
         <translation>Общ брой кликове: непознат</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="164"/>
-        <location filename="../interface/OverviewTab.cpp" line="314"/>
+        <location filename="../interface/OverviewTab.cpp" line="168"/>
+        <location filename="../interface/OverviewTab.cpp" line="337"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>Изтегляне: незнайно
 Качване: незнайно</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="184"/>
-        <location filename="../interface/OverviewTab.cpp" line="231"/>
+        <location filename="../interface/OverviewTab.cpp" line="188"/>
+        <location filename="../interface/OverviewTab.cpp" line="235"/>
         <source>Total: %1
 Available: %2</source>
         <translation>Общо: %1
 Достъпно: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="254"/>
         <source>Total clickcount: %1
 Unpulsed: %2</source>
-        <translation>Общо кликове %1
+        <translation type="vanished">Общо кликове %1
 Непулсирани: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="260"/>
+        <location filename="../interface/OverviewTab.cpp" line="31"/>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="274"/>
+        <source>Total clickcount:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="276"/>
+        <source>Unpulsed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="278"/>
+        <source>Scrolls:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="280"/>
+        <source>Distance:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="283"/>
         <source>Click counting is disabled</source>
         <translation>Броенето на кликове е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="269"/>
+        <location filename="../interface/OverviewTab.cpp" line="292"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>Общо клавиши: %1
 Непулсирани: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="275"/>
+        <location filename="../interface/OverviewTab.cpp" line="298"/>
         <source>Key counting is disabled</source>
         <translation>Броенето на клавиши е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="278"/>
-        <location filename="../interface/OverviewTab.cpp" line="279"/>
+        <location filename="../interface/OverviewTab.cpp" line="301"/>
+        <location filename="../interface/OverviewTab.cpp" line="302"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="296"/>
+        <location filename="../interface/OverviewTab.cpp" line="319"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>Сеагшно време на работа: %1. %2 рестартирания
 Непулсирани: %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="300"/>
+        <location filename="../interface/OverviewTab.cpp" line="323"/>
         <source>Uptime is disabled</source>
         <translation>Следенето на време на работа е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="310"/>
+        <location filename="../interface/OverviewTab.cpp" line="333"/>
         <source>Down: %1
 Up: %2</source>
         <translation>Изтегляне: %1
 Качване: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="318"/>
+        <location filename="../interface/OverviewTab.cpp" line="341"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 Непулсирани: %2 изтеглени, %3 качени</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="325"/>
+        <location filename="../interface/OverviewTab.cpp" line="348"/>
         <source>Network is disabled</source>
         <translation>Следенето на интернет трафика е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="330"/>
+        <location filename="../interface/OverviewTab.cpp" line="353"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>Опцията &apos;Работи офлайн&apos; е включена, и по тази причина не можете да пулсирате. Изключете тази опция за да върнете възможността.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="341"/>
+        <location filename="../interface/OverviewTab.cpp" line="364"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="342"/>
+        <location filename="../interface/OverviewTab.cpp" line="365"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="352"/>
+        <location filename="../interface/OverviewTab.cpp" line="375"/>
         <source>Pulsing..</source>
         <translation>Пулсиране..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="353"/>
+        <location filename="../interface/OverviewTab.cpp" line="376"/>
         <source>Pulse underway, please wait!</source>
         <translation>Пулсът още се изпълнява, моля изчакай!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="358"/>
+        <location filename="../interface/OverviewTab.cpp" line="381"/>
         <source>Pulse!</source>
         <translation>Пулсирай!</translation>
     </message>
@@ -3248,93 +3726,93 @@ Unpulsed: %2 down, %3 up</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="405"/>
-        <location filename="../interface/SettingsTab.cpp" line="425"/>
-        <location filename="../interface/SettingsTab.cpp" line="446"/>
+        <location filename="../interface/SettingsTab.cpp" line="436"/>
+        <location filename="../interface/SettingsTab.cpp" line="457"/>
         <source>Per Application</source>
         <translation>За приложение</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="415"/>
+        <location filename="../interface/SettingsTab.cpp" line="426"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="421"/>
+        <location filename="../interface/SettingsTab.cpp" line="432"/>
         <source>Per Interface</source>
         <translation>За интерфейс</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="423"/>
+        <location filename="../interface/SettingsTab.cpp" line="434"/>
         <source>Per Country</source>
         <translation>За страна</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="427"/>
+        <location filename="../interface/SettingsTab.cpp" line="438"/>
         <source>Per Traffic Type</source>
         <translation>За тип трафик</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="437"/>
+        <location filename="../interface/SettingsTab.cpp" line="448"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="443"/>
+        <location filename="../interface/SettingsTab.cpp" line="454"/>
         <source>Computer Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="444"/>
+        <location filename="../interface/SettingsTab.cpp" line="455"/>
         <source>Reboots</source>
         <translation>Рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="458"/>
+        <location filename="../interface/SettingsTab.cpp" line="466"/>
         <source>Advanced</source>
         <translation>Допълнителни</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="465"/>
+        <location filename="../interface/SettingsTab.cpp" line="473"/>
         <source>&amp;Open Data Directory</source>
         <translation>&amp;Отвори директория с данни</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="472"/>
+        <location filename="../interface/SettingsTab.cpp" line="480"/>
         <source>&amp;Start Online Backup</source>
         <translation>&amp;Започни онлайн резервно копие</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="479"/>
+        <location filename="../interface/SettingsTab.cpp" line="487"/>
         <source>Re-upload &amp;applications</source>
         <translation>Качи отново &amp;приложения</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="485"/>
+        <location filename="../interface/SettingsTab.cpp" line="493"/>
         <source>Empty local &amp;database</source>
         <translation>Изпразни локална &amp;база данни</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="491"/>
+        <location filename="../interface/SettingsTab.cpp" line="499"/>
         <source>Update &amp;GeoIP database</source>
         <translation>Обнови &amp;GeoIP база данни</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="498"/>
+        <location filename="../interface/SettingsTab.cpp" line="506"/>
         <source>Update Network Port Description database</source>
         <translation>Обнови базата данни за описание на мрежовите портове</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="505"/>
+        <location filename="../interface/SettingsTab.cpp" line="513"/>
         <source>Upload &amp;Computer Profile</source>
         <translation>Качване на профил на компютъра &amp;Computer</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="512"/>
+        <location filename="../interface/SettingsTab.cpp" line="520"/>
         <source>&amp;Upload database</source>
         <translation>&amp;Качи база данни</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="524"/>
+        <location filename="../interface/SettingsTab.cpp" line="532"/>
         <source>Check macOS Permissions</source>
         <translation>Провери macOS позволения</translation>
     </message>
@@ -3343,52 +3821,52 @@ Unpulsed: %2 down, %3 up</source>
         <translation type="vanished">Качване на приложения</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="549"/>
+        <location filename="../interface/SettingsTab.cpp" line="557"/>
         <source>Uploading Apps</source>
         <translation>Качване на приложения</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="550"/>
+        <location filename="../interface/SettingsTab.cpp" line="558"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Има приложения, маркирани за качване. Може да отнеме час докато се покажат на уебсайта.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="570"/>
+        <location filename="../interface/SettingsTab.cpp" line="578"/>
         <source>Empty Database</source>
         <translation>Изпразни база данни</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="571"/>
+        <location filename="../interface/SettingsTab.cpp" line="579"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Изпразването на локалната база данни ще изтрие локалните статистики и ще ви изкара от акаунта ви. Тази стъпка не може да се върне. Да продължим ли?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="595"/>
+        <location filename="../interface/SettingsTab.cpp" line="603"/>
         <source>Start Online Backup?</source>
         <translation>Да започнем ли създаването на онлайн резервно копие?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="596"/>
+        <location filename="../interface/SettingsTab.cpp" line="604"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Започването на резервно копие ще рестартира приложението и ще отвори прозореца за резервно копие. Да продължим ли?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="610"/>
+        <location filename="../interface/SettingsTab.cpp" line="618"/>
         <source>Upload Computer Info</source>
         <translation>Качване на информация за компютъра</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="611"/>
+        <location filename="../interface/SettingsTab.cpp" line="619"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Успешно стартира качването на профила на компютъра. Уебсайтът ще бъде актуализиран след няколко минути.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="763"/>
+        <location filename="../interface/SettingsTab.cpp" line="774"/>
         <source>Settings saved...</source>
         <translation>Настройките са запазени...</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="807"/>
+        <location filename="../interface/SettingsTab.cpp" line="818"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Онлайн резервни копия всяка седмица (само за премиум)</translation>
     </message>
@@ -3587,9 +4065,9 @@ Unpulsed: %2 down, %3 up</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="87"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="324"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="489"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="502"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="330"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="503"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="516"/>
         <source>Select label to edit..</source>
         <translation>Селектирай етикет за промяна..</translation>
     </message>
@@ -3605,254 +4083,278 @@ Unpulsed: %2 down, %3 up</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="114"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="404"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="410"/>
         <source>Unpulsed Keys</source>
         <translation>Не-пулсирани клавиши</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="115"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="406"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="412"/>
         <source>Unpulsed Clicks</source>
         <translation>Не-пулсирани кликове</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="116"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="408"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="414"/>
         <source>Unpulsed Download</source>
         <translation>Не-пулсирано изтегляне</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="117"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="410"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="416"/>
         <source>Unpulsed Upload</source>
         <translation>Не-пулсирано качване</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="118"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="412"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="418"/>
         <source>Unpulsed Uptime</source>
         <translation>Не-пулсирано време на работа</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="119"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="414"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="420"/>
         <source>Unpulsed Click Rate</source>
         <translation>Не-пулсирана скорост на кликове</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="120"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="416"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="422"/>
         <source>Unpulsed Key Rate</source>
         <translation>Не-пулсирана скорост на клавиши</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="121"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="418"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="424"/>
         <source>Unpulsed Download Rate</source>
         <translation>Не-пулсирана скорост на теглене</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="122"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="420"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="426"/>
         <source>Unpulsed Upload Rate</source>
         <translation>Не-пулсирана скорост на качване</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="123"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="422"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="428"/>
         <source>Current Click Rate</source>
         <translation>Сргашна скорост на кликване</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="124"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="424"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="430"/>
         <source>Current Key Rate</source>
         <translation>Сргашна скорост на клавиши</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="125"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="426"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="432"/>
         <source>Current Download Rate</source>
         <translation>Сргашна скорост на теглене</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="126"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="428"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="434"/>
         <source>Current Upload Rate</source>
         <translation>Сргашна скорост на качване</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="127"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="430"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="436"/>
         <source>Current Uptime</source>
         <translation>Сегашно време на работа</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="128"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="432"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="438"/>
         <source>Total Keys</source>
         <translation>Общо клавиши</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="129"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="434"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="440"/>
         <source>Total Clicks</source>
         <translation>Общо кликове</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="130"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="436"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="442"/>
         <source>Total Download</source>
         <translation>Общо теглене</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="131"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="438"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="444"/>
         <source>Total Upload</source>
         <translation>Общо качване</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="132"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="440"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="446"/>
         <source>Total Uptime</source>
         <translation>Общо време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="133"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="442"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="134"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="456"/>
+        <source>Total Mouse Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="135"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="458"/>
+        <source>Total Mouse Scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="137"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="448"/>
         <source>Total Click Rate</source>
         <translation>Обща скорост на кликове</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="134"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="444"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="138"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="450"/>
         <source>Total Key Rate</source>
         <translation>Обща скорост на клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="135"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="446"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="139"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="452"/>
         <source>Total Download Rate</source>
         <translation>Обща скорост за теглене</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="136"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="448"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="140"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="454"/>
         <source>Total Upload Rate</source>
         <translation>Обща скорост за качване</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="137"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="450"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="141"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="460"/>
         <source>Rank Keys</source>
         <translation>Ранк на клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="138"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="452"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="142"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="462"/>
         <source>Rank Clicks</source>
         <translation>Ранк на кликове</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="139"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="454"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="143"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="464"/>
         <source>Rank Download</source>
         <translation>Ранк на теглене</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="140"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="456"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="144"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="466"/>
         <source>Rank Upload</source>
         <translation>Ранк на качване</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="141"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="458"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="145"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="468"/>
         <source>Rank Uptime</source>
         <translation>Ранк на време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="142"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="460"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="146"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="470"/>
         <source>Today Keys</source>
         <translation>Общо клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="143"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="462"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="147"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="472"/>
         <source>Today Clicks</source>
         <translation>Общо кликове</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="144"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="464"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="148"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="474"/>
         <source>Today Download</source>
         <translation>Общо теглене</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="145"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="466"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="149"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="476"/>
         <source>Today Upload</source>
         <translation>Общо качване</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="165"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="150"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="478"/>
+        <source>Today Mouse Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="151"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="480"/>
+        <source>Today Mouse Scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="171"/>
         <source>Snap to grid</source>
         <translation>Нагласи прозореца</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="172"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="178"/>
         <source>Reset</source>
         <translation>Нулирай</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="184"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="190"/>
         <source>Call to Center</source>
         <translation>Центрирай</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="236"/>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="244"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="242"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="250"/>
         <source>Reset to default</source>
         <translation>Върни по подразбиране</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="248"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="254"/>
         <source>Background color: </source>
         <translation>Цвят на фона: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="252"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="258"/>
         <source>Font color: </source>
         <translation>Цвят на текста: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="263"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="269"/>
         <source>Font size: </source>
         <translation>Големина на текста: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="282"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="288"/>
         <source>Transparency: </source>
         <translation>Прозрачност: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="301"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="307"/>
         <source>Close Geek Window on double click</source>
         <translation>Затвори програмисткия прозорец с двоен клик</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="307"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="313"/>
         <source>Put Geek Window on top</source>
         <translation>Сложи прозореца на програмиста най-горе</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="571"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="585"/>
         <source>Reset to default?</source>
         <translation>Рестартирай по подразбиране?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="572"/>
+        <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="586"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>Искаш ли да рестартираш прозореца на програмиста на настройките му по подразбиране?
@@ -3919,15 +4421,15 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="311"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="312"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="311"/>
         <source>Statistic</source>
         <translation>Статистика</translation>
     </message>
@@ -3944,8 +4446,8 @@ This will reset any custom layouts!</source>
         <translation>Действия</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="311"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
         <source>Time</source>
         <translation>Време</translation>
     </message>
@@ -3960,15 +4462,15 @@ This will reset any custom layouts!</source>
         <translation>Име на основен етап</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="419"/>
         <source>Keys</source>
         <translation>Клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="421"/>
         <source>Clicks</source>
         <translation>Кликове</translation>
@@ -3981,8 +4483,8 @@ This will reset any custom layouts!</source>
         <translation>MB изтеглени</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="287"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
         <source>Uploaded MB</source>
         <translation>MB качени</translation>
@@ -4140,57 +4642,57 @@ This will reset any custom layouts!</source>
 <context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="207"/>
+        <location filename="../interface/tasktraypopup.cpp" line="208"/>
         <source>Pulse</source>
         <translation>Качи данни</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="213"/>
+        <location filename="../interface/tasktraypopup.cpp" line="214"/>
         <source>Open Client</source>
         <translation>Отвори приложение</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="219"/>
+        <location filename="../interface/tasktraypopup.cpp" line="220"/>
         <source>View Online Stats</source>
         <translation>Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="225"/>
+        <location filename="../interface/tasktraypopup.cpp" line="226"/>
         <source>Toggle Geek Window</source>
         <translation>Включи програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="232"/>
+        <location filename="../interface/tasktraypopup.cpp" line="233"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="238"/>
+        <location filename="../interface/tasktraypopup.cpp" line="239"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="243"/>
+        <location filename="../interface/tasktraypopup.cpp" line="244"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="251"/>
+        <location filename="../interface/tasktraypopup.cpp" line="252"/>
         <source>Account</source>
         <translation>Акаунт</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="257"/>
+        <location filename="../interface/tasktraypopup.cpp" line="258"/>
         <source>Check for Updates</source>
         <translation>Провери за нова версия на софтуера</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="263"/>
+        <location filename="../interface/tasktraypopup.cpp" line="264"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="269"/>
+        <location filename="../interface/tasktraypopup.cpp" line="270"/>
         <source>Exit WhatPulse</source>
         <translation>Излез от WhatPulse</translation>
     </message>
@@ -4390,127 +4892,127 @@ This will reset any custom layouts!</source>
 <context>
     <name>UptimePage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1029"/>
+        <location filename="../interface/ExportWindow.cpp" line="1037"/>
         <source>Exporting Uptime</source>
         <translation>Експорт на време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1030"/>
+        <location filename="../interface/ExportWindow.cpp" line="1038"/>
         <source>Close</source>
         <translation>Затвори</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1036"/>
+        <location filename="../interface/ExportWindow.cpp" line="1044"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Моля направете селекцията за експорт отдолу. Селектирайте каквито данни искате и времето, относно дали искате да я групирате за ден, седмица или месец и натистенете Запази за да експротнете в CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1044"/>
+        <location filename="../interface/ExportWindow.cpp" line="1052"/>
         <source>Total uptime per application</source>
         <translation>Общо време на работа за приложение</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1046"/>
+        <location filename="../interface/ExportWindow.cpp" line="1054"/>
         <source>Active time used per application</source>
         <translation>Активно време използвано за приложение</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1047"/>
+        <location filename="../interface/ExportWindow.cpp" line="1055"/>
         <source>List of your reboots</source>
         <translation>Лист на рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1065"/>
+        <location filename="../interface/ExportWindow.cpp" line="1073"/>
         <source>Export from:</source>
         <translation>Експорт от:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1076"/>
+        <location filename="../interface/ExportWindow.cpp" line="1084"/>
         <source>to:</source>
         <translation>до:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1096"/>
+        <location filename="../interface/ExportWindow.cpp" line="1104"/>
         <source>Group by:</source>
         <translation>Групирай по:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1099"/>
-        <location filename="../interface/ExportWindow.cpp" line="1305"/>
-        <location filename="../interface/ExportWindow.cpp" line="1326"/>
-        <location filename="../interface/ExportWindow.cpp" line="1329"/>
+        <location filename="../interface/ExportWindow.cpp" line="1107"/>
+        <location filename="../interface/ExportWindow.cpp" line="1313"/>
+        <location filename="../interface/ExportWindow.cpp" line="1334"/>
+        <location filename="../interface/ExportWindow.cpp" line="1337"/>
         <source>Hour</source>
         <translation>Час</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1100"/>
+        <location filename="../interface/ExportWindow.cpp" line="1108"/>
         <source>Day</source>
         <translation>Ден</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1101"/>
-        <location filename="../interface/ExportWindow.cpp" line="1309"/>
+        <location filename="../interface/ExportWindow.cpp" line="1109"/>
+        <location filename="../interface/ExportWindow.cpp" line="1317"/>
         <source>Week</source>
         <translation>Седмица</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1102"/>
-        <location filename="../interface/ExportWindow.cpp" line="1313"/>
+        <location filename="../interface/ExportWindow.cpp" line="1110"/>
+        <location filename="../interface/ExportWindow.cpp" line="1321"/>
         <source>Month</source>
         <translation>Месец</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1112"/>
+        <location filename="../interface/ExportWindow.cpp" line="1120"/>
         <source>Save</source>
         <translation>Запази</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1120"/>
+        <location filename="../interface/ExportWindow.cpp" line="1128"/>
         <source>Premium Only</source>
         <translation>Само премиум</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1129"/>
+        <location filename="../interface/ExportWindow.cpp" line="1137"/>
         <source>Working..</source>
         <translation>Прави се..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1153"/>
+        <location filename="../interface/ExportWindow.cpp" line="1161"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Селектирали сте обхват на дните повече от 90 дни. Експортирането може да отнеме време.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1227"/>
+        <location filename="../interface/ExportWindow.cpp" line="1235"/>
         <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Рестарт лист между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1257"/>
+        <location filename="../interface/ExportWindow.cpp" line="1265"/>
         <source>Application uptime </source>
         <translation>Време на работа за приложение </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1298"/>
+        <location filename="../interface/ExportWindow.cpp" line="1306"/>
         <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Време на активност за приложение между &apos;%1&apos; и &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1306"/>
+        <location filename="../interface/ExportWindow.cpp" line="1314"/>
         <source>grouped by Hour </source>
         <translation>групирано по час </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1310"/>
+        <location filename="../interface/ExportWindow.cpp" line="1318"/>
         <source>grouped by Week </source>
         <translation>групирано по седмица </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1314"/>
+        <location filename="../interface/ExportWindow.cpp" line="1322"/>
         <source>grouped by Month </source>
         <translation>групирано по месец </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1318"/>
+        <location filename="../interface/ExportWindow.cpp" line="1326"/>
         <source>grouped by Day </source>
         <translation>групирано по ден </translation>
     </message>
@@ -4824,256 +5326,308 @@ This will reset any custom layouts!</source>
 <context>
     <name>Utils</name>
     <message>
-        <location filename="../utils.cpp" line="81"/>
+        <location filename="../utils.cpp" line="82"/>
         <source>&lt;1 min</source>
         <translation>&lt;1 мин</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="81"/>
+        <location filename="../utils.cpp" line="82"/>
         <source>Less than a minute</source>
         <translation>По-малко от минута</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="88"/>
+        <location filename="../utils.cpp" line="89"/>
         <source>1 year</source>
         <translation>1 година</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="90"/>
+        <location filename="../utils.cpp" line="91"/>
         <source>%1 years</source>
         <translation>%1 години</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="96"/>
+        <location filename="../utils.cpp" line="97"/>
         <source>1 day</source>
         <translation>1 ден</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="98"/>
+        <location filename="../utils.cpp" line="99"/>
         <source>%1 days</source>
         <translation>%1 дни</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="104"/>
+        <location filename="../utils.cpp" line="105"/>
         <source>1 hour</source>
         <translation>1 час</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="106"/>
+        <location filename="../utils.cpp" line="107"/>
         <source>%1 hours</source>
         <translation>%1 часа</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="113"/>
+        <location filename="../utils.cpp" line="114"/>
         <source>1 min</source>
         <translation>1 мин</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="115"/>
+        <location filename="../utils.cpp" line="116"/>
         <source>1 minute</source>
         <translation>1 минута</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="118"/>
+        <location filename="../utils.cpp" line="119"/>
         <source>%1 min</source>
         <translation>%1 мин</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="120"/>
+        <location filename="../utils.cpp" line="121"/>
         <source>%1 minutes</source>
         <translation>%1 минути</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="375"/>
+        <location filename="../utils.cpp" line="237"/>
+        <location filename="../utils.cpp" line="358"/>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="255"/>
+        <source>kilometers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="257"/>
+        <source>kilometer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="275"/>
+        <source>meters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="277"/>
+        <source>meter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="290"/>
+        <source>centimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="292"/>
+        <source>centimeter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="313"/>
+        <source>miles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="315"/>
+        <source>mile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="344"/>
+        <location filename="../utils.cpp" line="350"/>
+        <source>inch</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="509"/>
         <source>th</source>
         <translation>мата/тата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="378"/>
+        <location filename="../utils.cpp" line="512"/>
         <source>st</source>
         <translation>вата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="380"/>
+        <location filename="../utils.cpp" line="514"/>
         <source>nd</source>
         <translation>рата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="382"/>
+        <location filename="../utils.cpp" line="516"/>
         <source>rd</source>
         <translation>тата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="471"/>
+        <location filename="../utils.cpp" line="605"/>
         <source>Sunday</source>
         <translation>Неделя</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="473"/>
+        <location filename="../utils.cpp" line="607"/>
         <source>Monday</source>
         <translation>Понеделник</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="475"/>
+        <location filename="../utils.cpp" line="609"/>
         <source>Tuesday</source>
         <translation>Вторник</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="477"/>
+        <location filename="../utils.cpp" line="611"/>
         <source>Wednesday</source>
         <translation>Сряда</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="479"/>
+        <location filename="../utils.cpp" line="613"/>
         <source>Thursday</source>
         <translation>Четвъртък</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="481"/>
+        <location filename="../utils.cpp" line="615"/>
         <source>Friday</source>
         <translation>Петък</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="483"/>
+        <location filename="../utils.cpp" line="617"/>
         <source>Saturday</source>
         <translation>Събота</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="993"/>
-        <location filename="../utils.cpp" line="1019"/>
+        <location filename="../utils.cpp" line="1163"/>
+        <location filename="../utils.cpp" line="1189"/>
         <source>Save as...</source>
         <translation>Запази като...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1006"/>
-        <location filename="../utils.cpp" line="1034"/>
+        <location filename="../utils.cpp" line="1176"/>
+        <location filename="../utils.cpp" line="1204"/>
         <source>Export Failed</source>
         <translation>Експортирането се провали</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1007"/>
-        <location filename="../utils.cpp" line="1035"/>
+        <location filename="../utils.cpp" line="1177"/>
+        <location filename="../utils.cpp" line="1205"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Отварянето на файла за експорт се провали! Моля пробвай пак в друга директория.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1045"/>
+        <location filename="../utils.cpp" line="1215"/>
         <source>Backspace</source>
         <translation>Клавиш за обратен ход</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1048"/>
+        <location filename="../utils.cpp" line="1218"/>
         <source>Enter</source>
         <translation>Ентър</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1051"/>
+        <location filename="../utils.cpp" line="1221"/>
         <source>Tab</source>
         <translation>Таб</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1054"/>
+        <location filename="../utils.cpp" line="1224"/>
         <source>Capslock</source>
         <translation>Капслок</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1057"/>
+        <location filename="../utils.cpp" line="1227"/>
         <source>Left Shift</source>
         <translation>Ляв шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1060"/>
+        <location filename="../utils.cpp" line="1230"/>
         <source>Left Control</source>
         <translation>Ляв контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1063"/>
+        <location filename="../utils.cpp" line="1233"/>
         <source>Left Alt</source>
         <translation>Ляв алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1066"/>
+        <location filename="../utils.cpp" line="1236"/>
         <source>Right Alt</source>
         <translation>Десен алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1069"/>
+        <location filename="../utils.cpp" line="1239"/>
         <source>Right Control</source>
         <translation>Десен контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1072"/>
+        <location filename="../utils.cpp" line="1242"/>
         <source>Right Shift</source>
         <translation>Десен шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1075"/>
+        <location filename="../utils.cpp" line="1245"/>
         <source>Left</source>
         <translation>Стрелка наляво</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1078"/>
+        <location filename="../utils.cpp" line="1248"/>
         <source>Down</source>
         <translation>Стрелка надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1081"/>
+        <location filename="../utils.cpp" line="1251"/>
         <source>Right</source>
         <translation>Стрелка надясно</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1084"/>
+        <location filename="../utils.cpp" line="1254"/>
         <source>Up</source>
         <translation>Стрелка нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1087"/>
+        <location filename="../utils.cpp" line="1257"/>
         <source>Insert</source>
         <translation>Вмъкни</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1090"/>
+        <location filename="../utils.cpp" line="1260"/>
         <source>Home</source>
         <translation>Начало</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1093"/>
+        <location filename="../utils.cpp" line="1263"/>
         <source>Page Up</source>
         <translation>Страница нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1096"/>
+        <location filename="../utils.cpp" line="1266"/>
         <source>Delete</source>
         <translation>Изтрий</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1099"/>
+        <location filename="../utils.cpp" line="1269"/>
         <source>End</source>
         <translation>Край</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1102"/>
+        <location filename="../utils.cpp" line="1272"/>
         <source>Page Down</source>
         <translation>Страница надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1105"/>
+        <location filename="../utils.cpp" line="1275"/>
         <source>Escape</source>
         <translation>Ескейп</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1147"/>
+        <location filename="../utils.cpp" line="1317"/>
         <source>Space</source>
         <translation>Спейс</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1264"/>
+        <location filename="../utils.cpp" line="1434"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="703"/>
-        <location filename="../utils.cpp" line="1385"/>
+        <location filename="../utils.cpp" line="837"/>
+        <location filename="../utils.cpp" line="1555"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
@@ -5081,12 +5635,12 @@ This will reset any custom layouts!</source>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="141"/>
+        <location filename="../online/versioncheck.cpp" line="147"/>
         <source>Latest version</source>
         <translation>Последна версия</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="142"/>
+        <location filename="../online/versioncheck.cpp" line="148"/>
         <source>You&apos;re running the latest version of WhatPulse.</source>
         <translation>Вие имате последната версия на WhatPulse.</translation>
     </message>
@@ -5196,12 +5750,12 @@ This will reset any custom layouts!</source>
         <translation>Добри новини! Намерихме старо резервно копие на вашата база данни, искате ли да я върнем?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="383"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="387"/>
         <source>Restore Settings?</source>
         <translation>Искате ли да върнем вашите настройки?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="384"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="388"/>
         <source>Good news! I found your previous client settings, do you want to load them?</source>
         <translation>Добри новини! Намерихме вашите предишни настройки, искате ли да ги заредим?</translation>
     </message>
@@ -5257,69 +5811,69 @@ This will reset any custom layouts!</source>
         <translation>Почти сме готови! Натисни Готово за да активираш предните си настройки за приложението.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="163"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="171"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="165"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="173"/>
         <source>Cannot proceed</source>
         <translation>Не може да продължи</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="164"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="172"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="166"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="174"/>
         <source>Please select a database backup file from the list before you proceed.</source>
         <translation>Моля селектирайте файл с резервно копие на базата данни преди да продължите.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="191"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="193"/>
         <source>Contacting website..</source>
         <translation>Свързваме се с уебсайта..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="390"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="392"/>
         <source>Starting download..</source>
         <translation>Започваме теглене..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="393"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="395"/>
         <source>Premium only</source>
         <translation>Само за премиум</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="394"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="396"/>
         <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
         <translation>Съжаляваме, възможността за създаване на онлайн резервно копие е само за премиум клиенти. Тук можете да намерите повече информация. https://whatpulse.org/premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="399"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="401"/>
         <source>Error</source>
         <translation>Грешка</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="402"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
         <translation>Съжаляваме, уебсайта върна грешка при подготвянето на вашето резервно копие. Моля пробвайте по-късно отново. Грешката е: %1</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="415"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="417"/>
         <source>Downloading backup..</source>
         <translation>Изтегляне на резервно копие..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="423"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="425"/>
         <source>Download completed!</source>
         <translation>Изтеглянето свърши!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="431"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="433"/>
         <source>Extracting database..</source>
         <translation>Извличане на база данни..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="454"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="456"/>
         <source>All done! Please restart the client by clicking Finished.</source>
         <translation>Готово! Моля рестартирайте приложението, натискайки Готово.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="456"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="458"/>
         <source>Finished</source>
         <translation>Готово</translation>
     </message>
