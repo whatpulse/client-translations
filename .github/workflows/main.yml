@@ -1,0 +1,14 @@
+name: update-contributors
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Auto-add contributors
+        uses: BobAnkh/add-contributors@v0.2.2
+        with:
+          CONTRIBUTOR: '# Contributors'
+          ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
