@@ -247,159 +247,157 @@ You can continue pulsing.</source>
         <translation>AES 失败</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="319"/>
         <source>Cleanup Required</source>
-        <translation>需要清理</translation>
+        <translation type="vanished">需要清理</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="320"/>
         <source>I have detected a required cleanup after your update of just now. For the sake of cleanliness, I will run the cleanup program (whatpulse-after-update.exe) before loading. You might get a permission authorization request.</source>
-        <translation>我检测到你刚刚的更新需要进行一个清理。我将在加载前运行清理程序（whatpulse-after-update.exe）。你可能会遇到一个权限验证请求。</translation>
+        <translation type="vanished">我检测到你刚刚的更新需要进行一个清理。我将在加载前运行清理程序（whatpulse-after-update.exe）。你可能会遇到一个权限验证请求。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="841"/>
+        <location filename="../application.cpp" line="790"/>
         <source>&amp;Open Window</source>
         <translation>打开窗口(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="794"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>显示 / 隐藏悬浮窗(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="798"/>
         <source>&amp;Open Settings</source>
         <translation>打开设置(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="853"/>
+        <location filename="../application.cpp" line="802"/>
         <source>&amp;Check for Updates</source>
         <translation>检查更新(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="857"/>
+        <location filename="../application.cpp" line="806"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="860"/>
+        <location filename="../application.cpp" line="809"/>
         <source>&amp;View Online Stats</source>
         <translation>查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="864"/>
+        <location filename="../application.cpp" line="813"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>退出 WhatPulse(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="867"/>
+        <location filename="../application.cpp" line="816"/>
         <source>Enabled Stats</source>
         <translation>开启统计</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="868"/>
+        <location filename="../application.cpp" line="817"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="818"/>
         <source>Keyboard Heatmap</source>
         <translation>键盘热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="870"/>
+        <location filename="../application.cpp" line="819"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="871"/>
+        <location filename="../application.cpp" line="820"/>
         <source>Mouse Heatmap</source>
         <translation>鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="872"/>
+        <location filename="../application.cpp" line="821"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="822"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1319"/>
+        <location filename="../application.cpp" line="1266"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1320"/>
+        <location filename="../application.cpp" line="1267"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1525"/>
+        <location filename="../application.cpp" line="1472"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开绿色模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携媒体的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1528"/>
-        <location filename="../application.cpp" line="1551"/>
-        <location filename="../application.cpp" line="1567"/>
-        <location filename="../application.cpp" line="1583"/>
-        <location filename="../application.cpp" line="1626"/>
-        <location filename="../application.cpp" line="1637"/>
+        <location filename="../application.cpp" line="1475"/>
+        <location filename="../application.cpp" line="1498"/>
+        <location filename="../application.cpp" line="1514"/>
+        <location filename="../application.cpp" line="1530"/>
+        <location filename="../application.cpp" line="1573"/>
+        <location filename="../application.cpp" line="1584"/>
         <source>Portable Mode</source>
         <translation>绿色模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1548"/>
+        <location filename="../application.cpp" line="1495"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用绿色模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1564"/>
+        <location filename="../application.cpp" line="1511"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用绿色模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1584"/>
-        <location filename="../application.cpp" line="1638"/>
+        <location filename="../application.cpp" line="1531"/>
+        <location filename="../application.cpp" line="1585"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1554"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 绿色模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1623"/>
+        <location filename="../application.cpp" line="1570"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 绿色模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2058"/>
-        <location filename="../application.cpp" line="2071"/>
+        <location filename="../application.cpp" line="2003"/>
+        <location filename="../application.cpp" line="2016"/>
         <source>Premium features disabled</source>
         <translation>尊享功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2059"/>
+        <location filename="../application.cpp" line="2004"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的尊享版资格了。我已经禁用了你的尊享版功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2072"/>
+        <location filename="../application.cpp" line="2017"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的尊享版会员已经过期，所以我已经禁用了你的尊享版功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
@@ -2125,39 +2123,49 @@ Please check your permissions on: %2</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="187"/>
+        <location filename="../interface/MainWindow.cpp" line="191"/>
         <source>Overview</source>
         <translation>总览</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="188"/>
+        <location filename="../interface/MainWindow.cpp" line="193"/>
         <source>Input</source>
         <translation>输入</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="189"/>
+        <location filename="../interface/MainWindow.cpp" line="194"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="190"/>
+        <location filename="../interface/MainWindow.cpp" line="195"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="191"/>
+        <location filename="../interface/MainWindow.cpp" line="196"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="194"/>
-        <location filename="../interface/MainWindow.cpp" line="277"/>
-        <location filename="../interface/MainWindow.cpp" line="328"/>
+        <location filename="../interface/MainWindow.cpp" line="200"/>
+        <location filename="../interface/MainWindow.cpp" line="284"/>
+        <location filename="../interface/MainWindow.cpp" line="335"/>
         <source>Account</source>
         <translation>帐户</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="339"/>
+        <location filename="../interface/MainWindow.cpp" line="201"/>
+        <source>Give feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="203"/>
+        <source>Need help?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="346"/>
         <source>Disabled</source>
         <translation>已禁用</translation>
     </message>
@@ -3132,56 +3140,56 @@ Please check your permissions on: %2</source>
         <translation type="vanished">&lt;b&gt;注意：&lt;/b&gt;苹果 M1 并未完全支持。&lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;更多信息&lt;/a&gt;。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="51"/>
+        <location filename="../interface/OverviewTab.cpp" line="52"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute &lt;a href=&quot;#&quot;&gt;and do so now&lt;/a&gt;.</source>
         <translation>&lt;b&gt;注意：&lt;/b&gt;根据我的记录，你已经有 &lt;b&gt;%1&lt;/b&gt; 天没有在线备份数据库了。请花一分钟&lt;a href=&quot;#&quot;&gt;备份&lt;/a&gt;一下。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="71"/>
+        <location filename="../interface/OverviewTab.cpp" line="72"/>
         <source>Open Window on Startup</source>
         <translation>启动时打开窗口</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="78"/>
+        <location filename="../interface/OverviewTab.cpp" line="79"/>
         <source> Pulse!</source>
         <translation> Pulse!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="98"/>
+        <location filename="../interface/OverviewTab.cpp" line="99"/>
         <source>Start Online Backup?</source>
         <translation>开始线上备份？</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="99"/>
+        <location filename="../interface/OverviewTab.cpp" line="100"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>开始备份将重启客户端并显示备份窗口。继续？</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="150"/>
+        <location filename="../interface/OverviewTab.cpp" line="151"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
         <translation>当前在线时长：未知。重启次数未知。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="157"/>
         <source>Total keycount: unknown</source>
         <translation>总按键次数：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="162"/>
+        <location filename="../interface/OverviewTab.cpp" line="163"/>
         <source>Total clickcount: unknown</source>
         <translation>总点击次数：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="168"/>
-        <location filename="../interface/OverviewTab.cpp" line="337"/>
+        <location filename="../interface/OverviewTab.cpp" line="169"/>
+        <location filename="../interface/OverviewTab.cpp" line="339"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>下载：未知
 上传：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="188"/>
-        <location filename="../interface/OverviewTab.cpp" line="235"/>
+        <location filename="../interface/OverviewTab.cpp" line="189"/>
+        <location filename="../interface/OverviewTab.cpp" line="236"/>
         <source>Total: %1
 Available: %2</source>
         <translation>总： %1
@@ -3194,111 +3202,111 @@ Unpulsed: %2</source>
 未 Pulse： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="31"/>
+        <location filename="../interface/OverviewTab.cpp" line="32"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="274"/>
+        <location filename="../interface/OverviewTab.cpp" line="275"/>
         <source>Total clickcount:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="276"/>
+        <location filename="../interface/OverviewTab.cpp" line="277"/>
         <source>Unpulsed:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="278"/>
+        <location filename="../interface/OverviewTab.cpp" line="280"/>
         <source>Scrolls:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="280"/>
+        <location filename="../interface/OverviewTab.cpp" line="282"/>
         <source>Distance:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="283"/>
+        <location filename="../interface/OverviewTab.cpp" line="285"/>
         <source>Click counting is disabled</source>
         <translation>点击计数已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="292"/>
+        <location filename="../interface/OverviewTab.cpp" line="294"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>总按键次数： %1
 未 Pulse： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="298"/>
+        <location filename="../interface/OverviewTab.cpp" line="300"/>
         <source>Key counting is disabled</source>
         <translation>密钥计数已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="301"/>
-        <location filename="../interface/OverviewTab.cpp" line="302"/>
+        <location filename="../interface/OverviewTab.cpp" line="303"/>
+        <location filename="../interface/OverviewTab.cpp" line="304"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="319"/>
+        <location filename="../interface/OverviewTab.cpp" line="321"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>当前在线时长： %1。重启次数 %2 次
 未 Pulse： %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="323"/>
+        <location filename="../interface/OverviewTab.cpp" line="325"/>
         <source>Uptime is disabled</source>
         <translation>正常运行时间已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="333"/>
+        <location filename="../interface/OverviewTab.cpp" line="335"/>
         <source>Down: %1
 Up: %2</source>
         <translation>下载： %1
 上传： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="341"/>
+        <location filename="../interface/OverviewTab.cpp" line="343"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 未 Pulse：下载 %2，上传 %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="348"/>
+        <location filename="../interface/OverviewTab.cpp" line="350"/>
         <source>Network is disabled</source>
         <translation>网络被禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="353"/>
+        <location filename="../interface/OverviewTab.cpp" line="355"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>“脱机工作”选项已开启，所以你无法 Pulse。关闭该选项以继续 Pulse。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="364"/>
+        <location filename="../interface/OverviewTab.cpp" line="366"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="365"/>
+        <location filename="../interface/OverviewTab.cpp" line="367"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="375"/>
+        <location filename="../interface/OverviewTab.cpp" line="377"/>
         <source>Pulsing..</source>
         <translation>Pulse..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="376"/>
+        <location filename="../interface/OverviewTab.cpp" line="378"/>
         <source>Pulse underway, please wait!</source>
         <translation>正在 Pulse，请稍候！</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="381"/>
+        <location filename="../interface/OverviewTab.cpp" line="383"/>
         <source>Pulse!</source>
         <translation>Pulse!</translation>
     </message>
@@ -5500,141 +5508,141 @@ This will reset any custom layouts!</source>
         <translation>周六</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1163"/>
-        <location filename="../utils.cpp" line="1189"/>
+        <location filename="../utils.cpp" line="1148"/>
+        <location filename="../utils.cpp" line="1174"/>
         <source>Save as...</source>
         <translation>另存为…</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1176"/>
-        <location filename="../utils.cpp" line="1204"/>
+        <location filename="../utils.cpp" line="1161"/>
+        <location filename="../utils.cpp" line="1189"/>
         <source>Export Failed</source>
         <translation>导出失败</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1177"/>
-        <location filename="../utils.cpp" line="1205"/>
+        <location filename="../utils.cpp" line="1162"/>
+        <location filename="../utils.cpp" line="1190"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>打开导出文件失败！请使用其他目录重试。</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1215"/>
+        <location filename="../utils.cpp" line="1200"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1218"/>
+        <location filename="../utils.cpp" line="1203"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1221"/>
+        <location filename="../utils.cpp" line="1206"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1224"/>
+        <location filename="../utils.cpp" line="1209"/>
         <source>Capslock</source>
         <translation>Capslock</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1227"/>
+        <location filename="../utils.cpp" line="1212"/>
         <source>Left Shift</source>
         <translation>左 Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1230"/>
+        <location filename="../utils.cpp" line="1215"/>
         <source>Left Control</source>
         <translation>左 Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1233"/>
+        <location filename="../utils.cpp" line="1218"/>
         <source>Left Alt</source>
         <translation>左 Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1236"/>
+        <location filename="../utils.cpp" line="1221"/>
         <source>Right Alt</source>
         <translation>右 Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1239"/>
+        <location filename="../utils.cpp" line="1224"/>
         <source>Right Control</source>
         <translation>右 Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1242"/>
+        <location filename="../utils.cpp" line="1227"/>
         <source>Right Shift</source>
         <translation>右 Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1245"/>
+        <location filename="../utils.cpp" line="1230"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1248"/>
+        <location filename="../utils.cpp" line="1233"/>
         <source>Down</source>
         <translation>下</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1251"/>
+        <location filename="../utils.cpp" line="1236"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1254"/>
+        <location filename="../utils.cpp" line="1239"/>
         <source>Up</source>
         <translation>上</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1257"/>
+        <location filename="../utils.cpp" line="1242"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1260"/>
+        <location filename="../utils.cpp" line="1245"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1263"/>
+        <location filename="../utils.cpp" line="1248"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1266"/>
+        <location filename="../utils.cpp" line="1251"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1269"/>
+        <location filename="../utils.cpp" line="1254"/>
         <source>End</source>
         <translation>End</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1272"/>
+        <location filename="../utils.cpp" line="1257"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1275"/>
+        <location filename="../utils.cpp" line="1260"/>
         <source>Escape</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1317"/>
+        <location filename="../utils.cpp" line="1302"/>
         <source>Space</source>
         <translation>Space</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1434"/>
+        <location filename="../utils.cpp" line="1419"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="837"/>
-        <location filename="../utils.cpp" line="1555"/>
+        <location filename="../utils.cpp" line="845"/>
+        <location filename="../utils.cpp" line="1540"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
