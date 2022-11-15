@@ -964,10 +964,10 @@ Please check your permissions on: %2</source>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="124"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="125"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="126"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="477"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="478"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="479"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="480"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="481"/>
         <source>unknown</source>
         <translation type="unfinished">未知</translation>
     </message>
@@ -1032,37 +1032,37 @@ Please check your permissions on: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="345"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="346"/>
         <source>Ignore</source>
         <translation type="unfinished">忽略</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="351"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="352"/>
         <source>Open File Location</source>
         <translation type="unfinished">打开文件路径</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="357"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="358"/>
         <source>Open Online Profile</source>
         <translation type="unfinished">打开线上个人页</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="372"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
         <source>Ignore application?</source>
         <translation type="unfinished">忽略应用？</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="374"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation type="unfinished">确定忽略应用”%1“？这将同时移除该应用的历史。</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="426"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
         <source>Not yet</source>
         <translation type="unfinished">先不要</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="428"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation type="unfinished">该应用尚未上传到网站，请一小时左右之后再试。</translation>
     </message>
@@ -2649,8 +2649,8 @@ Please check your permissions on: %2</source>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="155"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="164"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="165"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="597"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="598"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="594"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="595"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
@@ -2695,42 +2695,42 @@ Please check your permissions on: %2</source>
         <translation>（已禁用分应用带宽）</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="431"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="433"/>
         <source>Total</source>
         <translation>总</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="442"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="444"/>
         <source>Ignore</source>
         <translation>忽略</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="448"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="450"/>
         <source>Open File Location</source>
         <translation>打开文件路径</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="454"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="456"/>
         <source>Open Online Profile</source>
         <translation>打开线上个人页</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="469"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="471"/>
         <source>Ignore application?</source>
         <translation>忽略应用？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="470"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="472"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>确定忽略应用”%1“？这将同时移除该应用的历史。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="522"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="524"/>
         <source>Not yet</source>
         <translation>先不要</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="523"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="525"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>该应用尚未上传到网站，请一小时左右之后再试。</translation>
     </message>
@@ -5102,19 +5102,19 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="141"/>
-        <location filename="../interface/UptimeTab.cpp" line="291"/>
+        <location filename="../interface/UptimeTab.cpp" line="290"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="151"/>
-        <location filename="../interface/UptimeTab.cpp" line="301"/>
+        <location filename="../interface/UptimeTab.cpp" line="300"/>
         <source>&amp;Export to .csv</source>
         <translation>导出为 CSV 格式(&amp;E)</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="155"/>
-        <location filename="../interface/UptimeTab.cpp" line="304"/>
+        <location filename="../interface/UptimeTab.cpp" line="303"/>
         <source>&amp;Export Wizard</source>
         <translation>导出向导(&amp;E)</translation>
     </message>
@@ -5164,188 +5164,188 @@ This will reset any custom layouts!</source>
         <translation>六</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="266"/>
+        <location filename="../interface/UptimeTab.cpp" line="265"/>
         <source>Show only recently used applications</source>
         <translation>仅显示最近使用的应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="273"/>
+        <location filename="../interface/UptimeTab.cpp" line="272"/>
         <source>Show only running applications</source>
         <translation>仅显示运行着的应用</translation>
     </message>
     <message>
+        <location filename="../interface/UptimeTab.cpp" line="322"/>
         <location filename="../interface/UptimeTab.cpp" line="323"/>
         <location filename="../interface/UptimeTab.cpp" line="324"/>
         <location filename="../interface/UptimeTab.cpp" line="325"/>
         <location filename="../interface/UptimeTab.cpp" line="326"/>
         <location filename="../interface/UptimeTab.cpp" line="327"/>
-        <location filename="../interface/UptimeTab.cpp" line="328"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="339"/>
+        <location filename="../interface/UptimeTab.cpp" line="338"/>
         <source>Unpulsed uptime:</source>
         <translation>未 Pulse 上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="342"/>
+        <location filename="../interface/UptimeTab.cpp" line="341"/>
         <source>Current uptime:</source>
         <translation>当前上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="345"/>
+        <location filename="../interface/UptimeTab.cpp" line="344"/>
         <source>Total uptime:</source>
         <translation>总上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="348"/>
+        <location filename="../interface/UptimeTab.cpp" line="347"/>
         <source>Longest uptime:</source>
         <translation>最长上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="351"/>
+        <location filename="../interface/UptimeTab.cpp" line="350"/>
         <source>Average uptime:</source>
         <translation>平均上线时长：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="354"/>
+        <location filename="../interface/UptimeTab.cpp" line="353"/>
         <source>Total reboots:</source>
         <translation>总重启次数：</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="364"/>
+        <location filename="../interface/UptimeTab.cpp" line="363"/>
         <source>Reboot history for </source>
         <translation>重启于 </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="409"/>
+        <location filename="../interface/UptimeTab.cpp" line="408"/>
         <source>No reboots found</source>
         <translation>当天没有重启</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="422"/>
+        <location filename="../interface/UptimeTab.cpp" line="421"/>
         <source>Reboot history</source>
         <translation>重启历史</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="480"/>
         <source>Application</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="480"/>
         <source>Total time</source>
         <translation>总时间</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="482"/>
+        <location filename="../interface/UptimeTab.cpp" line="481"/>
         <source>Total active time</source>
         <translation>总活跃时间</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="509"/>
+        <location filename="../interface/UptimeTab.cpp" line="508"/>
         <source>Ignore</source>
         <translation>忽略</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="515"/>
+        <location filename="../interface/UptimeTab.cpp" line="514"/>
         <source>Open File Location</source>
         <translation>打开文件路径</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="521"/>
+        <location filename="../interface/UptimeTab.cpp" line="520"/>
         <source>Open Online Profile</source>
         <translation>打开线上个人页</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="536"/>
+        <location filename="../interface/UptimeTab.cpp" line="535"/>
         <source>Ignore application?</source>
         <translation>忽略应用？</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="537"/>
+        <location filename="../interface/UptimeTab.cpp" line="536"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>确定忽略应用”%1“？这将同时移除该应用的历史。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="588"/>
+        <location filename="../interface/UptimeTab.cpp" line="587"/>
         <source>Not yet</source>
         <translation>先不要</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="589"/>
+        <location filename="../interface/UptimeTab.cpp" line="588"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>该应用尚未上传到网站，请一小时左右之后再试。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1007"/>
-        <location filename="../interface/UptimeTab.cpp" line="1013"/>
+        <location filename="../interface/UptimeTab.cpp" line="1006"/>
+        <location filename="../interface/UptimeTab.cpp" line="1012"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>上线和重启数据（除分应用之外） </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1008"/>
-        <location filename="../interface/UptimeTab.cpp" line="1014"/>
+        <location filename="../interface/UptimeTab.cpp" line="1007"/>
+        <location filename="../interface/UptimeTab.cpp" line="1013"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>重置上线时间 / 重启历史</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1018"/>
-        <location filename="../interface/UptimeTab.cpp" line="1023"/>
+        <location filename="../interface/UptimeTab.cpp" line="1017"/>
+        <location filename="../interface/UptimeTab.cpp" line="1022"/>
         <source>application uptime data</source>
         <translation>应用上线时长数据</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1019"/>
-        <location filename="../interface/UptimeTab.cpp" line="1024"/>
+        <location filename="../interface/UptimeTab.cpp" line="1018"/>
+        <location filename="../interface/UptimeTab.cpp" line="1023"/>
         <source>Reset Application History</source>
         <translation>重置应用历史</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1028"/>
+        <location filename="../interface/UptimeTab.cpp" line="1027"/>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1030"/>
+        <location filename="../interface/UptimeTab.cpp" line="1029"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>你是准备重置全部上线时长数据还是说只是%1？</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1033"/>
+        <location filename="../interface/UptimeTab.cpp" line="1032"/>
         <source>Reset All Data</source>
         <translation>重置全部数据</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1048"/>
-        <location filename="../interface/UptimeTab.cpp" line="1066"/>
-        <location filename="../interface/UptimeTab.cpp" line="1084"/>
-        <location filename="../interface/UptimeTab.cpp" line="1099"/>
-        <location filename="../interface/UptimeTab.cpp" line="1107"/>
-        <location filename="../interface/UptimeTab.cpp" line="1124"/>
+        <location filename="../interface/UptimeTab.cpp" line="1047"/>
+        <location filename="../interface/UptimeTab.cpp" line="1065"/>
+        <location filename="../interface/UptimeTab.cpp" line="1083"/>
+        <location filename="../interface/UptimeTab.cpp" line="1098"/>
+        <location filename="../interface/UptimeTab.cpp" line="1106"/>
+        <location filename="../interface/UptimeTab.cpp" line="1123"/>
         <source>Delete stats?</source>
         <translation>删除统计？</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1049"/>
-        <location filename="../interface/UptimeTab.cpp" line="1067"/>
+        <location filename="../interface/UptimeTab.cpp" line="1048"/>
+        <location filename="../interface/UptimeTab.cpp" line="1066"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部上线时长数据记录（除分应用之外）？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1085"/>
-        <location filename="../interface/UptimeTab.cpp" line="1108"/>
+        <location filename="../interface/UptimeTab.cpp" line="1084"/>
+        <location filename="../interface/UptimeTab.cpp" line="1107"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部分应用上线时长数据记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1100"/>
+        <location filename="../interface/UptimeTab.cpp" line="1099"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>确定删除全部键盘与鼠标统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1125"/>
+        <location filename="../interface/UptimeTab.cpp" line="1124"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部上线时长统计记录？该操作无法撤销。</translation>
     </message>

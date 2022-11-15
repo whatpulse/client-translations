@@ -959,10 +959,10 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="124"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="125"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="126"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="477"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="478"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="479"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="480"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="481"/>
         <source>unknown</source>
         <translation type="unfinished">neznámy</translation>
     </message>
@@ -1027,37 +1027,37 @@ Skontrolujte si povolenia na : %2</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="345"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="346"/>
         <source>Ignore</source>
         <translation type="unfinished">Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="351"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="352"/>
         <source>Open File Location</source>
         <translation type="unfinished">Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="357"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="358"/>
         <source>Open Online Profile</source>
         <translation type="unfinished">Otvoriť online profil</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="372"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
         <source>Ignore application?</source>
         <translation type="unfinished">Ignorovať aplikáciu?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="374"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation type="unfinished">Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="426"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
         <source>Not yet</source>
         <translation type="unfinished">Ešte nie</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="428"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation type="unfinished">Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
@@ -2627,8 +2627,8 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="155"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="164"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="165"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="597"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="598"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="594"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="595"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
@@ -2673,42 +2673,42 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>(šírka pásma podľa aplikácie je vypnutá)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="431"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="433"/>
         <source>Total</source>
         <translation>Celkovo</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="442"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="444"/>
         <source>Ignore</source>
         <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="448"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="450"/>
         <source>Open File Location</source>
         <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="454"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="456"/>
         <source>Open Online Profile</source>
         <translation>Otvoriť online profil</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="469"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="471"/>
         <source>Ignore application?</source>
         <translation>Ignorovať aplikáciu?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="470"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="472"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="522"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="524"/>
         <source>Not yet</source>
         <translation>Ešte nie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="523"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="525"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
@@ -5078,19 +5078,19 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="141"/>
-        <location filename="../interface/UptimeTab.cpp" line="291"/>
+        <location filename="../interface/UptimeTab.cpp" line="290"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="151"/>
-        <location filename="../interface/UptimeTab.cpp" line="301"/>
+        <location filename="../interface/UptimeTab.cpp" line="300"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="155"/>
-        <location filename="../interface/UptimeTab.cpp" line="304"/>
+        <location filename="../interface/UptimeTab.cpp" line="303"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
@@ -5140,188 +5140,188 @@ Toto resetuje všetky vlastné rozloženia!</translation>
         <translation>Sob</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="266"/>
+        <location filename="../interface/UptimeTab.cpp" line="265"/>
         <source>Show only recently used applications</source>
         <translation>Zobraziť iba nedávno použité aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="273"/>
+        <location filename="../interface/UptimeTab.cpp" line="272"/>
         <source>Show only running applications</source>
         <translation>Zobraziť iba pustené aplikácie</translation>
     </message>
     <message>
+        <location filename="../interface/UptimeTab.cpp" line="322"/>
         <location filename="../interface/UptimeTab.cpp" line="323"/>
         <location filename="../interface/UptimeTab.cpp" line="324"/>
         <location filename="../interface/UptimeTab.cpp" line="325"/>
         <location filename="../interface/UptimeTab.cpp" line="326"/>
         <location filename="../interface/UptimeTab.cpp" line="327"/>
-        <location filename="../interface/UptimeTab.cpp" line="328"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="339"/>
+        <location filename="../interface/UptimeTab.cpp" line="338"/>
         <source>Unpulsed uptime:</source>
         <translation>Nepulzovaný Uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="342"/>
+        <location filename="../interface/UptimeTab.cpp" line="341"/>
         <source>Current uptime:</source>
         <translation>Aktuálny uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="345"/>
+        <location filename="../interface/UptimeTab.cpp" line="344"/>
         <source>Total uptime:</source>
         <translation>Celkový uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="348"/>
+        <location filename="../interface/UptimeTab.cpp" line="347"/>
         <source>Longest uptime:</source>
         <translation>Najdlhší uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="351"/>
+        <location filename="../interface/UptimeTab.cpp" line="350"/>
         <source>Average uptime:</source>
         <translation>Priemerný uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="354"/>
+        <location filename="../interface/UptimeTab.cpp" line="353"/>
         <source>Total reboots:</source>
         <translation>Celkovo reštartov:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="364"/>
+        <location filename="../interface/UptimeTab.cpp" line="363"/>
         <source>Reboot history for </source>
         <translation>História reštartov pre </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="409"/>
+        <location filename="../interface/UptimeTab.cpp" line="408"/>
         <source>No reboots found</source>
         <translation>Žiadne reštarty nenájdené</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="422"/>
+        <location filename="../interface/UptimeTab.cpp" line="421"/>
         <source>Reboot history</source>
         <translation>História reštartov</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="480"/>
         <source>Application</source>
         <translation>Aplikácia</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="480"/>
         <source>Total time</source>
         <translation>Celkový čas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="482"/>
+        <location filename="../interface/UptimeTab.cpp" line="481"/>
         <source>Total active time</source>
         <translation>Celkový aktívny čas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="509"/>
+        <location filename="../interface/UptimeTab.cpp" line="508"/>
         <source>Ignore</source>
         <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="515"/>
+        <location filename="../interface/UptimeTab.cpp" line="514"/>
         <source>Open File Location</source>
         <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="521"/>
+        <location filename="../interface/UptimeTab.cpp" line="520"/>
         <source>Open Online Profile</source>
         <translation>Otvoriť online profil</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="536"/>
+        <location filename="../interface/UptimeTab.cpp" line="535"/>
         <source>Ignore application?</source>
         <translation>Ignorovať aplikáciu?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="537"/>
+        <location filename="../interface/UptimeTab.cpp" line="536"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="588"/>
+        <location filename="../interface/UptimeTab.cpp" line="587"/>
         <source>Not yet</source>
         <translation>Ešte nie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="589"/>
+        <location filename="../interface/UptimeTab.cpp" line="588"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1007"/>
-        <location filename="../interface/UptimeTab.cpp" line="1013"/>
+        <location filename="../interface/UptimeTab.cpp" line="1006"/>
+        <location filename="../interface/UptimeTab.cpp" line="1012"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>uptime a dáta reštartov (všetko okrem tých podľa aplikácie) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1008"/>
-        <location filename="../interface/UptimeTab.cpp" line="1014"/>
+        <location filename="../interface/UptimeTab.cpp" line="1007"/>
+        <location filename="../interface/UptimeTab.cpp" line="1013"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Resetovať uptime/Históriu reštartov</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1018"/>
-        <location filename="../interface/UptimeTab.cpp" line="1023"/>
+        <location filename="../interface/UptimeTab.cpp" line="1017"/>
+        <location filename="../interface/UptimeTab.cpp" line="1022"/>
         <source>application uptime data</source>
         <translation>dáta uptimov aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1019"/>
-        <location filename="../interface/UptimeTab.cpp" line="1024"/>
+        <location filename="../interface/UptimeTab.cpp" line="1018"/>
+        <location filename="../interface/UptimeTab.cpp" line="1023"/>
         <source>Reset Application History</source>
         <translation>Resetovať históriu aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1028"/>
+        <location filename="../interface/UptimeTab.cpp" line="1027"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1030"/>
+        <location filename="../interface/UptimeTab.cpp" line="1029"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Chcete resetovať všetky uptime dáta alebo iba %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1033"/>
+        <location filename="../interface/UptimeTab.cpp" line="1032"/>
         <source>Reset All Data</source>
         <translation>Resetovať všetky dáta</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1048"/>
-        <location filename="../interface/UptimeTab.cpp" line="1066"/>
-        <location filename="../interface/UptimeTab.cpp" line="1084"/>
-        <location filename="../interface/UptimeTab.cpp" line="1099"/>
-        <location filename="../interface/UptimeTab.cpp" line="1107"/>
-        <location filename="../interface/UptimeTab.cpp" line="1124"/>
+        <location filename="../interface/UptimeTab.cpp" line="1047"/>
+        <location filename="../interface/UptimeTab.cpp" line="1065"/>
+        <location filename="../interface/UptimeTab.cpp" line="1083"/>
+        <location filename="../interface/UptimeTab.cpp" line="1098"/>
+        <location filename="../interface/UptimeTab.cpp" line="1106"/>
+        <location filename="../interface/UptimeTab.cpp" line="1123"/>
         <source>Delete stats?</source>
         <translation>Vymazať štatistiky?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1049"/>
-        <location filename="../interface/UptimeTab.cpp" line="1067"/>
+        <location filename="../interface/UptimeTab.cpp" line="1048"/>
+        <location filename="../interface/UptimeTab.cpp" line="1066"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané uptime štatistiky (mimo tých podľa aplikácií)? Toto nie je možné vrátiť späť.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1085"/>
-        <location filename="../interface/UptimeTab.cpp" line="1108"/>
+        <location filename="../interface/UptimeTab.cpp" line="1084"/>
+        <location filename="../interface/UptimeTab.cpp" line="1107"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané uptime štatistiky podľa aplikácie? Toto nie je možné vrátiť späť.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1100"/>
+        <location filename="../interface/UptimeTab.cpp" line="1099"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané štatistiky klávesnice a myši? Toto nie je možné vrátiť späť.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1125"/>
+        <location filename="../interface/UptimeTab.cpp" line="1124"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané uptime štatistiky? Toto nie je možné vrátiť späť.</translation>
     </message>
