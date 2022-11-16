@@ -56,12 +56,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="86"/>
         <source>Total Mouse Scrolls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento total del ratón:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="88"/>
         <source>Total Mouse Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia total del ratón:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="158"/>
@@ -901,48 +901,48 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
         <source>Application</source>
-        <translation type="unfinished">Aplicación</translation>
+        <translation>Aplicación</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
         <source>Keys</source>
-        <translation type="unfinished">Teclas</translation>
+        <translation>Teclas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
         <source>Clicks</source>
-        <translation type="unfinished">Clicks</translation>
+        <translation>Clicks</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
         <source>Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergaminos</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="61"/>
         <source>Export</source>
-        <translation type="unfinished">Exportar</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="71"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportar a .csv</translation>
+        <translation>&amp;Exportar a .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="75"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Asistente de Exportación</translation>
+        <translation>&amp;Asistente de Exportación</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="92"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="175"/>
         <source>Summary</source>
-        <translation type="unfinished">Resumen</translation>
+        <translation>Resumen</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="95"/>
@@ -962,102 +962,102 @@ Por favor compurebe sus permisos en: %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="480"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="481"/>
         <source>unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>desconocido</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="102"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Hoy&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Hoy&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="103"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="117"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="131"/>
         <source>Keys:</source>
-        <translation type="unfinished">Teclas:</translation>
+        <translation>Teclas:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="104"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="118"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="132"/>
         <source>Clicks:</source>
-        <translation type="unfinished">Clicks:</translation>
+        <translation>Clicks:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="105"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="119"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="133"/>
         <source>Scrolls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergaminos:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="106"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="120"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="134"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>La distancia:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="116"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Ayer&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Ayer&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="130"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Total&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Total&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="154"/>
         <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Has desactivado estadísticas específicas de aplicaciones en la Configuración&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Has desactivado estadísticas específicas de aplicaciones en la Configuración&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="182"/>
         <source>Summary of </source>
-        <translation type="unfinished">Resumen de </translation>
+        <translation>Resumen de </translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="204"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="224"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="243"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="346"/>
         <source>Ignore</source>
-        <translation type="unfinished">Ignorar</translation>
+        <translation>Ignorar</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="352"/>
         <source>Open File Location</source>
-        <translation type="unfinished">Abrir la Ubicación del Archivo</translation>
+        <translation>Abrir la Ubicación del Archivo</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="358"/>
         <source>Open Online Profile</source>
-        <translation type="unfinished">Abrir Perfil Online</translation>
+        <translation>Abrir Perfil Online</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
         <source>Ignore application?</source>
-        <translation type="unfinished">¿Ignorar aplicación?</translation>
+        <translation>¿Ignorar aplicación?</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="374"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Está seguro de que quiere ignorar la aplicación &apos;%1&apos;? Esto también eliminará el historial de esta aplicación.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
         <source>Not yet</source>
-        <translation type="unfinished">Todavía no</translation>
+        <translation>Todavía no</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="428"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation type="unfinished">Esta aplicación no se ha subido todavía a la página web, por favor comprueba de nuevo en más o menos una hora.</translation>
+        <translation>Esta aplicación no se ha subido todavía a la página web, por favor comprueba de nuevo en más o menos una hora.</translation>
     </message>
 </context>
 <context>
@@ -1065,122 +1065,122 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
         <source>Date</source>
-        <translation type="unfinished">Fecha</translation>
+        <translation>Fecha</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
         <source>Keys</source>
-        <translation type="unfinished">Teclas</translation>
+        <translation>Teclas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
         <source>Clicks</source>
-        <translation type="unfinished">Clicks</translation>
+        <translation>Clicks</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
         <source>Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergaminos</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="185"/>
         <source>Go Premium</source>
-        <translation type="unfinished">Hacerse Prémium</translation>
+        <translation>Hacerse Prémium</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="197"/>
         <source>Export</source>
-        <translation type="unfinished">Exportar</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="207"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportar a .csv</translation>
+        <translation>&amp;Exportar a .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="211"/>
         <source>&amp;Export to .png</source>
-        <translation type="unfinished">&amp;Exportar a .png</translation>
+        <translation>&amp;Exportar a .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="216"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Asistente de Exportación</translation>
+        <translation>&amp;Asistente de Exportación</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="236"/>
         <source>Last 12 hours</source>
-        <translation type="unfinished">Últimas 12 horas</translation>
+        <translation>Últimas 12 horas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="237"/>
         <source>Last 24 hours</source>
-        <translation type="unfinished">Últimas 24 horas</translation>
+        <translation>Últimas 24 horas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="238"/>
         <source>Last 7 days</source>
-        <translation type="unfinished">Últimos 7 días</translation>
+        <translation>Últimos 7 días</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="239"/>
         <source>Last 7 weeks</source>
-        <translation type="unfinished">Últimas 7 semanas</translation>
+        <translation>Últimas 7 semanas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="240"/>
         <source>Last 7 months</source>
-        <translation type="unfinished">Últimos 7 meses</translation>
+        <translation>Últimos 7 meses</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="243"/>
         <source>Group by Hours</source>
-        <translation type="unfinished">Agrupar por Horas</translation>
+        <translation>Agrupar por Horas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="244"/>
         <source>Group by Days</source>
-        <translation type="unfinished">Agrupar por Días</translation>
+        <translation>Agrupar por Días</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="245"/>
         <source>Group by Weeks</source>
-        <translation type="unfinished">Agrupar por Semanas</translation>
+        <translation>Agrupar por Semanas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="247"/>
         <source>Group by Months</source>
-        <translation type="unfinished">Agrupoar por Meses</translation>
+        <translation>Agrupoar por Meses</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="248"/>
         <source>Group by Years</source>
-        <translation type="unfinished">Agrupar por AÑos</translation>
+        <translation>Agrupar por AÑos</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="259"/>
         <source>Chart view selected</source>
-        <translation type="unfinished">Vista de gráficas seleccionada</translation>
+        <translation>Vista de gráficas seleccionada</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="263"/>
         <source>Switch to table view</source>
-        <translation type="unfinished">Cambiar a vista de tabla</translation>
+        <translation>Cambiar a vista de tabla</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="270"/>
         <source>Switch to chart view</source>
-        <translation type="unfinished">Cambiar a vista por gráficas</translation>
+        <translation>Cambiar a vista por gráficas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="275"/>
         <source>Table view selected</source>
-        <translation type="unfinished">Vista de tabla seleccionado</translation>
+        <translation>Vista de tabla seleccionado</translation>
     </message>
 </context>
 <context>
@@ -1188,22 +1188,22 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="98"/>
         <source>Combination</source>
-        <translation type="unfinished">Combinación</translation>
+        <translation>Combinación</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="99"/>
         <source>Used</source>
-        <translation type="unfinished">Usado</translation>
+        <translation>Usado</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
         <source>Hide Shift only</source>
-        <translation type="unfinished">Ocultar solo Shift</translation>
+        <translation>Ocultar solo Shift</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
         <source>Hide Ctrl only</source>
-        <translation type="unfinished">Ocultaro solo Ctrl</translation>
+        <translation>Ocultaro solo Ctrl</translation>
     </message>
 </context>
 <context>
@@ -1211,57 +1211,57 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
         <source>Key</source>
-        <translation type="unfinished">Tecla</translation>
+        <translation>Tecla</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
         <source>Amount</source>
-        <translation type="unfinished">Cantidad</translation>
+        <translation>Cantidad</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="99"/>
         <source>Layout:</source>
-        <translation type="unfinished">Diseño:</translation>
+        <translation>Diseño:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="131"/>
         <source>Enable Heatmap</source>
-        <translation type="unfinished">Activar el Mapa de Calor</translation>
+        <translation>Activar el Mapa de Calor</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="144"/>
         <source>Export</source>
-        <translation type="unfinished">Exportar</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="154"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportar a .csv</translation>
+        <translation>&amp;Exportar a .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="158"/>
         <source>&amp;Export to .png</source>
-        <translation type="unfinished">&amp;Exportar a .png</translation>
+        <translation>&amp;Exportar a .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="162"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Asistente de Exportación</translation>
+        <translation>&amp;Asistente de Exportación</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="170"/>
         <source>Share</source>
-        <translation type="unfinished">Compartir</translation>
+        <translation>Compartir</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="184"/>
         <source>Application:</source>
-        <translation type="unfinished">Aplicación:</translation>
+        <translation>Aplicación:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
         <source>Per-App Stats Disabled</source>
-        <translation type="unfinished">Estadísticas Específicas de Aplicaciones Desactivadas</translation>
+        <translation>Estadísticas Específicas de Aplicaciones Desactivadas</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
@@ -1272,7 +1272,7 @@ Por favor compurebe sus permisos en: %2</translation>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
         <source>All</source>
-        <translation type="unfinished">Todo</translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
@@ -1281,37 +1281,37 @@ Por favor compurebe sus permisos en: %2</translation>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
         <source>Premium Only</source>
-        <translation type="unfinished"></translation>
+        <translation>Sólo Premium</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="309"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Hoy&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Hoy&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="312"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Ayer&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Ayer&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="315"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Sin Pulsar&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Sin Pulsar&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="318"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Total&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Total&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="322"/>
         <source>Show Heat Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar mapa de calor</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="324"/>
         <source>Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar detalles</translation>
     </message>
     <message>
         <source>Keyboard heat map selected</source>
@@ -1332,7 +1332,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="583"/>
         <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+        <translation>Desconocido</translation>
     </message>
 </context>
 <context>
@@ -1340,121 +1340,121 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="78"/>
         <source>More Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Más detalles</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="104"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Hoy&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Hoy&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="107"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Ayer&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Ayer&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="110"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Sin Pulsar&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Sin Pulsar&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="113"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Total&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Total&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="189"/>
         <source>Enable Heatmap</source>
-        <translation type="unfinished">Activar el Mapa de Calor</translation>
+        <translation>Activar el Mapa de Calor</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="198"/>
         <source>Prune older than 3 months</source>
-        <translation type="unfinished">Depurar datos anteriores a 3 meses</translation>
+        <translation>Depurar datos anteriores a 3 meses</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="213"/>
         <source>Export</source>
-        <translation type="unfinished">Exportar</translation>
+        <translation>Exportar</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="223"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportar a .csv</translation>
+        <translation>&amp;Exportar a .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="226"/>
         <source>&amp;Export to .png</source>
-        <translation type="unfinished">&amp;Exportar a .png</translation>
+        <translation>&amp;Exportar a .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="230"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Asistente de Exportación</translation>
+        <translation>&amp;Asistente de Exportación</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="239"/>
         <source>Share</source>
-        <translation type="unfinished">Compartir</translation>
+        <translation>Compartir</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
         <source>Button</source>
-        <translation type="unfinished">Botón</translation>
+        <translation>Botón</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
         <source>Clicks</source>
-        <translation type="unfinished">Clicks</translation>
+        <translation>Clicks</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="620"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Left</source>
-        <translation type="unfinished">Izquierda</translation>
+        <translation>Izquierda</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Right</source>
-        <translation type="unfinished">Derecha</translation>
+        <translation>Derecha</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="622"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Middle</source>
-        <translation type="unfinished">Centro</translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="623"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Other</source>
-        <translation type="unfinished">Otro</translation>
+        <translation>Otro</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="651"/>
         <source>Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergaminos</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="666"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="771"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="799"/>
         <source>Prune Mouse Heatmap</source>
-        <translation type="unfinished">Depurar el Mapa de Calor del Ratón</translation>
+        <translation>Depurar el Mapa de Calor del Ratón</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="800"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation type="unfinished">Si no depuras el mapa de calor del teclado, la base de datos crecerá bastante y posiblemente relentizará WhatPulse. ¿Desea parar de depurar?</translation>
+        <translation>Si no depuras el mapa de calor del teclado, la base de datos crecerá bastante y posiblemente relentizará WhatPulse. ¿Desea parar de depurar?</translation>
     </message>
 </context>
 <context>
@@ -1886,12 +1886,12 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab.cpp" line="55"/>
         <source>Keyboard</source>
-        <translation type="unfinished">Teclado</translation>
+        <translation>Teclado</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="56"/>
         <source>Mouse</source>
-        <translation type="unfinished">Ratón</translation>
+        <translation>Ratón</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="188"/>
@@ -2161,12 +2161,12 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/MainWindow.cpp" line="198"/>
         <source>Give feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Dar respuesta a los comentarios</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="200"/>
         <source>Need help?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Necesitas ayuda?</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="344"/>
@@ -3208,27 +3208,27 @@ Sin pulsar: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="32"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Nota:&lt;/b&gt; Por favor, descargue e instale la versión de Apple Silicon &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;desde nuestra web&lt;/a&gt;. Estás ejecutando la versión basada en Intel.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="275"/>
         <source>Total clickcount:</source>
-        <translation type="unfinished"></translation>
+        <translation>Total de clics:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="277"/>
         <source>Unpulsed:</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay que pulsar:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="280"/>
         <source>Scrolls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pergaminos:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="282"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>La distancia:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="285"/>
@@ -4216,13 +4216,13 @@ Sin pulsar: %2 bajada, %3 subida</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="134"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="455"/>
         <source>Total Mouse Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia total del ratón</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="135"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="457"/>
         <source>Total Mouse Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamientos totales del ratón</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="137"/>
@@ -4306,13 +4306,13 @@ Sin pulsar: %2 bajada, %3 subida</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="150"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="477"/>
         <source>Today Mouse Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy Distancia del Ratón</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="151"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="479"/>
         <source>Today Mouse Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoy el ratón se desplaza</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="171"/>
@@ -5406,53 +5406,53 @@ Esto borrará todas los diseños personalizados!</translation>
         <location filename="../utils.cpp" line="237"/>
         <location filename="../utils.cpp" line="358"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="255"/>
         <source>kilometers</source>
-        <translation type="unfinished"></translation>
+        <translation>kilómetros</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="257"/>
         <source>kilometer</source>
-        <translation type="unfinished"></translation>
+        <translation>kilómetro</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="275"/>
         <source>meters</source>
-        <translation type="unfinished"></translation>
+        <translation>metros</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="277"/>
         <source>meter</source>
-        <translation type="unfinished"></translation>
+        <translation>contador</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="290"/>
         <source>centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>centímetros</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="292"/>
         <source>centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centímetro</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="313"/>
         <source>miles</source>
-        <translation type="unfinished"></translation>
+        <translation>millas</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="315"/>
         <source>mile</source>
-        <translation type="unfinished"></translation>
+        <translation>milla</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="344"/>
         <location filename="../utils.cpp" line="350"/>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>pulgadas</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="509"/>
@@ -5645,7 +5645,7 @@ Esto borrará todas los diseños personalizados!</translation>
     <message>
         <location filename="../utils.cpp" line="1899"/>
         <source>Upgrade to Premium to unlock this feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualice a Premium para desbloquear esta función</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="845"/>

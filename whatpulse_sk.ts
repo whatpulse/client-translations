@@ -56,12 +56,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="86"/>
         <source>Total Mouse Scrolls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Celkový počet posunov myšou:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="88"/>
         <source>Total Mouse Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Celková vzdialenosť myši:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="158"/>
@@ -903,48 +903,48 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
         <source>Application</source>
-        <translation type="unfinished">Aplikácia</translation>
+        <translation>Aplikácia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
         <source>Keys</source>
-        <translation type="unfinished">Klávesy</translation>
+        <translation>Klávesy</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
         <source>Clicks</source>
-        <translation type="unfinished">Kliknutia</translation>
+        <translation>Kliknutia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
         <source>Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvitky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdialenosť</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="61"/>
         <source>Export</source>
-        <translation type="unfinished">Exportovať</translation>
+        <translation>Exportovať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="71"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportovať do .csv</translation>
+        <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="75"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Sprievodca exportu</translation>
+        <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="92"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="175"/>
         <source>Summary</source>
-        <translation type="unfinished">Súhrn</translation>
+        <translation>Súhrn</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="95"/>
@@ -964,102 +964,102 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="480"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="481"/>
         <source>unknown</source>
-        <translation type="unfinished">neznámy</translation>
+        <translation>neznámy</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="102"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Dnes&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="103"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="117"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="131"/>
         <source>Keys:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kľúče:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="104"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="118"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="132"/>
         <source>Clicks:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutia:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="105"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="119"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="133"/>
         <source>Scrolls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvitky:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="106"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="120"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="134"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdialenosť:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="116"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Včera&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="130"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Celý čas&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="154"/>
         <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Máte vypnuté štatistiky vstupu podľa aplikácie v nastaveniach.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Máte vypnuté štatistiky vstupu podľa aplikácie v nastaveniach.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="182"/>
         <source>Summary of </source>
-        <translation type="unfinished">Súhrn </translation>
+        <translation>Súhrn </translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="204"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="224"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="243"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadne</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="346"/>
         <source>Ignore</source>
-        <translation type="unfinished">Ignorovať</translation>
+        <translation>Ignorovať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="352"/>
         <source>Open File Location</source>
-        <translation type="unfinished">Otvoriť umiestnenie súboru</translation>
+        <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="358"/>
         <source>Open Online Profile</source>
-        <translation type="unfinished">Otvoriť online profil</translation>
+        <translation>Otvoriť online profil</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
         <source>Ignore application?</source>
-        <translation type="unfinished">Ignorovať aplikáciu?</translation>
+        <translation>Ignorovať aplikáciu?</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="374"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="unfinished">Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
+        <translation>Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
         <source>Not yet</source>
-        <translation type="unfinished">Ešte nie</translation>
+        <translation>Ešte nie</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="428"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation type="unfinished">Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
+        <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
 </context>
 <context>
@@ -1067,122 +1067,122 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
         <source>Date</source>
-        <translation type="unfinished">Dátum</translation>
+        <translation>Dátum</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
         <source>Keys</source>
-        <translation type="unfinished">Klávesy</translation>
+        <translation>Klávesy</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="174"/>
         <source>Clicks</source>
-        <translation type="unfinished">Kliknutia</translation>
+        <translation>Kliknutia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
         <source>Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvitky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdialenosť</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="185"/>
         <source>Go Premium</source>
-        <translation type="unfinished">Kúpiť Premium</translation>
+        <translation>Kúpiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="197"/>
         <source>Export</source>
-        <translation type="unfinished">Exportovať</translation>
+        <translation>Exportovať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="207"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportovať do .csv</translation>
+        <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="211"/>
         <source>&amp;Export to .png</source>
-        <translation type="unfinished">&amp;Exportovať do .png</translation>
+        <translation>&amp;Exportovať do .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="216"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Sprievodca exportu</translation>
+        <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="236"/>
         <source>Last 12 hours</source>
-        <translation type="unfinished">Posledných 12 hodín</translation>
+        <translation>Posledných 12 hodín</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="237"/>
         <source>Last 24 hours</source>
-        <translation type="unfinished">Posledných 24 hodín</translation>
+        <translation>Posledných 24 hodín</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="238"/>
         <source>Last 7 days</source>
-        <translation type="unfinished">Posledných 7 dní</translation>
+        <translation>Posledných 7 dní</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="239"/>
         <source>Last 7 weeks</source>
-        <translation type="unfinished">Posledných 7 týždňov</translation>
+        <translation>Posledných 7 týždňov</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="240"/>
         <source>Last 7 months</source>
-        <translation type="unfinished">Posledných 7 mesiacov</translation>
+        <translation>Posledných 7 mesiacov</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="243"/>
         <source>Group by Hours</source>
-        <translation type="unfinished">Zoskupiť podľa hodín</translation>
+        <translation>Zoskupiť podľa hodín</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="244"/>
         <source>Group by Days</source>
-        <translation type="unfinished">Zoskupiť podľa dní</translation>
+        <translation>Zoskupiť podľa dní</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="245"/>
         <source>Group by Weeks</source>
-        <translation type="unfinished">Zoskupiť podľa týždňov</translation>
+        <translation>Zoskupiť podľa týždňov</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="247"/>
         <source>Group by Months</source>
-        <translation type="unfinished">Zoskupiť podľa mesiacov</translation>
+        <translation>Zoskupiť podľa mesiacov</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="248"/>
         <source>Group by Years</source>
-        <translation type="unfinished">Zoskupiť podľa rokov</translation>
+        <translation>Zoskupiť podľa rokov</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="259"/>
         <source>Chart view selected</source>
-        <translation type="unfinished">Grafové zobrazenie vybrané</translation>
+        <translation>Grafové zobrazenie vybrané</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="263"/>
         <source>Switch to table view</source>
-        <translation type="unfinished">Prepnúť na tabuľkové zobrazenie</translation>
+        <translation>Prepnúť na tabuľkové zobrazenie</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="270"/>
         <source>Switch to chart view</source>
-        <translation type="unfinished">Prepnúť na grafové zobrazenie</translation>
+        <translation>Prepnúť na grafové zobrazenie</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="275"/>
         <source>Table view selected</source>
-        <translation type="unfinished">Tabuľkové zobrazenie vybrané</translation>
+        <translation>Tabuľkové zobrazenie vybrané</translation>
     </message>
 </context>
 <context>
@@ -1190,22 +1190,22 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="98"/>
         <source>Combination</source>
-        <translation type="unfinished">Skratka</translation>
+        <translation>Skratka</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="99"/>
         <source>Used</source>
-        <translation type="unfinished">Použité</translation>
+        <translation>Použité</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
         <source>Hide Shift only</source>
-        <translation type="unfinished">Skryť iba Shift</translation>
+        <translation>Skryť iba Shift</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
         <source>Hide Ctrl only</source>
-        <translation type="unfinished">Skryť iba Ctrl</translation>
+        <translation>Skryť iba Ctrl</translation>
     </message>
 </context>
 <context>
@@ -1213,57 +1213,57 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
         <source>Key</source>
-        <translation type="unfinished">Klávesa</translation>
+        <translation>Klávesa</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
         <source>Amount</source>
-        <translation type="unfinished">Počet</translation>
+        <translation>Počet</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="99"/>
         <source>Layout:</source>
-        <translation type="unfinished">Rozloženie:</translation>
+        <translation>Rozloženie:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="131"/>
         <source>Enable Heatmap</source>
-        <translation type="unfinished">Zapnúť heatmapu</translation>
+        <translation>Zapnúť heatmapu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="144"/>
         <source>Export</source>
-        <translation type="unfinished">Exportovať</translation>
+        <translation>Exportovať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="154"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportovať do .csv</translation>
+        <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="158"/>
         <source>&amp;Export to .png</source>
-        <translation type="unfinished">&amp;Exportovať do .png</translation>
+        <translation>&amp;Exportovať do .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="162"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Sprievodca exportu</translation>
+        <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="170"/>
         <source>Share</source>
-        <translation type="unfinished">Zdieľať</translation>
+        <translation>Zdieľať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="184"/>
         <source>Application:</source>
-        <translation type="unfinished">Aplikácia:</translation>
+        <translation>Aplikácia:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
         <source>Per-App Stats Disabled</source>
-        <translation type="unfinished">Vypnuté štatistiky podľa aplikácie</translation>
+        <translation>Vypnuté štatistiky podľa aplikácie</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
@@ -1274,7 +1274,7 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
         <source>All</source>
-        <translation type="unfinished">Všetko</translation>
+        <translation>Všetko</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
@@ -1283,42 +1283,42 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
         <source>Premium Only</source>
-        <translation type="unfinished">Iba pre Premium</translation>
+        <translation>Iba pre Premium</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="309"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Dnes&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="312"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Včera&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="315"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Nepulzované&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Nepulzované&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="318"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Celý čas&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="322"/>
         <source>Show Heat Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť mapu tepla</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="324"/>
         <source>Show Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť podrobnosti</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="583"/>
         <source>Unknown</source>
-        <translation type="unfinished">Neznámy</translation>
+        <translation>Neznámy</translation>
     </message>
 </context>
 <context>
@@ -1326,121 +1326,121 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="78"/>
         <source>More Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Viac informácií</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="104"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Dnes&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="107"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Včera&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="110"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Nepulzované&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Nepulzované&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="113"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Celý čas&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="189"/>
         <source>Enable Heatmap</source>
-        <translation type="unfinished">Zapnúť heatmapu</translation>
+        <translation>Zapnúť heatmapu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="198"/>
         <source>Prune older than 3 months</source>
-        <translation type="unfinished">Zahodiť staršie ako 3 mesiace</translation>
+        <translation>Zahodiť staršie ako 3 mesiace</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="213"/>
         <source>Export</source>
-        <translation type="unfinished">Exportovať</translation>
+        <translation>Exportovať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="223"/>
         <source>&amp;Export to .csv</source>
-        <translation type="unfinished">&amp;Exportovať do .csv</translation>
+        <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="226"/>
         <source>&amp;Export to .png</source>
-        <translation type="unfinished">&amp;Exportovať do .png</translation>
+        <translation>&amp;Exportovať do .png</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="230"/>
         <source>&amp;Export Wizard</source>
-        <translation type="unfinished">&amp;Sprievodca exportu</translation>
+        <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="239"/>
         <source>Share</source>
-        <translation type="unfinished">Zdieľať</translation>
+        <translation>Zdieľať</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
         <source>Button</source>
-        <translation type="unfinished">Tlačítko</translation>
+        <translation>Tlačítko</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
         <source>Clicks</source>
-        <translation type="unfinished">Kliknutia</translation>
+        <translation>Kliknutia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="620"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Vľavo</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Vpravo</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="622"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Middle</source>
-        <translation type="unfinished">Stredné</translation>
+        <translation>Stredné</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="623"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
         <source>Other</source>
-        <translation type="unfinished">Iné</translation>
+        <translation>Iné</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="651"/>
         <source>Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvitky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="666"/>
         <source>Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdialenosť</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="771"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadne</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="799"/>
         <source>Prune Mouse Heatmap</source>
-        <translation type="unfinished">Vymazať heatmapu myši</translation>
+        <translation>Vymazať heatmapu myši</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="800"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation type="unfinished">Vaša databáza bude dosť veľká a bude možno spomaľovať WhatPulse ak nebudete zahadzovať heatmapu myši. Zastaviť zahadzovanie?</translation>
+        <translation>Vaša databáza bude dosť veľká a bude možno spomaľovať WhatPulse ak nebudete zahadzovať heatmapu myši. Zastaviť zahadzovanie?</translation>
     </message>
 </context>
 <context>
@@ -1872,12 +1872,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab.cpp" line="55"/>
         <source>Keyboard</source>
-        <translation type="unfinished">Klávesnica</translation>
+        <translation>Klávesnica</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="56"/>
         <source>Mouse</source>
-        <translation type="unfinished">Myš</translation>
+        <translation>Myš</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="188"/>
@@ -2147,12 +2147,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/MainWindow.cpp" line="198"/>
         <source>Give feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskytnite spätnú väzbu</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="200"/>
         <source>Need help?</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrebujete pomoc?</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="344"/>
@@ -3194,27 +3194,27 @@ Nepulzovaný počet: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="32"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Poznámka:&lt;/b&gt; Stiahnite si a nainštalujte verziu Apple Silicon &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;z našej webovej stránky&lt;/a&gt;. Používate verziu založenú na procesore Intel.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="275"/>
         <source>Total clickcount:</source>
-        <translation type="unfinished"></translation>
+        <translation>Celkový počet kliknutí:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="277"/>
         <source>Unpulsed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez impulzov:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="280"/>
         <source>Scrolls:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zvitky:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="282"/>
         <source>Distance:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdialenosť:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="285"/>
@@ -4202,13 +4202,13 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="134"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="455"/>
         <source>Total Mouse Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Celková vzdialenosť myší</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="135"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="457"/>
         <source>Total Mouse Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Celkový počet posunov myši</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="137"/>
@@ -4292,13 +4292,13 @@ Nepulzovaných: %2 stiahnutých, %3 nahratých</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="150"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="477"/>
         <source>Today Mouse Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Dnes Vzdialenosť myší</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="151"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="479"/>
         <source>Today Mouse Scrolls</source>
-        <translation type="unfinished"></translation>
+        <translation>Myš sa dnes posúva</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="171"/>
@@ -5392,73 +5392,73 @@ Toto resetuje všetky vlastné rozloženia!</translation>
         <location filename="../utils.cpp" line="237"/>
         <location filename="../utils.cpp" line="358"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadne</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="255"/>
         <source>kilometers</source>
-        <translation type="unfinished"></translation>
+        <translation>kilometrov</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="257"/>
         <source>kilometer</source>
-        <translation type="unfinished"></translation>
+        <translation>kilometer</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="275"/>
         <source>meters</source>
-        <translation type="unfinished"></translation>
+        <translation>metre</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="277"/>
         <source>meter</source>
-        <translation type="unfinished"></translation>
+        <translation>merač</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="290"/>
         <source>centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>centimetrov</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="292"/>
         <source>centimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>centimeter</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="313"/>
         <source>miles</source>
-        <translation type="unfinished"></translation>
+        <translation>míle</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="315"/>
         <source>mile</source>
-        <translation type="unfinished"></translation>
+        <translation>míľa</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="344"/>
         <location filename="../utils.cpp" line="350"/>
         <source>inch</source>
-        <translation type="unfinished"></translation>
+        <translation>palec</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="509"/>
         <source>th</source>
-        <translation></translation>
+        <translation>th</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="512"/>
         <source>st</source>
-        <translation></translation>
+        <translation>st</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="514"/>
         <source>nd</source>
-        <translation></translation>
+        <translation>nd</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="516"/>
         <source>rd</source>
-        <translation></translation>
+        <translation>rd</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="605"/>
@@ -5631,7 +5631,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../utils.cpp" line="1899"/>
         <source>Upgrade to Premium to unlock this feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Ak chcete túto funkciu odomknúť, aktualizujte na Premium</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="845"/>
