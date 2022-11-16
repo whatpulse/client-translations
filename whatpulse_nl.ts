@@ -256,14 +256,6 @@ Je kan nu weer pulsen.</translation>
         <translation>AES probleem</translation>
     </message>
     <message>
-        <source>Cleanup Required</source>
-        <translation type="vanished">Opruimen is Nodig</translation>
-    </message>
-    <message>
-        <source>I have detected a required cleanup after your update of just now. For the sake of cleanliness, I will run the cleanup program (whatpulse-after-update.exe) before loading. You might get a permission authorization request.</source>
-        <translation type="vanished">Ik heb een vereiste opruiming ontdekt na uw update van zojuist. Omwille van de netheid zal ik het opruimprogramma (whatpulse-after-update.exe) uitvoeren voor het laden. Het kan zijn dat je een toestemmingsverzoek krijgt.</translation>
-    </message>
-    <message>
         <location filename="../application.cpp" line="790"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Open Venster</translation>
@@ -1316,22 +1308,6 @@ Controleer uw permissies op: %2</translation>
         <translation>Details tonen</translation>
     </message>
     <message>
-        <source>Keyboard heat map selected</source>
-        <translation type="obsolete">Toetsenbord heat map geselecteerd</translation>
-    </message>
-    <message>
-        <source>Switch to table view</source>
-        <translation type="obsolete">Schakel over naar tabelweergave</translation>
-    </message>
-    <message>
-        <source>Switch to keyboard heat map</source>
-        <translation type="obsolete">Schakel over naar toetsenbord heat map</translation>
-    </message>
-    <message>
-        <source>Table view selected</source>
-        <translation type="obsolete">Tabelweergave geselecteerd</translation>
-    </message>
-    <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="583"/>
         <source>Unknown</source>
         <translation>Onbekend</translation>
@@ -1593,14 +1569,6 @@ Controleer uw permissies op: %2</translation>
         <translation>Heatmap van klikken tussen &apos;%1&apos; en &apos;%2&apos; </translation>
     </message>
     <message>
-        <source>Unsupported Grouping</source>
-        <translation type="vanished">Groepering niet mogelijk</translation>
-    </message>
-    <message>
-        <source>Unfortunately, per hour grouping on the mouse heat map is not supported. I&apos;ve changed the grouping to per day.</source>
-        <translation type="vanished">Helaas is het niet mogelijk om de muis heat map te groeperen per uur. Ik heb de groepering geupdated naar per dag.</translation>
-    </message>
-    <message>
         <location filename="../interface/ExportWindow.cpp" line="505"/>
         <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Invoer van applicatie tussen &apos;%1&apos; en &apos;%2&apos; </translation>
@@ -1613,22 +1581,6 @@ Controleer uw permissies op: %2</translation>
 </context>
 <context>
     <name>InputTab</name>
-    <message>
-        <source>Keys:</source>
-        <translation type="vanished">Toetsen:</translation>
-    </message>
-    <message>
-        <source>Clicks:</source>
-        <translation type="vanished">Klikken:</translation>
-    </message>
-    <message>
-        <source>Keyboard Heatmap</source>
-        <translation type="vanished">Toetsenbord Heat map</translation>
-    </message>
-    <message>
-        <source>Mouse Heatmap</source>
-        <translation type="vanished">Muis Heat map</translation>
-    </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="57"/>
         <source>Applications</source>
@@ -1648,242 +1600,6 @@ Controleer uw permissies op: %2</translation>
         <location filename="../interface/InputTab.cpp" line="80"/>
         <source> Reset</source>
         <translation> Reset</translation>
-    </message>
-    <message>
-        <source>Combination</source>
-        <translation type="vanished">Combinatie</translation>
-    </message>
-    <message>
-        <source>Used</source>
-        <translation type="vanished">Gebruikt</translation>
-    </message>
-    <message>
-        <source>Hide Shift only</source>
-        <translation type="vanished">Alleen Shift verbergen</translation>
-    </message>
-    <message>
-        <source>Hide Ctrl only</source>
-        <translation type="vanished">Alleen Ctrl verbergen</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="vanished">Datum</translation>
-    </message>
-    <message>
-        <source>Keys</source>
-        <translation type="vanished">Toetsen</translation>
-    </message>
-    <message>
-        <source>Clicks</source>
-        <translation type="vanished">Kliks</translation>
-    </message>
-    <message>
-        <source>Go Premium</source>
-        <translation type="vanished">Ga Premium</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation type="vanished">Export</translation>
-    </message>
-    <message>
-        <source>&amp;Export to .csv</source>
-        <translation type="vanished">&amp;Exporteren naar .csv</translation>
-    </message>
-    <message>
-        <source>&amp;Export to .png</source>
-        <translation type="vanished">&amp;Exporteren naar .png</translation>
-    </message>
-    <message>
-        <source>&amp;Export Wizard</source>
-        <translation type="vanished">&amp;Export Wizard</translation>
-    </message>
-    <message>
-        <source>Last 12 hours</source>
-        <translation type="vanished">Laatste 12 uur</translation>
-    </message>
-    <message>
-        <source>Last 24 hours</source>
-        <translation type="vanished">Laatste 24 uur</translation>
-    </message>
-    <message>
-        <source>Last 7 days</source>
-        <translation type="vanished">Laatste 7 dagen</translation>
-    </message>
-    <message>
-        <source>Last 7 weeks</source>
-        <translation type="vanished">Laatste 7 weken</translation>
-    </message>
-    <message>
-        <source>Last 7 months</source>
-        <translation type="vanished">Laatste 7 maanden</translation>
-    </message>
-    <message>
-        <source>Group by Hours</source>
-        <translation type="vanished">Groep per uur</translation>
-    </message>
-    <message>
-        <source>Group by Days</source>
-        <translation type="vanished">Groep per dag</translation>
-    </message>
-    <message>
-        <source>Group by Weeks</source>
-        <translation type="vanished">Groep per week</translation>
-    </message>
-    <message>
-        <source>Group by Months</source>
-        <translation type="vanished">Groep per maand</translation>
-    </message>
-    <message>
-        <source>Group by Years</source>
-        <translation type="vanished">Groep per jaar</translation>
-    </message>
-    <message>
-        <source>Enable Heatmap</source>
-        <translation type="vanished">Activeer Heat map</translation>
-    </message>
-    <message>
-        <source>Prune older than 3 months</source>
-        <translation type="vanished">Verwijder ouder dan 3 maanden</translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation type="vanished">Deel</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Buttons Usage&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Knoppen Gebruik&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Button</source>
-        <translation type="vanished">Knop</translation>
-    </message>
-    <message>
-        <source>Mouse heat map selected</source>
-        <translation type="vanished">Muis heat map geselecteerd</translation>
-    </message>
-    <message>
-        <source>Switch to button view</source>
-        <translation type="vanished">Ga naar knopweergave</translation>
-    </message>
-    <message>
-        <source>Switch to mouse heat map</source>
-        <translation type="vanished">Schakel over naar muis heat map</translation>
-    </message>
-    <message>
-        <source>Button view selected</source>
-        <translation type="vanished">Knopweergave geselecteerd</translation>
-    </message>
-    <message>
-        <source>Key</source>
-        <translation type="vanished">Toets</translation>
-    </message>
-    <message>
-        <source>Amount</source>
-        <translation type="vanished">Aantal</translation>
-    </message>
-    <message>
-        <source>Update data</source>
-        <translation type="vanished">Data updaten</translation>
-    </message>
-    <message>
-        <source>Layout:</source>
-        <translation type="vanished">Lay-out:</translation>
-    </message>
-    <message>
-        <source>Application:</source>
-        <translation type="vanished">Applicatie:</translation>
-    </message>
-    <message>
-        <source>Per-App Stats Disabled</source>
-        <translation type="vanished">Per-App Stats Uitgeschakeld</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="vanished">Alle</translation>
-    </message>
-    <message>
-        <source>Premium Only</source>
-        <translation type="vanished">Alleen Premium</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Vandaag&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Gisteren&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Onpulsed&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Alles&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Keyboard heat map selected</source>
-        <translation type="vanished">Toetsenbord heat map geselecteerd</translation>
-    </message>
-    <message>
-        <source>Switch to table view</source>
-        <translation type="vanished">Schakel over naar tabelweergave</translation>
-    </message>
-    <message>
-        <source>Switch to keyboard heat map</source>
-        <translation type="vanished">Schakel over naar toetsenbord heat map</translation>
-    </message>
-    <message>
-        <source>Table view selected</source>
-        <translation type="vanished">Tabelweergave geselecteerd</translation>
-    </message>
-    <message>
-        <source>Chart view selected</source>
-        <translation type="vanished">Grafiekweergave geselecteerd</translation>
-    </message>
-    <message>
-        <source>Switch to chart view</source>
-        <translation type="vanished">Ga naar grafiekweergave</translation>
-    </message>
-    <message>
-        <source>Application</source>
-        <translation type="vanished">Applicatie</translation>
-    </message>
-    <message>
-        <source>Summary</source>
-        <translation type="vanished">Samenvatting</translation>
-    </message>
-    <message>
-        <source>unknown</source>
-        <translation type="vanished">onbekend</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="vanished">Onbekend</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;U hebt de invoerstatistieken per toepassing uitgeschakeld in de Instellingen.&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Summary of </source>
-        <translation type="vanished">Samenvatting van </translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation type="vanished">Links</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="vanished">Midden</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation type="vanished">Rechts</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="vanished">Andere</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="55"/>
@@ -1999,42 +1715,6 @@ Controleer uw permissies op: %2</translation>
         <location filename="../interface/InputTab.cpp" line="365"/>
         <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>Geen invoerapparaten gevonden, zijn uw &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;toestemmingen&lt;/a&gt; correct ingesteld?</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation type="vanished">Negeren</translation>
-    </message>
-    <message>
-        <source>Open File Location</source>
-        <translation type="vanished">Bestandslocatie openen</translation>
-    </message>
-    <message>
-        <source>Open Online Profile</source>
-        <translation type="vanished">Online Profiel Openen</translation>
-    </message>
-    <message>
-        <source>Ignore application?</source>
-        <translation type="vanished">Applicatie negeren?</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="vanished">Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
-    </message>
-    <message>
-        <source>Not yet</source>
-        <translation type="vanished">Nog niet</translation>
-    </message>
-    <message>
-        <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation type="vanished">Deze applicatie is nog niet geupload naar de website, kom over een uur nog eens terug.</translation>
-    </message>
-    <message>
-        <source>Prune Mouse Heatmap</source>
-        <translation type="vanished">Opruimen Muis Heatmap</translation>
-    </message>
-    <message>
-        <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation type="vanished">Door je muis heatmap niet te opruimen zal je database behoorlijk groot worden en WhatPulse mogelijk vertragen. Stoppen met opruimen?</translation>
     </message>
 </context>
 <context>
@@ -3142,10 +2822,6 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>OverviewTab</name>
     <message>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Apple M1 is not fully supported. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;More info here&lt;/a&gt;.</source>
-        <translation type="vanished">&lt;b&gt;Note:&lt;/b&gt; Apple M1 wordt niet volledig ondersteund. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;Meer info hier&lt;/a&gt;.</translation>
-    </message>
-    <message>
         <location filename="../interface/OverviewTab.cpp" line="52"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute &lt;a href=&quot;#&quot;&gt;and do so now&lt;/a&gt;.</source>
         <translation>&lt;b&gt;Note:&lt;/b&gt; Volgens mijn gegevens is het &lt;b&gt;%1&lt;/b&gt; dagen geleden sinds uw laatste online database back-up. Neemt u alstublieft een &lt;a href=&quot;#&quot;&gt;minuutje om dat nu te doen&lt;/a&gt;.</translation>
@@ -3200,12 +2876,6 @@ Upload: onbekend</translation>
 Available: %2</source>
         <translation>Totaal: %1
 Beschikbaar: %2</translation>
-    </message>
-    <message>
-        <source>Total clickcount: %1
-Unpulsed: %2</source>
-        <translation type="vanished">Totaal aantal kliks: %1
-Ongepulsed: %2</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="32"/>
@@ -3836,10 +3506,6 @@ Niet gepulsed: %2 down, %3 up</translation>
         <translation>Controleer de machtigingen van macOS</translation>
     </message>
     <message>
-        <source>Uploading applications</source>
-        <translation type="vanished">Applicaties uploaden</translation>
-    </message>
-    <message>
         <location filename="../interface/SettingsTab.cpp" line="557"/>
         <source>Uploading Apps</source>
         <translation>Apps uploaden</translation>
@@ -4440,22 +4106,22 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="314"/>
         <source>Name</source>
         <translation>Naam</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="311"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="315"/>
         <source>Statistic</source>
         <translation>Statistiek</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="50"/>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="312"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="315"/>
         <source>Amount</source>
         <translation>Aantal</translation>
     </message>
@@ -4465,8 +4131,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>Acties</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="314"/>
         <source>Time</source>
         <translation>Tijd</translation>
     </message>
@@ -4481,37 +4147,37 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>Mijlpaal Naam</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="419"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="422"/>
         <source>Keys</source>
         <translation>Toetsen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="421"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="424"/>
         <source>Clicks</source>
         <translation>Kliks</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="423"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
         <source>Downloaded MB</source>
         <translation>Gedownloade MB</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="290"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="429"/>
         <source>Uploaded MB</source>
         <translation>Geüploade MB</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="287"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="429"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="290"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="432"/>
         <source>Uptime in Minutes</source>
         <translation>Uptime in Minuten</translation>
     </message>
@@ -4531,25 +4197,25 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>Tijd voor koffie, je hebt X toetsen gemaakt!</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="247"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="250"/>
         <source>Milestone Message</source>
         <translation>Mijlpaalbericht</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="248"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="251"/>
         <source>Display a custom message when this Milestone hits:</source>
         <translation>Geef een aangepast bericht weer wanneer deze mijlpaal bereikt wordt:</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="396"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="400"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="404"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="408"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="399"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="403"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="407"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="411"/>
         <source>Please input 100 or higher.</source>
         <translation>Voer 100 of hoger in.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="413"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="416"/>
         <source>Please input 10 or higher.</source>
         <translation>Voer 10 of hoger in.</translation>
     </message>
@@ -5166,178 +4832,178 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>Toon alleen draaiende applicaties</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="322"/>
-        <location filename="../interface/UptimeTab.cpp" line="323"/>
         <location filename="../interface/UptimeTab.cpp" line="324"/>
         <location filename="../interface/UptimeTab.cpp" line="325"/>
         <location filename="../interface/UptimeTab.cpp" line="326"/>
         <location filename="../interface/UptimeTab.cpp" line="327"/>
+        <location filename="../interface/UptimeTab.cpp" line="328"/>
+        <location filename="../interface/UptimeTab.cpp" line="329"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="338"/>
+        <location filename="../interface/UptimeTab.cpp" line="340"/>
         <source>Unpulsed uptime:</source>
         <translation>Ongepulsed uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="341"/>
+        <location filename="../interface/UptimeTab.cpp" line="343"/>
         <source>Current uptime:</source>
         <translation>Huidige uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="344"/>
+        <location filename="../interface/UptimeTab.cpp" line="346"/>
         <source>Total uptime:</source>
         <translation>Totale uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="347"/>
+        <location filename="../interface/UptimeTab.cpp" line="349"/>
         <source>Longest uptime:</source>
         <translation>Langste uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="350"/>
+        <location filename="../interface/UptimeTab.cpp" line="352"/>
         <source>Average uptime:</source>
         <translation>Gemiddelde uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="353"/>
+        <location filename="../interface/UptimeTab.cpp" line="355"/>
         <source>Total reboots:</source>
         <translation>Totale herstarts:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="363"/>
+        <location filename="../interface/UptimeTab.cpp" line="365"/>
         <source>Reboot history for </source>
         <translation>Herstart geschiedenis voor </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="408"/>
+        <location filename="../interface/UptimeTab.cpp" line="410"/>
         <source>No reboots found</source>
         <translation>Geen herstarts gevonden</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="421"/>
+        <location filename="../interface/UptimeTab.cpp" line="423"/>
         <source>Reboot history</source>
         <translation>Herstart geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Application</source>
         <translation>Applicatie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Total time</source>
         <translation>Totale tijd</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="483"/>
         <source>Total active time</source>
         <translation>Totale actieve tijd</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="508"/>
+        <location filename="../interface/UptimeTab.cpp" line="510"/>
         <source>Ignore</source>
         <translation>Negeren</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="514"/>
+        <location filename="../interface/UptimeTab.cpp" line="516"/>
         <source>Open File Location</source>
         <translation>Bestandslocatie openen</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="520"/>
+        <location filename="../interface/UptimeTab.cpp" line="522"/>
         <source>Open Online Profile</source>
         <translation>Online Profiel Openen</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="535"/>
+        <location filename="../interface/UptimeTab.cpp" line="537"/>
         <source>Ignore application?</source>
         <translation>Applicatie negeren?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="536"/>
+        <location filename="../interface/UptimeTab.cpp" line="538"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="587"/>
+        <location filename="../interface/UptimeTab.cpp" line="589"/>
         <source>Not yet</source>
         <translation>Nog niet</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="588"/>
+        <location filename="../interface/UptimeTab.cpp" line="590"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Deze applicatie is nog niet geupload naar de website, kom over een uur nog eens terug.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1006"/>
-        <location filename="../interface/UptimeTab.cpp" line="1012"/>
+        <location filename="../interface/UptimeTab.cpp" line="1008"/>
+        <location filename="../interface/UptimeTab.cpp" line="1014"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>uptime en herstartgegevens (alle behalve per applicatie) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1007"/>
-        <location filename="../interface/UptimeTab.cpp" line="1013"/>
+        <location filename="../interface/UptimeTab.cpp" line="1009"/>
+        <location filename="../interface/UptimeTab.cpp" line="1015"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Reset Uptime/Herstart Geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1017"/>
-        <location filename="../interface/UptimeTab.cpp" line="1022"/>
+        <location filename="../interface/UptimeTab.cpp" line="1019"/>
+        <location filename="../interface/UptimeTab.cpp" line="1024"/>
         <source>application uptime data</source>
         <translation>applicatie uptime gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1018"/>
-        <location filename="../interface/UptimeTab.cpp" line="1023"/>
+        <location filename="../interface/UptimeTab.cpp" line="1020"/>
+        <location filename="../interface/UptimeTab.cpp" line="1025"/>
         <source>Reset Application History</source>
         <translation>Reset Applicatiegeschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1027"/>
+        <location filename="../interface/UptimeTab.cpp" line="1029"/>
         <source>Cancel</source>
         <translation>Annuleren</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1029"/>
+        <location filename="../interface/UptimeTab.cpp" line="1031"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Wilt u alle uptime gegevens resetten of alleen de %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1032"/>
+        <location filename="../interface/UptimeTab.cpp" line="1034"/>
         <source>Reset All Data</source>
         <translation>Reset Alle Gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1047"/>
-        <location filename="../interface/UptimeTab.cpp" line="1065"/>
-        <location filename="../interface/UptimeTab.cpp" line="1083"/>
-        <location filename="../interface/UptimeTab.cpp" line="1098"/>
-        <location filename="../interface/UptimeTab.cpp" line="1106"/>
-        <location filename="../interface/UptimeTab.cpp" line="1123"/>
+        <location filename="../interface/UptimeTab.cpp" line="1049"/>
+        <location filename="../interface/UptimeTab.cpp" line="1067"/>
+        <location filename="../interface/UptimeTab.cpp" line="1085"/>
+        <location filename="../interface/UptimeTab.cpp" line="1100"/>
+        <location filename="../interface/UptimeTab.cpp" line="1108"/>
+        <location filename="../interface/UptimeTab.cpp" line="1125"/>
         <source>Delete stats?</source>
         <translation>Statistieken wissen?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1048"/>
-        <location filename="../interface/UptimeTab.cpp" line="1066"/>
+        <location filename="../interface/UptimeTab.cpp" line="1050"/>
+        <location filename="../interface/UptimeTab.cpp" line="1068"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle (behalve per applicatie) opgenomen uptime statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1084"/>
-        <location filename="../interface/UptimeTab.cpp" line="1107"/>
+        <location filename="../interface/UptimeTab.cpp" line="1086"/>
+        <location filename="../interface/UptimeTab.cpp" line="1109"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen uptime-statistieken per applicatie wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1099"/>
+        <location filename="../interface/UptimeTab.cpp" line="1101"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen toetsenbord- en muisstatistieken wilt wissen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1124"/>
+        <location filename="../interface/UptimeTab.cpp" line="1126"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle geregistreerde uptime statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
@@ -5727,11 +5393,6 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <location filename="../online/whttpserver_responder.cpp" line="44"/>
         <source>Get real-time information (keys per second, current download, etc)</source>
         <translation>Real-time informatie (sleutels per seconde, huidige download, enz.)</translation>
-    </message>
-    <message>
-        <location filename="../online/whttpserver_responder.cpp" line="101"/>
-        <source>{ &quot;error&quot;: &quot;Unable to parse information.&quot;}</source>
-        <translation>{ &quot;error&quot;: &quot;Unable to parse information.&quot;}</translation>
     </message>
 </context>
 <context>

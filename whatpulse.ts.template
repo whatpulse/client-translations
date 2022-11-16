@@ -5378,11 +5378,6 @@ This will reset any custom layouts!</source>
         <source>Get real-time information (keys per second, current download, etc)</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../online/whttpserver_responder.cpp" line="101"/>
-        <source>{ &quot;error&quot;: &quot;Unable to parse information.&quot;}</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>wizardAuthorizationPage</name>

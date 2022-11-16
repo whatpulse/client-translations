@@ -260,14 +260,6 @@ Znów możesz pulsować.</translation>
         <translation>Błąd szyfrowania AES</translation>
     </message>
     <message>
-        <source>Cleanup Required</source>
-        <translation type="vanished">Konieczne jest czyszczenie</translation>
-    </message>
-    <message>
-        <source>I have detected a required cleanup after your update of just now. For the sake of cleanliness, I will run the cleanup program (whatpulse-after-update.exe) before loading. You might get a permission authorization request.</source>
-        <translation type="vanished">Zauważyłem, że po właśnie zakończonej aktualizacji trzeba posprzątać. W tym celu postaram się teraz uruchomić specjalny program, który tego dokona (whatpulse-after-update.exe), zanim uruchomię aplikację. Może się to wiązać z pojawieniem się pytania o nadanie uprawnień.</translation>
-    </message>
-    <message>
         <location filename="../application.cpp" line="790"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Otwórz okno</translation>
@@ -1327,22 +1319,6 @@ Sprawdź swoje uprawnienia do: %2</translation>
         <source>Unknown</source>
         <translation>Nieznany</translation>
     </message>
-    <message>
-        <source>Keyboard heat map selected</source>
-        <translation type="obsolete">Wbrano mapę cieplną klawiatury</translation>
-    </message>
-    <message>
-        <source>Switch to table view</source>
-        <translation type="obsolete">Przejdź do widoku tabelarycznego</translation>
-    </message>
-    <message>
-        <source>Switch to keyboard heat map</source>
-        <translation type="obsolete">Przejdź do mapy cieplnej klawiatury</translation>
-    </message>
-    <message>
-        <source>Table view selected</source>
-        <translation type="obsolete">Wybrano widok tabelaryczny</translation>
-    </message>
 </context>
 <context>
     <name>InputMousePage</name>
@@ -1601,14 +1577,6 @@ Sprawdź swoje uprawnienia do: %2</translation>
         <translation>Mapa cieplna kliknięć myszą pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <source>Unsupported Grouping</source>
-        <translation type="vanished">Nieobsługiwane Grupowanie</translation>
-    </message>
-    <message>
-        <source>Unfortunately, per hour grouping on the mouse heat map is not supported. I&apos;ve changed the grouping to per day.</source>
-        <translation type="vanished">Niestety, grupowanie godzinowe na mapie ciepła myszy nie jest obsługiwane. Zmieniłem grupowanie na dzień.</translation>
-    </message>
-    <message>
         <location filename="../interface/ExportWindow.cpp" line="505"/>
         <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Naciśnięcia klawiszy i kliknięcia pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
@@ -1621,22 +1589,6 @@ Sprawdź swoje uprawnienia do: %2</translation>
 </context>
 <context>
     <name>InputTab</name>
-    <message>
-        <source>Keys:</source>
-        <translation type="vanished">Klawisze:</translation>
-    </message>
-    <message>
-        <source>Clicks:</source>
-        <translation type="vanished">Kliknięcia:</translation>
-    </message>
-    <message>
-        <source>Keyboard Heatmap</source>
-        <translation type="vanished">Mapa cieplna klawiatury</translation>
-    </message>
-    <message>
-        <source>Mouse Heatmap</source>
-        <translation type="vanished">Mapa cieplna myszy</translation>
-    </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="57"/>
         <source>Applications</source>
@@ -1656,243 +1608,6 @@ Sprawdź swoje uprawnienia do: %2</translation>
         <location filename="../interface/InputTab.cpp" line="80"/>
         <source> Reset</source>
         <translation> Reset</translation>
-    </message>
-    <message>
-        <source>Combination</source>
-        <translation type="vanished">Kombinacja</translation>
-    </message>
-    <message>
-        <source>Used</source>
-        <translatorcomment>Not sure about inflection, can&apos;t realy gauge the context...</translatorcomment>
-        <translation type="vanished">Użyta</translation>
-    </message>
-    <message>
-        <source>Hide Shift only</source>
-        <translation type="vanished">Schowaj tylko shift</translation>
-    </message>
-    <message>
-        <source>Hide Ctrl only</source>
-        <translation type="vanished">Schowaj tylko control</translation>
-    </message>
-    <message>
-        <source>Date</source>
-        <translation type="vanished">Data</translation>
-    </message>
-    <message>
-        <source>Keys</source>
-        <translation type="vanished">Naciśnięcia klawiszy</translation>
-    </message>
-    <message>
-        <source>Clicks</source>
-        <translation type="vanished">Kliknięcia</translation>
-    </message>
-    <message>
-        <source>Go Premium</source>
-        <translation type="vanished">Uzyskaj konto premium</translation>
-    </message>
-    <message>
-        <source>Export</source>
-        <translation type="vanished">Eksport</translation>
-    </message>
-    <message>
-        <source>&amp;Export to .csv</source>
-        <translation type="vanished">&amp;Eksport do .csv</translation>
-    </message>
-    <message>
-        <source>&amp;Export to .png</source>
-        <translation type="vanished">&amp;Eksport do .png</translation>
-    </message>
-    <message>
-        <source>Last 12 hours</source>
-        <translation type="vanished">Ostatnie 12 godzin</translation>
-    </message>
-    <message>
-        <source>Last 24 hours</source>
-        <translation type="vanished">Ostatnie 24 godziny</translation>
-    </message>
-    <message>
-        <source>Last 7 days</source>
-        <translation type="vanished">Ostatnie 7 dni</translation>
-    </message>
-    <message>
-        <source>Last 7 weeks</source>
-        <translation type="vanished">Ostatnie 7 tygodni</translation>
-    </message>
-    <message>
-        <source>Last 7 months</source>
-        <translation type="vanished">Ostatnie 7 miesięcy</translation>
-    </message>
-    <message>
-        <source>Group by Hours</source>
-        <translation type="vanished">Grupuj godzinami</translation>
-    </message>
-    <message>
-        <source>Group by Days</source>
-        <translation type="vanished">Grupuj dniami</translation>
-    </message>
-    <message>
-        <source>Group by Weeks</source>
-        <translation type="vanished">Grupuj tygodniami</translation>
-    </message>
-    <message>
-        <source>Group by Months</source>
-        <translation type="vanished">Grupuj miesiącami</translation>
-    </message>
-    <message>
-        <source>Group by Years</source>
-        <translation type="vanished">Grupuj latami</translation>
-    </message>
-    <message>
-        <source>Enable Heatmap</source>
-        <translation type="vanished">Włącz mapę cieplną</translation>
-    </message>
-    <message>
-        <source>Prune older than 3 months</source>
-        <translation type="vanished">Przycinaj starsze niż 3 miesiące</translation>
-    </message>
-    <message>
-        <source>&amp;Export Wizard</source>
-        <translation type="vanished">&amp;Eksport (kreator)</translation>
-    </message>
-    <message>
-        <source>Share</source>
-        <translation type="vanished">Udostępnij</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Buttons Usage&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Użytkownie klawiszy&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Button</source>
-        <translation type="vanished">Klawisz</translation>
-    </message>
-    <message>
-        <source>Mouse heat map selected</source>
-        <translation type="vanished">Wybrano mapę cieplną myszy</translation>
-    </message>
-    <message>
-        <source>Switch to button view</source>
-        <translation type="vanished">Przejdź do widoku klawiszy</translation>
-    </message>
-    <message>
-        <source>Switch to mouse heat map</source>
-        <translation type="vanished">Przejdź do mapy cieplnej myszy</translation>
-    </message>
-    <message>
-        <source>Button view selected</source>
-        <translation type="vanished">Wybrano widok klawiszy</translation>
-    </message>
-    <message>
-        <source>Key</source>
-        <translation type="vanished">Klawisz</translation>
-    </message>
-    <message>
-        <source>Amount</source>
-        <translation type="vanished">Liczba</translation>
-    </message>
-    <message>
-        <source>Update data</source>
-        <translation type="vanished">Uaktualnij dane</translation>
-    </message>
-    <message>
-        <source>Layout:</source>
-        <translation type="vanished">Układ:</translation>
-    </message>
-    <message>
-        <source>Application:</source>
-        <translation type="vanished">Aplikacja:</translation>
-    </message>
-    <message>
-        <source>Per-App Stats Disabled</source>
-        <translation type="vanished">Statystyki per aplikacja wyłączone</translation>
-    </message>
-    <message>
-        <source>All</source>
-        <translation type="vanished">Wszystko</translation>
-    </message>
-    <message>
-        <source>Premium Only</source>
-        <translation type="vanished">Tylko z kontem premium</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Today&lt;/b&gt;</source>
-        <translation type="vanished">&lt;d&gt;Dziś&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Wczoraj&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Niezapulsowane&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;All time&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Cała historia&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Keyboard heat map selected</source>
-        <translation type="vanished">Wbrano mapę cieplną klawiatury</translation>
-    </message>
-    <message>
-        <source>Switch to table view</source>
-        <translation type="vanished">Przejdź do widoku tabelarycznego</translation>
-    </message>
-    <message>
-        <source>Switch to keyboard heat map</source>
-        <translation type="vanished">Przejdź do mapy cieplnej klawiatury</translation>
-    </message>
-    <message>
-        <source>Table view selected</source>
-        <translation type="vanished">Wybrano widok tabelaryczny</translation>
-    </message>
-    <message>
-        <source>Chart view selected</source>
-        <translation type="vanished">Wybrano widok wykresu</translation>
-    </message>
-    <message>
-        <source>Switch to chart view</source>
-        <translation type="vanished">Przejdź do widoku wykresu</translation>
-    </message>
-    <message>
-        <source>Application</source>
-        <translation type="vanished">Aplikacja</translation>
-    </message>
-    <message>
-        <source>Summary</source>
-        <translation type="vanished">Podsumowanie</translation>
-    </message>
-    <message>
-        <source>unknown</source>
-        <translation type="vanished">nieznany</translation>
-    </message>
-    <message>
-        <source>Unknown</source>
-        <translation type="vanished">Nieznany</translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
-        <translation type="vanished">&lt;b&gt;Statystyki naciśnięć klawiszy i kliknięć per aplikacja są wyłączone w Ustawieniach.&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <source>Summary of </source>
-        <translation type="vanished">Podsumowanie </translation>
-    </message>
-    <message>
-        <source>Left</source>
-        <translation type="vanished">Lewo</translation>
-    </message>
-    <message>
-        <source>Middle</source>
-        <translation type="vanished">Środek</translation>
-    </message>
-    <message>
-        <source>Right</source>
-        <translation type="vanished">Prawo</translation>
-    </message>
-    <message>
-        <source>Other</source>
-        <translation type="vanished">Inne</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="55"/>
@@ -2009,42 +1724,6 @@ Sprawdź swoje uprawnienia do: %2</translation>
         <location filename="../interface/InputTab.cpp" line="365"/>
         <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>Brak urządzeń wskazujących, czy na pewno Twoje &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;uprawnienia&lt;/a&gt; są skonfigurowane prawidłowo?</translation>
-    </message>
-    <message>
-        <source>Ignore</source>
-        <translation type="vanished">Ignoruj</translation>
-    </message>
-    <message>
-        <source>Open File Location</source>
-        <translation type="vanished">Otwórz lokalizację pliku</translation>
-    </message>
-    <message>
-        <source>Open Online Profile</source>
-        <translation type="vanished">Otwórz profil online</translation>
-    </message>
-    <message>
-        <source>Ignore application?</source>
-        <translation type="vanished">Ignorować aplikację?</translation>
-    </message>
-    <message>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="vanished">Czy na pewno chcesz ignorować apikację &apos;%1&apos;? Spowoduje to również usunięcie historii tej aplikacji.</translation>
-    </message>
-    <message>
-        <source>Not yet</source>
-        <translation type="vanished">Jeszcze nie</translation>
-    </message>
-    <message>
-        <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation type="vanished">Ta aplikacja nie została jeszcze dodana do strony internetowej, sprawdź ponownie za około godzinę.</translation>
-    </message>
-    <message>
-        <source>Prune Mouse Heatmap</source>
-        <translation type="vanished">Przytnij mapę cieplną myszy</translation>
-    </message>
-    <message>
-        <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
-        <translation type="vanished">Jeżeli nie przytniesz mapy cieplnej dla myszy, rozmiar Twojej bazy danych zacznie się robić dość duży i może spowodować spowolnienie działania WhatPulse. Zrezygnować z przycinania?</translation>
     </message>
 </context>
 <context>
@@ -3152,10 +2831,6 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>OverviewTab</name>
     <message>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Apple M1 is not fully supported. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;More info here&lt;/a&gt;.</source>
-        <translation type="vanished">&lt;b&gt;Uwaga:&lt;/b&gt; Chip M1 ostarczany przez Apple nie jest jeszcze w pełni wspierany. &lt;a href=&quot;https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1&quot;&gt;Tu znajdziesz więcej informacji&lt;/a&gt;.</translation>
-    </message>
-    <message>
         <location filename="../interface/OverviewTab.cpp" line="52"/>
         <source>&lt;b&gt;Note:&lt;/b&gt; According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute &lt;a href=&quot;#&quot;&gt;and do so now&lt;/a&gt;.</source>
         <translation>&lt;b&gt;Uwaga:&lt;/b&gt; Zgodnie z moimi wyliczeniami od utworzenia ostatniej kopii zapasowej Twojej bazy danych minęło &lt;b&gt;%1&lt;/b&gt; dni. Poświęć chwilę, aby &lt;a href=&quot;#&quot;&gt;zrobić to teraz&lt;/a&gt;.</translation>
@@ -3210,12 +2885,6 @@ Wysłane: nieznane</translation>
 Available: %2</source>
         <translation>Całkowite: %1
 Dostępne: %2</translation>
-    </message>
-    <message>
-        <source>Total clickcount: %1
-Unpulsed: %2</source>
-        <translation type="vanished">Całkowita liczba kliknięć: %1
-Niezapulsowane: %2</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="32"/>
@@ -3847,10 +3516,6 @@ Niezapulsowane: %2 pobranych, %3 wysłanych</translation>
         <translation>Sprawdź uprawnienia w MacOS</translation>
     </message>
     <message>
-        <source>Uploading applications</source>
-        <translation type="vanished">Wysyłanie aplikacji</translation>
-    </message>
-    <message>
         <location filename="../interface/SettingsTab.cpp" line="557"/>
         <source>Uploading Apps</source>
         <translation>Wysyłanie aplikacji</translation>
@@ -4451,22 +4116,22 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="314"/>
         <source>Name</source>
         <translation>Nazwa</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="311"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="315"/>
         <source>Statistic</source>
         <translation>Statystyka</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="50"/>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="312"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="315"/>
         <source>Amount</source>
         <translatorcomment>Lepsze, niż zastanawiać się, czy &quot;ilość&quot; czy &quot;liczba&quot;.</translatorcomment>
         <translation>Próg</translation>
@@ -4477,8 +4142,8 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>Czynności</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="314"/>
         <source>Time</source>
         <translation>Czas</translation>
     </message>
@@ -4493,37 +4158,37 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>Nazwa kamienia milowego</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="419"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="422"/>
         <source>Keys</source>
         <translation>Naciśnięcia klawiszy</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="421"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="424"/>
         <source>Clicks</source>
         <translation>Kliknięcia</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="423"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
         <source>Downloaded MB</source>
         <translation>Pobrane MB</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="290"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="429"/>
         <source>Uploaded MB</source>
         <translation>Wysłane MB</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="287"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="429"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="290"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="432"/>
         <source>Uptime in Minutes</source>
         <translation>Czas pracy w minutach</translation>
     </message>
@@ -4543,25 +4208,25 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>Czas na kawę, to już X naciśnęć klawiszy!</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="247"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="250"/>
         <source>Milestone Message</source>
         <translation>Treść powiadomienia o kamieniu milowym</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="248"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="251"/>
         <source>Display a custom message when this Milestone hits:</source>
         <translation>Wyświetl własną wiadomość, kiedy osiągniesz ten kamień milowy:</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="396"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="400"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="404"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="408"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="399"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="403"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="407"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="411"/>
         <source>Please input 100 or higher.</source>
         <translation>Wpisz 100 lub więcej.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="413"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="416"/>
         <source>Please input 10 or higher.</source>
         <translation>Wpisz 10 lub więcej.</translation>
     </message>
@@ -5178,178 +4843,178 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>Pokazuj tylko uruchomione aplikacje</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="322"/>
-        <location filename="../interface/UptimeTab.cpp" line="323"/>
         <location filename="../interface/UptimeTab.cpp" line="324"/>
         <location filename="../interface/UptimeTab.cpp" line="325"/>
         <location filename="../interface/UptimeTab.cpp" line="326"/>
         <location filename="../interface/UptimeTab.cpp" line="327"/>
+        <location filename="../interface/UptimeTab.cpp" line="328"/>
+        <location filename="../interface/UptimeTab.cpp" line="329"/>
         <source>unknown</source>
         <translation>nieznany</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="338"/>
+        <location filename="../interface/UptimeTab.cpp" line="340"/>
         <source>Unpulsed uptime:</source>
         <translation>Niezapulsowany czas pracy:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="341"/>
+        <location filename="../interface/UptimeTab.cpp" line="343"/>
         <source>Current uptime:</source>
         <translation>Aktualny czas pracy:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="344"/>
+        <location filename="../interface/UptimeTab.cpp" line="346"/>
         <source>Total uptime:</source>
         <translation>Całkowity czas pracy:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="347"/>
+        <location filename="../interface/UptimeTab.cpp" line="349"/>
         <source>Longest uptime:</source>
         <translation>Najdłuższy czas pracy:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="350"/>
+        <location filename="../interface/UptimeTab.cpp" line="352"/>
         <source>Average uptime:</source>
         <translation>Średni czas pracy:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="353"/>
+        <location filename="../interface/UptimeTab.cpp" line="355"/>
         <source>Total reboots:</source>
         <translation>Całkowita liczba uruchomień:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="363"/>
+        <location filename="../interface/UptimeTab.cpp" line="365"/>
         <source>Reboot history for </source>
         <translation>Historia uruchomień dla </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="408"/>
+        <location filename="../interface/UptimeTab.cpp" line="410"/>
         <source>No reboots found</source>
         <translation>Brak uruchomień</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="421"/>
+        <location filename="../interface/UptimeTab.cpp" line="423"/>
         <source>Reboot history</source>
         <translation>Historia uruchomień</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Application</source>
         <translation>Aplikacja</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Total time</source>
         <translation>Całkowity czas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="483"/>
         <source>Total active time</source>
         <translation>Całkowity czas aktywności</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="508"/>
+        <location filename="../interface/UptimeTab.cpp" line="510"/>
         <source>Ignore</source>
         <translation>ignoruj</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="514"/>
+        <location filename="../interface/UptimeTab.cpp" line="516"/>
         <source>Open File Location</source>
         <translation>Otwórz lokalizację pliku</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="520"/>
+        <location filename="../interface/UptimeTab.cpp" line="522"/>
         <source>Open Online Profile</source>
         <translation>Otwórz profil online</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="535"/>
+        <location filename="../interface/UptimeTab.cpp" line="537"/>
         <source>Ignore application?</source>
         <translation>Ignorować aplikację?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="536"/>
+        <location filename="../interface/UptimeTab.cpp" line="538"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Czy na pewno chcesz ignorować apikację &apos;%1&apos;? Spowoduje to również usunięcie historii tej aplikacji.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="587"/>
+        <location filename="../interface/UptimeTab.cpp" line="589"/>
         <source>Not yet</source>
         <translation>Jeszcze nie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="588"/>
+        <location filename="../interface/UptimeTab.cpp" line="590"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Ta aplikacja nie została jeszcze dodana do strony internetowej, sprawdź ponownie za około godzinę.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1006"/>
-        <location filename="../interface/UptimeTab.cpp" line="1012"/>
+        <location filename="../interface/UptimeTab.cpp" line="1008"/>
+        <location filename="../interface/UptimeTab.cpp" line="1014"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>dane o czasie pracy  uruchomieniach (wszystko poza danymi per aplikacja) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1007"/>
-        <location filename="../interface/UptimeTab.cpp" line="1013"/>
+        <location filename="../interface/UptimeTab.cpp" line="1009"/>
+        <location filename="../interface/UptimeTab.cpp" line="1015"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Resetuj historię czasu pracy/uruchomień</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1017"/>
-        <location filename="../interface/UptimeTab.cpp" line="1022"/>
+        <location filename="../interface/UptimeTab.cpp" line="1019"/>
+        <location filename="../interface/UptimeTab.cpp" line="1024"/>
         <source>application uptime data</source>
         <translation>dane o czasie pracy aplikacji</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1018"/>
-        <location filename="../interface/UptimeTab.cpp" line="1023"/>
+        <location filename="../interface/UptimeTab.cpp" line="1020"/>
+        <location filename="../interface/UptimeTab.cpp" line="1025"/>
         <source>Reset Application History</source>
         <translation>Resetuj historię aplikacji</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1027"/>
+        <location filename="../interface/UptimeTab.cpp" line="1029"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1029"/>
+        <location filename="../interface/UptimeTab.cpp" line="1031"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Czy chcesz zresetować całą historię czasu uruchomienia, czy tylko %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1032"/>
+        <location filename="../interface/UptimeTab.cpp" line="1034"/>
         <source>Reset All Data</source>
         <translation>Zrestuj wszystkie dane</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1047"/>
-        <location filename="../interface/UptimeTab.cpp" line="1065"/>
-        <location filename="../interface/UptimeTab.cpp" line="1083"/>
-        <location filename="../interface/UptimeTab.cpp" line="1098"/>
-        <location filename="../interface/UptimeTab.cpp" line="1106"/>
-        <location filename="../interface/UptimeTab.cpp" line="1123"/>
+        <location filename="../interface/UptimeTab.cpp" line="1049"/>
+        <location filename="../interface/UptimeTab.cpp" line="1067"/>
+        <location filename="../interface/UptimeTab.cpp" line="1085"/>
+        <location filename="../interface/UptimeTab.cpp" line="1100"/>
+        <location filename="../interface/UptimeTab.cpp" line="1108"/>
+        <location filename="../interface/UptimeTab.cpp" line="1125"/>
         <source>Delete stats?</source>
         <translation>Usunąć statystyki?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1048"/>
-        <location filename="../interface/UptimeTab.cpp" line="1066"/>
+        <location filename="../interface/UptimeTab.cpp" line="1050"/>
+        <location filename="../interface/UptimeTab.cpp" line="1068"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Czy na pewno chcesz usunąć wszystkie zgromadzone statystyki czasu pracy (oprócz tych per aplikacja)? Tej operacji nie da się cofnąć.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1084"/>
-        <location filename="../interface/UptimeTab.cpp" line="1107"/>
+        <location filename="../interface/UptimeTab.cpp" line="1086"/>
+        <location filename="../interface/UptimeTab.cpp" line="1109"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Czy na pewno chcesz usunąć wszystkie zgromadzone statystyki czasu pracy? Tej operacji nie da się cofnąć.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1099"/>
+        <location filename="../interface/UptimeTab.cpp" line="1101"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Czy na pewno chcesz usunąć wszystkie zgromadzone statystyki dla klawiatury i myszy? Tej operacji nie da się cofnąć.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1124"/>
+        <location filename="../interface/UptimeTab.cpp" line="1126"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Czy na pewno chcesz usunąć wszystkie zapisane statystyki czasu pracy? Tej operacji nie da się cofnąć.</translation>
     </message>
@@ -5739,11 +5404,6 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <location filename="../online/whttpserver_responder.cpp" line="44"/>
         <source>Get real-time information (keys per second, current download, etc)</source>
         <translation>Pobierz informacje czasu rzeczywistego (naciśnięcia klawiszy na sekundę, aktualna szybkość pobierania itd.)</translation>
-    </message>
-    <message>
-        <location filename="../online/whttpserver_responder.cpp" line="101"/>
-        <source>{ &quot;error&quot;: &quot;Unable to parse information.&quot;}</source>
-        <translation>{ &quot;błąd&quot;: &quot;Błąd przetwarzania danych.&quot;}</translation>
     </message>
 </context>
 <context>
