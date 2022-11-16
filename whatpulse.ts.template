@@ -4090,22 +4090,22 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="314"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="49"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="311"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="315"/>
         <source>Statistic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="50"/>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="78"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="312"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="315"/>
         <source>Amount</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4115,8 +4115,8 @@ This will reset any custom layouts!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="76"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="310"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="77"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="314"/>
         <source>Time</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4131,37 +4131,37 @@ This will reset any custom layouts!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="419"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="422"/>
         <source>Keys</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="173"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="285"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="421"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="424"/>
         <source>Clicks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="423"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="289"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
         <source>Downloaded MB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="174"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="286"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="426"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="290"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="429"/>
         <source>Uploaded MB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="175"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="287"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="429"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="290"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="432"/>
         <source>Uptime in Minutes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4181,25 +4181,25 @@ This will reset any custom layouts!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="247"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="250"/>
         <source>Milestone Message</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="248"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="251"/>
         <source>Display a custom message when this Milestone hits:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="396"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="400"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="404"/>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="408"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="399"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="403"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="407"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="411"/>
         <source>Please input 100 or higher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="413"/>
+        <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="416"/>
         <source>Please input 10 or higher.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4816,178 +4816,178 @@ This will reset any custom layouts!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="322"/>
-        <location filename="../interface/UptimeTab.cpp" line="323"/>
         <location filename="../interface/UptimeTab.cpp" line="324"/>
         <location filename="../interface/UptimeTab.cpp" line="325"/>
         <location filename="../interface/UptimeTab.cpp" line="326"/>
         <location filename="../interface/UptimeTab.cpp" line="327"/>
+        <location filename="../interface/UptimeTab.cpp" line="328"/>
+        <location filename="../interface/UptimeTab.cpp" line="329"/>
         <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="338"/>
+        <location filename="../interface/UptimeTab.cpp" line="340"/>
         <source>Unpulsed uptime:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="341"/>
+        <location filename="../interface/UptimeTab.cpp" line="343"/>
         <source>Current uptime:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="344"/>
+        <location filename="../interface/UptimeTab.cpp" line="346"/>
         <source>Total uptime:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="347"/>
+        <location filename="../interface/UptimeTab.cpp" line="349"/>
         <source>Longest uptime:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="350"/>
+        <location filename="../interface/UptimeTab.cpp" line="352"/>
         <source>Average uptime:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="353"/>
+        <location filename="../interface/UptimeTab.cpp" line="355"/>
         <source>Total reboots:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="363"/>
+        <location filename="../interface/UptimeTab.cpp" line="365"/>
         <source>Reboot history for </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="408"/>
+        <location filename="../interface/UptimeTab.cpp" line="410"/>
         <source>No reboots found</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="421"/>
+        <location filename="../interface/UptimeTab.cpp" line="423"/>
         <source>Reboot history</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Application</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="480"/>
+        <location filename="../interface/UptimeTab.cpp" line="482"/>
         <source>Total time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="481"/>
+        <location filename="../interface/UptimeTab.cpp" line="483"/>
         <source>Total active time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="508"/>
+        <location filename="../interface/UptimeTab.cpp" line="510"/>
         <source>Ignore</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="514"/>
+        <location filename="../interface/UptimeTab.cpp" line="516"/>
         <source>Open File Location</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="520"/>
+        <location filename="../interface/UptimeTab.cpp" line="522"/>
         <source>Open Online Profile</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="535"/>
+        <location filename="../interface/UptimeTab.cpp" line="537"/>
         <source>Ignore application?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="536"/>
+        <location filename="../interface/UptimeTab.cpp" line="538"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="587"/>
+        <location filename="../interface/UptimeTab.cpp" line="589"/>
         <source>Not yet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="588"/>
+        <location filename="../interface/UptimeTab.cpp" line="590"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1006"/>
-        <location filename="../interface/UptimeTab.cpp" line="1012"/>
+        <location filename="../interface/UptimeTab.cpp" line="1008"/>
+        <location filename="../interface/UptimeTab.cpp" line="1014"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1007"/>
-        <location filename="../interface/UptimeTab.cpp" line="1013"/>
+        <location filename="../interface/UptimeTab.cpp" line="1009"/>
+        <location filename="../interface/UptimeTab.cpp" line="1015"/>
         <source>Reset Uptime/Reboot History</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1017"/>
-        <location filename="../interface/UptimeTab.cpp" line="1022"/>
+        <location filename="../interface/UptimeTab.cpp" line="1019"/>
+        <location filename="../interface/UptimeTab.cpp" line="1024"/>
         <source>application uptime data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1018"/>
-        <location filename="../interface/UptimeTab.cpp" line="1023"/>
+        <location filename="../interface/UptimeTab.cpp" line="1020"/>
+        <location filename="../interface/UptimeTab.cpp" line="1025"/>
         <source>Reset Application History</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1027"/>
+        <location filename="../interface/UptimeTab.cpp" line="1029"/>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1029"/>
+        <location filename="../interface/UptimeTab.cpp" line="1031"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1032"/>
+        <location filename="../interface/UptimeTab.cpp" line="1034"/>
         <source>Reset All Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1047"/>
-        <location filename="../interface/UptimeTab.cpp" line="1065"/>
-        <location filename="../interface/UptimeTab.cpp" line="1083"/>
-        <location filename="../interface/UptimeTab.cpp" line="1098"/>
-        <location filename="../interface/UptimeTab.cpp" line="1106"/>
-        <location filename="../interface/UptimeTab.cpp" line="1123"/>
+        <location filename="../interface/UptimeTab.cpp" line="1049"/>
+        <location filename="../interface/UptimeTab.cpp" line="1067"/>
+        <location filename="../interface/UptimeTab.cpp" line="1085"/>
+        <location filename="../interface/UptimeTab.cpp" line="1100"/>
+        <location filename="../interface/UptimeTab.cpp" line="1108"/>
+        <location filename="../interface/UptimeTab.cpp" line="1125"/>
         <source>Delete stats?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1048"/>
-        <location filename="../interface/UptimeTab.cpp" line="1066"/>
+        <location filename="../interface/UptimeTab.cpp" line="1050"/>
+        <location filename="../interface/UptimeTab.cpp" line="1068"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1084"/>
-        <location filename="../interface/UptimeTab.cpp" line="1107"/>
+        <location filename="../interface/UptimeTab.cpp" line="1086"/>
+        <location filename="../interface/UptimeTab.cpp" line="1109"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1099"/>
+        <location filename="../interface/UptimeTab.cpp" line="1101"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1124"/>
+        <location filename="../interface/UptimeTab.cpp" line="1126"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation type="unfinished"></translation>
     </message>
