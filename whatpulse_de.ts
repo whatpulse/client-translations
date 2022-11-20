@@ -1794,49 +1794,49 @@ Bitte überprüfen Sie Ihre Berechtigungen auf: %2</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="188"/>
+        <location filename="../interface/MainWindow.cpp" line="168"/>
         <source>Overview</source>
         <translation>Übersicht</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="190"/>
+        <location filename="../interface/MainWindow.cpp" line="170"/>
         <source>Input</source>
         <translation>Eingabe</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="191"/>
+        <location filename="../interface/MainWindow.cpp" line="171"/>
         <source>Network</source>
         <translation>Netzwerk</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="192"/>
+        <location filename="../interface/MainWindow.cpp" line="172"/>
         <source>Uptime</source>
         <translation>Laufzeit</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="193"/>
+        <location filename="../interface/MainWindow.cpp" line="173"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="197"/>
-        <location filename="../interface/MainWindow.cpp" line="281"/>
-        <location filename="../interface/MainWindow.cpp" line="333"/>
+        <location filename="../interface/MainWindow.cpp" line="177"/>
+        <location filename="../interface/MainWindow.cpp" line="261"/>
+        <location filename="../interface/MainWindow.cpp" line="313"/>
         <source>Account</source>
         <translation>Konto</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="198"/>
+        <location filename="../interface/MainWindow.cpp" line="178"/>
         <source>Give feedback</source>
         <translation>Feedback geben</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="200"/>
+        <location filename="../interface/MainWindow.cpp" line="180"/>
         <source>Need help?</source>
         <translation>Brauchen Sie Hilfe?</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="344"/>
+        <location filename="../interface/MainWindow.cpp" line="324"/>
         <source>Disabled</source>
         <translation>Deaktiviert</translation>
     </message>
@@ -2847,31 +2847,31 @@ Bitte überprüfen Sie Ihre Berechtigungen auf: %2</translation>
         <translation>Wenn Sie eine Sicherung starten, wird der Client neu gestartet und das Sicherungsfenster angezeigt. Fortfahren?</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="150"/>
+        <location filename="../interface/OverviewTab.cpp" line="160"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
         <translation>Aktuelle Laufzeit: unbekannt. Unbekannte Anzahl an Reboots.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="166"/>
         <source>Total keycount: unknown</source>
         <translation>Gesamtanzahl Tastenanschläge: unbekannt</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="162"/>
+        <location filename="../interface/OverviewTab.cpp" line="172"/>
         <source>Total clickcount: unknown</source>
         <translation>Gesamtanzahl Mausklicks: unbekannt</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="168"/>
-        <location filename="../interface/OverviewTab.cpp" line="338"/>
+        <location filename="../interface/OverviewTab.cpp" line="178"/>
+        <location filename="../interface/OverviewTab.cpp" line="348"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>Down: unbekannt
 Up: unbekannt</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="188"/>
-        <location filename="../interface/OverviewTab.cpp" line="235"/>
+        <location filename="../interface/OverviewTab.cpp" line="198"/>
+        <location filename="../interface/OverviewTab.cpp" line="245"/>
         <source>Total: %1
 Available: %2</source>
         <translation>Gesamt: %1
@@ -2883,106 +2883,106 @@ Verfügbar: %2</translation>
         <translation>&lt;b&gt;Hinweis:&lt;/b&gt; Bitte laden Sie die Apple Silicon Version &lt;a href="https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1"&gt;von unserer Website&lt;/a&gt; herunter und installieren Sie sie. Sie verwenden die Intel-basierte Version.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="274"/>
+        <location filename="../interface/OverviewTab.cpp" line="284"/>
         <source>Total clickcount:</source>
         <translation>Gesamte Klickzahl:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="276"/>
+        <location filename="../interface/OverviewTab.cpp" line="286"/>
         <source>Unpulsed:</source>
         <translation>Ungepulst:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="279"/>
+        <location filename="../interface/OverviewTab.cpp" line="289"/>
         <source>Scrolls:</source>
         <translation>Schriftrollen:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="281"/>
+        <location filename="../interface/OverviewTab.cpp" line="291"/>
         <source>Distance:</source>
         <translation>Entfernung:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="284"/>
+        <location filename="../interface/OverviewTab.cpp" line="294"/>
         <source>Click counting is disabled</source>
         <translation>Die Klickzählung ist deaktiviert</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="293"/>
+        <location filename="../interface/OverviewTab.cpp" line="303"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>Gesamtanzahl Tastenanschläge: %1
 Ungepulst: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="299"/>
+        <location filename="../interface/OverviewTab.cpp" line="309"/>
         <source>Key counting is disabled</source>
         <translation>Die Schlüsselzählung ist deaktiviert</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="302"/>
-        <location filename="../interface/OverviewTab.cpp" line="303"/>
+        <location filename="../interface/OverviewTab.cpp" line="312"/>
+        <location filename="../interface/OverviewTab.cpp" line="313"/>
         <source>unknown</source>
         <translation>Unbekannt</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="320"/>
+        <location filename="../interface/OverviewTab.cpp" line="330"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>Aktuelle Laufzeit: %1. %2 Neustarts
 Ungepulst: %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="324"/>
+        <location filename="../interface/OverviewTab.cpp" line="334"/>
         <source>Uptime is disabled</source>
         <translation>Betriebszeit ist deaktiviert</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="334"/>
+        <location filename="../interface/OverviewTab.cpp" line="344"/>
         <source>Down: %1
 Up: %2</source>
         <translation>Down: %1
 Up: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="342"/>
+        <location filename="../interface/OverviewTab.cpp" line="352"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 Ungepulst: %2 down, %3 up</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="349"/>
+        <location filename="../interface/OverviewTab.cpp" line="359"/>
         <source>Network is disabled</source>
         <translation>Netzwerk ist deaktiviert</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="354"/>
+        <location filename="../interface/OverviewTab.cpp" line="364"/>
         <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>Die Option "Offline arbeiten" ist aktiviert, so dass Sie nicht pulsen können. Deaktivieren Sie diese Option, um das Pulsen wieder aufzunehmen.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="365"/>
+        <location filename="../interface/OverviewTab.cpp" line="375"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsing ist deaktiviert!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="366"/>
+        <location filename="../interface/OverviewTab.cpp" line="376"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Die Einstellung "Offline arbeiten" ist aktiviert. Dadurch wird verhindert, dass der Client online geht, was das Pulsen einschließt. Deaktivieren Sie diese Einstellung und Sie können wieder pulsen.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="376"/>
+        <location filename="../interface/OverviewTab.cpp" line="386"/>
         <source>Pulsing..</source>
         <translation>Am Pulsen..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="377"/>
+        <location filename="../interface/OverviewTab.cpp" line="387"/>
         <source>Pulse underway, please wait!</source>
         <translation>Puls ist im Gange, bitte warten!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="382"/>
+        <location filename="../interface/OverviewTab.cpp" line="392"/>
         <source>Pulse!</source>
         <translation>Pulse!</translation>
     </message>
@@ -3224,117 +3224,112 @@ Ungepulst: %2 down, %3 up</translation>
         <translation> Auf Updates überprüfen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="110"/>
-        <source> Report Bug</source>
-        <translation> Bug melden</translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="125"/>
+        <location filename="../interface/SettingsTab.cpp" line="118"/>
         <source> Save</source>
         <translation> Speichern</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="160"/>
-        <location filename="../interface/SettingsTab.cpp" line="176"/>
+        <location filename="../interface/SettingsTab.cpp" line="153"/>
+        <location filename="../interface/SettingsTab.cpp" line="169"/>
         <source>Settings - General</source>
         <translation>Einstellungen - Allgemein</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="162"/>
-        <location filename="../interface/SettingsTab.cpp" line="177"/>
+        <location filename="../interface/SettingsTab.cpp" line="155"/>
+        <location filename="../interface/SettingsTab.cpp" line="170"/>
         <source>Settings - Automatic Pulsing</source>
         <translation>Einstellungen - Automatisches Pulsen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="164"/>
-        <location filename="../interface/SettingsTab.cpp" line="178"/>
+        <location filename="../interface/SettingsTab.cpp" line="157"/>
+        <location filename="../interface/SettingsTab.cpp" line="171"/>
         <source>Settings - Geek Window Layout</source>
         <translation>Einstellungen - Geek Window Layout</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="166"/>
-        <location filename="../interface/SettingsTab.cpp" line="179"/>
+        <location filename="../interface/SettingsTab.cpp" line="159"/>
+        <location filename="../interface/SettingsTab.cpp" line="172"/>
         <source>Settings - Ignored Applications</source>
         <translation>Einstellungen - Ignorierte Anwendungen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="168"/>
-        <location filename="../interface/SettingsTab.cpp" line="180"/>
+        <location filename="../interface/SettingsTab.cpp" line="161"/>
+        <location filename="../interface/SettingsTab.cpp" line="173"/>
         <source>Settings - Proxy</source>
         <translation>Einstellungen - Proxy</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="170"/>
+        <location filename="../interface/SettingsTab.cpp" line="163"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="235"/>
+        <location filename="../interface/SettingsTab.cpp" line="228"/>
         <source>Launch when computer starts</source>
         <translation>Beim Start des Computers starten</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="237"/>
+        <location filename="../interface/SettingsTab.cpp" line="230"/>
         <source>Enable Portable Mode</source>
         <translation>Portabler Modus einschalten</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="241"/>
+        <location filename="../interface/SettingsTab.cpp" line="234"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>Bei Doppelklick auf Trayicon pulsen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="245"/>
+        <location filename="../interface/SettingsTab.cpp" line="238"/>
         <source>Include beta versions updates</source>
         <translation>Updates für Beta-Versionen verwenden</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="249"/>
+        <location filename="../interface/SettingsTab.cpp" line="242"/>
         <source>Blink trayicon on input activity</source>
         <translation>Blinkendes Trayicon bei Aktivität</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="252"/>
+        <location filename="../interface/SettingsTab.cpp" line="245"/>
         <source>Automatically install new versions</source>
         <translation>Automatisch neue Versionen installieren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="254"/>
+        <location filename="../interface/SettingsTab.cpp" line="247"/>
         <source>Upload application info</source>
         <translation>Anwendungsinformationen hochladen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="257"/>
+        <location filename="../interface/SettingsTab.cpp" line="250"/>
         <source>Work offline (disables pulsing)</source>
         <translation>Offline arbeiten (deaktiviert das Pulsieren)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="260"/>
+        <location filename="../interface/SettingsTab.cpp" line="253"/>
         <source>Upload heatmap info</source>
         <translation>Hochladen von Heatmap-Informationen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="263"/>
+        <location filename="../interface/SettingsTab.cpp" line="256"/>
         <source>Weekly online backups</source>
         <translation>Wöchentliche Online-Sicherungen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="277"/>
+        <location filename="../interface/SettingsTab.cpp" line="270"/>
         <source>Pauze notifications</source>
         <translation>Benachrichtigungen anhalten</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="325"/>
+        <location filename="../interface/SettingsTab.cpp" line="318"/>
         <source>Auto</source>
         <translation>Automatisch</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="326"/>
+        <location filename="../interface/SettingsTab.cpp" line="319"/>
         <source>Black</source>
         <translation>Dunkel</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="327"/>
+        <location filename="../interface/SettingsTab.cpp" line="320"/>
         <source>White</source>
         <translation>Hell</translation>
     </message>
@@ -3349,209 +3344,209 @@ Ungepulst: %2 down, %3 up</translation>
         <translation>Ignoriert</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="239"/>
+        <location filename="../interface/SettingsTab.cpp" line="232"/>
         <source>Open Window on Startup</source>
         <translation>Fenster beim Hochfahren öffnen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="273"/>
+        <location filename="../interface/SettingsTab.cpp" line="266"/>
         <source>Send bug and usage reports</source>
         <translation>Senden Sie Fehler- und Nutzungsberichte</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="305"/>
+        <location filename="../interface/SettingsTab.cpp" line="298"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
         <translation>&lt;b&gt;Thema&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="308"/>
+        <location filename="../interface/SettingsTab.cpp" line="301"/>
         <source>Auto Detect</source>
         <translation>Automatische Erkennung</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="309"/>
+        <location filename="../interface/SettingsTab.cpp" line="302"/>
         <source>Light</source>
         <translation>Hell</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="310"/>
+        <location filename="../interface/SettingsTab.cpp" line="303"/>
         <source>Dark</source>
         <translation>Dunkel</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="322"/>
+        <location filename="../interface/SettingsTab.cpp" line="315"/>
         <source>&lt;b&gt;Icon Color&lt;/b&gt;</source>
         <translation>&lt;b&gt;Symbolfarbe&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="344"/>
+        <location filename="../interface/SettingsTab.cpp" line="337"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
         <translation>&lt;b&gt;Sprache&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="371"/>
+        <location filename="../interface/SettingsTab.cpp" line="364"/>
         <source>Pulse Server: </source>
         <translation>Pulse Server: </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="387"/>
+        <location filename="../interface/SettingsTab.cpp" line="380"/>
         <source>Active Stats</source>
         <translation>Aktive Statistiken</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="397"/>
+        <location filename="../interface/SettingsTab.cpp" line="390"/>
         <source>Input</source>
         <translation>Eingabe</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="403"/>
+        <location filename="../interface/SettingsTab.cpp" line="396"/>
         <source>Keyboard</source>
         <translation>Tastatur</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="404"/>
+        <location filename="../interface/SettingsTab.cpp" line="397"/>
         <source>Mouse</source>
         <translation>Maus</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="405"/>
-        <location filename="../interface/SettingsTab.cpp" line="436"/>
-        <location filename="../interface/SettingsTab.cpp" line="457"/>
+        <location filename="../interface/SettingsTab.cpp" line="398"/>
+        <location filename="../interface/SettingsTab.cpp" line="429"/>
+        <location filename="../interface/SettingsTab.cpp" line="450"/>
         <source>Per Application</source>
         <translation>Pro Anwendung</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="426"/>
+        <location filename="../interface/SettingsTab.cpp" line="419"/>
         <source>Network</source>
         <translation>Netzwerk</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="432"/>
+        <location filename="../interface/SettingsTab.cpp" line="425"/>
         <source>Per Interface</source>
         <translation>Pro Schnittstellen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="434"/>
+        <location filename="../interface/SettingsTab.cpp" line="427"/>
         <source>Per Country</source>
         <translation>Pro Land</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="438"/>
+        <location filename="../interface/SettingsTab.cpp" line="431"/>
         <source>Per Traffic Type</source>
         <translation>Pro Traffic Typ</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="448"/>
+        <location filename="../interface/SettingsTab.cpp" line="441"/>
         <source>Uptime</source>
         <translation>Laufzeit</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="454"/>
+        <location filename="../interface/SettingsTab.cpp" line="447"/>
         <source>Computer Uptime</source>
         <translation>Computerlaufzeit</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="455"/>
+        <location filename="../interface/SettingsTab.cpp" line="448"/>
         <source>Reboots</source>
         <translation>Neustarts</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="466"/>
+        <location filename="../interface/SettingsTab.cpp" line="459"/>
         <source>Advanced</source>
         <translation>Erweiterte</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="473"/>
+        <location filename="../interface/SettingsTab.cpp" line="466"/>
         <source>&amp;Open Data Directory</source>
         <translation>Datenverzeichnis &amp;öffnen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="480"/>
+        <location filename="../interface/SettingsTab.cpp" line="473"/>
         <source>&amp;Start Online Backup</source>
         <translation>Online-Sicherung &amp;starten</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="487"/>
+        <location filename="../interface/SettingsTab.cpp" line="480"/>
         <source>Re-upload &amp;applications</source>
         <translation>&amp;Anwendungen erneut hochladen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="493"/>
+        <location filename="../interface/SettingsTab.cpp" line="486"/>
         <source>Empty local &amp;database</source>
         <translation>Lokale &amp;Datenbank leeren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="499"/>
+        <location filename="../interface/SettingsTab.cpp" line="492"/>
         <source>Update &amp;GeoIP database</source>
         <translation>&amp;GeoIP-Datenbank aktualisieren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="506"/>
+        <location filename="../interface/SettingsTab.cpp" line="499"/>
         <source>Update Network Port Description database</source>
         <translation>Netzwerk-Port-Beschreibungsdatenbank aktualisieren</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="513"/>
+        <location filename="../interface/SettingsTab.cpp" line="506"/>
         <source>Upload &amp;Computer Profile</source>
         <translation>Hochladen &amp;Computerprofil</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="520"/>
+        <location filename="../interface/SettingsTab.cpp" line="513"/>
         <source>&amp;Upload database</source>
         <translation>Datenbank &amp;hochladen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="532"/>
+        <location filename="../interface/SettingsTab.cpp" line="525"/>
         <source>Check macOS Permissions</source>
         <translation>macOS-Berechtigungen prüfen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="557"/>
+        <location filename="../interface/SettingsTab.cpp" line="550"/>
         <source>Uploading Apps</source>
         <translation>Hochladen von Apps</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="558"/>
+        <location filename="../interface/SettingsTab.cpp" line="551"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Anwendungen wurden zum Hochladen markiert. Es kann eine Stunde dauern, bis sie auf der Website erscheinen.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="579"/>
+        <location filename="../interface/SettingsTab.cpp" line="572"/>
         <source>Empty Database</source>
         <translation>Leere Datenbank</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="580"/>
+        <location filename="../interface/SettingsTab.cpp" line="573"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Wenn Sie Ihre lokale Datenbank leeren, werden alle lokalen Statistiken zerstört und Ihr Konto abgemeldet. Es gibt keine Möglichkeit der Wiederherstellung, weiter?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="603"/>
+        <location filename="../interface/SettingsTab.cpp" line="596"/>
         <source>Start Online Backup?</source>
         <translation>Online-Sicherung starten?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="604"/>
+        <location filename="../interface/SettingsTab.cpp" line="597"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Wenn Sie eine Sicherung starten, wird der Client neu gestartet und das Sicherungsfenster angezeigt. Fortfahren?</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="617"/>
+        <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
         <translation>Computerinformationen hochladen</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="618"/>
+        <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Der Upload des Computerprofils wurde erfolgreich gestartet. Die Website wird in ein paar Minuten aktualisiert.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="773"/>
+        <location filename="../interface/SettingsTab.cpp" line="766"/>
         <source>Settings saved...</source>
         <translation>Einstellungen gespeichert...</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="817"/>
+        <location filename="../interface/SettingsTab.cpp" line="810"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Wöchentliche Online-Backups (nur Premium)</translation>
     </message>

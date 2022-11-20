@@ -1800,49 +1800,49 @@ Please check your permissions on: %2</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="188"/>
+        <location filename="../interface/MainWindow.cpp" line="168"/>
         <source>Overview</source>
         <translation>总览</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="190"/>
+        <location filename="../interface/MainWindow.cpp" line="170"/>
         <source>Input</source>
         <translation>输入</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="191"/>
+        <location filename="../interface/MainWindow.cpp" line="171"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="192"/>
+        <location filename="../interface/MainWindow.cpp" line="172"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="193"/>
+        <location filename="../interface/MainWindow.cpp" line="173"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="197"/>
-        <location filename="../interface/MainWindow.cpp" line="281"/>
-        <location filename="../interface/MainWindow.cpp" line="333"/>
+        <location filename="../interface/MainWindow.cpp" line="177"/>
+        <location filename="../interface/MainWindow.cpp" line="261"/>
+        <location filename="../interface/MainWindow.cpp" line="313"/>
         <source>Account</source>
         <translation>帐户</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="198"/>
+        <location filename="../interface/MainWindow.cpp" line="178"/>
         <source>Give feedback</source>
         <translation>提供反馈</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="200"/>
+        <location filename="../interface/MainWindow.cpp" line="180"/>
         <source>Need help?</source>
         <translation>需要帮助吗？</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="344"/>
+        <location filename="../interface/MainWindow.cpp" line="324"/>
         <source>Disabled</source>
         <translation>已禁用</translation>
     </message>
@@ -2853,31 +2853,31 @@ Please check your permissions on: %2</source>
         <translation>开始备份将重启客户端并显示备份窗口。继续？</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="150"/>
+        <location filename="../interface/OverviewTab.cpp" line="160"/>
         <source>Current uptime: unknown. Unknown reboots.</source>
         <translation>当前在线时长：未知。重启次数未知。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="166"/>
         <source>Total keycount: unknown</source>
         <translation>总按键次数：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="162"/>
+        <location filename="../interface/OverviewTab.cpp" line="172"/>
         <source>Total clickcount: unknown</source>
         <translation>总点击次数：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="168"/>
-        <location filename="../interface/OverviewTab.cpp" line="338"/>
+        <location filename="../interface/OverviewTab.cpp" line="178"/>
+        <location filename="../interface/OverviewTab.cpp" line="348"/>
         <source>Down: unknown
 Up: unknown</source>
         <translation>下载：未知
 上传：未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="188"/>
-        <location filename="../interface/OverviewTab.cpp" line="235"/>
+        <location filename="../interface/OverviewTab.cpp" line="198"/>
+        <location filename="../interface/OverviewTab.cpp" line="245"/>
         <source>Total: %1
 Available: %2</source>
         <translation>总： %1
@@ -2889,106 +2889,106 @@ Available: %2</source>
         <translation>&lt;b&gt;注意：&lt;/b&gt;请从我们的网站&lt;/a&gt;下载并安装Apple Silicon版本&lt;a href="https://help.whatpulse.org/kb/client/whatpulse-support-for-apple-m1"&gt;。你正在运行基于英特尔的版本。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="274"/>
+        <location filename="../interface/OverviewTab.cpp" line="284"/>
         <source>Total clickcount:</source>
         <translation>总点击数:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="276"/>
+        <location filename="../interface/OverviewTab.cpp" line="286"/>
         <source>Unpulsed:</source>
         <translation>无人问津:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="279"/>
+        <location filename="../interface/OverviewTab.cpp" line="289"/>
         <source>Scrolls:</source>
         <translation>卷轴:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="281"/>
+        <location filename="../interface/OverviewTab.cpp" line="291"/>
         <source>Distance:</source>
         <translation>距离:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="284"/>
+        <location filename="../interface/OverviewTab.cpp" line="294"/>
         <source>Click counting is disabled</source>
         <translation>点击计数已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="293"/>
+        <location filename="../interface/OverviewTab.cpp" line="303"/>
         <source>Total keycount: %1
 Unpulsed: %2</source>
         <translation>总按键次数： %1
 未 Pulse： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="299"/>
+        <location filename="../interface/OverviewTab.cpp" line="309"/>
         <source>Key counting is disabled</source>
         <translation>密钥计数已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="302"/>
-        <location filename="../interface/OverviewTab.cpp" line="303"/>
+        <location filename="../interface/OverviewTab.cpp" line="312"/>
+        <location filename="../interface/OverviewTab.cpp" line="313"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="320"/>
+        <location filename="../interface/OverviewTab.cpp" line="330"/>
         <source>Current uptime: %1. %2 reboots
 Unpulsed: %3</source>
         <translation>当前在线时长： %1。重启次数 %2 次
 未 Pulse： %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="324"/>
+        <location filename="../interface/OverviewTab.cpp" line="334"/>
         <source>Uptime is disabled</source>
         <translation>正常运行时间已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="334"/>
+        <location filename="../interface/OverviewTab.cpp" line="344"/>
         <source>Down: %1
 Up: %2</source>
         <translation>下载： %1
 上传： %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="342"/>
+        <location filename="../interface/OverviewTab.cpp" line="352"/>
         <source>%1
 Unpulsed: %2 down, %3 up</source>
         <translation>%1
 未 Pulse：下载 %2，上传 %3</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="349"/>
+        <location filename="../interface/OverviewTab.cpp" line="359"/>
         <source>Network is disabled</source>
         <translation>网络被禁用</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="354"/>
+        <location filename="../interface/OverviewTab.cpp" line="364"/>
         <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>“脱机工作”选项已开启，所以你无法 Pulse。关闭该选项以继续 Pulse。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="365"/>
+        <location filename="../interface/OverviewTab.cpp" line="375"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="366"/>
+        <location filename="../interface/OverviewTab.cpp" line="376"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="376"/>
+        <location filename="../interface/OverviewTab.cpp" line="386"/>
         <source>Pulsing..</source>
         <translation>Pulse..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="377"/>
+        <location filename="../interface/OverviewTab.cpp" line="387"/>
         <source>Pulse underway, please wait!</source>
         <translation>正在 Pulse，请稍候！</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="382"/>
+        <location filename="../interface/OverviewTab.cpp" line="392"/>
         <source>Pulse!</source>
         <translation>Pulse!</translation>
     </message>
@@ -3221,117 +3221,112 @@ Unpulsed: %2 down, %3 up</source>
         <translation> 检查更新</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="110"/>
-        <source> Report Bug</source>
-        <translation> 报告缺陷</translation>
-    </message>
-    <message>
-        <location filename="../interface/SettingsTab.cpp" line="125"/>
+        <location filename="../interface/SettingsTab.cpp" line="118"/>
         <source> Save</source>
         <translation> 保存</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="160"/>
-        <location filename="../interface/SettingsTab.cpp" line="176"/>
+        <location filename="../interface/SettingsTab.cpp" line="153"/>
+        <location filename="../interface/SettingsTab.cpp" line="169"/>
         <source>Settings - General</source>
         <translation>设置 - 通用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="162"/>
-        <location filename="../interface/SettingsTab.cpp" line="177"/>
+        <location filename="../interface/SettingsTab.cpp" line="155"/>
+        <location filename="../interface/SettingsTab.cpp" line="170"/>
         <source>Settings - Automatic Pulsing</source>
         <translation>设置 - 自动 Pulse</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="164"/>
-        <location filename="../interface/SettingsTab.cpp" line="178"/>
+        <location filename="../interface/SettingsTab.cpp" line="157"/>
+        <location filename="../interface/SettingsTab.cpp" line="171"/>
         <source>Settings - Geek Window Layout</source>
         <translation>设置 - 悬浮窗布局</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="166"/>
-        <location filename="../interface/SettingsTab.cpp" line="179"/>
+        <location filename="../interface/SettingsTab.cpp" line="159"/>
+        <location filename="../interface/SettingsTab.cpp" line="172"/>
         <source>Settings - Ignored Applications</source>
         <translation>设置 - 忽略的应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="168"/>
-        <location filename="../interface/SettingsTab.cpp" line="180"/>
+        <location filename="../interface/SettingsTab.cpp" line="161"/>
+        <location filename="../interface/SettingsTab.cpp" line="173"/>
         <source>Settings - Proxy</source>
         <translation>设置 - 代理</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="170"/>
+        <location filename="../interface/SettingsTab.cpp" line="163"/>
         <source>Settings</source>
         <translation>设置</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="235"/>
+        <location filename="../interface/SettingsTab.cpp" line="228"/>
         <source>Launch when computer starts</source>
         <translation>计算机启动时启动</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="237"/>
+        <location filename="../interface/SettingsTab.cpp" line="230"/>
         <source>Enable Portable Mode</source>
         <translation>开启绿色模式</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="241"/>
+        <location filename="../interface/SettingsTab.cpp" line="234"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>双击托盘图标时 Pulse</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="245"/>
+        <location filename="../interface/SettingsTab.cpp" line="238"/>
         <source>Include beta versions updates</source>
         <translation>检查 Beta 版本更新</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="249"/>
+        <location filename="../interface/SettingsTab.cpp" line="242"/>
         <source>Blink trayicon on input activity</source>
         <translation>输入时闪烁托盘图标</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="252"/>
+        <location filename="../interface/SettingsTab.cpp" line="245"/>
         <source>Automatically install new versions</source>
         <translation>自动安装新版本</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="254"/>
+        <location filename="../interface/SettingsTab.cpp" line="247"/>
         <source>Upload application info</source>
         <translation>上传应用信息</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="257"/>
+        <location filename="../interface/SettingsTab.cpp" line="250"/>
         <source>Work offline (disables pulsing)</source>
         <translation>脱机工作（禁用 Pulse）</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="260"/>
+        <location filename="../interface/SettingsTab.cpp" line="253"/>
         <source>Upload heatmap info</source>
         <translation>上传热力图信息</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="263"/>
+        <location filename="../interface/SettingsTab.cpp" line="256"/>
         <source>Weekly online backups</source>
         <translation>每周线上备份</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="277"/>
+        <location filename="../interface/SettingsTab.cpp" line="270"/>
         <source>Pauze notifications</source>
         <translation>暂停通知</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="325"/>
+        <location filename="../interface/SettingsTab.cpp" line="318"/>
         <source>Auto</source>
         <translation>自动</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="326"/>
+        <location filename="../interface/SettingsTab.cpp" line="319"/>
         <source>Black</source>
         <translation>黑</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="327"/>
+        <location filename="../interface/SettingsTab.cpp" line="320"/>
         <source>White</source>
         <translation>白</translation>
     </message>
@@ -3356,209 +3351,209 @@ Unpulsed: %2 down, %3 up</source>
         <translation>代理和 API</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="239"/>
+        <location filename="../interface/SettingsTab.cpp" line="232"/>
         <source>Open Window on Startup</source>
         <translation>启动时打开窗口</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="273"/>
+        <location filename="../interface/SettingsTab.cpp" line="266"/>
         <source>Send bug and usage reports</source>
         <translation>发送缺陷与使用报告</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="305"/>
+        <location filename="../interface/SettingsTab.cpp" line="298"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
         <translation>&lt;b&gt;主题&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="308"/>
+        <location filename="../interface/SettingsTab.cpp" line="301"/>
         <source>Auto Detect</source>
         <translation>自動偵測</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="309"/>
+        <location filename="../interface/SettingsTab.cpp" line="302"/>
         <source>Light</source>
         <translation>光</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="310"/>
+        <location filename="../interface/SettingsTab.cpp" line="303"/>
         <source>Dark</source>
         <translation>黑暗的</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="322"/>
+        <location filename="../interface/SettingsTab.cpp" line="315"/>
         <source>&lt;b&gt;Icon Color&lt;/b&gt;</source>
         <translation>&lt;b&gt;图标颜色&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="344"/>
+        <location filename="../interface/SettingsTab.cpp" line="337"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
         <translation>&lt;b&gt;语&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="371"/>
+        <location filename="../interface/SettingsTab.cpp" line="364"/>
         <source>Pulse Server: </source>
         <translation>Pulse 服务器： </translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="387"/>
+        <location filename="../interface/SettingsTab.cpp" line="380"/>
         <source>Active Stats</source>
         <translation>活跃的统计</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="397"/>
+        <location filename="../interface/SettingsTab.cpp" line="390"/>
         <source>Input</source>
         <translation>输入</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="403"/>
+        <location filename="../interface/SettingsTab.cpp" line="396"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="404"/>
+        <location filename="../interface/SettingsTab.cpp" line="397"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="405"/>
-        <location filename="../interface/SettingsTab.cpp" line="436"/>
-        <location filename="../interface/SettingsTab.cpp" line="457"/>
+        <location filename="../interface/SettingsTab.cpp" line="398"/>
+        <location filename="../interface/SettingsTab.cpp" line="429"/>
+        <location filename="../interface/SettingsTab.cpp" line="450"/>
         <source>Per Application</source>
         <translation>分应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="426"/>
+        <location filename="../interface/SettingsTab.cpp" line="419"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="432"/>
+        <location filename="../interface/SettingsTab.cpp" line="425"/>
         <source>Per Interface</source>
         <translation>分网卡</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="434"/>
+        <location filename="../interface/SettingsTab.cpp" line="427"/>
         <source>Per Country</source>
         <translation>分国家</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="438"/>
+        <location filename="../interface/SettingsTab.cpp" line="431"/>
         <source>Per Traffic Type</source>
         <translation>分类型</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="448"/>
+        <location filename="../interface/SettingsTab.cpp" line="441"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="454"/>
+        <location filename="../interface/SettingsTab.cpp" line="447"/>
         <source>Computer Uptime</source>
         <translation>计算机上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="455"/>
+        <location filename="../interface/SettingsTab.cpp" line="448"/>
         <source>Reboots</source>
         <translation>重启</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="466"/>
+        <location filename="../interface/SettingsTab.cpp" line="459"/>
         <source>Advanced</source>
         <translation>高级</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="473"/>
+        <location filename="../interface/SettingsTab.cpp" line="466"/>
         <source>&amp;Open Data Directory</source>
         <translation>打开数据目录(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="480"/>
+        <location filename="../interface/SettingsTab.cpp" line="473"/>
         <source>&amp;Start Online Backup</source>
         <translation>开始线上备份(&amp;S)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="487"/>
+        <location filename="../interface/SettingsTab.cpp" line="480"/>
         <source>Re-upload &amp;applications</source>
         <translation>重新上传应用(&amp;A)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="493"/>
+        <location filename="../interface/SettingsTab.cpp" line="486"/>
         <source>Empty local &amp;database</source>
         <translation>清空本地数据库(&amp;D)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="499"/>
+        <location filename="../interface/SettingsTab.cpp" line="492"/>
         <source>Update &amp;GeoIP database</source>
         <translation>更新地理 IP 数据库(&amp;G)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="506"/>
+        <location filename="../interface/SettingsTab.cpp" line="499"/>
         <source>Update Network Port Description database</source>
         <translation>更新网络端口描述数据库</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="513"/>
+        <location filename="../interface/SettingsTab.cpp" line="506"/>
         <source>Upload &amp;Computer Profile</source>
         <translation>&amp;上传电脑资料</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="520"/>
+        <location filename="../interface/SettingsTab.cpp" line="513"/>
         <source>&amp;Upload database</source>
         <translation>上传数据库(&amp;U)</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="532"/>
+        <location filename="../interface/SettingsTab.cpp" line="525"/>
         <source>Check macOS Permissions</source>
         <translation>检查 macOS 权限</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="557"/>
+        <location filename="../interface/SettingsTab.cpp" line="550"/>
         <source>Uploading Apps</source>
         <translation>上传应用</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="558"/>
+        <location filename="../interface/SettingsTab.cpp" line="551"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>应用已标记为上传。它显示到网站上可能需要一个小时。</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="579"/>
+        <location filename="../interface/SettingsTab.cpp" line="572"/>
         <source>Empty Database</source>
         <translation>清空数据库</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="580"/>
+        <location filename="../interface/SettingsTab.cpp" line="573"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>清空本地数据库将摧毁全部本地统计数据并退出登录。这是无法恢复的，继续？</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="603"/>
+        <location filename="../interface/SettingsTab.cpp" line="596"/>
         <source>Start Online Backup?</source>
         <translation>开始线上备份？</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="604"/>
+        <location filename="../interface/SettingsTab.cpp" line="597"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>开始备份将重启客户端并显示备份窗口。继续？</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="617"/>
+        <location filename="../interface/SettingsTab.cpp" line="610"/>
         <source>Upload Computer Info</source>
         <translation>上传计算机信息</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="618"/>
+        <location filename="../interface/SettingsTab.cpp" line="611"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>成功地开始了计算机资料的上传。网站将在几分钟内更新.</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="773"/>
+        <location filename="../interface/SettingsTab.cpp" line="766"/>
         <source>Settings saved...</source>
         <translation>设置已保存……</translation>
     </message>
     <message>
-        <location filename="../interface/SettingsTab.cpp" line="817"/>
+        <location filename="../interface/SettingsTab.cpp" line="810"/>
         <source>Weekly online backups (premium only)</source>
         <translation>每周线上备份（尊享版特权）</translation>
     </message>
