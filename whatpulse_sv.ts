@@ -1371,51 +1371,51 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Musklick</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="620"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="618"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
         <source>Left</source>
         <translation>Vänster</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="619"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
         <source>Right</source>
         <translation>Höger</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="622"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="620"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
         <source>Middle</source>
         <translation>Mitten</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="623"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="703"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
         <source>Other</source>
         <translation>Övriga</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="651"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="649"/>
         <source>Scrolls</source>
         <translation>Rullar</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="666"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="664"/>
         <source>Distance</source>
         <translation>Avstånd</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="771"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="769"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="799"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="797"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Rensa Mus Värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="800"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="798"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Genom att inte rensa din mus värmekarta kommer din databas att bli ganska stor och möjligen sakta ner WhatPulse applikationen. Sluta rensa?</translation>
     </message>
@@ -1438,128 +1438,128 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Vänligen gör ditt exportval nedan. Välj vilken data du vill ha, sedan tidsperioden och om du vill gruppera den per dag, vecka eller månad och tryck sedan på Spara för att exportera som CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="152"/>
-        <source>History of Keys and Clicks</source>
-        <translation>Historik över Tangenttryck och Musklick</translation>
-    </message>
-    <message>
-        <location filename="../interface/ExportWindow.cpp" line="153"/>
+        <location filename="../interface/ExportWindow.cpp" line="154"/>
         <source>Heatmap of Keys</source>
         <translation>Mus Värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="154"/>
+        <location filename="../interface/ExportWindow.cpp" line="155"/>
         <source>Heatmap of Clicks</source>
         <translation>Värmekarta av Musklick</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="155"/>
-        <source>Application Keys and Clicks</source>
-        <translation>Applikationstangenttryck och Musklick</translation>
+        <location filename="../interface/ExportWindow.cpp" line="153"/>
+        <source>History of Keys, Clicks, Scrolls, and Distance</source>
+        <translation>Historien om tangenter, klick, rullar och avstånd</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="167"/>
+        <location filename="../interface/ExportWindow.cpp" line="157"/>
+        <source>Application Keys, Clicks, Scrolls, and Distance</source>
+        <translation>Applikationstangenter, klick, rullning och avstånd</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="169"/>
         <source>Export from:</source>
         <translation>Exportera från:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="185"/>
+        <location filename="../interface/ExportWindow.cpp" line="187"/>
         <source>to:</source>
         <translation>till:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="204"/>
+        <location filename="../interface/ExportWindow.cpp" line="206"/>
         <source>Group by:</source>
         <translation>Gruppera som:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="206"/>
+        <location filename="../interface/ExportWindow.cpp" line="208"/>
         <source>Hour</source>
         <translation>Timme</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="207"/>
+        <location filename="../interface/ExportWindow.cpp" line="209"/>
         <source>Day</source>
         <translation>Dag</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="208"/>
+        <location filename="../interface/ExportWindow.cpp" line="210"/>
         <source>Week</source>
         <translation>Vecka</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="209"/>
+        <location filename="../interface/ExportWindow.cpp" line="211"/>
         <source>Month</source>
         <translation>Månad</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="219"/>
+        <location filename="../interface/ExportWindow.cpp" line="221"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="227"/>
+        <location filename="../interface/ExportWindow.cpp" line="229"/>
         <source>Premium Only</source>
         <translation>Endast Premium</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="236"/>
+        <location filename="../interface/ExportWindow.cpp" line="238"/>
         <source>Working..</source>
         <translation>Arbetar..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="284"/>
-        <source>History of keys and clicks between '%1' and '%2' </source>
-        <translation>Historik över tangenttryck och musklick mellan '%1' och '%2' </translation>
+        <location filename="../interface/ExportWindow.cpp" line="285"/>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>Historik över tangenter, klick, rullningar och avstånd mellan "%1" och "%2"</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="302"/>
-        <location filename="../interface/ExportWindow.cpp" line="390"/>
-        <location filename="../interface/ExportWindow.cpp" line="466"/>
-        <location filename="../interface/ExportWindow.cpp" line="517"/>
+        <location filename="../interface/ExportWindow.cpp" line="315"/>
+        <location filename="../interface/ExportWindow.cpp" line="456"/>
+        <location filename="../interface/ExportWindow.cpp" line="532"/>
+        <location filename="../interface/ExportWindow.cpp" line="584"/>
         <source>grouped by Week </source>
         <translation>Grupperade efter Vecka </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="313"/>
-        <location filename="../interface/ExportWindow.cpp" line="397"/>
-        <location filename="../interface/ExportWindow.cpp" line="525"/>
+        <location filename="../interface/ExportWindow.cpp" line="335"/>
+        <location filename="../interface/ExportWindow.cpp" line="463"/>
+        <location filename="../interface/ExportWindow.cpp" line="593"/>
         <source>grouped by Month </source>
         <translation>Grupperade efter Månad </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="326"/>
-        <location filename="../interface/ExportWindow.cpp" line="406"/>
-        <location filename="../interface/ExportWindow.cpp" line="456"/>
-        <location filename="../interface/ExportWindow.cpp" line="535"/>
+        <location filename="../interface/ExportWindow.cpp" line="359"/>
+        <location filename="../interface/ExportWindow.cpp" line="472"/>
+        <location filename="../interface/ExportWindow.cpp" line="522"/>
+        <location filename="../interface/ExportWindow.cpp" line="604"/>
         <source>grouped by Hour </source>
         <translation>Grupperade efter Timme </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="337"/>
-        <location filename="../interface/ExportWindow.cpp" line="413"/>
-        <location filename="../interface/ExportWindow.cpp" line="480"/>
-        <location filename="../interface/ExportWindow.cpp" line="543"/>
+        <location filename="../interface/ExportWindow.cpp" line="380"/>
+        <location filename="../interface/ExportWindow.cpp" line="479"/>
+        <location filename="../interface/ExportWindow.cpp" line="546"/>
+        <location filename="../interface/ExportWindow.cpp" line="613"/>
         <source>grouped by Day </source>
         <translation>Grupperade efter Dag </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="379"/>
+        <location filename="../interface/ExportWindow.cpp" line="445"/>
         <source>Heatmap of keys between '%1' and '%2' </source>
         <translation>Värmekarta av tangenttryck mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="441"/>
+        <location filename="../interface/ExportWindow.cpp" line="507"/>
         <source>Heatmap of clicks between '%1' and '%2' </source>
         <translation>Värmekarta av musklick mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="505"/>
+        <location filename="../interface/ExportWindow.cpp" line="571"/>
         <source>Application input between '%1' and '%2' </source>
         <translation>Programinmatning mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="590"/>
+        <location filename="../interface/ExportWindow.cpp" line="664"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Du har valt ett datumintervall som är större än 90 dagar. Exporten kan ta ett tag.</translation>
     </message>
@@ -1913,144 +1913,144 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>NetworkPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="600"/>
+        <location filename="../interface/ExportWindow.cpp" line="674"/>
         <source>Exporting Network</source>
         <translation>Exporterar Nätverk</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="601"/>
+        <location filename="../interface/ExportWindow.cpp" line="675"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="607"/>
+        <location filename="../interface/ExportWindow.cpp" line="681"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Vänligen gör ditt exportval nedan. Välj vilken data du vill ha, sedan tidsperioden och om du vill gruppera den per dag, vecka eller månad och tryck sedan på Spara för att exportera som CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="614"/>
+        <location filename="../interface/ExportWindow.cpp" line="688"/>
         <source>Traffic per application</source>
         <translation>Trafik per applikation</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="615"/>
+        <location filename="../interface/ExportWindow.cpp" line="689"/>
         <source>Traffic per country</source>
         <translation>Trafik per land</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="616"/>
+        <location filename="../interface/ExportWindow.cpp" line="690"/>
         <source>Traffic per network interface</source>
         <translation>Trafik per nätverks interface</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="617"/>
+        <location filename="../interface/ExportWindow.cpp" line="691"/>
         <source>Traffic per type</source>
         <translation>Trafik per typ</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="629"/>
+        <location filename="../interface/ExportWindow.cpp" line="703"/>
         <source>Export from:</source>
         <translation>Exportera från:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="639"/>
+        <location filename="../interface/ExportWindow.cpp" line="713"/>
         <source>to:</source>
         <translation>till:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="658"/>
+        <location filename="../interface/ExportWindow.cpp" line="732"/>
         <source>Group by:</source>
         <translation>Gruppera som:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="660"/>
+        <location filename="../interface/ExportWindow.cpp" line="734"/>
         <source>Day</source>
         <translation>Dag</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="661"/>
-        <location filename="../interface/ExportWindow.cpp" line="759"/>
-        <location filename="../interface/ExportWindow.cpp" line="823"/>
-        <location filename="../interface/ExportWindow.cpp" line="882"/>
-        <location filename="../interface/ExportWindow.cpp" line="945"/>
+        <location filename="../interface/ExportWindow.cpp" line="735"/>
+        <location filename="../interface/ExportWindow.cpp" line="833"/>
+        <location filename="../interface/ExportWindow.cpp" line="897"/>
+        <location filename="../interface/ExportWindow.cpp" line="956"/>
+        <location filename="../interface/ExportWindow.cpp" line="1019"/>
         <source>Week</source>
         <translation>Vecka</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="662"/>
-        <location filename="../interface/ExportWindow.cpp" line="767"/>
-        <location filename="../interface/ExportWindow.cpp" line="830"/>
-        <location filename="../interface/ExportWindow.cpp" line="890"/>
-        <location filename="../interface/ExportWindow.cpp" line="954"/>
+        <location filename="../interface/ExportWindow.cpp" line="736"/>
+        <location filename="../interface/ExportWindow.cpp" line="841"/>
+        <location filename="../interface/ExportWindow.cpp" line="904"/>
+        <location filename="../interface/ExportWindow.cpp" line="964"/>
+        <location filename="../interface/ExportWindow.cpp" line="1028"/>
         <source>Month</source>
         <translation>Månad</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="672"/>
+        <location filename="../interface/ExportWindow.cpp" line="746"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="680"/>
+        <location filename="../interface/ExportWindow.cpp" line="754"/>
         <source>Premium Only</source>
         <translation>Endast Premium</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="689"/>
+        <location filename="../interface/ExportWindow.cpp" line="763"/>
         <source>Working..</source>
         <translation>Arbetar..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="736"/>
+        <location filename="../interface/ExportWindow.cpp" line="810"/>
         <source>Network interface traffic between '%1' and '%2' </source>
         <translation>Nätverksinterfacetrafik mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="766"/>
-        <location filename="../interface/ExportWindow.cpp" line="829"/>
-        <location filename="../interface/ExportWindow.cpp" line="889"/>
-        <location filename="../interface/ExportWindow.cpp" line="953"/>
+        <location filename="../interface/ExportWindow.cpp" line="840"/>
+        <location filename="../interface/ExportWindow.cpp" line="903"/>
+        <location filename="../interface/ExportWindow.cpp" line="963"/>
+        <location filename="../interface/ExportWindow.cpp" line="1027"/>
         <source>grouped by Week </source>
         <translation>grupperade efter Vecka </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="774"/>
-        <location filename="../interface/ExportWindow.cpp" line="836"/>
-        <location filename="../interface/ExportWindow.cpp" line="897"/>
-        <location filename="../interface/ExportWindow.cpp" line="962"/>
+        <location filename="../interface/ExportWindow.cpp" line="848"/>
+        <location filename="../interface/ExportWindow.cpp" line="910"/>
+        <location filename="../interface/ExportWindow.cpp" line="971"/>
+        <location filename="../interface/ExportWindow.cpp" line="1036"/>
         <source>grouped by Month </source>
         <translation>grupperade efter Månad </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="782"/>
-        <location filename="../interface/ExportWindow.cpp" line="844"/>
-        <location filename="../interface/ExportWindow.cpp" line="905"/>
-        <location filename="../interface/ExportWindow.cpp" line="971"/>
+        <location filename="../interface/ExportWindow.cpp" line="856"/>
+        <location filename="../interface/ExportWindow.cpp" line="918"/>
+        <location filename="../interface/ExportWindow.cpp" line="979"/>
+        <location filename="../interface/ExportWindow.cpp" line="1045"/>
         <source>grouped by Day </source>
         <translation>grupperade efter Dag </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="801"/>
+        <location filename="../interface/ExportWindow.cpp" line="875"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="818"/>
+        <location filename="../interface/ExportWindow.cpp" line="892"/>
         <source>Network per applications between '%1' and '%2' </source>
         <translation>Nätverk per applikation mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="877"/>
+        <location filename="../interface/ExportWindow.cpp" line="951"/>
         <source>Country network traffic between '%1' and '%2' </source>
         <translation>Landsnätverkstrafik mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="940"/>
+        <location filename="../interface/ExportWindow.cpp" line="1014"/>
         <source>Network per type between '%1' and '%2' </source>
         <translation>Nätverk per typ mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1025"/>
+        <location filename="../interface/ExportWindow.cpp" line="1099"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Du har valt ett datumintervall som är större än 90 dagar. Exporten kan ta ett tag.</translation>
     </message>
@@ -4587,127 +4587,127 @@ Detta kommer att återställa alla anpassade layouter!</translation>
 <context>
     <name>UptimePage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1035"/>
+        <location filename="../interface/ExportWindow.cpp" line="1109"/>
         <source>Exporting Uptime</source>
         <translation>Exporterar drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1036"/>
+        <location filename="../interface/ExportWindow.cpp" line="1110"/>
         <source>Close</source>
         <translation>Stäng</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1042"/>
+        <location filename="../interface/ExportWindow.cpp" line="1116"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Vänligen gör ditt exportval nedan. Välj vilken data du vill ha, sedan tidsperioden och om du vill gruppera den per dag, vecka eller månad och tryck sedan på Spara för att exportera som CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1050"/>
+        <location filename="../interface/ExportWindow.cpp" line="1124"/>
         <source>Total uptime per application</source>
         <translation>Total drifttid per applikation</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1052"/>
+        <location filename="../interface/ExportWindow.cpp" line="1126"/>
         <source>Active time used per application</source>
         <translation>Aktiv tid använd per applikation</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1053"/>
+        <location filename="../interface/ExportWindow.cpp" line="1127"/>
         <source>List of your reboots</source>
         <translation>Lista över dina omstarter</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1071"/>
+        <location filename="../interface/ExportWindow.cpp" line="1145"/>
         <source>Export from:</source>
         <translation>Exportera från:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1082"/>
+        <location filename="../interface/ExportWindow.cpp" line="1156"/>
         <source>to:</source>
         <translation>till:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1102"/>
+        <location filename="../interface/ExportWindow.cpp" line="1176"/>
         <source>Group by:</source>
         <translation>Gruppera som:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1105"/>
-        <location filename="../interface/ExportWindow.cpp" line="1311"/>
-        <location filename="../interface/ExportWindow.cpp" line="1332"/>
-        <location filename="../interface/ExportWindow.cpp" line="1335"/>
+        <location filename="../interface/ExportWindow.cpp" line="1179"/>
+        <location filename="../interface/ExportWindow.cpp" line="1385"/>
+        <location filename="../interface/ExportWindow.cpp" line="1406"/>
+        <location filename="../interface/ExportWindow.cpp" line="1409"/>
         <source>Hour</source>
         <translation>Timme</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1106"/>
+        <location filename="../interface/ExportWindow.cpp" line="1180"/>
         <source>Day</source>
         <translation>Dag</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1107"/>
-        <location filename="../interface/ExportWindow.cpp" line="1315"/>
+        <location filename="../interface/ExportWindow.cpp" line="1181"/>
+        <location filename="../interface/ExportWindow.cpp" line="1389"/>
         <source>Week</source>
         <translation>Vecka</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1108"/>
-        <location filename="../interface/ExportWindow.cpp" line="1319"/>
+        <location filename="../interface/ExportWindow.cpp" line="1182"/>
+        <location filename="../interface/ExportWindow.cpp" line="1393"/>
         <source>Month</source>
         <translation>Månad</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1118"/>
+        <location filename="../interface/ExportWindow.cpp" line="1192"/>
         <source>Save</source>
         <translation>Spara</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1126"/>
+        <location filename="../interface/ExportWindow.cpp" line="1200"/>
         <source>Premium Only</source>
         <translation>Endast Premium</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1135"/>
+        <location filename="../interface/ExportWindow.cpp" line="1209"/>
         <source>Working..</source>
         <translation>Arbetar..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1159"/>
+        <location filename="../interface/ExportWindow.cpp" line="1233"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Du har valt ett datumintervall som är större än 90 dagar. Exporten kan ta ett tag.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1233"/>
+        <location filename="../interface/ExportWindow.cpp" line="1307"/>
         <source>Reboot list between '%1' and '%2' </source>
         <translation>Omstart-listan mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1263"/>
+        <location filename="../interface/ExportWindow.cpp" line="1337"/>
         <source>Application uptime </source>
         <translation>Applikationsdrifttid </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1304"/>
+        <location filename="../interface/ExportWindow.cpp" line="1378"/>
         <source>Active application time between '%1' and '%2' </source>
         <translation>Aktiv applikationstid mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1312"/>
+        <location filename="../interface/ExportWindow.cpp" line="1386"/>
         <source>grouped by Hour </source>
         <translation>grupperade efter Timme </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1316"/>
+        <location filename="../interface/ExportWindow.cpp" line="1390"/>
         <source>grouped by Week </source>
         <translation>grupperade efter Vecka </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1320"/>
+        <location filename="../interface/ExportWindow.cpp" line="1394"/>
         <source>grouped by Month </source>
         <translation>grupperade efter Månad </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1324"/>
+        <location filename="../interface/ExportWindow.cpp" line="1398"/>
         <source>grouped by Day </source>
         <translation>grupperade efter Dag </translation>
     </message>
@@ -4770,19 +4770,19 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="150"/>
-        <location filename="../interface/UptimeTab.cpp" line="500"/>
+        <location filename="../interface/UptimeTab.cpp" line="505"/>
         <source>Export</source>
         <translation>Exportera</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="160"/>
-        <location filename="../interface/UptimeTab.cpp" line="510"/>
+        <location filename="../interface/UptimeTab.cpp" line="515"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportera som .csv</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="164"/>
-        <location filename="../interface/UptimeTab.cpp" line="513"/>
+        <location filename="../interface/UptimeTab.cpp" line="518"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Export Wizard</translation>
     </message>
@@ -4797,44 +4797,44 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <translation>&lt;h3&gt;Favoritdagar för omstart&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="252"/>
-        <location filename="../interface/UptimeTab.cpp" line="315"/>
+        <location filename="../interface/UptimeTab.cpp" line="251"/>
+        <location filename="../interface/UptimeTab.cpp" line="320"/>
         <source>Sun</source>
         <translation>Sön</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="252"/>
-        <location filename="../interface/UptimeTab.cpp" line="316"/>
+        <location filename="../interface/UptimeTab.cpp" line="251"/>
+        <location filename="../interface/UptimeTab.cpp" line="321"/>
         <source>Mon</source>
         <translation>Mån</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="252"/>
-        <location filename="../interface/UptimeTab.cpp" line="317"/>
+        <location filename="../interface/UptimeTab.cpp" line="251"/>
+        <location filename="../interface/UptimeTab.cpp" line="322"/>
         <source>Tue</source>
         <translation>Tis</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="252"/>
-        <location filename="../interface/UptimeTab.cpp" line="318"/>
+        <location filename="../interface/UptimeTab.cpp" line="323"/>
         <source>Wed</source>
         <translation>Ons</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="253"/>
-        <location filename="../interface/UptimeTab.cpp" line="319"/>
+        <location filename="../interface/UptimeTab.cpp" line="252"/>
+        <location filename="../interface/UptimeTab.cpp" line="324"/>
         <source>Thu</source>
         <translation>Tors</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="253"/>
-        <location filename="../interface/UptimeTab.cpp" line="320"/>
+        <location filename="../interface/UptimeTab.cpp" line="252"/>
+        <location filename="../interface/UptimeTab.cpp" line="325"/>
         <source>Fri</source>
         <translation>Fre</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="253"/>
-        <location filename="../interface/UptimeTab.cpp" line="321"/>
+        <location filename="../interface/UptimeTab.cpp" line="326"/>
         <source>Sat</source>
         <translation>Lör</translation>
     </message>
@@ -4844,248 +4844,248 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <translation>Inga omstarter ännu.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="315"/>
+        <location filename="../interface/UptimeTab.cpp" line="320"/>
         <source>Sunday</source>
         <translation>Söndag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="316"/>
+        <location filename="../interface/UptimeTab.cpp" line="321"/>
         <source>Monday</source>
         <translation>Måndag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="317"/>
+        <location filename="../interface/UptimeTab.cpp" line="322"/>
         <source>Tuesday</source>
         <translation>Tisdag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="318"/>
+        <location filename="../interface/UptimeTab.cpp" line="323"/>
         <source>Wednesday</source>
         <translation>Onsdag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="319"/>
+        <location filename="../interface/UptimeTab.cpp" line="324"/>
         <source>Thursday</source>
         <translation>Torsdag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="320"/>
+        <location filename="../interface/UptimeTab.cpp" line="325"/>
         <source>Friday</source>
         <translation>Fredag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="321"/>
+        <location filename="../interface/UptimeTab.cpp" line="326"/>
         <source>Saturday</source>
         <translation>Lördag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="327"/>
+        <location filename="../interface/UptimeTab.cpp" line="332"/>
         <source>reboots on</source>
         <translation>startar om på</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="361"/>
+        <location filename="../interface/UptimeTab.cpp" line="366"/>
         <source>hours of uptime</source>
         <translation>timmars drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="390"/>
+        <location filename="../interface/UptimeTab.cpp" line="395"/>
         <source>hours</source>
         <translation>timmar</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="434"/>
+        <location filename="../interface/UptimeTab.cpp" line="439"/>
         <source>Today</source>
         <translation>Idag</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="475"/>
+        <location filename="../interface/UptimeTab.cpp" line="480"/>
         <source>Show only recently used applications</source>
         <translation>Visa endast nyligen använda applikationer</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="482"/>
+        <location filename="../interface/UptimeTab.cpp" line="487"/>
         <source>Show only running applications</source>
         <translation>Visa endast applikationer som körs</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="530"/>
+        <location filename="../interface/UptimeTab.cpp" line="535"/>
         <source>Details</source>
         <translation>Detaljer</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="535"/>
-        <location filename="../interface/UptimeTab.cpp" line="536"/>
-        <location filename="../interface/UptimeTab.cpp" line="537"/>
-        <location filename="../interface/UptimeTab.cpp" line="538"/>
-        <location filename="../interface/UptimeTab.cpp" line="539"/>
         <location filename="../interface/UptimeTab.cpp" line="540"/>
+        <location filename="../interface/UptimeTab.cpp" line="541"/>
+        <location filename="../interface/UptimeTab.cpp" line="542"/>
+        <location filename="../interface/UptimeTab.cpp" line="543"/>
+        <location filename="../interface/UptimeTab.cpp" line="544"/>
+        <location filename="../interface/UptimeTab.cpp" line="545"/>
         <source>unknown</source>
         <translation>okänd</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="546"/>
+        <location filename="../interface/UptimeTab.cpp" line="551"/>
         <source>Unpulsed uptime:</source>
         <translation>Upulserad drifttid:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="549"/>
+        <location filename="../interface/UptimeTab.cpp" line="554"/>
         <source>Current uptime:</source>
         <translation>Nuvarande drifttid:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="552"/>
+        <location filename="../interface/UptimeTab.cpp" line="557"/>
         <source>Total uptime:</source>
         <translation>Total drifttid:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="555"/>
+        <location filename="../interface/UptimeTab.cpp" line="560"/>
         <source>Longest uptime:</source>
         <translation>Längsta drifttid:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="558"/>
+        <location filename="../interface/UptimeTab.cpp" line="563"/>
         <source>Average uptime:</source>
         <translation>Genomsnittlig drifttid:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="561"/>
+        <location filename="../interface/UptimeTab.cpp" line="566"/>
         <source>Total reboots:</source>
         <translation>Totala omstarter:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="571"/>
+        <location filename="../interface/UptimeTab.cpp" line="576"/>
         <source>Reboot history for </source>
         <translation>Omstartshistorik för </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="616"/>
+        <location filename="../interface/UptimeTab.cpp" line="621"/>
         <source>No reboots found</source>
         <translation>Inga omstarter hittades</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="629"/>
+        <location filename="../interface/UptimeTab.cpp" line="634"/>
         <source>Reboot history</source>
         <translation>Omstartshistorik</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="688"/>
+        <location filename="../interface/UptimeTab.cpp" line="692"/>
         <source>Application</source>
         <translation>Applikation</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="688"/>
+        <location filename="../interface/UptimeTab.cpp" line="693"/>
         <source>Total time</source>
         <translation>Total tid</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="689"/>
+        <location filename="../interface/UptimeTab.cpp" line="694"/>
         <source>Total active time</source>
         <translation>Total aktiv tid</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="716"/>
+        <location filename="../interface/UptimeTab.cpp" line="721"/>
         <source>Ignore</source>
         <translation>Ignorera</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="722"/>
+        <location filename="../interface/UptimeTab.cpp" line="727"/>
         <source>Open File Location</source>
         <translation>Öppna Filplats</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="728"/>
+        <location filename="../interface/UptimeTab.cpp" line="733"/>
         <source>Open Online Profile</source>
         <translation>Öppna Online Profil</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="743"/>
+        <location filename="../interface/UptimeTab.cpp" line="748"/>
         <source>Ignore application?</source>
         <translation>Ignorera applikation?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="744"/>
+        <location filename="../interface/UptimeTab.cpp" line="749"/>
         <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
         <translation>Är du säker på att du vill ignorera programmet '%1'? Detta tar också bort dess programhistorik.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="795"/>
+        <location filename="../interface/UptimeTab.cpp" line="800"/>
         <source>Not yet</source>
         <translation>Inte ännu</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="796"/>
+        <location filename="../interface/UptimeTab.cpp" line="801"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Den här applikationen har inte laddats upp till webbplatsen ännu, vänligen kom tillbaka om en timme eller så.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1217"/>
-        <location filename="../interface/UptimeTab.cpp" line="1223"/>
+        <location filename="../interface/UptimeTab.cpp" line="1222"/>
+        <location filename="../interface/UptimeTab.cpp" line="1228"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>drifttid och omstartsdata (alla utom per applikation) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1218"/>
-        <location filename="../interface/UptimeTab.cpp" line="1224"/>
+        <location filename="../interface/UptimeTab.cpp" line="1223"/>
+        <location filename="../interface/UptimeTab.cpp" line="1229"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Återställ Drifttid/Omstartshistorik</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1228"/>
         <location filename="../interface/UptimeTab.cpp" line="1233"/>
+        <location filename="../interface/UptimeTab.cpp" line="1238"/>
         <source>application uptime data</source>
         <translation>applikation drifttids data</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1229"/>
         <location filename="../interface/UptimeTab.cpp" line="1234"/>
+        <location filename="../interface/UptimeTab.cpp" line="1239"/>
         <source>Reset Application History</source>
         <translation>Återställ Applikationshistorik</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1238"/>
+        <location filename="../interface/UptimeTab.cpp" line="1243"/>
         <source>Cancel</source>
         <translation>Avbryt</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1240"/>
+        <location filename="../interface/UptimeTab.cpp" line="1245"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Vill du återställa all drifttid eller bara %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1243"/>
+        <location filename="../interface/UptimeTab.cpp" line="1248"/>
         <source>Reset All Data</source>
         <translation>Återställ All Data</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1258"/>
-        <location filename="../interface/UptimeTab.cpp" line="1276"/>
-        <location filename="../interface/UptimeTab.cpp" line="1294"/>
-        <location filename="../interface/UptimeTab.cpp" line="1309"/>
-        <location filename="../interface/UptimeTab.cpp" line="1317"/>
-        <location filename="../interface/UptimeTab.cpp" line="1334"/>
+        <location filename="../interface/UptimeTab.cpp" line="1263"/>
+        <location filename="../interface/UptimeTab.cpp" line="1281"/>
+        <location filename="../interface/UptimeTab.cpp" line="1299"/>
+        <location filename="../interface/UptimeTab.cpp" line="1314"/>
+        <location filename="../interface/UptimeTab.cpp" line="1322"/>
+        <location filename="../interface/UptimeTab.cpp" line="1339"/>
         <source>Delete stats?</source>
         <translation>Radera statistik?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1259"/>
-        <location filename="../interface/UptimeTab.cpp" line="1277"/>
+        <location filename="../interface/UptimeTab.cpp" line="1264"/>
+        <location filename="../interface/UptimeTab.cpp" line="1282"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all (förutom per applikation) registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1295"/>
-        <location filename="../interface/UptimeTab.cpp" line="1318"/>
+        <location filename="../interface/UptimeTab.cpp" line="1300"/>
+        <location filename="../interface/UptimeTab.cpp" line="1323"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all registrerad upptidsstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1310"/>
+        <location filename="../interface/UptimeTab.cpp" line="1315"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all registrerad tangenttryck- och musklickstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1335"/>
+        <location filename="../interface/UptimeTab.cpp" line="1340"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
     </message>
