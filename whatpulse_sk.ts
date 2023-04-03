@@ -156,7 +156,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="421"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Heslo nemôžete zmeniť v klientovi. Prosím odhláste sa a prihláste naspäť s rovnakou emailovou adresou a menom počítača na zmenenie hesla v tomto klientovi. Vaše štatistiky budú zachované keď použijete rovnaké údaje.</translation>
     </message>
     <message>
@@ -235,22 +235,22 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
         <source>Welcome to WhatPulse Professional</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitajte v službe WhatPulse Professional</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="123"/>
         <source>Waiting for approval from your administrator to join organization..</source>
-        <translation type="unfinished"></translation>
+        <translation>Čakáte na schválenie od správcu, aby ste sa mohli pripojiť k organizácii.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="130"/>
         <source>Organization does not exist! Please check the spelling and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Organizácia neexistuje! Skontrolujte prosím pravopis a skúste to znova.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="136"/>
         <source>Server error, please try again!</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba servera, skúste to prosím znova!</translation>
     </message>
 </context>
 <context>
@@ -262,7 +262,7 @@ Môžete pokračovať v pulzovaní.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="197"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Nepodarilo sa zistiť žiadny systémový tray na tomto systéme, ten potrebujeme na fungovanie.</translation>
     </message>
     <message>
@@ -357,8 +357,8 @@ Môžete pokračovať v pulzovaní.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1283"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>Možnosť 'Fungovať v Offline režime' je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1485"/>
@@ -465,8 +465,8 @@ Nechávam prenosný režim zapnutý.</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="134"/>
-        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>Keď vyberiete &apos;Poslať databázu&apos; - kópia vašej lokálnej databázy bude odoslaná WhatPulse vývojárom aby mohli jednoduchšie zreprodukovať závadu.&lt;br /&gt;&lt;br /&gt;Vaša databáza je: </translation>
+        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>Keď vyberiete 'Poslať databázu' - kópia vašej lokálnej databázy bude odoslaná WhatPulse vývojárom aby mohli jednoduchšie zreprodukovať závadu.&lt;br /&gt;&lt;br /&gt;Vaša databáza je: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="143"/>
@@ -507,108 +507,108 @@ Nechávam prenosný režim zapnutý.</translation>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="235"/>
+        <location filename="../online/clientcommunication.cpp" line="267"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>Stránka nereaguje správne na vašu žiadosť, skúste to prosím neskôr.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="274"/>
+        <location filename="../online/clientcommunication.cpp" line="306"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Váš účet čaká na aktiváciiu, prosím skontrolujte Váš email a skúste to znova po aktivovaní.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="278"/>
-        <location filename="../online/clientcommunication.cpp" line="328"/>
+        <location filename="../online/clientcommunication.cpp" line="310"/>
+        <location filename="../online/clientcommunication.cpp" line="360"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Ůčet alebo počítač neznámy! Zaregistrovali ste sa?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="281"/>
-        <location filename="../online/clientcommunication.cpp" line="331"/>
+        <location filename="../online/clientcommunication.cpp" line="313"/>
+        <location filename="../online/clientcommunication.cpp" line="363"/>
         <source>Wrong password! Try again.</source>
         <translation>Zlé heslo! Skúste to znova.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="285"/>
-        <location filename="../online/clientcommunication.cpp" line="358"/>
+        <location filename="../online/clientcommunication.cpp" line="317"/>
+        <location filename="../online/clientcommunication.cpp" line="390"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Server je mimo prevádzky z dôvodu údržby, skúste to prosím neskôr.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="288"/>
-        <location filename="../online/clientcommunication.cpp" line="361"/>
+        <location filename="../online/clientcommunication.cpp" line="320"/>
+        <location filename="../online/clientcommunication.cpp" line="393"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Interná chyba serveru. Skúste to prosím neskôr.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="292"/>
-        <location filename="../online/clientcommunication.cpp" line="365"/>
+        <location filename="../online/clientcommunication.cpp" line="324"/>
+        <location filename="../online/clientcommunication.cpp" line="397"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Chyba servera: Chýbajúci vstup! Kontaktujte prosím vývojárov.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <location filename="../online/clientcommunication.cpp" line="366"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Aktivita obmedzená, toto znamená že vaše klávesy alebo kliknutia za sekundu sú moc vysoké. Počkajte hodinu na ich zníženie a skúste to znova.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="340"/>
+        <location filename="../online/clientcommunication.cpp" line="372"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Nesprávny token, použili ste tento profil na inom počítači?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="343"/>
+        <location filename="../online/clientcommunication.cpp" line="375"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Žiadané používateľské meno je už zaregistrované! Prosím vyberte iné používateľské meno a skúste to znova.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="348"/>
+        <location filename="../online/clientcommunication.cpp" line="380"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulz obmedzený. Môžete pulzovať iba každých 60 sekúnd.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="351"/>
+        <location filename="../online/clientcommunication.cpp" line="383"/>
         <source>Premium only feature.</source>
         <translation>Funkcia iba pre premium členov.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="354"/>
+        <location filename="../online/clientcommunication.cpp" line="386"/>
         <source>Organization not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Organizácia nebola nájdená.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="368"/>
-        <location filename="../online/clientcommunication.cpp" line="922"/>
+        <location filename="../online/clientcommunication.cpp" line="400"/>
+        <location filename="../online/clientcommunication.cpp" line="954"/>
         <source>Success.</source>
         <translation>Úspech.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="371"/>
+        <location filename="../online/clientcommunication.cpp" line="403"/>
         <source>Success, your file is now on the website!</source>
         <translation>Úspech, váš súbor je teraz na stránke!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="898"/>
+        <location filename="../online/clientcommunication.cpp" line="930"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Nepodarilo sa otvoriť GeoIP databázu (%1), prístup zamietnutý.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="910"/>
+        <location filename="../online/clientcommunication.cpp" line="942"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>Nová databáza GeoIP sa zdá byť príliš malá (%1), aktualizovanie sa zastavuje.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="974"/>
+        <location filename="../online/clientcommunication.cpp" line="1006"/>
         <source>Empty reply received</source>
         <translation>Prijatá prázdna odpoveď</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="996"/>
+        <location filename="../online/clientcommunication.cpp" line="1028"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Nepodarilo sa otvoriť databázu Popisov Sieťových Portov (%1), prístup zamietnutý.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1010"/>
+        <location filename="../online/clientcommunication.cpp" line="1042"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Stiahnutý súbor nevyzerá dobre: %1</translation>
     </message>
@@ -616,13 +616,13 @@ Nechávam prenosný režim zapnutý.</translation>
 <context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="54"/>
-        <location filename="../util/database.cpp" line="66"/>
+        <location filename="../util/database.cpp" line="61"/>
+        <location filename="../util/database.cpp" line="73"/>
         <source>Database failure</source>
         <translation>Zlyhanie databázy</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="55"/>
+        <location filename="../util/database.cpp" line="62"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
@@ -631,34 +631,34 @@ Please check your permissions on: %2</source>
 Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="67"/>
+        <location filename="../util/database.cpp" line="74"/>
         <source>Unable to setup database: %1</source>
         <translation>Nepodarilo sa nastaviť databázu: %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="152"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>Databáza &apos;%1&apos; je iba na čítanie. WhatPulse nemôže ukladať žiadne štatistiky dokedy neopravíte tento problém.</translation>
+        <location filename="../util/database.cpp" line="159"/>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>Databáza '%1' je iba na čítanie. WhatPulse nemôže ukladať žiadne štatistiky dokedy neopravíte tento problém.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="196"/>
-        <location filename="../util/database.cpp" line="228"/>
+        <location filename="../util/database.cpp" line="203"/>
+        <location filename="../util/database.cpp" line="235"/>
         <source>Critical database error!</source>
         <translation>Kritická chyba databázy!</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="197"/>
-        <location filename="../util/database.cpp" line="229"/>
+        <location filename="../util/database.cpp" line="204"/>
+        <location filename="../util/database.cpp" line="236"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Niečo velice zlé sa stalo databáze a zálohe databázy. Jediná možnosť ako toto obnoviť je vytvoriť novú databázu. Toto neovplyvní vaše nepulzované štatistiky ale vymaže ostatné. Pokračovať?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="347"/>
+        <location filename="../util/database.cpp" line="354"/>
         <source>Version</source>
         <translation>Verzia</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="348"/>
+        <location filename="../util/database.cpp" line="355"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>Nie je podporované downgradeovať WhatPulse klienta, prosím nainštalujte najnovšiu verziu a skúste to znova.</translation>
     </message>
@@ -685,7 +685,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>Vitajte! Podľa našich záznamov prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej online zálohy databázy. Prosím dajte si chvíľku a spravte to teraz. Toto okno sa automaticky zatvorí keď bude všetko hotové.</translation>
     </message>
     <message>
@@ -717,7 +717,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="131"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Prepáčte, funkcia online záloh je iba pre premium členov. Viacej informácií nájdete na: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -727,7 +727,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="142"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Prepáčte, stránka dala chybu počas prípravy pre vašu zálohu. Prosím skúste to neskôr. Chyba: %1</translation>
     </message>
     <message>
@@ -763,17 +763,17 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>Najviac ste napísali v &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% kláves!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>Najviac ste klikali v aplikácií &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kliknutí)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>Najviac ste písali v aplikácií &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kláves)</translation>
     </message>
     <message>
@@ -888,7 +888,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>Počítač ste reštartovali &lt;b&gt;%VAR1:int%&lt;/b&gt; krát.</translation>
     </message>
     <message>
@@ -926,163 +926,163 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>InputApplicationsPage</name>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="25"/>
         <source>Application</source>
         <translation>Aplikácia</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="25"/>
         <source>Keys</source>
         <translation>Klávesy</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="30"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="25"/>
         <source>Clicks</source>
         <translation>Kliknutia</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="26"/>
         <source>Scrolls</source>
         <translation>Zvitky</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="31"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="26"/>
         <source>Distance</source>
         <translation>Vzdialenosť</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="62"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="56"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="72"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="66"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="76"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="70"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="93"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="176"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="87"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="170"/>
         <source>Summary</source>
         <translation>Súhrn</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="96"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="97"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="98"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="99"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="110"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="111"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="112"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="113"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="124"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="125"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="126"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="127"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="479"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="480"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="481"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="482"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="90"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="91"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="92"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="93"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="104"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="105"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="106"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="107"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="118"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="119"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="120"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="121"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="473"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="474"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="475"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="476"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="103"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="97"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="104"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="118"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="132"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="98"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="112"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="126"/>
         <source>Keys:</source>
         <translation>Kľúče:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="105"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="119"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="133"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="99"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="113"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="127"/>
         <source>Clicks:</source>
         <translation>Kliknutia:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="106"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="120"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="134"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="100"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="114"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="128"/>
         <source>Scrolls:</source>
         <translation>Zvitky:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="107"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="121"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="135"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="101"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="115"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="129"/>
         <source>Distance:</source>
         <translation>Vzdialenosť:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="117"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="111"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="131"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="125"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="155"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="149"/>
         <source>&lt;b&gt;You have disabled per application input statistics in the Settings.&lt;/b&gt;</source>
         <translation>&lt;b&gt;Máte vypnuté štatistiky vstupu podľa aplikácie v nastaveniach.&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="183"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="177"/>
         <source>Summary of </source>
         <translation>Súhrn </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="205"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="225"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="244"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="199"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="219"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="238"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="345"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="338"/>
         <source>Ignore</source>
         <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="351"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="344"/>
         <source>Open File Location</source>
         <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="357"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="350"/>
         <source>Open Online Profile</source>
         <translation>Otvoriť online profil</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="372"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="365"/>
         <source>Ignore application?</source>
         <translation>Ignorovať aplikáciu?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="366"/>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Ste si istí že chcete ignorovať aplikáciu '%1' ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="424"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="417"/>
         <source>Not yet</source>
         <translation>Ešte nie</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="425"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="418"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
@@ -1213,22 +1213,22 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>InputKeyCombinationsPage</name>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="98"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="95"/>
         <source>Combination</source>
         <translation>Skratka</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="99"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="95"/>
         <source>Used</source>
         <translation>Použité</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="111"/>
         <source>Hide Shift only</source>
         <translation>Skryť iba Shift</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="120"/>
         <source>Hide Ctrl only</source>
         <translation>Skryť iba Ctrl</translation>
     </message>
@@ -1236,112 +1236,112 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>InputKeyboardPage</name>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="69"/>
         <source>Key</source>
         <translation>Klávesa</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="73"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="69"/>
         <source>Amount</source>
         <translation>Počet</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="99"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="94"/>
         <source>Layout:</source>
         <translation>Rozloženie:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="131"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="126"/>
         <source>Enable Heatmap</source>
         <translation>Zapnúť heatmapu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="144"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="139"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="154"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="149"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="158"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="153"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exportovať do .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="162"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="157"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="170"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="165"/>
         <source>Share</source>
         <translation>Zdieľať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="184"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="179"/>
         <source>Application:</source>
         <translation>Aplikácia:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="186"/>
         <source>Per-App Stats Disabled</source>
         <translation>Vypnuté štatistiky podľa aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="197"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="524"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="525"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="186"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="189"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="192"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="519"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="520"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="556"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="557"/>
         <source>All</source>
         <translation>Všetko</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="524"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="525"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="559"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="560"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="189"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="519"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="520"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="556"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="557"/>
         <source>Premium Only</source>
         <translation>Iba pre Premium</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="309"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="304"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="312"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="307"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="315"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="310"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;Nepulzované&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="318"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="313"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="322"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="317"/>
         <source>Show Heat Map</source>
         <translation>Zobraziť mapu tepla</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="324"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="319"/>
         <source>Show Details</source>
         <translation>Zobraziť podrobnosti</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="583"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="582"/>
         <source>Unknown</source>
         <translation>Neznámy</translation>
     </message>
@@ -1374,96 +1374,96 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="189"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="192"/>
         <source>Enable Heatmap</source>
         <translation>Zapnúť heatmapu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="198"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="201"/>
         <source>Prune older than 3 months</source>
         <translation>Zahodiť staršie ako 3 mesiace</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="213"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="216"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="223"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="226"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="226"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="229"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exportovať do .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="230"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="233"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="239"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="242"/>
         <source>Share</source>
         <translation>Zdieľať</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="281"/>
         <source>Button</source>
         <translation>Tlačítko</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="281"/>
         <source>Clicks</source>
         <translation>Kliknutia</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="618"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="704"/>
         <source>Left</source>
         <translation>Vľavo</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="619"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="622"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="704"/>
         <source>Right</source>
         <translation>Vpravo</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="620"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="623"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="704"/>
         <source>Middle</source>
         <translation>Stredné</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="701"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="624"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="704"/>
         <source>Other</source>
         <translation>Iné</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="649"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="652"/>
         <source>Scrolls</source>
         <translation>Zvitky</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="664"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="667"/>
         <source>Distance</source>
         <translation>Vzdialenosť</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="769"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="772"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="797"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="800"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Vymazať heatmapu myši</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="798"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="801"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Vaša databáza bude dosť veľká a bude možno spomaľovať WhatPulse ak nebudete zahadzovať heatmapu myši. Zastaviť zahadzovanie?</translation>
     </message>
@@ -1557,8 +1557,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="285"/>
-        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>História klávesov, kliknutí, posunov a vzdialenosti medzi &apos;%1&apos; a &apos;%2&apos;</translation>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>História klávesov, kliknutí, posunov a vzdialenosti medzi '%1' a '%2'</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="315"/>
@@ -1593,18 +1593,18 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="445"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heatmapa kláves medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Heatmap of keys between '%1' and '%2' </source>
+        <translation>Heatmapa kláves medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="507"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heatmapa kliknutí medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
+        <translation>Heatmapa kliknutí medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="571"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Vstup aplikácií medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Application input between '%1' and '%2' </source>
+        <translation>Vstup aplikácií medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="664"/>
@@ -1746,8 +1746,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="366"/>
-        <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>Nenašli sa žiadne vstupné zariadenia, sú vaše &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;povolenia&lt;/a&gt; správne nastavené?</translation>
+        <source>No input devices found, are your &lt;a href="http://whatpulse.org/kb/content/7/15/en/linux-installation.html"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>Nenašli sa žiadne vstupné zariadenia, sú vaše &lt;a href="http://whatpulse.org/kb/content/7/15/en/linux-installation.html"&gt;povolenia&lt;/a&gt; správne nastavené?</translation>
     </message>
 </context>
 <context>
@@ -1824,17 +1824,17 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="124"/>
+        <location filename="../stats/localstats.cpp" line="128"/>
         <source>Pulse throttled!</source>
         <translation>Pulz obmedzený!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="125"/>
+        <location filename="../stats/localstats.cpp" line="129"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Pulz obmedzený! Váš posledný pulz bol pred %1 sekundami, skúste to prosím neskôr za 10 sekúnd.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="345"/>
+        <location filename="../stats/localstats.cpp" line="349"/>
         <source>Error while pulsing!</source>
         <translation>Chyba pri pulzovaní!</translation>
     </message>
@@ -1842,49 +1842,49 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="172"/>
+        <location filename="../interface/MainWindow.cpp" line="176"/>
         <source>Overview</source>
         <translation>Prehľad</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="174"/>
+        <location filename="../interface/MainWindow.cpp" line="178"/>
         <source>Input</source>
         <translation>Vstup</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="175"/>
+        <location filename="../interface/MainWindow.cpp" line="179"/>
         <source>Network</source>
         <translation>Sieť</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="176"/>
+        <location filename="../interface/MainWindow.cpp" line="180"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="177"/>
+        <location filename="../interface/MainWindow.cpp" line="181"/>
         <source>Settings</source>
         <translation>Nastavenia</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="181"/>
-        <location filename="../interface/MainWindow.cpp" line="265"/>
-        <location filename="../interface/MainWindow.cpp" line="317"/>
+        <location filename="../interface/MainWindow.cpp" line="185"/>
+        <location filename="../interface/MainWindow.cpp" line="278"/>
+        <location filename="../interface/MainWindow.cpp" line="330"/>
         <source>Account</source>
         <translation>Účet</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="182"/>
+        <location filename="../interface/MainWindow.cpp" line="186"/>
         <source>Give feedback</source>
         <translation>Poskytnite spätnú väzbu</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="184"/>
+        <location filename="../interface/MainWindow.cpp" line="188"/>
         <source>Need help?</source>
         <translation>Potrebujete pomoc?</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="328"/>
+        <location filename="../interface/MainWindow.cpp" line="341"/>
         <source>Disabled</source>
         <translation>Vypnuté</translation>
     </message>
@@ -1938,22 +1938,22 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>NetworkInterfaces_WiredvsWirelessButtons</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="599"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="600"/>
         <source>Show Wired</source>
         <translation>Zobraziť káblové</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="601"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="602"/>
         <source>Hide Wired</source>
         <translation>Skryť káblové</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="610"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="611"/>
         <source>Show Wifi</source>
         <translation>Zobraziť Wifi</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="612"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="613"/>
         <source>Hide Wifi</source>
         <translation>Skryť Wifi</translation>
     </message>
@@ -2050,8 +2050,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="810"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Prenosy sieťových rozhraní medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Network interface traffic between '%1' and '%2' </source>
+        <translation>Prenosy sieťových rozhraní medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="840"/>
@@ -2084,18 +2084,18 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="892"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Sieť podľa aplikácií medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Network per applications between '%1' and '%2' </source>
+        <translation>Sieť podľa aplikácií medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="951"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Prenosy siete podľa krajín medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Country network traffic between '%1' and '%2' </source>
+        <translation>Prenosy siete podľa krajín medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1014"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Sieť podľa typu medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Network per type between '%1' and '%2' </source>
+        <translation>Sieť podľa typu medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1099"/>
@@ -2137,8 +2137,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="135"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>Vaša GeoIP databáza je prázdna, štatistiky podľa krajiny nebudú fungovať. Kliknite &lt;a href=&quot;#&quot;&gt;sem&lt;/a&gt; na prenačítanie databázy.</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>Vaša GeoIP databáza je prázdna, štatistiky podľa krajiny nebudú fungovať. Kliknite &lt;a href="#"&gt;sem&lt;/a&gt; na prenačítanie databázy.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="169"/>
@@ -2272,13 +2272,13 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="368"/>
-        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
+        <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>GeoIP Databáza sa neaktualizovala úspešne, tu je chyba: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="377"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>Npcap ktorý je potrebný pre sieťové štatistiky nebol nájdený.&lt;br&gt;Stiahnite ho na &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>Npcap ktorý je potrebný pre sieťové štatistiky nebol nájdený.&lt;br&gt;Stiahnite ho na &lt;a href="https://nmap.org/npcap/"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="381"/>
@@ -2304,135 +2304,135 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>Aktuálne nahrávanie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="44"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="46"/>
         <source>Show only active applications</source>
         <translation>Zobraziť iba aktívne aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="53"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="55"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="63"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="65"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="73"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="75"/>
         <source>Go Premium</source>
         <translation>Kúpiť Premium</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="108"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="110"/>
         <source>Testing..</source>
         <translation>Testovanie..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="112"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="114"/>
         <source>Internet:</source>
         <translation>Internet:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="118"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="120"/>
         <source>Show in bytes</source>
         <translation>Zobraziť v bajtoch</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="119"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="121"/>
         <source>Show in bits</source>
         <translation>Zobraziť v bitoch</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="202"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="140"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="204"/>
         <source>Summary</source>
         <translation>Súhrn</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="141"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="142"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="151"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="152"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="161"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="162"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="559"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="560"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="144"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="154"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="164"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="563"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="564"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="146"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="148"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="147"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="157"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="167"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="149"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="159"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="169"/>
         <source>Downloaded:</source>
         <translation>Stiahnuté:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="148"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="158"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="168"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="150"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="160"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="170"/>
         <source>Uploaded:</source>
         <translation>Nahraté:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="156"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="158"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="166"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="168"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="266"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="351"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="268"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="355"/>
         <source>Summary of </source>
         <translation>Súhrn </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="191"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="193"/>
         <source>(Per-application bandwidth is disabled)</source>
         <translation>(šírka pásma podľa aplikácie je vypnutá)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="410"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="414"/>
         <source>Ignore</source>
         <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="416"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="420"/>
         <source>Open File Location</source>
         <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="422"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="426"/>
         <source>Open Online Profile</source>
         <translation>Otvoriť online profil</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="437"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="441"/>
         <source>Ignore application?</source>
         <translation>Ignorovať aplikáciu?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="438"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="442"/>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Ste si istí že chcete ignorovať aplikáciu '%1' ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="490"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="494"/>
         <source>Not yet</source>
         <translation>Ešte nie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="491"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="495"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
@@ -2460,42 +2460,42 @@ Skontrolujte si povolenia na : %2</translation>
         <translation>Kúpiť Premium</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="89"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="86"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="99"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="96"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="102"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="99"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exportovať do .png</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="106"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="103"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="230"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="229"/>
         <source>Network heat map selected</source>
         <translation>Heatmapa siete vybraná</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="234"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="233"/>
         <source>Switch to table view</source>
         <translation>Prepnúť na tabuľkové zobrazenie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="242"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="241"/>
         <source>Switch to network heat map</source>
         <translation>Prepnúť na heatmapu siete</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="247"/>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="246"/>
         <source>Table view selected</source>
         <translation>Tabuľkové zobrazenie vybrané</translation>
     </message>
@@ -2590,155 +2590,155 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>NetworkTabInterfaces</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="29"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="516"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="524"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="26"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
         <source>Interface</source>
         <translation>Rozhranie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="29"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="516"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="26"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
         <source>Current download</source>
         <translation>Aktuálne sťahovanie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="30"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
         <source>Current upload</source>
         <translation>Aktuálne nahrávanie</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="30"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
         <source>IP-address</source>
         <translation>IP-adresa</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="40"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="37"/>
         <source>Total</source>
         <translation>Celkovo</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="63"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="62"/>
         <source>Show only active interfaces</source>
         <translation>Zobraziť iba aktívne rozhrania</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="72"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="71"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="82"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="81"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="107"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="106"/>
         <source>Testing..</source>
         <translation>Testovanie..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="112"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="111"/>
         <source>Internet:</source>
         <translation>Internet:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="124"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="123"/>
         <source>Show in bytes</source>
         <translation>Zobraziť v bajtoch</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="125"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="124"/>
         <source>Show in bits</source>
         <translation>Zobraziť v bitoch</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="143"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="206"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="142"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="205"/>
         <source>Summary</source>
         <translation>Súhrn</translation>
     </message>
     <message>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="145"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="146"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="155"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="156"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="165"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="166"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="374"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="375"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="376"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="151"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="150"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="151"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="161"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="171"/>
+        <source>Downloaded:</source>
+        <translation>Stiahnuté:</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="152"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="162"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="172"/>
-        <source>Downloaded:</source>
-        <translation>Stiahnuté:</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="153"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="163"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="173"/>
         <source>Uploaded:</source>
         <translation>Nahraté:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="161"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="160"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="171"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="170"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="202"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="201"/>
         <source>Summary of Wireless Bandwidth</source>
         <translation>Súhrn šírky pásma z bezdrôtových</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="204"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="203"/>
         <source>Summary of Wired Bandwidth</source>
         <translation>Súhrn šírky pásma z káblových</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="441"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="442"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="445"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="446"/>
         <source>Ignore</source>
         <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="478"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="479"/>
         <source>Delete Interface?</source>
         <translation>Vymazať rozhranie?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="479"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="480"/>
         <source>Deleting a network interface will remove its history. Continue?</source>
         <translation>Odstránením sieťového rozhrania sa odstráni jeho história. Pokračovať?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="524"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
         <source>Download</source>
         <translation>Stiahnuté</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
         <source>Upload</source>
         <translation>Nahraté</translation>
     </message>
@@ -2746,113 +2746,113 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>NetworkTypeTraffic</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="27"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="23"/>
         <source>Type</source>
         <translation>Typ</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="27"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="23"/>
         <source>Protocol</source>
         <translation>Protokol</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="28"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="24"/>
         <source>Download</source>
         <translation>Stiahnuté</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="28"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="24"/>
         <source>Upload</source>
         <translation>Nahraté</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="46"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="42"/>
         <source>Record unknown traffic types</source>
         <translation>Nahrávať neznáme typy prenosov</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="59"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="55"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="69"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="65"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="78"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="74"/>
         <source>Go Premium</source>
         <translation>Kúpiť Premium</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="106"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="102"/>
         <source>Record Unknown Traffic Types</source>
         <translation>Nahrávať Neznáme Typy Prenosov</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="107"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="103"/>
         <source>By recording unknown traffic types, your database will get pretty large and possibly slow WhatPulse down. Still record unknown?</source>
         <translation>Nahrávaním neznámych typov prenosov bude vaša databáza dosť veľká a bude možno spomaľovať WhatPulse. Chcete stále nahrávať neznáme?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="116"/>
         <source>Summary</source>
         <translation>Súhrn</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="123"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="124"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="133"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="143"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="144"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="340"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="341"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="119"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="130"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="140"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="338"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="339"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="128"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="124"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Dnes&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="125"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="135"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="145"/>
         <source>Downloaded:</source>
         <translation>Stiahnuté:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="130"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="140"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="150"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="126"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="136"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="146"/>
         <source>Uploaded:</source>
         <translation>Nahraté:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="138"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="134"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Včera&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="148"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="144"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Celý čas&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="173"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="169"/>
         <source>All Traffic</source>
         <translation>Všetky Prenosy</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="229"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="227"/>
         <source>Summary of </source>
         <translation>Súhrn </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="272"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="270"/>
         <source>(Per-type bandwidth is disabled)</source>
         <translation>(šírka pásma podľa typu je vypnutá)</translation>
     </message>
@@ -2860,174 +2860,171 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>OverviewTab</name>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="54"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute &lt;a href=&quot;#&quot;&gt;and do so now&lt;/a&gt;.</source>
-        <translation>&lt;b&gt;Poznámka:&lt;/b&gt; Podľa našich záznamov prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej online zálohy databázy. Prosím dajte si chvíľku &lt;a href=&quot;#&quot;&gt;a spravte to teraz&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../interface/OverviewTab.cpp" line="74"/>
+        <location filename="../interface/OverviewTab.cpp" line="58"/>
         <source>Open Window on Startup</source>
         <translation>Otvoriť okno pri štarte</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="78"/>
+        <location filename="../interface/OverviewTab.cpp" line="62"/>
         <source> Pulse!</source>
         <translation> Pulz!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="97"/>
+        <location filename="../interface/OverviewTab.cpp" line="81"/>
         <source>Start Online Backup?</source>
         <translation>Spustiť online zálohu?</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="98"/>
+        <location filename="../interface/OverviewTab.cpp" line="82"/>
         <source>Starting a backup will restart the client and show the backup window. Continue?</source>
         <translation>Spustenie zálohy reštartuje klienta a zobrazí zálohovacie okno. Pokračovať?</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="157"/>
-        <source>Current uptime: unknown. Unknown reboots.</source>
-        <translation>Aktuálny uptime: neznámy. Neznámy počet reštartov.</translation>
-    </message>
-    <message>
-        <location filename="../interface/OverviewTab.cpp" line="197"/>
-        <location filename="../interface/OverviewTab.cpp" line="244"/>
+        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="264"/>
         <source>Total: %1
 Available: %2</source>
         <translation>Celkovo: %1
 K dispozícií: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="34"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation>&lt;b&gt;Poznámka:&lt;/b&gt; Stiahnite si a nainštalujte verziu Apple Silicon &lt;a href=&quot;https://whatpulse.org/downloads/&quot;&gt;z našej webovej stránky&lt;/a&gt;. Používate verziu založenú na procesore Intel.</translation>
+        <location filename="../interface/OverviewTab.cpp" line="40"/>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href="https://whatpulse.org/downloads/"&gt;from our website&lt;/a&gt;. You're running the Intel-based version.</source>
+        <translation>&lt;b&gt;Poznámka:&lt;/b&gt; Stiahnite si a nainštalujte verziu Apple Silicon &lt;a href="https://whatpulse.org/downloads/"&gt;z našej webovej stránky&lt;/a&gt;. Používate verziu založenú na procesore Intel.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="288"/>
+        <location filename="../interface/OverviewTab.cpp" line="312"/>
         <source>Scrolls:</source>
         <translation>Zvitky:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="290"/>
+        <location filename="../interface/OverviewTab.cpp" line="314"/>
         <source>Distance:</source>
         <translation>Vzdialenosť:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="293"/>
+        <location filename="../interface/OverviewTab.cpp" line="317"/>
         <source>Click counting is disabled</source>
         <translation>Počítanie kliknutí je vypnuté</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="316"/>
+        <location filename="../interface/OverviewTab.cpp" line="341"/>
         <source>Key counting is disabled</source>
         <translation>Počítanie kláves je zakázané</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="163"/>
-        <location filename="../interface/OverviewTab.cpp" line="169"/>
-        <location filename="../interface/OverviewTab.cpp" line="175"/>
-        <location filename="../interface/OverviewTab.cpp" line="176"/>
-        <location filename="../interface/OverviewTab.cpp" line="319"/>
-        <location filename="../interface/OverviewTab.cpp" line="320"/>
+        <location filename="../interface/OverviewTab.cpp" line="183"/>
+        <location filename="../interface/OverviewTab.cpp" line="193"/>
+        <location filename="../interface/OverviewTab.cpp" line="202"/>
+        <location filename="../interface/OverviewTab.cpp" line="203"/>
+        <location filename="../interface/OverviewTab.cpp" line="344"/>
+        <location filename="../interface/OverviewTab.cpp" line="345"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="163"/>
-        <location filename="../interface/OverviewTab.cpp" line="302"/>
+        <location filename="../interface/OverviewTab.cpp" line="183"/>
+        <location filename="../interface/OverviewTab.cpp" line="326"/>
         <source>Keys</source>
         <translation>Klávesy</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="169"/>
+        <location filename="../interface/OverviewTab.cpp" line="193"/>
         <source>Clicks</source>
         <translation>Kliknutia</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="175"/>
-        <location filename="../interface/OverviewTab.cpp" line="351"/>
+        <location filename="../interface/OverviewTab.cpp" line="202"/>
+        <location filename="../interface/OverviewTab.cpp" line="378"/>
         <source>Download</source>
         <translation>Stiahnite si</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="176"/>
-        <location filename="../interface/OverviewTab.cpp" line="352"/>
+        <location filename="../interface/OverviewTab.cpp" line="203"/>
+        <location filename="../interface/OverviewTab.cpp" line="379"/>
         <source>Upload</source>
         <translation>Nahraté</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="283"/>
+        <location filename="../interface/OverviewTab.cpp" line="215"/>
+        <source>Current uptime: unknown.&lt;br /&gt;Unknown reboots.</source>
+        <translation>Aktuálny čas prevádzky: neznámy.&lt;br /&gt;Neznáme reštarty.</translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="307"/>
         <source>Clicks:</source>
         <translation>Kliknutia:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="285"/>
+        <location filename="../interface/OverviewTab.cpp" line="309"/>
         <source>unpulsed:</source>
         <translation>bez impulzov:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="302"/>
-        <location filename="../interface/OverviewTab.cpp" line="351"/>
-        <location filename="../interface/OverviewTab.cpp" line="352"/>
+        <location filename="../interface/OverviewTab.cpp" line="326"/>
+        <location filename="../interface/OverviewTab.cpp" line="378"/>
+        <location filename="../interface/OverviewTab.cpp" line="379"/>
         <source>unpulsed</source>
         <translation>neimpulzované</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="311"/>
+        <location filename="../interface/OverviewTab.cpp" line="336"/>
         <source>Key Combinations</source>
         <translation>Klávesové Skratky</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="337"/>
-        <source>Current uptime: %1. %2 reboots
-Unpulsed: %3</source>
-        <translation>Celkový uptime: %1. %2 reštartov
-Nepulzovaných: %3</translation>
+        <location filename="../interface/OverviewTab.cpp" line="362"/>
+        <source>Current uptime: %1
+Unpulsed: %2
+%3 reboots</source>
+        <translation>Aktuálny čas prevádzky: %1
+Neimpulzované: %2
+%3 reštartuje sa</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="341"/>
+        <location filename="../interface/OverviewTab.cpp" line="367"/>
         <source>Uptime is disabled</source>
         <translation>Uptime je zakázaný</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="360"/>
+        <location filename="../interface/OverviewTab.cpp" line="387"/>
         <source>Download: unknown
 Upload: unknown</source>
         <translation>Na stiahnutie: neznámy
 Nahrávanie: neznáme</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="363"/>
+        <location filename="../interface/OverviewTab.cpp" line="390"/>
         <source>Network is disabled</source>
         <translation>Sieť je zakázaná</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="368"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>Možnosť &apos;Fungovať v offline režime&apos; je zapnutá takže nemôžete pulzovať. Vypnite ju aby ste mohli pokračovať v pulzovaní.</translation>
+        <location filename="../interface/OverviewTab.cpp" line="395"/>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>Možnosť 'Fungovať v offline režime' je zapnutá takže nemôžete pulzovať. Vypnite ju aby ste mohli pokračovať v pulzovaní.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="379"/>
+        <location filename="../interface/OverviewTab.cpp" line="406"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulzovanie zakázané!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="380"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
+        <location filename="../interface/OverviewTab.cpp" line="407"/>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>Možnosť 'Fungovať v Offline režime' je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="390"/>
+        <location filename="../interface/OverviewTab.cpp" line="417"/>
         <source>Pulsing..</source>
         <translation>Pulzovanie..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="391"/>
+        <location filename="../interface/OverviewTab.cpp" line="418"/>
         <source>Pulse underway, please wait!</source>
         <translation>Pulz pred nami, počkajte prosím!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="396"/>
+        <location filename="../interface/OverviewTab.cpp" line="423"/>
         <source>Pulse!</source>
         <translation>Pulz!</translation>
     </message>
@@ -3084,7 +3081,7 @@ Nahrávanie: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>WhatPulse potrebuje povolanie na rátanie vašich kláves a kliknutí.  Nezatvárajte WhatPulse keď budete vyzvaní.</translation>
     </message>
     <message>
@@ -3094,8 +3091,8 @@ Nahrávanie: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Tu je ako by to malo vyzerať: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Keď je začiarkavacie políčko už označené,  skúste ho odznačiť a označiť znovu.  Toto môže byť vyžadované po aktualizáciach.&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Tu je ako by to malo vyzerať: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Keď je začiarkavacie políčko už označené,  skúste ho odznačiť a označiť znovu.  Toto môže byť vyžadované po aktualizáciach.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3107,7 +3104,7 @@ Nahrávanie: neznáme</translation>
     <name>PremiumExpiredPopup</name>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="60"/>
-        <source>Don&apos;t Remind Me</source>
+        <source>Don't Remind Me</source>
         <translation>Nepripomínať</translation>
     </message>
     <message>
@@ -3177,24 +3174,24 @@ Nahrávanie: neznáme</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="364"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="363"/>
         <source>Accessibility Permissions</source>
         <translation>Povolenia prístupnosti</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="365"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="364"/>
         <source>Please allow the client the Accessibility Permission, to allow keyboard &amp; mouse monitoring. Then press OK and WhatPulse will restart. Cancel to exit the client.</source>
         <translation>Prosím povoľte klientovi povolenie prístupnosti, na povolenie monitorovania klávesnice a myši. Potom kliknite na OK a WhatPulse sa reštartuje. Zrušte na zatvorenie klienta.</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="425"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="424"/>
         <source>Access for assistive devices</source>
         <translation>Prístup k pomocným zariadeniam</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="426"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>Verzia macOS-u nie je podporovaná; Prosím označte &quot;Zapnúť prístup k pomocným zariadeniam&quot; v sekcií Prístupnosť v Systémových nastaveniach a reštartujte klienta. Rátanie kláves ináč nebude fungovať. Aktualizovaný klient potrebuje znovu zapnutie.</translation>
+        <location filename="../system/mac/macnativehelpers.mm" line="425"/>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>Verzia macOS-u nie je podporovaná; Prosím označte "Zapnúť prístup k pomocným zariadeniam" v sekcií Prístupnosť v Systémových nastaveniach a reštartujte klienta. Rátanie kláves ináč nebude fungovať. Aktualizovaný klient potrebuje znovu zapnutie.</translation>
     </message>
 </context>
 <context>
@@ -3247,13 +3244,13 @@ Nahrávanie: neznáme</translation>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="51"/>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="71"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnite si</translation>
     </message>
     <message>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="55"/>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="74"/>
         <source>Upload</source>
-        <translation type="unfinished">Nahraté</translation>
+        <translation>Nahraté</translation>
     </message>
 </context>
 <context>
@@ -3762,17 +3759,17 @@ Nahrávanie: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="389"/>
-        <source>you&apos;ve downloaded </source>
+        <source>you've downloaded </source>
         <translation>ste stiahli </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="400"/>
-        <source>you&apos;ve uploaded </source>
+        <source>you've uploaded </source>
         <translation>ste nahrali </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="411"/>
-        <source>you&apos;ve collected </source>
+        <source>you've collected </source>
         <translation>ste nazbierali </translation>
     </message>
     <message>
@@ -4144,7 +4141,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsIgnoredApps.cpp" line="52"/>
-        <source>On this page you can manage applications and network interfaces that you&apos;ve chosen to ignore. Right click an application or interface to manage.</source>
+        <source>On this page you can manage applications and network interfaces that you've chosen to ignore. Right click an application or interface to manage.</source>
         <translation>Na tejto stránke môžete spravovať aplikácie a sieťové rozhranie ktoré ste si vybrali na ignorovanie. Kliknite pravým tlačítkom na aplikáciu alebo rozhranie ktoré chcete spravovať.</translation>
     </message>
     <message>
@@ -4180,8 +4177,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>SettingsTabMilestones</name>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="24"/>
-        <source>Milestones let you create notifications when you cross certain statistics. Use the &apos;Add&apos; button to create a milestone and doubleclick on the Milestone to edit it.</source>
-        <translation>Miľníky vám dovolia vytvárať notifikácie keď prekročíte špecifickú štatistiku. Použite tlačítko &apos;Pridať&apos; na vytvorenie miľníka a dvojkliknite na miľník na jeho úpravu.</translation>
+        <source>Milestones let you create notifications when you cross certain statistics. Use the 'Add' button to create a milestone and doubleclick on the Milestone to edit it.</source>
+        <translation>Miľníky vám dovolia vytvárať notifikácie keď prekročíte špecifickú štatistiku. Použite tlačítko 'Pridať' na vytvorenie miľníka a dvojkliknite na miľník na jeho úpravu.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="30"/>
@@ -4277,7 +4274,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="243"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
+        <source>Time for coffee, you've made X keys!</source>
         <translation>Čas dať si kávu, spravili ste X kláves!</translation>
     </message>
     <message>
@@ -4359,8 +4356,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="170"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>Klient API vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase . Môžete ho použiť na využitie dát v inej aplikácií. Zistite viac na našom &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;vývojárskom centre&lt;/a&gt;</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="http://dev.whatpulse.org"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>Klient API vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase . Môžete ho použiť na využitie dát v inej aplikácií. Zistite viac na našom &lt;a href="http://dev.whatpulse.org"&gt;vývojárskom centre&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="191"/>
@@ -4469,73 +4466,73 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>TimePeriod</name>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="63"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="97"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="239"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="109"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="143"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="285"/>
         <source>real-time</source>
         <translation>v reálnom čase</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="68"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="99"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="114"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="145"/>
         <source>today</source>
         <translation>dnes</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="72"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="101"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="118"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="147"/>
         <source>yesterday</source>
         <translation>včera</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="76"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="103"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="122"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="149"/>
         <source>week</source>
         <translation>týždeň</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="80"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="105"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="163"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="218"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="126"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="151"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="209"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="264"/>
         <source>month</source>
         <translation>mesiac</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="83"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="109"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="163"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="218"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="129"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="155"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="209"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="264"/>
         <source>6 months</source>
         <translation>6 mesiacov</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="84"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="111"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="164"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="219"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="130"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="157"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="210"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="265"/>
         <source>year</source>
         <translation>rok</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="90"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="107"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="164"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="219"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="136"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="153"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="210"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="265"/>
         <source>all</source>
         <translation>všetko</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="93"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="113"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="165"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="220"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="247"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="139"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="159"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="211"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="266"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="293"/>
         <source>custom</source>
         <translation>vlastné</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="167"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="213"/>
         <source>Subscribe to Premium to unlock more per-application history</source>
         <translation>Predplaťte si službu Premium a odomknite viac histórie na aplikáciu</translation>
     </message>
@@ -4543,22 +4540,22 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="377"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <location filename="../interface/widgets/timeperiod.cpp" line="430"/>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>Vyberte začiatočný a konečný dátum obdobia z ktorého chcete vidieť štatistiky.</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="379"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="432"/>
         <source>Save</source>
         <translation>Uložiť</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="383"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
         <source>From:</source>
         <translation>Od:</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="395"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="448"/>
         <source>To:</source>
         <translation>Do:</translation>
     </message>
@@ -4767,8 +4764,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1307"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Zoznam reštartov medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Reboot list between '%1' and '%2' </source>
+        <translation>Zoznam reštartov medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1337"/>
@@ -4777,8 +4774,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1378"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Aktívny čas aplikácie medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Active application time between '%1' and '%2' </source>
+        <translation>Aktívny čas aplikácie medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1386"/>
@@ -4804,377 +4801,377 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>UptimeTab</name>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="56"/>
+        <location filename="../interface/UptimeTab.cpp" line="52"/>
         <source>Computer Uptime</source>
         <translation>Uptime počítača</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="58"/>
+        <location filename="../interface/UptimeTab.cpp" line="54"/>
         <source>Reboot Calendar</source>
         <translation>Kalendár reštartov</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="60"/>
+        <location filename="../interface/UptimeTab.cpp" line="56"/>
         <source>Applications</source>
         <translation>Aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="62"/>
+        <location filename="../interface/UptimeTab.cpp" line="58"/>
         <source>Application Activity</source>
         <translation>Aktivita aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="76"/>
+        <location filename="../interface/UptimeTab.cpp" line="72"/>
         <source> Reset</source>
         <translation> Resetovať</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="91"/>
-        <location filename="../interface/UptimeTab.cpp" line="105"/>
+        <location filename="../interface/UptimeTab.cpp" line="87"/>
+        <location filename="../interface/UptimeTab.cpp" line="101"/>
         <source>Uptime - Computer Uptime</source>
         <translation>Uptime - Uptime počítača</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="93"/>
-        <location filename="../interface/UptimeTab.cpp" line="106"/>
+        <location filename="../interface/UptimeTab.cpp" line="89"/>
+        <location filename="../interface/UptimeTab.cpp" line="102"/>
         <source>Uptime - Reboot Calendar</source>
         <translation>Uptime - Kalendár reštartov</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="95"/>
-        <location filename="../interface/UptimeTab.cpp" line="107"/>
+        <location filename="../interface/UptimeTab.cpp" line="91"/>
+        <location filename="../interface/UptimeTab.cpp" line="103"/>
         <source>Uptime - Applications</source>
         <translation>Uptime - Aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="97"/>
-        <location filename="../interface/UptimeTab.cpp" line="108"/>
+        <location filename="../interface/UptimeTab.cpp" line="93"/>
+        <location filename="../interface/UptimeTab.cpp" line="104"/>
         <source>Uptime - Application Activity</source>
         <translation>Uptime - Aktivita aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="99"/>
+        <location filename="../interface/UptimeTab.cpp" line="95"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="149"/>
-        <location filename="../interface/UptimeTab.cpp" line="502"/>
+        <location filename="../interface/UptimeTab.cpp" line="145"/>
+        <location filename="../interface/UptimeTab.cpp" line="497"/>
         <source>Export</source>
         <translation>Exportovať</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="159"/>
-        <location filename="../interface/UptimeTab.cpp" line="512"/>
+        <location filename="../interface/UptimeTab.cpp" line="155"/>
+        <location filename="../interface/UptimeTab.cpp" line="507"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportovať do .csv</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="163"/>
-        <location filename="../interface/UptimeTab.cpp" line="515"/>
+        <location filename="../interface/UptimeTab.cpp" line="159"/>
+        <location filename="../interface/UptimeTab.cpp" line="510"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Sprievodca exportu</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="200"/>
+        <location filename="../interface/UptimeTab.cpp" line="196"/>
         <source>Go Premium</source>
         <translation>Kúpiť Premium</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="228"/>
+        <location filename="../interface/UptimeTab.cpp" line="224"/>
         <source>&lt;h3&gt;Favorite reboot days&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Obľúbené dni reštartov&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="245"/>
-        <location filename="../interface/UptimeTab.cpp" line="313"/>
+        <location filename="../interface/UptimeTab.cpp" line="241"/>
+        <location filename="../interface/UptimeTab.cpp" line="309"/>
         <source>Sun</source>
         <translation>Ned</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="245"/>
-        <location filename="../interface/UptimeTab.cpp" line="314"/>
+        <location filename="../interface/UptimeTab.cpp" line="241"/>
+        <location filename="../interface/UptimeTab.cpp" line="310"/>
         <source>Mon</source>
         <translation>Pon</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="245"/>
-        <location filename="../interface/UptimeTab.cpp" line="315"/>
+        <location filename="../interface/UptimeTab.cpp" line="241"/>
+        <location filename="../interface/UptimeTab.cpp" line="311"/>
         <source>Tue</source>
         <translation>Uto</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="245"/>
-        <location filename="../interface/UptimeTab.cpp" line="316"/>
+        <location filename="../interface/UptimeTab.cpp" line="241"/>
+        <location filename="../interface/UptimeTab.cpp" line="312"/>
         <source>Wed</source>
         <translation>Str</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="246"/>
-        <location filename="../interface/UptimeTab.cpp" line="317"/>
+        <location filename="../interface/UptimeTab.cpp" line="242"/>
+        <location filename="../interface/UptimeTab.cpp" line="313"/>
         <source>Thu</source>
         <translation>Štv</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="246"/>
-        <location filename="../interface/UptimeTab.cpp" line="318"/>
+        <location filename="../interface/UptimeTab.cpp" line="242"/>
+        <location filename="../interface/UptimeTab.cpp" line="314"/>
         <source>Fri</source>
         <translation>Pia</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="246"/>
-        <location filename="../interface/UptimeTab.cpp" line="319"/>
+        <location filename="../interface/UptimeTab.cpp" line="242"/>
+        <location filename="../interface/UptimeTab.cpp" line="315"/>
         <source>Sat</source>
         <translation>Sob</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="262"/>
+        <location filename="../interface/UptimeTab.cpp" line="258"/>
         <source>No reboots yet.</source>
         <translation>Zatiaľ žiadne reštarty.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="313"/>
+        <location filename="../interface/UptimeTab.cpp" line="309"/>
         <source>Sunday</source>
         <translation>Nedeľa</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="314"/>
+        <location filename="../interface/UptimeTab.cpp" line="310"/>
         <source>Monday</source>
         <translation>Pondelok</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="315"/>
+        <location filename="../interface/UptimeTab.cpp" line="311"/>
         <source>Tuesday</source>
         <translation>Utorok</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="316"/>
+        <location filename="../interface/UptimeTab.cpp" line="312"/>
         <source>Wednesday</source>
         <translation>Streda</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="317"/>
+        <location filename="../interface/UptimeTab.cpp" line="313"/>
         <source>Thursday</source>
         <translation>Štvrtok</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="318"/>
+        <location filename="../interface/UptimeTab.cpp" line="314"/>
         <source>Friday</source>
         <translation>Piatok</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="319"/>
+        <location filename="../interface/UptimeTab.cpp" line="315"/>
         <source>Saturday</source>
         <translation>Sobota</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="325"/>
+        <location filename="../interface/UptimeTab.cpp" line="321"/>
         <source>reboots on</source>
         <translation>reštartuje sa na</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="359"/>
+        <location filename="../interface/UptimeTab.cpp" line="355"/>
         <source>hours of uptime</source>
         <translation>hodiny prevádzkyschopnosti</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="388"/>
+        <location filename="../interface/UptimeTab.cpp" line="384"/>
         <source>hours</source>
         <translation>hodiny</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="436"/>
+        <location filename="../interface/UptimeTab.cpp" line="432"/>
         <source>Today</source>
         <translation>Dnes</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="477"/>
+        <location filename="../interface/UptimeTab.cpp" line="472"/>
         <source>Show only recently used applications</source>
         <translation>Zobraziť iba nedávno použité aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="484"/>
+        <location filename="../interface/UptimeTab.cpp" line="479"/>
         <source>Show only running applications</source>
         <translation>Zobraziť iba pustené aplikácie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="533"/>
+        <location filename="../interface/UptimeTab.cpp" line="525"/>
         <source>Details</source>
         <translation>Podrobnosti na</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="538"/>
-        <location filename="../interface/UptimeTab.cpp" line="539"/>
-        <location filename="../interface/UptimeTab.cpp" line="540"/>
-        <location filename="../interface/UptimeTab.cpp" line="541"/>
-        <location filename="../interface/UptimeTab.cpp" line="542"/>
-        <location filename="../interface/UptimeTab.cpp" line="543"/>
+        <location filename="../interface/UptimeTab.cpp" line="530"/>
+        <location filename="../interface/UptimeTab.cpp" line="531"/>
+        <location filename="../interface/UptimeTab.cpp" line="532"/>
+        <location filename="../interface/UptimeTab.cpp" line="533"/>
+        <location filename="../interface/UptimeTab.cpp" line="534"/>
+        <location filename="../interface/UptimeTab.cpp" line="535"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="549"/>
+        <location filename="../interface/UptimeTab.cpp" line="541"/>
         <source>Unpulsed uptime:</source>
         <translation>Nepulzovaný Uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="552"/>
+        <location filename="../interface/UptimeTab.cpp" line="544"/>
         <source>Current uptime:</source>
         <translation>Aktuálny uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="555"/>
+        <location filename="../interface/UptimeTab.cpp" line="547"/>
         <source>Total uptime:</source>
         <translation>Celkový uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="558"/>
+        <location filename="../interface/UptimeTab.cpp" line="550"/>
         <source>Longest uptime:</source>
         <translation>Najdlhší uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="561"/>
+        <location filename="../interface/UptimeTab.cpp" line="553"/>
         <source>Average uptime:</source>
         <translation>Priemerný uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="564"/>
+        <location filename="../interface/UptimeTab.cpp" line="556"/>
         <source>Total reboots:</source>
         <translation>Celkovo reštartov:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="574"/>
+        <location filename="../interface/UptimeTab.cpp" line="566"/>
         <source>Reboot history for </source>
         <translation>História reštartov pre </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="619"/>
+        <location filename="../interface/UptimeTab.cpp" line="611"/>
         <source>No reboots found</source>
         <translation>Žiadne reštarty nenájdené</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="632"/>
+        <location filename="../interface/UptimeTab.cpp" line="624"/>
         <source>Reboot history</source>
         <translation>História reštartov</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="691"/>
+        <location filename="../interface/UptimeTab.cpp" line="683"/>
         <source>Application</source>
         <translation>Aplikácia</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="691"/>
+        <location filename="../interface/UptimeTab.cpp" line="683"/>
         <source>Total time</source>
         <translation>Celkový čas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="692"/>
+        <location filename="../interface/UptimeTab.cpp" line="684"/>
         <source>Total active time</source>
         <translation>Celkový aktívny čas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="719"/>
+        <location filename="../interface/UptimeTab.cpp" line="711"/>
         <source>Ignore</source>
         <translation>Ignorovať</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="725"/>
+        <location filename="../interface/UptimeTab.cpp" line="717"/>
         <source>Open File Location</source>
         <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="731"/>
+        <location filename="../interface/UptimeTab.cpp" line="723"/>
         <source>Open Online Profile</source>
         <translation>Otvoriť online profil</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="746"/>
+        <location filename="../interface/UptimeTab.cpp" line="738"/>
         <source>Ignore application?</source>
         <translation>Ignorovať aplikáciu?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="747"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Ste si istí že chcete ignorovať aplikáciu &apos;%1&apos; ? Toto tiež vymaže jej históriu.</translation>
+        <location filename="../interface/UptimeTab.cpp" line="739"/>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Ste si istí že chcete ignorovať aplikáciu '%1' ? Toto tiež vymaže jej históriu.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="798"/>
+        <location filename="../interface/UptimeTab.cpp" line="790"/>
         <source>Not yet</source>
         <translation>Ešte nie</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="799"/>
+        <location filename="../interface/UptimeTab.cpp" line="791"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1220"/>
-        <location filename="../interface/UptimeTab.cpp" line="1226"/>
+        <location filename="../interface/UptimeTab.cpp" line="1229"/>
+        <location filename="../interface/UptimeTab.cpp" line="1235"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>uptime a dáta reštartov (všetko okrem tých podľa aplikácie) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1221"/>
-        <location filename="../interface/UptimeTab.cpp" line="1227"/>
+        <location filename="../interface/UptimeTab.cpp" line="1230"/>
+        <location filename="../interface/UptimeTab.cpp" line="1236"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Resetovať uptime/Históriu reštartov</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1231"/>
-        <location filename="../interface/UptimeTab.cpp" line="1236"/>
+        <location filename="../interface/UptimeTab.cpp" line="1240"/>
+        <location filename="../interface/UptimeTab.cpp" line="1245"/>
         <source>application uptime data</source>
         <translation>dáta uptimov aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1232"/>
-        <location filename="../interface/UptimeTab.cpp" line="1237"/>
+        <location filename="../interface/UptimeTab.cpp" line="1241"/>
+        <location filename="../interface/UptimeTab.cpp" line="1246"/>
         <source>Reset Application History</source>
         <translation>Resetovať históriu aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1241"/>
+        <location filename="../interface/UptimeTab.cpp" line="1250"/>
         <source>Cancel</source>
         <translation>Zrušiť</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1243"/>
+        <location filename="../interface/UptimeTab.cpp" line="1252"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Chcete resetovať všetky uptime dáta alebo iba %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1246"/>
+        <location filename="../interface/UptimeTab.cpp" line="1255"/>
         <source>Reset All Data</source>
         <translation>Resetovať všetky dáta</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1261"/>
-        <location filename="../interface/UptimeTab.cpp" line="1279"/>
-        <location filename="../interface/UptimeTab.cpp" line="1297"/>
-        <location filename="../interface/UptimeTab.cpp" line="1312"/>
-        <location filename="../interface/UptimeTab.cpp" line="1320"/>
-        <location filename="../interface/UptimeTab.cpp" line="1337"/>
+        <location filename="../interface/UptimeTab.cpp" line="1270"/>
+        <location filename="../interface/UptimeTab.cpp" line="1288"/>
+        <location filename="../interface/UptimeTab.cpp" line="1306"/>
+        <location filename="../interface/UptimeTab.cpp" line="1321"/>
+        <location filename="../interface/UptimeTab.cpp" line="1329"/>
+        <location filename="../interface/UptimeTab.cpp" line="1346"/>
         <source>Delete stats?</source>
         <translation>Vymazať štatistiky?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1262"/>
-        <location filename="../interface/UptimeTab.cpp" line="1280"/>
+        <location filename="../interface/UptimeTab.cpp" line="1271"/>
+        <location filename="../interface/UptimeTab.cpp" line="1289"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané uptime štatistiky (mimo tých podľa aplikácií)? Toto nie je možné vrátiť späť.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1298"/>
-        <location filename="../interface/UptimeTab.cpp" line="1321"/>
+        <location filename="../interface/UptimeTab.cpp" line="1307"/>
+        <location filename="../interface/UptimeTab.cpp" line="1330"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané uptime štatistiky podľa aplikácie? Toto nie je možné vrátiť späť.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1313"/>
+        <location filename="../interface/UptimeTab.cpp" line="1322"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané štatistiky klávesnice a myši? Toto nie je možné vrátiť späť.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1338"/>
+        <location filename="../interface/UptimeTab.cpp" line="1347"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Ste si istí že chcete vymazať všetky nahrané uptime štatistiky? Toto nie je možné vrátiť späť.</translation>
     </message>
@@ -5182,314 +5179,314 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>Utils</name>
     <message>
-        <location filename="../utils.cpp" line="157"/>
+        <location filename="../utils.cpp" line="163"/>
         <source>&lt;1 min</source>
         <translation>&lt;1 minúta</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="157"/>
+        <location filename="../utils.cpp" line="163"/>
         <source>Less than a minute</source>
         <translation>Menej ako minúta</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="164"/>
+        <location filename="../utils.cpp" line="170"/>
         <source>1 year</source>
         <translation>1 rok</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="166"/>
+        <location filename="../utils.cpp" line="172"/>
         <source>%1 years</source>
         <translation>%1 rokov</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="172"/>
+        <location filename="../utils.cpp" line="178"/>
         <source>1 day</source>
         <translation>1 deň</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="174"/>
+        <location filename="../utils.cpp" line="180"/>
         <source>%1 days</source>
         <translation>%1 dní</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="180"/>
+        <location filename="../utils.cpp" line="186"/>
         <source>1 hour</source>
         <translation>1 hodina</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="182"/>
+        <location filename="../utils.cpp" line="188"/>
         <source>%1 hours</source>
         <translation>%1 hodín</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="189"/>
+        <location filename="../utils.cpp" line="195"/>
         <source>1 min</source>
         <translation>1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="191"/>
+        <location filename="../utils.cpp" line="197"/>
         <source>1 minute</source>
         <translation>1 minúta</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="194"/>
+        <location filename="../utils.cpp" line="200"/>
         <source>%1 min</source>
         <translation>%1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="196"/>
+        <location filename="../utils.cpp" line="202"/>
         <source>%1 minutes</source>
         <translation>%1 minút</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="336"/>
-        <location filename="../utils.cpp" line="457"/>
+        <location filename="../utils.cpp" line="325"/>
+        <location filename="../utils.cpp" line="446"/>
         <source>None</source>
         <translation>Žiadne</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="354"/>
+        <location filename="../utils.cpp" line="343"/>
         <source>kilometers</source>
         <translation>kilometrov</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="356"/>
+        <location filename="../utils.cpp" line="345"/>
         <source>kilometer</source>
         <translation>kilometer</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="374"/>
+        <location filename="../utils.cpp" line="363"/>
         <source>meters</source>
         <translation>metre</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="376"/>
+        <location filename="../utils.cpp" line="365"/>
         <source>meter</source>
         <translation>merač</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="389"/>
+        <location filename="../utils.cpp" line="378"/>
         <source>centimeters</source>
         <translation>centimetrov</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="391"/>
+        <location filename="../utils.cpp" line="380"/>
         <source>centimeter</source>
         <translation>centimeter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="412"/>
+        <location filename="../utils.cpp" line="401"/>
         <source>miles</source>
         <translation>míle</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="414"/>
+        <location filename="../utils.cpp" line="403"/>
         <source>mile</source>
         <translation>míľa</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="443"/>
-        <location filename="../utils.cpp" line="449"/>
+        <location filename="../utils.cpp" line="432"/>
+        <location filename="../utils.cpp" line="438"/>
         <source>inch</source>
         <translation>palec</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="610"/>
+        <location filename="../utils.cpp" line="599"/>
         <source>th</source>
         <translation>th</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="613"/>
+        <location filename="../utils.cpp" line="602"/>
         <source>st</source>
         <translation>st</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="615"/>
+        <location filename="../utils.cpp" line="604"/>
         <source>nd</source>
         <translation>nd</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="617"/>
+        <location filename="../utils.cpp" line="606"/>
         <source>rd</source>
         <translation>rd</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="706"/>
+        <location filename="../utils.cpp" line="695"/>
         <source>Sunday</source>
         <translation>Nedeľa</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="708"/>
+        <location filename="../utils.cpp" line="697"/>
         <source>Monday</source>
         <translation>Pondelok</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="710"/>
+        <location filename="../utils.cpp" line="699"/>
         <source>Tuesday</source>
         <translation>Utorok</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="712"/>
+        <location filename="../utils.cpp" line="701"/>
         <source>Wednesday</source>
         <translation>Streda</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="714"/>
+        <location filename="../utils.cpp" line="703"/>
         <source>Thursday</source>
         <translation>Štvrtok</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="716"/>
+        <location filename="../utils.cpp" line="705"/>
         <source>Friday</source>
         <translation>Piatok</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="718"/>
+        <location filename="../utils.cpp" line="707"/>
         <source>Saturday</source>
         <translation>Sobota</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1284"/>
-        <location filename="../utils.cpp" line="1310"/>
+        <location filename="../utils.cpp" line="1275"/>
+        <location filename="../utils.cpp" line="1301"/>
         <source>Save as...</source>
         <translation>Uložiť ako...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1297"/>
-        <location filename="../utils.cpp" line="1325"/>
+        <location filename="../utils.cpp" line="1288"/>
+        <location filename="../utils.cpp" line="1316"/>
         <source>Export Failed</source>
         <translation>Exportovanie zlyhalo</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1298"/>
-        <location filename="../utils.cpp" line="1326"/>
+        <location filename="../utils.cpp" line="1289"/>
+        <location filename="../utils.cpp" line="1317"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Otváranie vyexportovaného súboru zlyhalo! Prosím skúste to znova v inom priečinku.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1336"/>
+        <location filename="../utils.cpp" line="1327"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1339"/>
+        <location filename="../utils.cpp" line="1330"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1342"/>
+        <location filename="../utils.cpp" line="1333"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1345"/>
+        <location filename="../utils.cpp" line="1336"/>
         <source>Capslock</source>
         <translation>Capslock</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1348"/>
+        <location filename="../utils.cpp" line="1339"/>
         <source>Left Shift</source>
         <translation>Ľavý Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1351"/>
+        <location filename="../utils.cpp" line="1342"/>
         <source>Left Control</source>
         <translation>Ľavý Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1354"/>
+        <location filename="../utils.cpp" line="1345"/>
         <source>Left Alt</source>
         <translation>Ľavý Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1357"/>
+        <location filename="../utils.cpp" line="1348"/>
         <source>Right Alt</source>
         <translation>Pravý Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1360"/>
+        <location filename="../utils.cpp" line="1351"/>
         <source>Right Control</source>
         <translation>Pravý Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1363"/>
+        <location filename="../utils.cpp" line="1354"/>
         <source>Right Shift</source>
         <translation>Pravý Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1366"/>
+        <location filename="../utils.cpp" line="1357"/>
         <source>Left</source>
         <translation>Doľava</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1369"/>
+        <location filename="../utils.cpp" line="1360"/>
         <source>Down</source>
         <translation>Dole</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1372"/>
+        <location filename="../utils.cpp" line="1363"/>
         <source>Right</source>
         <translation>Doprava</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1375"/>
+        <location filename="../utils.cpp" line="1366"/>
         <source>Up</source>
         <translation>Hore</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1378"/>
+        <location filename="../utils.cpp" line="1369"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1381"/>
+        <location filename="../utils.cpp" line="1372"/>
         <source>Home</source>
         <translation>Domov</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1384"/>
+        <location filename="../utils.cpp" line="1375"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1387"/>
+        <location filename="../utils.cpp" line="1378"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1390"/>
+        <location filename="../utils.cpp" line="1381"/>
         <source>End</source>
         <translation>End</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1393"/>
+        <location filename="../utils.cpp" line="1384"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1396"/>
+        <location filename="../utils.cpp" line="1387"/>
         <source>Escape</source>
         <translation>Escape</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1438"/>
+        <location filename="../utils.cpp" line="1429"/>
         <source>Space</source>
         <translation>Medzerník</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1555"/>
+        <location filename="../utils.cpp" line="1546"/>
         <source>Unknown</source>
         <translation>Neznámy</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2050"/>
+        <location filename="../utils.cpp" line="2041"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Ak chcete túto funkciu odomknúť, aktualizujte na Premium</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="953"/>
-        <location filename="../utils.cpp" line="1186"/>
-        <location filename="../utils.cpp" line="1676"/>
+        <location filename="../utils.cpp" line="944"/>
+        <location filename="../utils.cpp" line="1177"/>
+        <location filename="../utils.cpp" line="1667"/>
         <source>unknown</source>
         <translation>neznámy</translation>
     </message>
@@ -5497,13 +5494,13 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="147"/>
+        <location filename="../online/versioncheck.cpp" line="151"/>
         <source>Latest version</source>
         <translation>Najnovšia verzia</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="148"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <location filename="../online/versioncheck.cpp" line="152"/>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>Používate najnovšiu verziu WhatPulse.</translation>
     </message>
 </context>
@@ -5511,12 +5508,12 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>WindowUpdateAlert</name>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="30"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>K dispozícii je nová verzia!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="35"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>Čo je nové?</translation>
     </message>
     <message>
@@ -5566,7 +5563,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="21"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>Boli ste presmerovaní na stránku, prosím postupujte podľa inštrukcií. Potom ako dokončíte prihlasovanie, klient sa automagicky prihlási a idete na preteky!</translation>
     </message>
     <message>
@@ -5577,8 +5574,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>Keď sa váš prehliadač neotvoril, skúste kliknúť alebo skopírovať &lt;a href=&quot;%1&quot;&gt;tento odkaz&lt;/a&gt;.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1"&gt;this link&lt;/a&gt;.</source>
+        <translation>Keď sa váš prehliadač neotvoril, skúste kliknúť alebo skopírovať &lt;a href="%1"&gt;tento odkaz&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="149"/>
@@ -5616,8 +5613,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>Vitajte vo WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe ktorý kedy budete potrebovať. WhatPulse odpovedá na otázku &apos;Ako moc používam môj počítač za deň?&apos;&lt;br /&gt;&lt;br /&gt;Poďme začať. Keď už máte účet, prosím kliknite na &lt;b&gt;Prihlásiť&lt;/b&gt;. Ak ste noví vo WhatPulse, prosím kliknite na &lt;b&gt;Registrovať&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;V obidvoch prípadoch budete presmerovaní na našu stránku na dokončenie prihlásenia.&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>Vitajte vo WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe ktorý kedy budete potrebovať. WhatPulse odpovedá na otázku 'Ako moc používam môj počítač za deň?'&lt;br /&gt;&lt;br /&gt;Poďme začať. Keď už máte účet, prosím kliknite na &lt;b&gt;Prihlásiť&lt;/b&gt;. Ak ste noví vo WhatPulse, prosím kliknite na &lt;b&gt;Registrovať&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;V obidvoch prípadoch budete presmerovaní na našu stránku na dokončenie prihlásenia.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="25"/>
@@ -5633,14 +5630,14 @@ Toto resetuje všetky vlastné rozloženia!</translation>
 <context>
     <name>wizardMainPagePro</name>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="244"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation type="unfinished"></translation>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>Vitajte v programe WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe, ktorý budete potrebovať. Program WhatPulse odpovedá na otázku "Koľko používam svoj počítač za jeden deň?"&lt;br /&gt;&lt;br /&gt;Začnime zadaním &lt;strong&gt;názvu alebo ID organizácie&lt;/strong&gt;, ktoré vám poskytol správca programu WhatPulse Professional.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="267"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="268"/>
         <source>Request Activation</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadosť o aktiváciu</translation>
     </message>
 </context>
 <context>
@@ -5704,7 +5701,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Prepáčte, funkcia online zálohy je iba pre Premium členov. Viacej informácií nájdete na: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -5714,7 +5711,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="406"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Prepáčte, stránka dala chybu počas prípravy vašej zálohy. Prosím skúste to znova neskôr. Tu je chyba: %1</translation>
     </message>
     <message>
@@ -5782,7 +5779,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="110"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
         <translation>Zaujímalo vás niekedy ako dlho máte zapnutý počítač? Táto možnosť vám to povie. A ako časť uptimu Vám to aj povie ako dlho používate špecifické aplikácie.</translation>
     </message>
     <message>
@@ -5802,8 +5799,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="152"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;small&gt;Keď chcete zbierať všetky štatistiky ale nechcete ich zobrazovať verejne, pozrite si Vaše &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;nastavenia súkromia&lt;/a&gt;.</translation>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;small&gt;Keď chcete zbierať všetky štatistiky ale nechcete ich zobrazovať verejne, pozrite si Vaše &lt;a href="https://whatpulse.org/dashboard/my/privacy"&gt;nastavenia súkromia&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>
