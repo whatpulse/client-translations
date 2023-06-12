@@ -284,149 +284,149 @@ You can continue pulsing.</source>
         <translation>AES 失败</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="806"/>
+        <location filename="../application.cpp" line="805"/>
         <source>&amp;Open Window</source>
         <translation>打开窗口(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="810"/>
+        <location filename="../application.cpp" line="809"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>显示 / 隐藏悬浮窗(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="814"/>
+        <location filename="../application.cpp" line="813"/>
         <source>&amp;Open Settings</source>
         <translation>打开设置(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="818"/>
+        <location filename="../application.cpp" line="817"/>
         <source>&amp;Check for Updates</source>
         <translation>检查更新(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="822"/>
+        <location filename="../application.cpp" line="821"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="825"/>
+        <location filename="../application.cpp" line="824"/>
         <source>&amp;View Online Stats</source>
         <translation>查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="829"/>
+        <location filename="../application.cpp" line="828"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>退出 WhatPulse(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="832"/>
+        <location filename="../application.cpp" line="831"/>
         <source>Enabled Stats</source>
         <translation>开启统计</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="832"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="834"/>
+        <location filename="../application.cpp" line="833"/>
         <source>Keyboard Heatmap</source>
         <translation>键盘热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="835"/>
+        <location filename="../application.cpp" line="834"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="835"/>
         <source>Mouse Heatmap</source>
         <translation>鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="837"/>
+        <location filename="../application.cpp" line="836"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="838"/>
+        <location filename="../application.cpp" line="837"/>
         <source>Uptime</source>
         <translation>上线时长</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1282"/>
+        <location filename="../application.cpp" line="1283"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1283"/>
+        <location filename="../application.cpp" line="1284"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1489"/>
+        <location filename="../application.cpp" line="1490"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开绿色模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携媒体的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1492"/>
-        <location filename="../application.cpp" line="1515"/>
-        <location filename="../application.cpp" line="1531"/>
-        <location filename="../application.cpp" line="1547"/>
-        <location filename="../application.cpp" line="1590"/>
-        <location filename="../application.cpp" line="1601"/>
+        <location filename="../application.cpp" line="1493"/>
+        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1532"/>
+        <location filename="../application.cpp" line="1548"/>
+        <location filename="../application.cpp" line="1591"/>
+        <location filename="../application.cpp" line="1602"/>
         <source>Portable Mode</source>
         <translation>绿色模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1512"/>
+        <location filename="../application.cpp" line="1513"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用绿色模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1528"/>
+        <location filename="../application.cpp" line="1529"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用绿色模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1548"/>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1549"/>
+        <location filename="../application.cpp" line="1603"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1571"/>
+        <location filename="../application.cpp" line="1572"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 绿色模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1588"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 绿色模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2021"/>
-        <location filename="../application.cpp" line="2034"/>
+        <location filename="../application.cpp" line="2025"/>
+        <location filename="../application.cpp" line="2038"/>
         <source>Premium features disabled</source>
         <translation>尊享功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2022"/>
+        <location filename="../application.cpp" line="2026"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的尊享版资格了。我已经禁用了你的尊享版功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2035"/>
+        <location filename="../application.cpp" line="2039"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的尊享版会员已经过期，所以我已经禁用了你的尊享版功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
@@ -1218,24 +1218,29 @@ Please check your permissions on: %2</source>
 <context>
     <name>InputKeyCombinationsPage</name>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="95"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="97"/>
         <source>Combination</source>
         <translation>组合</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="95"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="97"/>
         <source>Used</source>
         <translation>使用次数</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="111"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
         <source>Hide Shift only</source>
         <translation>隐藏纯 Shift</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="120"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
         <source>Hide Ctrl only</source>
         <translation>隐藏纯 Ctrl</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="139"/>
+        <source>Export Wizard</source>
+        <translation>导出向导</translation>
     </message>
 </context>
 <context>
@@ -1511,108 +1516,136 @@ Please check your permissions on: %2</source>
         <translation>应用键、点击、滚动和距离</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="169"/>
+        <location filename="../interface/ExportWindow.cpp" line="159"/>
+        <source>History of Key Combinations</source>
+        <translation>组合钥匙的历史</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="161"/>
+        <source>History of Key Combinations per Application</source>
+        <translation>每个应用的钥匙组合的历史</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="175"/>
         <source>Export from:</source>
         <translation>导出自：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="187"/>
+        <location filename="../interface/ExportWindow.cpp" line="193"/>
         <source>to:</source>
         <translation>到：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="206"/>
+        <location filename="../interface/ExportWindow.cpp" line="212"/>
         <source>Group by:</source>
         <translation>分组：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="208"/>
+        <location filename="../interface/ExportWindow.cpp" line="214"/>
         <source>Hour</source>
         <translation>时</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="209"/>
+        <location filename="../interface/ExportWindow.cpp" line="215"/>
         <source>Day</source>
         <translation>日</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="210"/>
+        <location filename="../interface/ExportWindow.cpp" line="216"/>
         <source>Week</source>
         <translation>周</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="211"/>
+        <location filename="../interface/ExportWindow.cpp" line="217"/>
         <source>Month</source>
         <translation>月</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="221"/>
+        <location filename="../interface/ExportWindow.cpp" line="227"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="229"/>
+        <location filename="../interface/ExportWindow.cpp" line="235"/>
         <source>Premium Only</source>
         <translation>尊享版独享</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="238"/>
+        <location filename="../interface/ExportWindow.cpp" line="244"/>
         <source>Working..</source>
         <translation>进行中..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="285"/>
+        <location filename="../interface/ExportWindow.cpp" line="291"/>
         <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
         <translation>在'%1'和'%2'之间的按键、点击、滚动和距离的历史。</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="315"/>
-        <location filename="../interface/ExportWindow.cpp" line="456"/>
-        <location filename="../interface/ExportWindow.cpp" line="532"/>
-        <location filename="../interface/ExportWindow.cpp" line="584"/>
+        <location filename="../interface/ExportWindow.cpp" line="321"/>
+        <location filename="../interface/ExportWindow.cpp" line="462"/>
+        <location filename="../interface/ExportWindow.cpp" line="538"/>
+        <location filename="../interface/ExportWindow.cpp" line="590"/>
+        <location filename="../interface/ExportWindow.cpp" line="665"/>
+        <location filename="../interface/ExportWindow.cpp" line="731"/>
         <source>grouped by Week </source>
         <translation>按周分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="335"/>
-        <location filename="../interface/ExportWindow.cpp" line="463"/>
-        <location filename="../interface/ExportWindow.cpp" line="593"/>
+        <location filename="../interface/ExportWindow.cpp" line="341"/>
+        <location filename="../interface/ExportWindow.cpp" line="469"/>
+        <location filename="../interface/ExportWindow.cpp" line="599"/>
+        <location filename="../interface/ExportWindow.cpp" line="672"/>
+        <location filename="../interface/ExportWindow.cpp" line="739"/>
         <source>grouped by Month </source>
         <translation>按月分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="359"/>
-        <location filename="../interface/ExportWindow.cpp" line="472"/>
-        <location filename="../interface/ExportWindow.cpp" line="522"/>
-        <location filename="../interface/ExportWindow.cpp" line="604"/>
+        <location filename="../interface/ExportWindow.cpp" line="365"/>
+        <location filename="../interface/ExportWindow.cpp" line="478"/>
+        <location filename="../interface/ExportWindow.cpp" line="528"/>
+        <location filename="../interface/ExportWindow.cpp" line="610"/>
+        <location filename="../interface/ExportWindow.cpp" line="681"/>
+        <location filename="../interface/ExportWindow.cpp" line="749"/>
         <source>grouped by Hour </source>
         <translation>按小时分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="380"/>
-        <location filename="../interface/ExportWindow.cpp" line="479"/>
-        <location filename="../interface/ExportWindow.cpp" line="546"/>
-        <location filename="../interface/ExportWindow.cpp" line="613"/>
+        <location filename="../interface/ExportWindow.cpp" line="386"/>
+        <location filename="../interface/ExportWindow.cpp" line="485"/>
+        <location filename="../interface/ExportWindow.cpp" line="552"/>
+        <location filename="../interface/ExportWindow.cpp" line="619"/>
+        <location filename="../interface/ExportWindow.cpp" line="688"/>
+        <location filename="../interface/ExportWindow.cpp" line="757"/>
         <source>grouped by Day </source>
         <translation>按天分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="445"/>
+        <location filename="../interface/ExportWindow.cpp" line="451"/>
         <source>Heatmap of keys between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的按键热力图 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="507"/>
+        <location filename="../interface/ExportWindow.cpp" line="513"/>
         <source>Heatmap of clicks between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的点击热力图 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="571"/>
+        <location filename="../interface/ExportWindow.cpp" line="577"/>
         <source>Application input between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的分应用输入 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="664"/>
+        <location filename="../interface/ExportWindow.cpp" line="654"/>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>在'%1'和'%2'之间的按键组合</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="719"/>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>每个应用程序在'%1'和'%2'之间的按键组合</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="809"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>你选了一个超过 90 天的时间范围。导出可能需要一会。</translation>
     </message>
@@ -1967,144 +2000,144 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="674"/>
+        <location filename="../interface/ExportWindow.cpp" line="819"/>
         <source>Exporting Network</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="675"/>
+        <location filename="../interface/ExportWindow.cpp" line="820"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="681"/>
+        <location filename="../interface/ExportWindow.cpp" line="826"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>请选择你要导出的项目。选择你需要的数据，然后是时间段和你想要的分组，每天、每周或者每月，点击”保存“以导出 CSV 文件。</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="688"/>
+        <location filename="../interface/ExportWindow.cpp" line="833"/>
         <source>Traffic per application</source>
         <translation>分应用流量</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="689"/>
+        <location filename="../interface/ExportWindow.cpp" line="834"/>
         <source>Traffic per country</source>
         <translation>分国家流量</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="690"/>
+        <location filename="../interface/ExportWindow.cpp" line="835"/>
         <source>Traffic per network interface</source>
         <translation>分网卡流量</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="691"/>
+        <location filename="../interface/ExportWindow.cpp" line="836"/>
         <source>Traffic per type</source>
         <translation>分类型流量</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="703"/>
+        <location filename="../interface/ExportWindow.cpp" line="848"/>
         <source>Export from:</source>
         <translation>导出自：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="713"/>
+        <location filename="../interface/ExportWindow.cpp" line="858"/>
         <source>to:</source>
         <translation>到：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="732"/>
+        <location filename="../interface/ExportWindow.cpp" line="877"/>
         <source>Group by:</source>
         <translation>分组：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="734"/>
+        <location filename="../interface/ExportWindow.cpp" line="879"/>
         <source>Day</source>
         <translation>日</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="735"/>
-        <location filename="../interface/ExportWindow.cpp" line="833"/>
-        <location filename="../interface/ExportWindow.cpp" line="897"/>
-        <location filename="../interface/ExportWindow.cpp" line="956"/>
-        <location filename="../interface/ExportWindow.cpp" line="1019"/>
+        <location filename="../interface/ExportWindow.cpp" line="880"/>
+        <location filename="../interface/ExportWindow.cpp" line="978"/>
+        <location filename="../interface/ExportWindow.cpp" line="1042"/>
+        <location filename="../interface/ExportWindow.cpp" line="1101"/>
+        <location filename="../interface/ExportWindow.cpp" line="1164"/>
         <source>Week</source>
         <translation>周</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="736"/>
-        <location filename="../interface/ExportWindow.cpp" line="841"/>
-        <location filename="../interface/ExportWindow.cpp" line="904"/>
-        <location filename="../interface/ExportWindow.cpp" line="964"/>
-        <location filename="../interface/ExportWindow.cpp" line="1028"/>
+        <location filename="../interface/ExportWindow.cpp" line="881"/>
+        <location filename="../interface/ExportWindow.cpp" line="986"/>
+        <location filename="../interface/ExportWindow.cpp" line="1049"/>
+        <location filename="../interface/ExportWindow.cpp" line="1109"/>
+        <location filename="../interface/ExportWindow.cpp" line="1173"/>
         <source>Month</source>
         <translation>月</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="746"/>
+        <location filename="../interface/ExportWindow.cpp" line="891"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="754"/>
+        <location filename="../interface/ExportWindow.cpp" line="899"/>
         <source>Premium Only</source>
         <translation>尊享版独享</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="763"/>
+        <location filename="../interface/ExportWindow.cpp" line="908"/>
         <source>Working..</source>
         <translation>进行中..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="810"/>
+        <location filename="../interface/ExportWindow.cpp" line="955"/>
         <source>Network interface traffic between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的网卡流量 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="840"/>
-        <location filename="../interface/ExportWindow.cpp" line="903"/>
-        <location filename="../interface/ExportWindow.cpp" line="963"/>
-        <location filename="../interface/ExportWindow.cpp" line="1027"/>
+        <location filename="../interface/ExportWindow.cpp" line="985"/>
+        <location filename="../interface/ExportWindow.cpp" line="1048"/>
+        <location filename="../interface/ExportWindow.cpp" line="1108"/>
+        <location filename="../interface/ExportWindow.cpp" line="1172"/>
         <source>grouped by Week </source>
         <translation>按周分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="848"/>
-        <location filename="../interface/ExportWindow.cpp" line="910"/>
-        <location filename="../interface/ExportWindow.cpp" line="971"/>
-        <location filename="../interface/ExportWindow.cpp" line="1036"/>
+        <location filename="../interface/ExportWindow.cpp" line="993"/>
+        <location filename="../interface/ExportWindow.cpp" line="1055"/>
+        <location filename="../interface/ExportWindow.cpp" line="1116"/>
+        <location filename="../interface/ExportWindow.cpp" line="1181"/>
         <source>grouped by Month </source>
         <translation>按月分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="856"/>
-        <location filename="../interface/ExportWindow.cpp" line="918"/>
-        <location filename="../interface/ExportWindow.cpp" line="979"/>
-        <location filename="../interface/ExportWindow.cpp" line="1045"/>
+        <location filename="../interface/ExportWindow.cpp" line="1001"/>
+        <location filename="../interface/ExportWindow.cpp" line="1063"/>
+        <location filename="../interface/ExportWindow.cpp" line="1124"/>
+        <location filename="../interface/ExportWindow.cpp" line="1190"/>
         <source>grouped by Day </source>
         <translation>按天分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="875"/>
+        <location filename="../interface/ExportWindow.cpp" line="1020"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="892"/>
+        <location filename="../interface/ExportWindow.cpp" line="1037"/>
         <source>Network per applications between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的分应用流量 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="951"/>
+        <location filename="../interface/ExportWindow.cpp" line="1096"/>
         <source>Country network traffic between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的国家流量 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1014"/>
+        <location filename="../interface/ExportWindow.cpp" line="1159"/>
         <source>Network per type between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的分类型流量 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1099"/>
+        <location filename="../interface/ExportWindow.cpp" line="1244"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>你选了一个超过 90 天的时间范围。导出可能需要一会。</translation>
     </message>
@@ -4671,127 +4704,127 @@ This will reset any custom layouts!</source>
 <context>
     <name>UptimePage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1109"/>
+        <location filename="../interface/ExportWindow.cpp" line="1254"/>
         <source>Exporting Uptime</source>
         <translation>导出上线时长</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1110"/>
+        <location filename="../interface/ExportWindow.cpp" line="1255"/>
         <source>Close</source>
         <translation>关闭</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1116"/>
+        <location filename="../interface/ExportWindow.cpp" line="1261"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>请选择你要导出的项目。选择你需要的数据，然后是时间段和你想要的分组，每天、每周或者每月，点击”保存“以导出 CSV 文件。</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1124"/>
+        <location filename="../interface/ExportWindow.cpp" line="1269"/>
         <source>Total uptime per application</source>
         <translation>分应用总上线时间</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1126"/>
+        <location filename="../interface/ExportWindow.cpp" line="1271"/>
         <source>Active time used per application</source>
         <translation>分应用活跃时间</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1127"/>
+        <location filename="../interface/ExportWindow.cpp" line="1272"/>
         <source>List of your reboots</source>
         <translation>重启列表</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1145"/>
+        <location filename="../interface/ExportWindow.cpp" line="1290"/>
         <source>Export from:</source>
         <translation>导出自：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1156"/>
+        <location filename="../interface/ExportWindow.cpp" line="1301"/>
         <source>to:</source>
         <translation>到：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1176"/>
+        <location filename="../interface/ExportWindow.cpp" line="1321"/>
         <source>Group by:</source>
         <translation>分组：</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1179"/>
-        <location filename="../interface/ExportWindow.cpp" line="1385"/>
-        <location filename="../interface/ExportWindow.cpp" line="1406"/>
-        <location filename="../interface/ExportWindow.cpp" line="1409"/>
+        <location filename="../interface/ExportWindow.cpp" line="1324"/>
+        <location filename="../interface/ExportWindow.cpp" line="1530"/>
+        <location filename="../interface/ExportWindow.cpp" line="1551"/>
+        <location filename="../interface/ExportWindow.cpp" line="1554"/>
         <source>Hour</source>
         <translation>时</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1180"/>
+        <location filename="../interface/ExportWindow.cpp" line="1325"/>
         <source>Day</source>
         <translation>日</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1181"/>
-        <location filename="../interface/ExportWindow.cpp" line="1389"/>
+        <location filename="../interface/ExportWindow.cpp" line="1326"/>
+        <location filename="../interface/ExportWindow.cpp" line="1534"/>
         <source>Week</source>
         <translation>周</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1182"/>
-        <location filename="../interface/ExportWindow.cpp" line="1393"/>
+        <location filename="../interface/ExportWindow.cpp" line="1327"/>
+        <location filename="../interface/ExportWindow.cpp" line="1538"/>
         <source>Month</source>
         <translation>月</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1192"/>
+        <location filename="../interface/ExportWindow.cpp" line="1337"/>
         <source>Save</source>
         <translation>保存</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1200"/>
+        <location filename="../interface/ExportWindow.cpp" line="1345"/>
         <source>Premium Only</source>
         <translation>尊享版独享</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1209"/>
+        <location filename="../interface/ExportWindow.cpp" line="1354"/>
         <source>Working..</source>
         <translation>进行中..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1233"/>
+        <location filename="../interface/ExportWindow.cpp" line="1378"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>你选了一个超过 90 天的时间范围。导出可能需要一会。</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1307"/>
+        <location filename="../interface/ExportWindow.cpp" line="1452"/>
         <source>Reboot list between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的重启列表 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1337"/>
+        <location filename="../interface/ExportWindow.cpp" line="1482"/>
         <source>Application uptime </source>
         <translation>应用上线时长 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1378"/>
+        <location filename="../interface/ExportWindow.cpp" line="1523"/>
         <source>Active application time between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的应用活跃时间 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1386"/>
+        <location filename="../interface/ExportWindow.cpp" line="1531"/>
         <source>grouped by Hour </source>
         <translation>按小时分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1390"/>
+        <location filename="../interface/ExportWindow.cpp" line="1535"/>
         <source>grouped by Week </source>
         <translation>按周分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1394"/>
+        <location filename="../interface/ExportWindow.cpp" line="1539"/>
         <source>grouped by Month </source>
         <translation>按月分组 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1398"/>
+        <location filename="../interface/ExportWindow.cpp" line="1543"/>
         <source>grouped by Day </source>
         <translation>按天分组 </translation>
     </message>

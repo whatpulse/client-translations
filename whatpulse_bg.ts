@@ -281,149 +281,149 @@ You can continue pulsing.</source>
         <translation>провал на AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="806"/>
+        <location filename="../application.cpp" line="805"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="810"/>
+        <location filename="../application.cpp" line="809"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="814"/>
+        <location filename="../application.cpp" line="813"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="818"/>
+        <location filename="../application.cpp" line="817"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="822"/>
+        <location filename="../application.cpp" line="821"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="825"/>
+        <location filename="../application.cpp" line="824"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="829"/>
+        <location filename="../application.cpp" line="828"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="832"/>
+        <location filename="../application.cpp" line="831"/>
         <source>Enabled Stats</source>
         <translation>Включени статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="832"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="834"/>
+        <location filename="../application.cpp" line="833"/>
         <source>Keyboard Heatmap</source>
         <translation>Топлинна карта на клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="835"/>
+        <location filename="../application.cpp" line="834"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="835"/>
         <source>Mouse Heatmap</source>
         <translation>Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="837"/>
+        <location filename="../application.cpp" line="836"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="838"/>
+        <location filename="../application.cpp" line="837"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1282"/>
+        <location filename="../application.cpp" line="1283"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1283"/>
+        <location filename="../application.cpp" line="1284"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката 'Работа офлайн' е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1489"/>
+        <location filename="../application.cpp" line="1490"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1492"/>
-        <location filename="../application.cpp" line="1515"/>
-        <location filename="../application.cpp" line="1531"/>
-        <location filename="../application.cpp" line="1547"/>
-        <location filename="../application.cpp" line="1590"/>
-        <location filename="../application.cpp" line="1601"/>
+        <location filename="../application.cpp" line="1493"/>
+        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1532"/>
+        <location filename="../application.cpp" line="1548"/>
+        <location filename="../application.cpp" line="1591"/>
+        <location filename="../application.cpp" line="1602"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1512"/>
+        <location filename="../application.cpp" line="1513"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1528"/>
+        <location filename="../application.cpp" line="1529"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1548"/>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1549"/>
+        <location filename="../application.cpp" line="1603"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1571"/>
+        <location filename="../application.cpp" line="1572"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1588"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2021"/>
-        <location filename="../application.cpp" line="2034"/>
+        <location filename="../application.cpp" line="2025"/>
+        <location filename="../application.cpp" line="2038"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2022"/>
+        <location filename="../application.cpp" line="2026"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2035"/>
+        <location filename="../application.cpp" line="2039"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -1213,24 +1213,29 @@ Please check your permissions on: %2</source>
 <context>
     <name>InputKeyCombinationsPage</name>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="95"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="97"/>
         <source>Combination</source>
         <translation>Комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="95"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="97"/>
         <source>Used</source>
         <translation>Използван</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="111"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
         <source>Hide Shift only</source>
         <translation>Скрий само Shift</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="120"/>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
         <source>Hide Ctrl only</source>
         <translation>Скрий само Ctrl</translation>
+    </message>
+    <message>
+        <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="139"/>
+        <source>Export Wizard</source>
+        <translation>Съветник за експорт</translation>
     </message>
 </context>
 <context>
@@ -1506,108 +1511,136 @@ Please check your permissions on: %2</source>
         <translation>Клавиши за приложения, кликвания, превъртания и разстояние</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="169"/>
+        <location filename="../interface/ExportWindow.cpp" line="159"/>
+        <source>History of Key Combinations</source>
+        <translation>История на комбинациите от ключове</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="161"/>
+        <source>History of Key Combinations per Application</source>
+        <translation>История на комбинациите от ключове за всяко приложение</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="175"/>
         <source>Export from:</source>
         <translation>Експорт от:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="187"/>
+        <location filename="../interface/ExportWindow.cpp" line="193"/>
         <source>to:</source>
         <translation>до:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="206"/>
+        <location filename="../interface/ExportWindow.cpp" line="212"/>
         <source>Group by:</source>
         <translation>Групирай по:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="208"/>
+        <location filename="../interface/ExportWindow.cpp" line="214"/>
         <source>Hour</source>
         <translation>Час</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="209"/>
+        <location filename="../interface/ExportWindow.cpp" line="215"/>
         <source>Day</source>
         <translation>Ден</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="210"/>
+        <location filename="../interface/ExportWindow.cpp" line="216"/>
         <source>Week</source>
         <translation>Седмица</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="211"/>
+        <location filename="../interface/ExportWindow.cpp" line="217"/>
         <source>Month</source>
         <translation>Месец</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="221"/>
+        <location filename="../interface/ExportWindow.cpp" line="227"/>
         <source>Save</source>
         <translation>Запази</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="229"/>
+        <location filename="../interface/ExportWindow.cpp" line="235"/>
         <source>Premium Only</source>
         <translation>Само премиум</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="238"/>
+        <location filename="../interface/ExportWindow.cpp" line="244"/>
         <source>Working..</source>
         <translation>Прави се..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="285"/>
+        <location filename="../interface/ExportWindow.cpp" line="291"/>
         <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
         <translation>История на клавишите, кликванията, превъртанията и разстоянието между '%1' и '%2'</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="315"/>
-        <location filename="../interface/ExportWindow.cpp" line="456"/>
-        <location filename="../interface/ExportWindow.cpp" line="532"/>
-        <location filename="../interface/ExportWindow.cpp" line="584"/>
+        <location filename="../interface/ExportWindow.cpp" line="321"/>
+        <location filename="../interface/ExportWindow.cpp" line="462"/>
+        <location filename="../interface/ExportWindow.cpp" line="538"/>
+        <location filename="../interface/ExportWindow.cpp" line="590"/>
+        <location filename="../interface/ExportWindow.cpp" line="665"/>
+        <location filename="../interface/ExportWindow.cpp" line="731"/>
         <source>grouped by Week </source>
         <translation>групирано по седмица </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="335"/>
-        <location filename="../interface/ExportWindow.cpp" line="463"/>
-        <location filename="../interface/ExportWindow.cpp" line="593"/>
+        <location filename="../interface/ExportWindow.cpp" line="341"/>
+        <location filename="../interface/ExportWindow.cpp" line="469"/>
+        <location filename="../interface/ExportWindow.cpp" line="599"/>
+        <location filename="../interface/ExportWindow.cpp" line="672"/>
+        <location filename="../interface/ExportWindow.cpp" line="739"/>
         <source>grouped by Month </source>
         <translation>групирано по месец </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="359"/>
-        <location filename="../interface/ExportWindow.cpp" line="472"/>
-        <location filename="../interface/ExportWindow.cpp" line="522"/>
-        <location filename="../interface/ExportWindow.cpp" line="604"/>
+        <location filename="../interface/ExportWindow.cpp" line="365"/>
+        <location filename="../interface/ExportWindow.cpp" line="478"/>
+        <location filename="../interface/ExportWindow.cpp" line="528"/>
+        <location filename="../interface/ExportWindow.cpp" line="610"/>
+        <location filename="../interface/ExportWindow.cpp" line="681"/>
+        <location filename="../interface/ExportWindow.cpp" line="749"/>
         <source>grouped by Hour </source>
         <translation>групирано по час </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="380"/>
-        <location filename="../interface/ExportWindow.cpp" line="479"/>
-        <location filename="../interface/ExportWindow.cpp" line="546"/>
-        <location filename="../interface/ExportWindow.cpp" line="613"/>
+        <location filename="../interface/ExportWindow.cpp" line="386"/>
+        <location filename="../interface/ExportWindow.cpp" line="485"/>
+        <location filename="../interface/ExportWindow.cpp" line="552"/>
+        <location filename="../interface/ExportWindow.cpp" line="619"/>
+        <location filename="../interface/ExportWindow.cpp" line="688"/>
+        <location filename="../interface/ExportWindow.cpp" line="757"/>
         <source>grouped by Day </source>
         <translation>групирано по ден </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="445"/>
+        <location filename="../interface/ExportWindow.cpp" line="451"/>
         <source>Heatmap of keys between '%1' and '%2' </source>
         <translation>Топлинна карта на клавиши между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="507"/>
+        <location filename="../interface/ExportWindow.cpp" line="513"/>
         <source>Heatmap of clicks between '%1' and '%2' </source>
         <translation>Топлинна карта на кликове между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="571"/>
+        <location filename="../interface/ExportWindow.cpp" line="577"/>
         <source>Application input between '%1' and '%2' </source>
         <translation>Приложение между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="664"/>
+        <location filename="../interface/ExportWindow.cpp" line="654"/>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>Комбинации от клавиши между '%1' и '%2'</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="719"/>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>Комбинации от клавиши за приложение между "%1" и "%2</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow.cpp" line="809"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Селектирали сте обхват на дните повече от 90 дни. Експортирането може да отнеме време.</translation>
     </message>
@@ -1962,144 +1995,144 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="674"/>
+        <location filename="../interface/ExportWindow.cpp" line="819"/>
         <source>Exporting Network</source>
         <translation>Експорт на мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="675"/>
+        <location filename="../interface/ExportWindow.cpp" line="820"/>
         <source>Close</source>
         <translation>Затвори</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="681"/>
+        <location filename="../interface/ExportWindow.cpp" line="826"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Моля направете селекцията за експорт отдолу. Селектирайте каквито данни искате и времето, относно дали искате да я групирате за ден, седмица или месец и натистенете Запази за да експротнете в CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="688"/>
+        <location filename="../interface/ExportWindow.cpp" line="833"/>
         <source>Traffic per application</source>
         <translation>Трафик за приложение</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="689"/>
+        <location filename="../interface/ExportWindow.cpp" line="834"/>
         <source>Traffic per country</source>
         <translation>Трафик за държава</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="690"/>
+        <location filename="../interface/ExportWindow.cpp" line="835"/>
         <source>Traffic per network interface</source>
         <translation>Трафик за мрежов интерфейс</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="691"/>
+        <location filename="../interface/ExportWindow.cpp" line="836"/>
         <source>Traffic per type</source>
         <translation>Трафик за тип</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="703"/>
+        <location filename="../interface/ExportWindow.cpp" line="848"/>
         <source>Export from:</source>
         <translation>Експорт от:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="713"/>
+        <location filename="../interface/ExportWindow.cpp" line="858"/>
         <source>to:</source>
         <translation>до:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="732"/>
+        <location filename="../interface/ExportWindow.cpp" line="877"/>
         <source>Group by:</source>
         <translation>Групирай по:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="734"/>
+        <location filename="../interface/ExportWindow.cpp" line="879"/>
         <source>Day</source>
         <translation>Ден</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="735"/>
-        <location filename="../interface/ExportWindow.cpp" line="833"/>
-        <location filename="../interface/ExportWindow.cpp" line="897"/>
-        <location filename="../interface/ExportWindow.cpp" line="956"/>
-        <location filename="../interface/ExportWindow.cpp" line="1019"/>
+        <location filename="../interface/ExportWindow.cpp" line="880"/>
+        <location filename="../interface/ExportWindow.cpp" line="978"/>
+        <location filename="../interface/ExportWindow.cpp" line="1042"/>
+        <location filename="../interface/ExportWindow.cpp" line="1101"/>
+        <location filename="../interface/ExportWindow.cpp" line="1164"/>
         <source>Week</source>
         <translation>Седмица</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="736"/>
-        <location filename="../interface/ExportWindow.cpp" line="841"/>
-        <location filename="../interface/ExportWindow.cpp" line="904"/>
-        <location filename="../interface/ExportWindow.cpp" line="964"/>
-        <location filename="../interface/ExportWindow.cpp" line="1028"/>
+        <location filename="../interface/ExportWindow.cpp" line="881"/>
+        <location filename="../interface/ExportWindow.cpp" line="986"/>
+        <location filename="../interface/ExportWindow.cpp" line="1049"/>
+        <location filename="../interface/ExportWindow.cpp" line="1109"/>
+        <location filename="../interface/ExportWindow.cpp" line="1173"/>
         <source>Month</source>
         <translation>Месец</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="746"/>
+        <location filename="../interface/ExportWindow.cpp" line="891"/>
         <source>Save</source>
         <translation>Запази</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="754"/>
+        <location filename="../interface/ExportWindow.cpp" line="899"/>
         <source>Premium Only</source>
         <translation>Само за премиум</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="763"/>
+        <location filename="../interface/ExportWindow.cpp" line="908"/>
         <source>Working..</source>
         <translation>Прави се..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="810"/>
+        <location filename="../interface/ExportWindow.cpp" line="955"/>
         <source>Network interface traffic between '%1' and '%2' </source>
         <translation>История на мрежов интерфейс между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="840"/>
-        <location filename="../interface/ExportWindow.cpp" line="903"/>
-        <location filename="../interface/ExportWindow.cpp" line="963"/>
-        <location filename="../interface/ExportWindow.cpp" line="1027"/>
+        <location filename="../interface/ExportWindow.cpp" line="985"/>
+        <location filename="../interface/ExportWindow.cpp" line="1048"/>
+        <location filename="../interface/ExportWindow.cpp" line="1108"/>
+        <location filename="../interface/ExportWindow.cpp" line="1172"/>
         <source>grouped by Week </source>
         <translation>групирано по седмица </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="848"/>
-        <location filename="../interface/ExportWindow.cpp" line="910"/>
-        <location filename="../interface/ExportWindow.cpp" line="971"/>
-        <location filename="../interface/ExportWindow.cpp" line="1036"/>
+        <location filename="../interface/ExportWindow.cpp" line="993"/>
+        <location filename="../interface/ExportWindow.cpp" line="1055"/>
+        <location filename="../interface/ExportWindow.cpp" line="1116"/>
+        <location filename="../interface/ExportWindow.cpp" line="1181"/>
         <source>grouped by Month </source>
         <translation>групирано по месец </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="856"/>
-        <location filename="../interface/ExportWindow.cpp" line="918"/>
-        <location filename="../interface/ExportWindow.cpp" line="979"/>
-        <location filename="../interface/ExportWindow.cpp" line="1045"/>
+        <location filename="../interface/ExportWindow.cpp" line="1001"/>
+        <location filename="../interface/ExportWindow.cpp" line="1063"/>
+        <location filename="../interface/ExportWindow.cpp" line="1124"/>
+        <location filename="../interface/ExportWindow.cpp" line="1190"/>
         <source>grouped by Day </source>
         <translation>групирано по ден </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="875"/>
+        <location filename="../interface/ExportWindow.cpp" line="1020"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="892"/>
+        <location filename="../interface/ExportWindow.cpp" line="1037"/>
         <source>Network per applications between '%1' and '%2' </source>
         <translation>Мрежа за приложение между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="951"/>
+        <location filename="../interface/ExportWindow.cpp" line="1096"/>
         <source>Country network traffic between '%1' and '%2' </source>
         <translation>Трафик на мрежа за държава между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1014"/>
+        <location filename="../interface/ExportWindow.cpp" line="1159"/>
         <source>Network per type between '%1' and '%2' </source>
         <translation>Мрежа за вид между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1099"/>
+        <location filename="../interface/ExportWindow.cpp" line="1244"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Селектирали сте обхват на дните повече от 90 дни. Експортирането може да отнеме време.</translation>
     </message>
@@ -4664,127 +4697,127 @@ This will reset any custom layouts!</source>
 <context>
     <name>UptimePage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1109"/>
+        <location filename="../interface/ExportWindow.cpp" line="1254"/>
         <source>Exporting Uptime</source>
         <translation>Експорт на време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1110"/>
+        <location filename="../interface/ExportWindow.cpp" line="1255"/>
         <source>Close</source>
         <translation>Затвори</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1116"/>
+        <location filename="../interface/ExportWindow.cpp" line="1261"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Моля направете селекцията за експорт отдолу. Селектирайте каквито данни искате и времето, относно дали искате да я групирате за ден, седмица или месец и натистенете Запази за да експротнете в CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1124"/>
+        <location filename="../interface/ExportWindow.cpp" line="1269"/>
         <source>Total uptime per application</source>
         <translation>Общо време на работа за приложение</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1126"/>
+        <location filename="../interface/ExportWindow.cpp" line="1271"/>
         <source>Active time used per application</source>
         <translation>Активно време използвано за приложение</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1127"/>
+        <location filename="../interface/ExportWindow.cpp" line="1272"/>
         <source>List of your reboots</source>
         <translation>Лист на рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1145"/>
+        <location filename="../interface/ExportWindow.cpp" line="1290"/>
         <source>Export from:</source>
         <translation>Експорт от:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1156"/>
+        <location filename="../interface/ExportWindow.cpp" line="1301"/>
         <source>to:</source>
         <translation>до:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1176"/>
+        <location filename="../interface/ExportWindow.cpp" line="1321"/>
         <source>Group by:</source>
         <translation>Групирай по:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1179"/>
-        <location filename="../interface/ExportWindow.cpp" line="1385"/>
-        <location filename="../interface/ExportWindow.cpp" line="1406"/>
-        <location filename="../interface/ExportWindow.cpp" line="1409"/>
+        <location filename="../interface/ExportWindow.cpp" line="1324"/>
+        <location filename="../interface/ExportWindow.cpp" line="1530"/>
+        <location filename="../interface/ExportWindow.cpp" line="1551"/>
+        <location filename="../interface/ExportWindow.cpp" line="1554"/>
         <source>Hour</source>
         <translation>Час</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1180"/>
+        <location filename="../interface/ExportWindow.cpp" line="1325"/>
         <source>Day</source>
         <translation>Ден</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1181"/>
-        <location filename="../interface/ExportWindow.cpp" line="1389"/>
+        <location filename="../interface/ExportWindow.cpp" line="1326"/>
+        <location filename="../interface/ExportWindow.cpp" line="1534"/>
         <source>Week</source>
         <translation>Седмица</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1182"/>
-        <location filename="../interface/ExportWindow.cpp" line="1393"/>
+        <location filename="../interface/ExportWindow.cpp" line="1327"/>
+        <location filename="../interface/ExportWindow.cpp" line="1538"/>
         <source>Month</source>
         <translation>Месец</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1192"/>
+        <location filename="../interface/ExportWindow.cpp" line="1337"/>
         <source>Save</source>
         <translation>Запази</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1200"/>
+        <location filename="../interface/ExportWindow.cpp" line="1345"/>
         <source>Premium Only</source>
         <translation>Само премиум</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1209"/>
+        <location filename="../interface/ExportWindow.cpp" line="1354"/>
         <source>Working..</source>
         <translation>Прави се..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1233"/>
+        <location filename="../interface/ExportWindow.cpp" line="1378"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Селектирали сте обхват на дните повече от 90 дни. Експортирането може да отнеме време.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1307"/>
+        <location filename="../interface/ExportWindow.cpp" line="1452"/>
         <source>Reboot list between '%1' and '%2' </source>
         <translation>Рестарт лист между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1337"/>
+        <location filename="../interface/ExportWindow.cpp" line="1482"/>
         <source>Application uptime </source>
         <translation>Време на работа за приложение </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1378"/>
+        <location filename="../interface/ExportWindow.cpp" line="1523"/>
         <source>Active application time between '%1' and '%2' </source>
         <translation>Време на активност за приложение между '%1' и '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1386"/>
+        <location filename="../interface/ExportWindow.cpp" line="1531"/>
         <source>grouped by Hour </source>
         <translation>групирано по час </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1390"/>
+        <location filename="../interface/ExportWindow.cpp" line="1535"/>
         <source>grouped by Week </source>
         <translation>групирано по седмица </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1394"/>
+        <location filename="../interface/ExportWindow.cpp" line="1539"/>
         <source>grouped by Month </source>
         <translation>групирано по месец </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1398"/>
+        <location filename="../interface/ExportWindow.cpp" line="1543"/>
         <source>grouped by Day </source>
         <translation>групирано по ден </translation>
     </message>
