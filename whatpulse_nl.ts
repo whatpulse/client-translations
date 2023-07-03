@@ -39,149 +39,154 @@
         <translation>Upgrade naar Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="85"/>
+        <location filename="../interface/AccountTab.cpp" line="75"/>
+        <source>Start Backup</source>
+        <translation>Back-up starten</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="90"/>
         <source>Today</source>
         <translation>Vandaag</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="88"/>
+        <location filename="../interface/AccountTab.cpp" line="93"/>
         <source>day ago</source>
         <translation>dag geleden</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="91"/>
+        <location filename="../interface/AccountTab.cpp" line="96"/>
         <source>days ago</source>
         <translation>dagen geleden</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="112"/>
+        <location filename="../interface/AccountTab.cpp" line="120"/>
         <source>Total Keys:</source>
         <translation>Toetsen:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="114"/>
+        <location filename="../interface/AccountTab.cpp" line="122"/>
         <source>Total Clicks:</source>
         <translation>Klikken:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="116"/>
+        <location filename="../interface/AccountTab.cpp" line="124"/>
         <source>Total Download:</source>
         <translation>Download:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="118"/>
+        <location filename="../interface/AccountTab.cpp" line="126"/>
         <source>Total Upload:</source>
         <translation>Upload:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="120"/>
+        <location filename="../interface/AccountTab.cpp" line="128"/>
         <source>Total Uptime:</source>
         <translation>Uptime:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="122"/>
+        <location filename="../interface/AccountTab.cpp" line="130"/>
         <source>Total Mouse Scrolls:</source>
         <translation>Totaal aantal muisbewegingen:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="124"/>
+        <location filename="../interface/AccountTab.cpp" line="132"/>
         <source>Total Mouse Distance:</source>
         <translation>Totale muisafstand:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="194"/>
+        <location filename="../interface/AccountTab.cpp" line="202"/>
         <source> &amp;View Online Stats</source>
         <translation> &amp;Online Statistieken Bekijken</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="202"/>
+        <location filename="../interface/AccountTab.cpp" line="210"/>
         <source> &amp;Log out</source>
         <translation> &amp;Uitloggen</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="208"/>
+        <location filename="../interface/AccountTab.cpp" line="216"/>
         <source> &amp;Reset Token</source>
         <translation> &amp;Token Resetten</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="215"/>
+        <location filename="../interface/AccountTab.cpp" line="223"/>
         <source> Change &amp;Password</source>
         <translation> &amp;Wachtwoord Veranderen</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="223"/>
+        <location filename="../interface/AccountTab.cpp" line="231"/>
         <source> Refresh &amp;Account</source>
         <translation> Ververs &amp;Account Info</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="288"/>
         <location filename="../interface/AccountTab.cpp" line="296"/>
         <location filename="../interface/AccountTab.cpp" line="304"/>
         <location filename="../interface/AccountTab.cpp" line="312"/>
         <location filename="../interface/AccountTab.cpp" line="320"/>
         <location filename="../interface/AccountTab.cpp" line="328"/>
-        <location filename="../interface/AccountTab.cpp" line="337"/>
+        <location filename="../interface/AccountTab.cpp" line="336"/>
+        <location filename="../interface/AccountTab.cpp" line="345"/>
         <source>Unknown</source>
         <translation>Onbekend</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="342"/>
+        <location filename="../interface/AccountTab.cpp" line="351"/>
         <source>Yes (expires at %1)</source>
         <translation>Ja (verloopt op %1)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="346"/>
+        <location filename="../interface/AccountTab.cpp" line="355"/>
         <source>No</source>
         <translation>Nee</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="415"/>
+        <location filename="../interface/AccountTab.cpp" line="426"/>
         <source>Log Out</source>
         <translation>Uitloggen</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="417"/>
+        <location filename="../interface/AccountTab.cpp" line="428"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Als u zich afmeldt van uw account, worden uw niet-gepulsed statistieken opnieuw ingesteld als u zich aanmeldt bij een ander account (de database blijft behouden) en de Setup Assistent opnieuw start.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="421"/>
+        <location filename="../interface/AccountTab.cpp" line="432"/>
         <source>Do you want to continue?</source>
         <translation>Wil je verder gaan?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="437"/>
+        <location filename="../interface/AccountTab.cpp" line="448"/>
         <source>Change Password</source>
         <translation>Wachtwoord Veranderen</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="438"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <location filename="../interface/AccountTab.cpp" line="449"/>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>U kunt uw wachtwoord in de client niet wijzigen. Log uit en log opnieuw in met hetzelfde e-mailadres en computernaam om je wachtwoord in deze client te wijzigen. Uw statistieken zullen bewaard blijven als u dezelfde gegevens gebruikt.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="447"/>
-        <location filename="../interface/AccountTab.cpp" line="482"/>
+        <location filename="../interface/AccountTab.cpp" line="458"/>
+        <location filename="../interface/AccountTab.cpp" line="493"/>
         <source>Reset your token</source>
         <translation>Token resetten</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="448"/>
+        <location filename="../interface/AccountTab.cpp" line="459"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Het resetten van uw token zal uw lokale statistieken resetten en u weer laten pulsen.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="450"/>
+        <location filename="../interface/AccountTab.cpp" line="461"/>
         <source>Are you sure?</source>
         <translation>Weet je het zeker?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="478"/>
+        <location filename="../interface/AccountTab.cpp" line="489"/>
         <source>Token reset!</source>
         <translation>Token gereset!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="479"/>
+        <location filename="../interface/AccountTab.cpp" line="490"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -190,29 +195,39 @@ You can continue pulsing.</source>
 Je kan nu weer pulsen.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="483"/>
+        <location filename="../interface/AccountTab.cpp" line="494"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>Er ging iets verkeer tijdens de token reset:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="548"/>
+        <location filename="../interface/AccountTab.cpp" line="559"/>
         <source>Premium Membership</source>
         <translation>Premium Lidmaatschap</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="549"/>
+        <location filename="../interface/AccountTab.cpp" line="560"/>
         <source>Your premium membership has just been activated!</source>
         <translation>Uw premium lidmaatschap is zojuist geactiveerd!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="555"/>
+        <location filename="../interface/AccountTab.cpp" line="566"/>
         <source>Refresh Account Status</source>
         <translation>Ververs Account Info</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="556"/>
+        <location filename="../interface/AccountTab.cpp" line="567"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Er ging iets verkeer tijdens de account ververs:</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="575"/>
+        <source>Backup Started</source>
+        <translation>Back-up gestart</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="576"/>
+        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
+        <translation>Er is met succes een back-up gestart. Deze wordt op de achtergrond uitgevoerd en zal een paar minuten duren.</translation>
     </message>
 </context>
 <context>
@@ -256,174 +271,174 @@ Je kan nu weer pulsen.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="196"/>
+        <location filename="../application.cpp" line="197"/>
         <source>No system tray</source>
         <translation>Geen system tray</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="197"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <location filename="../application.cpp" line="198"/>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Ik kon geen system tray ontdekken op dit systeem, en ik heb dat nodig om te draaien.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="215"/>
+        <location filename="../application.cpp" line="216"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES functies niet beschikbaar. Zijn libeay32.dll en ssleay32.dll aanwezig? Zo niet, probeer om te herinstalleren!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="219"/>
+        <location filename="../application.cpp" line="220"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES functies niet beschikbaar. Is the OpenSSL library aanwezig?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="222"/>
+        <location filename="../application.cpp" line="223"/>
         <source>AES failure</source>
         <translation>AES probleem</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="805"/>
+        <location filename="../application.cpp" line="823"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Open Venster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="809"/>
+        <location filename="../application.cpp" line="827"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Schakel Geek Venster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="813"/>
+        <location filename="../application.cpp" line="831"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Open Instellingen</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="817"/>
+        <location filename="../application.cpp" line="835"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Controleer op Updates</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="821"/>
+        <location filename="../application.cpp" line="839"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="824"/>
+        <location filename="../application.cpp" line="842"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Bekijk Online Statistieken</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="828"/>
+        <location filename="../application.cpp" line="846"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Stop WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="831"/>
+        <location filename="../application.cpp" line="849"/>
         <source>Enabled Stats</source>
         <translation>Ingeschakelde Stats</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="832"/>
+        <location filename="../application.cpp" line="850"/>
         <source>Keyboard</source>
         <translation>Toetsenbord</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="851"/>
         <source>Keyboard Heatmap</source>
         <translation>Toetsenbord Heat map</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="834"/>
+        <location filename="../application.cpp" line="852"/>
         <source>Mouse</source>
         <translation>Muis</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="835"/>
+        <location filename="../application.cpp" line="853"/>
         <source>Mouse Heatmap</source>
         <translation>Muis Heat map</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="854"/>
         <source>Network</source>
         <translation>Netwerk</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="837"/>
+        <location filename="../application.cpp" line="855"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1283"/>
+        <location filename="../application.cpp" line="1299"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsing Uitgeschakeld!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1284"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>De instelling &quot;Offline werken&quot; is ingeschakeld. Dit voorkomt dat de client online gaat, wat pulsen inhoudt. Zet die instelling uit en je kunt weer pulsen.</translation>
+        <location filename="../application.cpp" line="1300"/>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>De instelling "Offline werken" is ingeschakeld. Dit voorkomt dat de client online gaat, wat pulsen inhoudt. Zet die instelling uit en je kunt weer pulsen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1490"/>
+        <location filename="../application.cpp" line="1506"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Je hebt de draagbare modus ingeschakeld. Deze moet alleen worden gebruikt wanneer WhatPulse op een draagbaar medium wordt geplaatst, zoals een USB-stick.
 Wilt u doorgaan?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1493"/>
-        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1509"/>
         <location filename="../application.cpp" line="1532"/>
         <location filename="../application.cpp" line="1548"/>
-        <location filename="../application.cpp" line="1591"/>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1564"/>
+        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1618"/>
         <source>Portable Mode</source>
         <translation>Draagbare Modus</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1513"/>
+        <location filename="../application.cpp" line="1529"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Het kopiëren van de database naar %1 is mislukt! Controleer de schrijfrechten.
 Schakel draagbare modus uit.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1529"/>
+        <location filename="../application.cpp" line="1545"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Het kopiëren van het statistiekbestand naar %1 is mislukt! Controleer de schrijfrechten.
 Schakel draagbare modus uit.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1549"/>
-        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1565"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Ik heb wat databasebestanden verhuist en moet mezelf opnieuw opstarten, ik zie je zo!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1572"/>
+        <location filename="../application.cpp" line="1588"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Het kopiëren van de database naar %1 is mislukt! Controleer de schrijfrechten.
 Draagbare modus blijft ingeschakeld.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1604"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Het kopiëren van het statistiekbestand naar %1 is mislukt! Controleer de schrijfrechten.
 Draagbare modus blijft ingeschakeld.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2025"/>
-        <location filename="../application.cpp" line="2038"/>
+        <location filename="../application.cpp" line="2041"/>
+        <location filename="../application.cpp" line="2054"/>
         <source>Premium features disabled</source>
         <translation>Premium functies uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2026"/>
+        <location filename="../application.cpp" line="2042"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Ik was niet in staat om contact op te nemen met de website om uw premium lidmaatschap te verifiëren in de laatste 96 uur. Ik heb de premium functies uitgeschakeld. Ga terug online om opnieuw in te schakelen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2039"/>
+        <location filename="../application.cpp" line="2055"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Uw premium lidmaatschap is verlopen, dus ik heb de premium functies uitgeschakeld. U kunt uw lidmaatschap heractiveren via de website.</translation>
     </message>
@@ -465,8 +480,8 @@ Draagbare modus blijft ingeschakeld.</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="134"/>
-        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>Wanneer u &apos;Database Verzenden&apos; selecteert - wordt een kopie van uw lokale database naar de WhatPulse-ontwikkelaars gestuurd, zodat zij problemen gemakkelijker kunnen reproduceren.&lt;br /&gt;&lt;br /&gt;Uw database is: </translation>
+        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>Wanneer u 'Database Verzenden' selecteert - wordt een kopie van uw lokale database naar de WhatPulse-ontwikkelaars gestuurd, zodat zij problemen gemakkelijker kunnen reproduceren.&lt;br /&gt;&lt;br /&gt;Uw database is: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="143"/>
@@ -637,8 +652,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="165"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>De database &apos;%1&apos; is alleen-lezen. WhatPulse kan geen statistieken opslaan totdat je dit probleem hebt opgelost.</translation>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>De database '%1' is alleen-lezen. WhatPulse kan geen statistieken opslaan totdat je dit probleem hebt opgelost.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="209"/>
@@ -666,12 +681,12 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>DatabaseBackupUtility</name>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="95"/>
+        <location filename="../database/databasebackuputility.cpp" line="133"/>
         <source>Zipping database..</source>
         <translation>Zippende database..</translation>
     </message>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="121"/>
+        <location filename="../database/databasebackuputility.cpp" line="159"/>
         <source>Starting upload..</source>
         <translation>Beginnen met uploaden..</translation>
     </message>
@@ -685,7 +700,7 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>Hallo daar! Volgens mijn gegevens is het &lt;b&gt;%1&lt;/b&gt; dagen geleden sinds uw laatste online database back-up. Neem even de tijd en doe dat nu. Dit venster zal automatisch sluiten als ik klaar ben.</translation>
     </message>
     <message>
@@ -717,7 +732,7 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="131"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Sorry, de online backup functie is alleen voor Premium leden. Meer informatie vindt u hier: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -727,7 +742,7 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="142"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Sorry, de website gaf een fout bij het voorbereiden van uw back-up. Probeer het later nog eens. Hier is de fout: %1</translation>
     </message>
     <message>
@@ -763,17 +778,17 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>Je hebt de meeste toetsaanslagen op &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% toetsen!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>Je hebt het meeste geklikt binnen &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kliks)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>Je hebt het meeste getypt binnen &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% toetsaanslagen)</translation>
     </message>
     <message>
@@ -888,7 +903,7 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>Je hebt je computer &lt;b&gt;%VAR1:int%&lt;/b&gt; keer herstart.</translation>
     </message>
     <message>
@@ -1073,8 +1088,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="368"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Weet u zeker dat u applicatie '%1' wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="419"/>
@@ -1572,8 +1587,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="291"/>
-        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Geschiedenis van toetsen, klikken, scrollen en afstand tussen &quot;%1&quot; en &quot;%2&quot;</translation>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>Geschiedenis van toetsen, klikken, scrollen en afstand tussen "%1" en "%2"</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="321"/>
@@ -1616,28 +1631,28 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="451"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heatmap van toetsen tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Heatmap of keys between '%1' and '%2' </source>
+        <translation>Heatmap van toetsen tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="513"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heatmap van klikken tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
+        <translation>Heatmap van klikken tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="577"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Invoer van applicatie tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Application input between '%1' and '%2' </source>
+        <translation>Invoer van applicatie tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="654"/>
-        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Toetscombinaties tussen &apos;%1&apos; en &apos;%2&apos;</translation>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>Toetscombinaties tussen '%1' en '%2'</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="719"/>
-        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Toetscombinaties per toepassing tussen &apos;%1&apos; en &apos;%2&apos;</translation>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>Toetscombinaties per toepassing tussen '%1' en '%2'</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="809"/>
@@ -1779,8 +1794,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="368"/>
-        <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>Geen invoerapparaten gevonden, zijn uw &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;toestemmingen&lt;/a&gt; correct ingesteld?</translation>
+        <source>No input devices found, are your &lt;a href="http://whatpulse.org/kb/content/7/15/en/linux-installation.html"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>Geen invoerapparaten gevonden, zijn uw &lt;a href="http://whatpulse.org/kb/content/7/15/en/linux-installation.html"&gt;toestemmingen&lt;/a&gt; correct ingesteld?</translation>
     </message>
 </context>
 <context>
@@ -1943,27 +1958,27 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="100"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="116"/>
         <source>Image not created!</source>
         <translation>Afbeelding niet gemaakt!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="101"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="117"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Kan geen heatmap-afbeelding genereren. Probeer het opnieuw of controleer de rechten op: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="283"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="299"/>
         <source>Image posted online!</source>
         <translation>Afbeelding online geplaatst!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="284"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="300"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Muis heat map succesvol geupload! Wil je hem in je browser bekijken?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="296"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="312"/>
         <source>Error uploading file!</source>
         <translation>Fout bij uploaden bestand!</translation>
     </message>
@@ -2083,8 +2098,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="955"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Netwerk interface verkeer tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Network interface traffic between '%1' and '%2' </source>
+        <translation>Netwerk interface verkeer tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="985"/>
@@ -2117,18 +2132,18 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1037"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Netwerk per applicatie tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Network per applications between '%1' and '%2' </source>
+        <translation>Netwerk per applicatie tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1096"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Land netwerkverkeer tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Country network traffic between '%1' and '%2' </source>
+        <translation>Land netwerkverkeer tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1159"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Netwerk per type tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Network per type between '%1' and '%2' </source>
+        <translation>Netwerk per type tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1244"/>
@@ -2170,8 +2185,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="135"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>Uw GeoIP-database is leeg, per land statistieken zal niet werken. Klik &lt;a href=&quot;#&quot;&gt;hier&lt;/a&gt; om de database te verversen.</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>Uw GeoIP-database is leeg, per land statistieken zal niet werken. Klik &lt;a href="#"&gt;hier&lt;/a&gt; om de database te verversen.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="169"/>
@@ -2305,13 +2320,13 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="368"/>
-        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
+        <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>GeoIP Database is niet succesvol bijgewerkt, hier is de fout: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="377"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>Npcap niet gevonden, wat nodig is voor netwerkstatistieken.&lt;br&gt;Download op &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>Npcap niet gevonden, wat nodig is voor netwerkstatistieken.&lt;br&gt;Download op &lt;a href="https://nmap.org/npcap/"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="381"/>
@@ -2456,8 +2471,8 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="442"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Weet u zeker dat u applicatie '%1' wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="494"/>
@@ -2912,8 +2927,8 @@ Beschikbaar: %2</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="40"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation>&lt;b&gt;Noot:&lt;/b&gt; Download en installeer de Apple Silicon-versie &lt;a href=&quot;https://whatpulse.org/downloads/&quot;&gt;van onze website&lt;/a&gt;. U gebruikt de Intel-gebaseerde versie.</translation>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href="https://whatpulse.org/downloads/"&gt;from our website&lt;/a&gt;. You're running the Intel-based version.</source>
+        <translation>&lt;b&gt;Noot:&lt;/b&gt; Download en installeer de Apple Silicon-versie &lt;a href="https://whatpulse.org/downloads/"&gt;van onze website&lt;/a&gt;. U gebruikt de Intel-gebaseerde versie.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="304"/>
@@ -3023,8 +3038,8 @@ Uploaden: onbekend</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="387"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>De optie &apos;Offline werken&apos; is ingeschakeld, dus u kunt niet pulsen. Schakel die optie uit om het pulsen te hervatten.</translation>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>De optie 'Offline werken' is ingeschakeld, dus u kunt niet pulsen. Schakel die optie uit om het pulsen te hervatten.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="398"/>
@@ -3033,8 +3048,8 @@ Uploaden: onbekend</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="399"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>De instelling &quot;Offline werken&quot; is ingeschakeld. Dit voorkomt dat de client online gaat, wat pulsen inhoudt. Zet die instelling uit en je kunt weer pulsen.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>De instelling "Offline werken" is ingeschakeld. Dit voorkomt dat de client online gaat, wat pulsen inhoudt. Zet die instelling uit en je kunt weer pulsen.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="409"/>
@@ -3104,7 +3119,7 @@ Uploaden: onbekend</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>WhatPulse heeft permissies nodig om je toetsen en klikken te tellen.  Sluit WhatPulse niet wanneer daarom wordt gevraagd.</translation>
     </message>
     <message>
@@ -3114,8 +3129,8 @@ Uploaden: onbekend</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Hier ziet het er als volgt uit: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Als het selectievakje al is aangevinkt, probeer het dan uit te vinken en opnieuw aan te vinken.  Dit kan nodig zijn na upgrades.&lt;/br /&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Hier ziet het er als volgt uit: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Als het selectievakje al is aangevinkt, probeer het dan uit te vinken en opnieuw aan te vinken.  Dit kan nodig zijn na upgrades.&lt;/br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3127,7 +3142,7 @@ Uploaden: onbekend</translation>
     <name>PremiumExpiredPopup</name>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="60"/>
-        <source>Don&apos;t Remind Me</source>
+        <source>Don't Remind Me</source>
         <translation>Herinner me er niet aan</translation>
     </message>
     <message>
@@ -3213,8 +3228,8 @@ Uploaden: onbekend</translation>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="425"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>Mac OS-versie niet ondersteund; Vink &quot;Toegang inschakelen voor hulpapparaten&quot; aan in het deelvenster Universele toegang in Systeemvoorkeuren en start de client opnieuw op. Anders werkt keycounting niet. Een geüpgrade client moet opnieuw worden ingeschakeld.</translation>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>Mac OS-versie niet ondersteund; Vink "Toegang inschakelen voor hulpapparaten" aan in het deelvenster Universele toegang in Systeemvoorkeuren en start de client opnieuw op. Anders werkt keycounting niet. Een geüpgrade client moet opnieuw worden ingeschakeld.</translation>
     </message>
 </context>
 <context>
@@ -3782,17 +3797,17 @@ Uploaden: onbekend</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="389"/>
-        <source>you&apos;ve downloaded </source>
+        <source>you've downloaded </source>
         <translation>je hebt gedownload </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="400"/>
-        <source>you&apos;ve uploaded </source>
+        <source>you've uploaded </source>
         <translation>je hebt geüpload </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="411"/>
-        <source>you&apos;ve collected </source>
+        <source>you've collected </source>
         <translation>je hebt verzameld </translation>
     </message>
     <message>
@@ -4164,7 +4179,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsIgnoredApps.cpp" line="52"/>
-        <source>On this page you can manage applications and network interfaces that you&apos;ve chosen to ignore. Right click an application or interface to manage.</source>
+        <source>On this page you can manage applications and network interfaces that you've chosen to ignore. Right click an application or interface to manage.</source>
         <translation>Op deze pagina kunt u applicaties en netwerkinterfaces beheren die u hebt verkozen te negeren. Klik met de rechtermuisknop op een applicatie of interface om deze te beheren.</translation>
     </message>
     <message>
@@ -4200,8 +4215,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>SettingsTabMilestones</name>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="24"/>
-        <source>Milestones let you create notifications when you cross certain statistics. Use the &apos;Add&apos; button to create a milestone and doubleclick on the Milestone to edit it.</source>
-        <translation>Met mijlpalen kunt u meldingen maken wanneer u bepaalde statistieken overschrijdt. Gebruik de knop &apos;Toevoegen&apos; om een mijlpaal te creëren en dubbelklik op de mijlpaal om deze te bewerken.</translation>
+        <source>Milestones let you create notifications when you cross certain statistics. Use the 'Add' button to create a milestone and doubleclick on the Milestone to edit it.</source>
+        <translation>Met mijlpalen kunt u meldingen maken wanneer u bepaalde statistieken overschrijdt. Gebruik de knop 'Toevoegen' om een mijlpaal te creëren en dubbelklik op de mijlpaal om deze te bewerken.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="30"/>
@@ -4297,7 +4312,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="243"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
+        <source>Time for coffee, you've made X keys!</source>
         <translation>Tijd voor koffie, je hebt X toetsen gemaakt!</translation>
     </message>
     <message>
@@ -4379,8 +4394,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="170"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>De Client API is een manier om real-time informatie uit de WhatPulse client te halen. U kunt dit gebruiken om uw gegevens te voeden in een andere toepassing. Meer informatie vindt u in ons &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;Ontwikkelaarscentrum&lt;/a&gt;</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="http://dev.whatpulse.org"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>De Client API is een manier om real-time informatie uit de WhatPulse client te halen. U kunt dit gebruiken om uw gegevens te voeden in een andere toepassing. Meer informatie vindt u in ons &lt;a href="http://dev.whatpulse.org"&gt;Ontwikkelaarscentrum&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="191"/>
@@ -4395,7 +4410,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="214"/>
         <source>IPs that are allowed to connect (one per line):</source>
-        <translation>IP&apos;s die een verbinding mogen maken (één per regel):</translation>
+        <translation>IP's die een verbinding mogen maken (één per regel):</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="326"/>
@@ -4564,7 +4579,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>Selecteer de begin- en einddatum van de periode waarvan u de statistieken wilt zien.</translation>
     </message>
     <message>
@@ -4787,8 +4802,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1452"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heropstartlijst tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Reboot list between '%1' and '%2' </source>
+        <translation>Heropstartlijst tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1482"/>
@@ -4797,8 +4812,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1523"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Actieve applicatie tijd tussen &apos;%1&apos; en &apos;%2&apos; </translation>
+        <source>Active application time between '%1' and '%2' </source>
+        <translation>Actieve applicatie tijd tussen '%1' en '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1531"/>
@@ -5114,8 +5129,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="739"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Weet u zeker dat u applicatie &apos;%1&apos; wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Weet u zeker dat u applicatie '%1' wilt negeren ? Dit zal ook de geschiedenis van deze applicatie verwijderen.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="790"/>
@@ -5523,7 +5538,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="161"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>Je gebruikt de nieuwste versie van WhatPulse.</translation>
     </message>
 </context>
@@ -5531,12 +5546,12 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>WindowUpdateAlert</name>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="30"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>Er is een nieuwe versie beschikbaar!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="35"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>Wat is er nieuw?</translation>
     </message>
     <message>
@@ -5586,7 +5601,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="21"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>U bent doorverwezen naar de website, volg daar de instructies. Nadat u de inlogprocedure heeft voltooid, zal de client automatisch inloggen en kunt u aan de slag!</translation>
     </message>
     <message>
@@ -5608,8 +5623,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>Als uw browser niet is geopend, probeer dan &lt;a href=&quot;%1&quot;&gt;deze link&lt;/a&gt; aan te klikken of te kopiëren.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1"&gt;this link&lt;/a&gt;.</source>
+        <translation>Als uw browser niet is geopend, probeer dan &lt;a href="%1"&gt;deze link&lt;/a&gt; aan te klikken of te kopiëren.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="415"/>
@@ -5636,8 +5651,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>Welkom bij WhatPulse, &lt;b&gt;het enige&lt;/b&gt; statistiekprogramma dat u ooit nodig zult hebben. WhatPulse geeft antwoord op de vraag &quot;Hoeveel gebruik ik mijn computer op een dag?&quot;&lt;br /&gt;&lt;br /&gt;Laten we beginnen. Als u al een account hebt, klik dan op &lt;b&gt;Login&lt;/b&gt;. Bent u nieuw bij WhatPulse, klik dan op &lt;b&gt;Registreren&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In beide gevallen wordt u doorverwezen naar onze website om het inloggen te voltooien.&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>Welkom bij WhatPulse, &lt;b&gt;het enige&lt;/b&gt; statistiekprogramma dat u ooit nodig zult hebben. WhatPulse geeft antwoord op de vraag "Hoeveel gebruik ik mijn computer op een dag?"&lt;br /&gt;&lt;br /&gt;Laten we beginnen. Als u al een account hebt, klik dan op &lt;b&gt;Login&lt;/b&gt;. Bent u nieuw bij WhatPulse, klik dan op &lt;b&gt;Registreren&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In beide gevallen wordt u doorverwezen naar onze website om het inloggen te voltooien.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="25"/>
@@ -5654,8 +5669,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation>Welkom bij WhatPulse, &lt;b&gt;het enige&lt;/b&gt; statistiekprogramma dat u ooit nodig zult hebben. WhatPulse beantwoordt de vraag &apos;Hoeveel gebruik ik mijn computer op een dag?&apos;&lt;br /&gt;&lt;br /&gt;Laat ons beginnen met het invoeren van uw &lt;strong&gt;organisatie naam of ID&lt;/strong&gt;, zoals verstrekt door uw WhatPulse Professional beheerder.</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>Welkom bij WhatPulse, &lt;b&gt;het enige&lt;/b&gt; statistiekprogramma dat u ooit nodig zult hebben. WhatPulse beantwoordt de vraag 'Hoeveel gebruik ik mijn computer op een dag?'&lt;br /&gt;&lt;br /&gt;Laat ons beginnen met het invoeren van uw &lt;strong&gt;organisatie naam of ID&lt;/strong&gt;, zoals verstrekt door uw WhatPulse Professional beheerder.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="268"/>
@@ -5724,7 +5739,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Sorry, de online backup functie is alleen voor Premium leden. Meer informatie vindt u hier: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -5734,7 +5749,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="406"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Sorry, de website gaf een fout bij het voorbereiden van uw back-up. Probeer het later nog eens. Hier is de fout: %1</translation>
     </message>
     <message>
@@ -5802,7 +5817,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="110"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
         <translation>Ooit afgevraagd hoe lang uw computer aan staat? Deze optie zal u precies dat vertellen. Als onderdeel van de uptime kunt u hier ook zien hoe lang u bepaalde toepassingen gebruikt.</translation>
     </message>
     <message>
@@ -5822,8 +5837,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="152"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;small&gt;Als u alle statistieken wilt verzamelen, maar ze niet publiekelijk wilt tonen, kijk dan in uw &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;privacy-instellingen&lt;/a&gt;.</translation>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;small&gt;Als u alle statistieken wilt verzamelen, maar ze niet publiekelijk wilt tonen, kijk dan in uw &lt;a href="https://whatpulse.org/dashboard/my/privacy"&gt;privacy-instellingen&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>

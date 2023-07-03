@@ -39,177 +39,192 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="85"/>
+        <location filename="../interface/AccountTab.cpp" line="75"/>
+        <source>Start Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="90"/>
         <source>Today</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="88"/>
+        <location filename="../interface/AccountTab.cpp" line="93"/>
         <source>day ago</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="91"/>
+        <location filename="../interface/AccountTab.cpp" line="96"/>
         <source>days ago</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="112"/>
+        <location filename="../interface/AccountTab.cpp" line="120"/>
         <source>Total Keys:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="114"/>
+        <location filename="../interface/AccountTab.cpp" line="122"/>
         <source>Total Clicks:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="116"/>
+        <location filename="../interface/AccountTab.cpp" line="124"/>
         <source>Total Download:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="118"/>
+        <location filename="../interface/AccountTab.cpp" line="126"/>
         <source>Total Upload:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="120"/>
+        <location filename="../interface/AccountTab.cpp" line="128"/>
         <source>Total Uptime:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="122"/>
+        <location filename="../interface/AccountTab.cpp" line="130"/>
         <source>Total Mouse Scrolls:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="124"/>
+        <location filename="../interface/AccountTab.cpp" line="132"/>
         <source>Total Mouse Distance:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="194"/>
+        <location filename="../interface/AccountTab.cpp" line="202"/>
         <source> &amp;View Online Stats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="202"/>
+        <location filename="../interface/AccountTab.cpp" line="210"/>
         <source> &amp;Log out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="208"/>
+        <location filename="../interface/AccountTab.cpp" line="216"/>
         <source> &amp;Reset Token</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="215"/>
+        <location filename="../interface/AccountTab.cpp" line="223"/>
         <source> Change &amp;Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="223"/>
+        <location filename="../interface/AccountTab.cpp" line="231"/>
         <source> Refresh &amp;Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="288"/>
         <location filename="../interface/AccountTab.cpp" line="296"/>
         <location filename="../interface/AccountTab.cpp" line="304"/>
         <location filename="../interface/AccountTab.cpp" line="312"/>
         <location filename="../interface/AccountTab.cpp" line="320"/>
         <location filename="../interface/AccountTab.cpp" line="328"/>
-        <location filename="../interface/AccountTab.cpp" line="337"/>
+        <location filename="../interface/AccountTab.cpp" line="336"/>
+        <location filename="../interface/AccountTab.cpp" line="345"/>
         <source>Unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="342"/>
+        <location filename="../interface/AccountTab.cpp" line="351"/>
         <source>Yes (expires at %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="346"/>
+        <location filename="../interface/AccountTab.cpp" line="355"/>
         <source>No</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="415"/>
+        <location filename="../interface/AccountTab.cpp" line="426"/>
         <source>Log Out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="417"/>
+        <location filename="../interface/AccountTab.cpp" line="428"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="421"/>
+        <location filename="../interface/AccountTab.cpp" line="432"/>
         <source>Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="437"/>
+        <location filename="../interface/AccountTab.cpp" line="448"/>
         <source>Change Password</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="438"/>
+        <location filename="../interface/AccountTab.cpp" line="449"/>
         <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="447"/>
-        <location filename="../interface/AccountTab.cpp" line="482"/>
+        <location filename="../interface/AccountTab.cpp" line="458"/>
+        <location filename="../interface/AccountTab.cpp" line="493"/>
         <source>Reset your token</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="448"/>
+        <location filename="../interface/AccountTab.cpp" line="459"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="450"/>
+        <location filename="../interface/AccountTab.cpp" line="461"/>
         <source>Are you sure?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="478"/>
+        <location filename="../interface/AccountTab.cpp" line="489"/>
         <source>Token reset!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="479"/>
+        <location filename="../interface/AccountTab.cpp" line="490"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="483"/>
+        <location filename="../interface/AccountTab.cpp" line="494"/>
         <source>Something went wrong while resetting your token:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="548"/>
+        <location filename="../interface/AccountTab.cpp" line="559"/>
         <source>Premium Membership</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="549"/>
+        <location filename="../interface/AccountTab.cpp" line="560"/>
         <source>Your premium membership has just been activated!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="555"/>
+        <location filename="../interface/AccountTab.cpp" line="566"/>
         <source>Refresh Account Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="556"/>
+        <location filename="../interface/AccountTab.cpp" line="567"/>
         <source>Something went wrong while refreshing your account data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="575"/>
+        <source>Backup Started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="576"/>
+        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -254,169 +269,169 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="196"/>
+        <location filename="../application.cpp" line="197"/>
         <source>No system tray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="197"/>
+        <location filename="../application.cpp" line="198"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="215"/>
+        <location filename="../application.cpp" line="216"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="219"/>
+        <location filename="../application.cpp" line="220"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="222"/>
+        <location filename="../application.cpp" line="223"/>
         <source>AES failure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="805"/>
+        <location filename="../application.cpp" line="823"/>
         <source>&amp;Open Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="809"/>
+        <location filename="../application.cpp" line="827"/>
         <source>&amp;Toggle Geek Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="813"/>
+        <location filename="../application.cpp" line="831"/>
         <source>&amp;Open Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="817"/>
+        <location filename="../application.cpp" line="835"/>
         <source>&amp;Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="821"/>
+        <location filename="../application.cpp" line="839"/>
         <source>&amp;Pulse!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="824"/>
+        <location filename="../application.cpp" line="842"/>
         <source>&amp;View Online Stats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="828"/>
+        <location filename="../application.cpp" line="846"/>
         <source>&amp;Quit WhatPulse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="831"/>
+        <location filename="../application.cpp" line="849"/>
         <source>Enabled Stats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="832"/>
+        <location filename="../application.cpp" line="850"/>
         <source>Keyboard</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="851"/>
         <source>Keyboard Heatmap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="834"/>
+        <location filename="../application.cpp" line="852"/>
         <source>Mouse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="835"/>
+        <location filename="../application.cpp" line="853"/>
         <source>Mouse Heatmap</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="854"/>
         <source>Network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="837"/>
+        <location filename="../application.cpp" line="855"/>
         <source>Uptime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1283"/>
+        <location filename="../application.cpp" line="1299"/>
         <source>Pulsing Disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1284"/>
+        <location filename="../application.cpp" line="1300"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1490"/>
+        <location filename="../application.cpp" line="1506"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1493"/>
-        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1509"/>
         <location filename="../application.cpp" line="1532"/>
         <location filename="../application.cpp" line="1548"/>
-        <location filename="../application.cpp" line="1591"/>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1564"/>
+        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1618"/>
         <source>Portable Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1513"/>
+        <location filename="../application.cpp" line="1529"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1529"/>
+        <location filename="../application.cpp" line="1545"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1549"/>
-        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1565"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1572"/>
+        <location filename="../application.cpp" line="1588"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1604"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2025"/>
-        <location filename="../application.cpp" line="2038"/>
+        <location filename="../application.cpp" line="2041"/>
+        <location filename="../application.cpp" line="2054"/>
         <source>Premium features disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2026"/>
+        <location filename="../application.cpp" line="2042"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2039"/>
+        <location filename="../application.cpp" line="2055"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -657,12 +672,12 @@ Please check your permissions on: %2</source>
 <context>
     <name>DatabaseBackupUtility</name>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="95"/>
+        <location filename="../database/databasebackuputility.cpp" line="133"/>
         <source>Zipping database..</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="121"/>
+        <location filename="../database/databasebackuputility.cpp" line="159"/>
         <source>Starting upload..</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1934,27 +1949,27 @@ Please check your permissions on: %2</source>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="100"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="116"/>
         <source>Image not created!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="101"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="117"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="283"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="299"/>
         <source>Image posted online!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="284"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="300"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="296"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="312"/>
         <source>Error uploading file!</source>
         <translation type="unfinished"></translation>
     </message>

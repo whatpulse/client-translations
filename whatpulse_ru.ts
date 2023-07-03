@@ -39,149 +39,154 @@
         <translation>Повышение до уровня Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="85"/>
+        <location filename="../interface/AccountTab.cpp" line="75"/>
+        <source>Start Backup</source>
+        <translation>Начать резервное копирование</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="90"/>
         <source>Today</source>
         <translation>Сегодня</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="88"/>
+        <location filename="../interface/AccountTab.cpp" line="93"/>
         <source>day ago</source>
         <translation>день назад</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="91"/>
+        <location filename="../interface/AccountTab.cpp" line="96"/>
         <source>days ago</source>
         <translation>дней назад</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="112"/>
+        <location filename="../interface/AccountTab.cpp" line="120"/>
         <source>Total Keys:</source>
         <translation>Всего нажатий клавиш:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="114"/>
+        <location filename="../interface/AccountTab.cpp" line="122"/>
         <source>Total Clicks:</source>
         <translation>Всего щелков мыши:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="116"/>
+        <location filename="../interface/AccountTab.cpp" line="124"/>
         <source>Total Download:</source>
         <translation>Всего скачано:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="118"/>
+        <location filename="../interface/AccountTab.cpp" line="126"/>
         <source>Total Upload:</source>
         <translation>Всего отправлено:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="120"/>
+        <location filename="../interface/AccountTab.cpp" line="128"/>
         <source>Total Uptime:</source>
         <translation>Общее время работы:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="122"/>
+        <location filename="../interface/AccountTab.cpp" line="130"/>
         <source>Total Mouse Scrolls:</source>
         <translation>Общее количество прокруток мыши:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="124"/>
+        <location filename="../interface/AccountTab.cpp" line="132"/>
         <source>Total Mouse Distance:</source>
         <translation>Общее расстояние до мыши:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="194"/>
+        <location filename="../interface/AccountTab.cpp" line="202"/>
         <source> &amp;View Online Stats</source>
         <translation> &amp;Перейти к онлайн-статистике</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="202"/>
+        <location filename="../interface/AccountTab.cpp" line="210"/>
         <source> &amp;Log out</source>
         <translation> В&amp;ыход</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="208"/>
+        <location filename="../interface/AccountTab.cpp" line="216"/>
         <source> &amp;Reset Token</source>
         <translation> &amp;Сбросить токен авторизации</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="215"/>
+        <location filename="../interface/AccountTab.cpp" line="223"/>
         <source> Change &amp;Password</source>
         <translation> &amp;Изменить пароль</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="223"/>
+        <location filename="../interface/AccountTab.cpp" line="231"/>
         <source> Refresh &amp;Account</source>
         <translation> &amp;Обновить данные аккаунта</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="288"/>
         <location filename="../interface/AccountTab.cpp" line="296"/>
         <location filename="../interface/AccountTab.cpp" line="304"/>
         <location filename="../interface/AccountTab.cpp" line="312"/>
         <location filename="../interface/AccountTab.cpp" line="320"/>
         <location filename="../interface/AccountTab.cpp" line="328"/>
-        <location filename="../interface/AccountTab.cpp" line="337"/>
+        <location filename="../interface/AccountTab.cpp" line="336"/>
+        <location filename="../interface/AccountTab.cpp" line="345"/>
         <source>Unknown</source>
         <translation>Неизвестно</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="342"/>
+        <location filename="../interface/AccountTab.cpp" line="351"/>
         <source>Yes (expires at %1)</source>
         <translation>Да (истекает %1)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="346"/>
+        <location filename="../interface/AccountTab.cpp" line="355"/>
         <source>No</source>
         <translation>Нет</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="415"/>
+        <location filename="../interface/AccountTab.cpp" line="426"/>
         <source>Log Out</source>
         <translation>Выйти из аккаунта</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="417"/>
+        <location filename="../interface/AccountTab.cpp" line="428"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Выход из аккаунта сбросит вашу неотправленную статистику, если вы авторизуетесь в другой аккаунт (база данных сохранится) и перезапустите мастер установки.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="421"/>
+        <location filename="../interface/AccountTab.cpp" line="432"/>
         <source>Do you want to continue?</source>
         <translation>Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="437"/>
+        <location filename="../interface/AccountTab.cpp" line="448"/>
         <source>Change Password</source>
         <translation>Изменить пароль</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="438"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <location filename="../interface/AccountTab.cpp" line="449"/>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Вы не можете изменить пароль внутри программы. Пожалуйста, выйдите и снова войдите в аккаунт с тем же e-mail адресом и названием компьютера, чтобы изменить пароль в программе. Ваша статистика будет сохранена, если вы используете те же данные.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="447"/>
-        <location filename="../interface/AccountTab.cpp" line="482"/>
+        <location filename="../interface/AccountTab.cpp" line="458"/>
+        <location filename="../interface/AccountTab.cpp" line="493"/>
         <source>Reset your token</source>
         <translation>Сбросить ваш токен</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="448"/>
+        <location filename="../interface/AccountTab.cpp" line="459"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Сброс вашего токена сбросит вашу локальную статистику и позволит отправить данные снова.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="450"/>
+        <location filename="../interface/AccountTab.cpp" line="461"/>
         <source>Are you sure?</source>
         <translation>Вы уверены?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="478"/>
+        <location filename="../interface/AccountTab.cpp" line="489"/>
         <source>Token reset!</source>
         <translation>Токен сброшен!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="479"/>
+        <location filename="../interface/AccountTab.cpp" line="490"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -190,29 +195,39 @@ You can continue pulsing.</source>
 Вы можете отправлять данные.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="483"/>
+        <location filename="../interface/AccountTab.cpp" line="494"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>Что-то пошло не так во время сброса вашего токена:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="548"/>
+        <location filename="../interface/AccountTab.cpp" line="559"/>
         <source>Premium Membership</source>
         <translation>Премиум-статус</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="549"/>
+        <location filename="../interface/AccountTab.cpp" line="560"/>
         <source>Your premium membership has just been activated!</source>
         <translation>Ваш премиум-статус успешно активирован!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="555"/>
+        <location filename="../interface/AccountTab.cpp" line="566"/>
         <source>Refresh Account Status</source>
         <translation>Обновить данные аккаунта</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="556"/>
+        <location filename="../interface/AccountTab.cpp" line="567"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Что-то пошло не так при сбросе ваших данных аккаунта:</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="575"/>
+        <source>Backup Started</source>
+        <translation>Запуск резервного копирования</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTab.cpp" line="576"/>
+        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
+        <translation>Успешно запущено резервное копирование. Оно будет выполняться в фоновом режиме и займет несколько минут.</translation>
     </message>
 </context>
 <context>
@@ -256,174 +271,174 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="196"/>
+        <location filename="../application.cpp" line="197"/>
         <source>No system tray</source>
         <translation>Нет области уведомлений</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="197"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <location filename="../application.cpp" line="198"/>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Не удается обнаружить область уведомлений в этой системе, данный компонент необходим для запуска.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="215"/>
+        <location filename="../application.cpp" line="216"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>Функции AES-шифрования недоступны. В системе установлены библиотеки libeay32.dll и ssleay32.dll? Если нет, попробуйте переустановить!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="219"/>
+        <location filename="../application.cpp" line="220"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Функции AES-шифрования недоступны. Библиотека OpenSSL установлена?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="222"/>
+        <location filename="../application.cpp" line="223"/>
         <source>AES failure</source>
         <translation>Ошибка AES-шифрования</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="805"/>
+        <location filename="../application.cpp" line="823"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Открыть окно</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="809"/>
+        <location filename="../application.cpp" line="827"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Показать/скрыть мини-статистику</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="813"/>
+        <location filename="../application.cpp" line="831"/>
         <source>&amp;Open Settings</source>
         <translation>Открыть &amp;настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="817"/>
+        <location filename="../application.cpp" line="835"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Проверить обновления</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="821"/>
+        <location filename="../application.cpp" line="839"/>
         <source>&amp;Pulse!</source>
         <translation>Отправить &amp;данные!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="824"/>
+        <location filename="../application.cpp" line="842"/>
         <source>&amp;View Online Stats</source>
         <translation>Просмотр ст&amp;атистики в интернете</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="828"/>
+        <location filename="../application.cpp" line="846"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>В&amp;ыйти из аккаунта</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="831"/>
+        <location filename="../application.cpp" line="849"/>
         <source>Enabled Stats</source>
         <translation>Включенная статистика</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="832"/>
+        <location filename="../application.cpp" line="850"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="851"/>
         <source>Keyboard Heatmap</source>
         <translation>Тепловая карта клавиатуры</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="834"/>
+        <location filename="../application.cpp" line="852"/>
         <source>Mouse</source>
         <translation>Мышь</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="835"/>
+        <location filename="../application.cpp" line="853"/>
         <source>Mouse Heatmap</source>
         <translation>Тепловая карта мыши</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="836"/>
+        <location filename="../application.cpp" line="854"/>
         <source>Network</source>
         <translation>Сеть</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="837"/>
+        <location filename="../application.cpp" line="855"/>
         <source>Uptime</source>
         <translation>Время работы</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1283"/>
+        <location filename="../application.cpp" line="1299"/>
         <source>Pulsing Disabled!</source>
         <translation>Отправка данных отключена!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1284"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Включена настройка &quot;Работать оффлайн&quot;. Это не позволяет программе выходить в интернет, в том числе и для отправки данных. Отключение этой настройки позволит вновь отправлять данные.</translation>
+        <location filename="../application.cpp" line="1300"/>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>Включена настройка "Работать оффлайн". Это не позволяет программе выходить в интернет, в том числе и для отправки данных. Отключение этой настройки позволит вновь отправлять данные.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1490"/>
+        <location filename="../application.cpp" line="1506"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>У вас включен портативный режим. Это следует использовать при установке программы на съемные носители, например, USB-флэшки.
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1493"/>
-        <location filename="../application.cpp" line="1516"/>
+        <location filename="../application.cpp" line="1509"/>
         <location filename="../application.cpp" line="1532"/>
         <location filename="../application.cpp" line="1548"/>
-        <location filename="../application.cpp" line="1591"/>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1564"/>
+        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1618"/>
         <source>Portable Mode</source>
         <translation>Портативный режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1513"/>
+        <location filename="../application.cpp" line="1529"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирование базы в %1 не удалось. Проверьте разрешение на запись.
 Выключение портативного режима.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1529"/>
+        <location filename="../application.cpp" line="1545"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирование файла статистики в %1 не удалось. Проверьте разрешение на запись.
 Выключение портативного режима.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1549"/>
-        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1565"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>База данных перестроена, требуется перезапуск!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1572"/>
+        <location filename="../application.cpp" line="1588"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирование базы данных в %1 не удалось. Проверьте разрешение на запись.
 Портативный режим остается активен.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1604"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирование файла статистики в %1 не удалось. Проверьте разрешение на запись.
 Портативный режим остается активен.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2025"/>
-        <location filename="../application.cpp" line="2038"/>
+        <location filename="../application.cpp" line="2041"/>
+        <location filename="../application.cpp" line="2054"/>
         <source>Premium features disabled</source>
         <translation>Премиум-функции отключены</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2026"/>
+        <location filename="../application.cpp" line="2042"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не удается связаться с сервером для проверки вашего премиум-статуса уже 96 часов. Ваши премиум-функции отключены. Вернитесь в онлайн, чтобы включить их снова.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2039"/>
+        <location filename="../application.cpp" line="2055"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Ваш премиум-статус истек, поэтому премиум-функции отключены. Вы можете повторно активировать ваш премиум-статус на сайте.</translation>
     </message>
@@ -465,8 +480,8 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="134"/>
-        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>Когда вы выберите &quot;Отправить базу данных&quot; - копия вашей локальной базы будет отправлена разработчикам, чтобы им было проще воспроизвести ошибки.&lt;br/&gt;&lt;br/&gt;Ваша база данных: </translation>
+        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>Когда вы выберите "Отправить базу данных" - копия вашей локальной базы будет отправлена разработчикам, чтобы им было проще воспроизвести ошибки.&lt;br/&gt;&lt;br/&gt;Ваша база данных: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="143"/>
@@ -637,8 +652,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../util/database.cpp" line="165"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>База данных &quot;%1% доступна только для чтения. WhatPulse не может вести статистику, пока вы не исправите проблему.</translation>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>База данных "%1% доступна только для чтения. WhatPulse не может вести статистику, пока вы не исправите проблему.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="209"/>
@@ -666,12 +681,12 @@ Please check your permissions on: %2</source>
 <context>
     <name>DatabaseBackupUtility</name>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="95"/>
+        <location filename="../database/databasebackuputility.cpp" line="133"/>
         <source>Zipping database..</source>
         <translation>Сжатие базы данных..</translation>
     </message>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="121"/>
+        <location filename="../database/databasebackuputility.cpp" line="159"/>
         <source>Starting upload..</source>
         <translation>Начало отправки..</translation>
     </message>
@@ -685,7 +700,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>Привет! Согласно моим записям, прошло &lt;b&gt;%1&lt;/b&gt; дней с вашей последней резервной копии базы данных в интернете. Пожалуйста, подождите минуту. Это окно закроется автоматически по завершению процесса.</translation>
     </message>
     <message>
@@ -717,7 +732,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="131"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Извините, функция резервного копирования онлайн доступна только для премиум-статуса. Больше информации здесь: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -727,7 +742,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="142"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Извините, сайт вернул ошибку во время подготовки вашей базы данных. Попробуйте позже. Ошибка: %1</translation>
     </message>
     <message>
@@ -763,17 +778,17 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>Больше всего вы печатали &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% нажатий клавиш!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>Больше всего щелчков мышью сделано в приложении &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% кликов)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>Вы больше всего печатали в приложении &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% нажатий клавиш)</translation>
     </message>
     <message>
@@ -888,7 +903,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>Вы перезагружали ПК &lt;b&gt;%VAR1:int%&lt;/b&gt; раз(а).</translation>
     </message>
     <message>
@@ -1073,8 +1088,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="368"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Вы уверены, что хотите игнорировать приложение &quot;%1%? Это также удалит всю историю этого приложения.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Вы уверены, что хотите игнорировать приложение "%1%? Это также удалит всю историю этого приложения.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="419"/>
@@ -1488,7 +1503,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="145"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
-        <translation>Пожалкйста, выберите вариант экспорта ниже. Выберите, какие данные вы хотите получить, за какой период и хотите ли вы группировать их по дням, неделям или месяцам, затем нажмите &quot;Сохранить&quot; для экспорта их в CSV.</translation>
+        <translation>Пожалкйста, выберите вариант экспорта ниже. Выберите, какие данные вы хотите получить, за какой период и хотите ли вы группировать их по дням, неделям или месяцам, затем нажмите "Сохранить" для экспорта их в CSV.</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="154"/>
@@ -1572,8 +1587,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="291"/>
-        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>История нажатий клавиш, кликов, прокруток и расстояний между &apos;%1&apos; и &apos;%2&apos;</translation>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>История нажатий клавиш, кликов, прокруток и расстояний между '%1' и '%2'</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="321"/>
@@ -1616,28 +1631,28 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="451"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Тепловая карта клавиш с &quot;%1% по &quot;%2% </translation>
+        <source>Heatmap of keys between '%1' and '%2' </source>
+        <translation>Тепловая карта клавиш с "%1% по "%2% </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="513"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Тепловая карта кликов с &quot;%1% по &quot;%2% </translation>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
+        <translation>Тепловая карта кликов с "%1% по "%2% </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="577"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Ввод по приложениям с &quot;%1% по &quot;%2% </translation>
+        <source>Application input between '%1' and '%2' </source>
+        <translation>Ввод по приложениям с "%1% по "%2% </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="654"/>
-        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Комбинации клавиш между &apos;%1&apos; и &apos;%2&apos;</translation>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>Комбинации клавиш между '%1' и '%2'</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="719"/>
-        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Комбинации клавиш для приложения между &apos;%1&apos; и &apos;%2&apos;</translation>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>Комбинации клавиш для приложения между '%1' и '%2'</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="809"/>
@@ -1779,8 +1794,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="368"/>
-        <source>No input devices found, are your &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>Нет подключенных устройств ввода, ваши &lt;a href=&quot;http://whatpulse.org/kb/content/7/15/en/linux-installation.html&quot;&gt;разрешения&lt;/a&gt; выставлены правильно?</translation>
+        <source>No input devices found, are your &lt;a href="http://whatpulse.org/kb/content/7/15/en/linux-installation.html"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>Нет подключенных устройств ввода, ваши &lt;a href="http://whatpulse.org/kb/content/7/15/en/linux-installation.html"&gt;разрешения&lt;/a&gt; выставлены правильно?</translation>
     </message>
 </context>
 <context>
@@ -1793,7 +1808,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="64"/>
         <source>Welcome to the Export Wizard. This wizard allows you to export all your data inside the WhatPulse client into a CSV file. Pick a statistic and press Next!</source>
-        <translation>Добро пожаловать в Мастер экспорта. Этот мастер позволит вам экспортировать все ваши данных из WhatPulse в CSV-файл. Выберите статистику и нажмите &quot;Далее&quot;!</translation>
+        <translation>Добро пожаловать в Мастер экспорта. Этот мастер позволит вам экспортировать все ваши данных из WhatPulse в CSV-файл. Выберите статистику и нажмите "Далее"!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="71"/>
@@ -1943,27 +1958,27 @@ Please check your permissions on: %2</source>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="100"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="116"/>
         <source>Image not created!</source>
         <translation>Изображение не создано!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="101"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="117"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Не удается создать изображение тепловой карты. Проверьте разрешения для: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="283"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="299"/>
         <source>Image posted online!</source>
         <translation>Изображение отправлено в интернет!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="284"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="300"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Изображение тепловой карты мыши успешно отправлено! Хотите посмотреть его в браузере?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="296"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="312"/>
         <source>Error uploading file!</source>
         <translation>Не удалось загрузить файл!</translation>
     </message>
@@ -2006,7 +2021,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="826"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
-        <translation>Пожалкйста, выберите вариант экспорта ниже. Выберите, какие данные вы хотите получить, за какой период и хотите ли вы группировать их по дням, неделям или месяцам, затем нажмите &quot;Сохранить&quot; для экспорта их в CSV.</translation>
+        <translation>Пожалкйста, выберите вариант экспорта ниже. Выберите, какие данные вы хотите получить, за какой период и хотите ли вы группировать их по дням, неделям или месяцам, затем нажмите "Сохранить" для экспорта их в CSV.</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="833"/>
@@ -2083,8 +2098,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="955"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Сетевой интерфейс с &quot;%1&quot; по &quot;%2&quot; </translation>
+        <source>Network interface traffic between '%1' and '%2' </source>
+        <translation>Сетевой интерфейс с "%1" по "%2" </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="985"/>
@@ -2117,18 +2132,18 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1037"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Трафик по приложениям с &quot;%1&quot; по &quot;%2&quot; </translation>
+        <source>Network per applications between '%1' and '%2' </source>
+        <translation>Трафик по приложениям с "%1" по "%2" </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1096"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Трафик по странам с &quot;%1&quot; по &quot;%2&quot; </translation>
+        <source>Country network traffic between '%1' and '%2' </source>
+        <translation>Трафик по странам с "%1" по "%2" </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1159"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Трафик по типу с &quot;%1&quot; по &quot;%2&quot; </translation>
+        <source>Network per type between '%1' and '%2' </source>
+        <translation>Трафик по типу с "%1" по "%2" </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1244"/>
@@ -2170,8 +2185,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="135"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>Ваша база GeoIP пуста, статистика по странам не будет работать. Щелкните &lt;a href=&quot;#&quot;&gt;здесь&lt;/a&gt; для обновления базы.</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>Ваша база GeoIP пуста, статистика по странам не будет работать. Щелкните &lt;a href="#"&gt;здесь&lt;/a&gt; для обновления базы.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="169"/>
@@ -2305,13 +2320,13 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="368"/>
-        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
+        <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>Не удалось успешно обновить базу GeoIP, возникла ошибка: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="377"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>Npcap не найден, но он требуется для ведения статистики по сети.&lt;br&gt;Скачайте его здесь: &lt;a href=&quot;https://nmap.org/npcap/&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>Npcap не найден, но он требуется для ведения статистики по сети.&lt;br&gt;Скачайте его здесь: &lt;a href="https://nmap.org/npcap/"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="381"/>
@@ -2456,8 +2471,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="442"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Вы уверены, что хотите игнорировать приложение &quot;%1%? Это также удалит всю историю этого приложения.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Вы уверены, что хотите игнорировать приложение "%1%? Это также удалит всю историю этого приложения.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="494"/>
@@ -2912,8 +2927,8 @@ Available: %2</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="40"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation>&lt;b&gt;Примечание:&lt;/b&gt; Пожалуйста, загрузите и установите версию Apple Silicon &lt;a href=&quot;https://whatpulse.org/downloads/&quot;&gt;с нашего сайта&lt;/a&gt;. Вы используете версию на базе Intel.</translation>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href="https://whatpulse.org/downloads/"&gt;from our website&lt;/a&gt;. You're running the Intel-based version.</source>
+        <translation>&lt;b&gt;Примечание:&lt;/b&gt; Пожалуйста, загрузите и установите версию Apple Silicon &lt;a href="https://whatpulse.org/downloads/"&gt;с нашего сайта&lt;/a&gt;. Вы используете версию на базе Intel.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="304"/>
@@ -3023,8 +3038,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="387"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>Настройка&quot;Работать оффлайн&quot; включена, вы не можете отправлять данные. Отключите эту настройку для возобновления отправки.</translation>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>Настройка"Работать оффлайн" включена, вы не можете отправлять данные. Отключите эту настройку для возобновления отправки.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="398"/>
@@ -3033,8 +3048,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="399"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Включена настройка &quot;Работать оффлайн&quot;. Это не позволяет программе выходить в интернет, в том числе и для отправки данных. Отключение этой настройки позволит вновь отправлять данные.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>Включена настройка "Работать оффлайн". Это не позволяет программе выходить в интернет, в том числе и для отправки данных. Отключение этой настройки позволит вновь отправлять данные.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="409"/>
@@ -3090,12 +3105,12 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="129"/>
         <source>WhatPulse needs Accessibility permissions to discover applications.</source>
-        <translation>WhatPulse требует разрешение &quot;Доступность&quot; для сбора статистики приложений.</translation>
+        <translation>WhatPulse требует разрешение "Доступность" для сбора статистики приложений.</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="143"/>
         <source>Open Accessibility</source>
-        <translation>Открыть &quot;Доступность&quot;</translation>
+        <translation>Открыть "Доступность"</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="170"/>
@@ -3104,7 +3119,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>Whatpulse требует разрешения для подсчета ваших нажатий клавиш и кликов. Не выходите из WhatPulse, пока эта просьба не будет озвучена.</translation>
     </message>
     <message>
@@ -3114,8 +3129,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Просмотрите на это: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Если галочка уже поставлена, попробуйте снять ее и поставить снова. Это может потребоваться после обновлений программы.&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Просмотрите на это: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Если галочка уже поставлена, попробуйте снять ее и поставить снова. Это может потребоваться после обновлений программы.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3127,7 +3142,7 @@ Upload: unknown</source>
     <name>PremiumExpiredPopup</name>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="60"/>
-        <source>Don&apos;t Remind Me</source>
+        <source>Don't Remind Me</source>
         <translation>Не напоминай мне</translation>
     </message>
     <message>
@@ -3199,12 +3214,12 @@ Upload: unknown</source>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="363"/>
         <source>Accessibility Permissions</source>
-        <translation>Разрешения &quot;Доступности&quot;</translation>
+        <translation>Разрешения "Доступности"</translation>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="364"/>
         <source>Please allow the client the Accessibility Permission, to allow keyboard &amp; mouse monitoring. Then press OK and WhatPulse will restart. Cancel to exit the client.</source>
-        <translation>Пожалуйста, дайте программе разрешения &quot;Доступности&quot; для мониторинга клавиатуры и мыши. Затем нажмите ОК и WhatPulse перезапустится. Нажмите отмену для закрытия программы.</translation>
+        <translation>Пожалуйста, дайте программе разрешения "Доступности" для мониторинга клавиатуры и мыши. Затем нажмите ОК и WhatPulse перезапустится. Нажмите отмену для закрытия программы.</translation>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="424"/>
@@ -3213,8 +3228,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="425"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>Версия Mac OS не поддерживается; поставьте галочку &quot;Разрешить доступ к вспомогательным устройствам&quot; в &quot;Универсальной панели доступа&quot; в &quot;Настройках системы&quot; и перезапустите программу. Иначе подсчет клавиш не будет работать. Обновление программы потребует поставить эту галку снова.</translation>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>Версия Mac OS не поддерживается; поставьте галочку "Разрешить доступ к вспомогательным устройствам" в "Универсальной панели доступа" в "Настройках системы" и перезапустите программу. Иначе подсчет клавиш не будет работать. Обновление программы потребует поставить эту галку снова.</translation>
     </message>
 </context>
 <context>
@@ -3222,7 +3237,7 @@ Upload: unknown</source>
     <message>
         <location filename="../3rdparty/quazip/quagzipfile.cpp" line="60"/>
         <source>QIODevice::Append is not supported for GZIP</source>
-        <translation>QIODevice::&quot;Append&quot; не поддерживается для GZIP</translation>
+        <translation>QIODevice::"Append" не поддерживается для GZIP</translation>
     </message>
     <message>
         <location filename="../3rdparty/quazip/quagzipfile.cpp" line="66"/>
@@ -3245,12 +3260,12 @@ Upload: unknown</source>
     <message>
         <location filename="../3rdparty/quazip/quaziodevice.cpp" line="188"/>
         <source>QIODevice::Append is not supported for QuaZIODevice</source>
-        <translation>QIODevice::&quot;Append&quot; не поддерживается для QuaZIODevice</translation>
+        <translation>QIODevice::"Append" не поддерживается для QuaZIODevice</translation>
     </message>
     <message>
         <location filename="../3rdparty/quazip/quaziodevice.cpp" line="193"/>
         <source>QIODevice::ReadWrite is not supported for QuaZIODevice</source>
-        <translation>QIODevice::&quot;ReadWrite&quot; не поддерживается для QuaZIODevice</translation>
+        <translation>QIODevice::"ReadWrite" не поддерживается для QuaZIODevice</translation>
     </message>
 </context>
 <context>
@@ -3782,17 +3797,17 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="389"/>
-        <source>you&apos;ve downloaded </source>
+        <source>you've downloaded </source>
         <translation>вы скачаете </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="400"/>
-        <source>you&apos;ve uploaded </source>
+        <source>you've uploaded </source>
         <translation>вы отдадите </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="411"/>
-        <source>you&apos;ve collected </source>
+        <source>you've collected </source>
         <translation>вы накопите </translation>
     </message>
     <message>
@@ -4164,7 +4179,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsIgnoredApps.cpp" line="52"/>
-        <source>On this page you can manage applications and network interfaces that you&apos;ve chosen to ignore. Right click an application or interface to manage.</source>
+        <source>On this page you can manage applications and network interfaces that you've chosen to ignore. Right click an application or interface to manage.</source>
         <translation>На этой странице вы можете управлять игнорируемыми приложениями и сетевыми интерфейсами. Щелкните правой кнопкой мыши по элементу для управления.</translation>
     </message>
     <message>
@@ -4200,8 +4215,8 @@ This will reset any custom layouts!</source>
     <name>SettingsTabMilestones</name>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="24"/>
-        <source>Milestones let you create notifications when you cross certain statistics. Use the &apos;Add&apos; button to create a milestone and doubleclick on the Milestone to edit it.</source>
-        <translation>Цели позволяют вам создавать уведомления, когда вы достигаете определенного значения в какой-либо из статистик. Используйте кнопку &quot;Добавить&quot; для создания цели и двойной клик на цели для редактирования.</translation>
+        <source>Milestones let you create notifications when you cross certain statistics. Use the 'Add' button to create a milestone and doubleclick on the Milestone to edit it.</source>
+        <translation>Цели позволяют вам создавать уведомления, когда вы достигаете определенного значения в какой-либо из статистик. Используйте кнопку "Добавить" для создания цели и двойной клик на цели для редактирования.</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="30"/>
@@ -4297,7 +4312,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="243"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
+        <source>Time for coffee, you've made X keys!</source>
         <translation>Пора выпить кофе, вы сделали Х нажатий клавиш!</translation>
     </message>
     <message>
@@ -4379,8 +4394,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="170"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>API позволяет получать информацию в реальном времени из программы WhatPulse. Вы можете использовать его для передачи данных в другие приложения. Подробнее смотрите в нашем &lt;a href=&quot;http://dev.whatpulse.org&quot;&gt;Центре для разработчиков&lt;/a&gt;</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="http://dev.whatpulse.org"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>API позволяет получать информацию в реальном времени из программы WhatPulse. Вы можете использовать его для передачи данных в другие приложения. Подробнее смотрите в нашем &lt;a href="http://dev.whatpulse.org"&gt;Центре для разработчиков&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="191"/>
@@ -4564,7 +4579,7 @@ This will reset any custom layouts!</source>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>Выберите начальную и конечную дату для просмотра статистики за этот период.</translation>
     </message>
     <message>
@@ -4708,7 +4723,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1261"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
-        <translation>Пожалкйста, выберите вариант экспорта ниже. Выберите, какие данные вы хотите получить, за какой период и хотите ли вы группировать их по дням, неделям или месяцам, затем нажмите &quot;Сохранить&quot; для экспорта их в CSV.</translation>
+        <translation>Пожалкйста, выберите вариант экспорта ниже. Выберите, какие данные вы хотите получить, за какой период и хотите ли вы группировать их по дням, неделям или месяцам, затем нажмите "Сохранить" для экспорта их в CSV.</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1269"/>
@@ -4787,8 +4802,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1452"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Перезагрузки с &quot;%1% по &quot;%2% </translation>
+        <source>Reboot list between '%1' and '%2' </source>
+        <translation>Перезагрузки с "%1% по "%2% </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1482"/>
@@ -4797,8 +4812,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1523"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Время активной работы приложения с &quot;%1&quot; по &quot;%2&quot; </translation>
+        <source>Active application time between '%1' and '%2' </source>
+        <translation>Время активной работы приложения с "%1" по "%2" </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1531"/>
@@ -5114,8 +5129,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="739"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Вы уверены, что хотите игнорировать приложение &quot;%1%? Это также удалит всю историю этого приложения.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Вы уверены, что хотите игнорировать приложение "%1%? Это также удалит всю историю этого приложения.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="790"/>
@@ -5523,7 +5538,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="161"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>У вас запущена актуальная версия whatPulse.</translation>
     </message>
 </context>
@@ -5531,12 +5546,12 @@ This will reset any custom layouts!</source>
     <name>WindowUpdateAlert</name>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="30"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>Доступно обновление!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/WindowUpdateAlert.cpp" line="35"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>Что нового?</translation>
     </message>
     <message>
@@ -5586,7 +5601,7 @@ This will reset any custom layouts!</source>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="21"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>Вы были перенаправлены на сайт, пожалуйста, следуйте инструциям. После завершения процедуры входа программа автоматически авторизауется, и вы в игре!</translation>
     </message>
     <message>
@@ -5597,8 +5612,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>Если ваш браузер не открылся, попробуйте щелкнуть или скопировать &lt;a href=&quot;%1&quot;&gt;эту ссылку&lt;/a&gt;.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1"&gt;this link&lt;/a&gt;.</source>
+        <translation>Если ваш браузер не открылся, попробуйте щелкнуть или скопировать &lt;a href="%1"&gt;эту ссылку&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="149"/>
@@ -5636,8 +5651,8 @@ This will reset any custom layouts!</source>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>Вас приветствует WhatPulse, &lt;b&gt;та самая&lt;/b&gt; программа статистики, которая вам нужна. WhatPulse отвечает на вопрос &apos;Сколько я пользуюсь своим ПК в день?&apos;&lt;br /&gt;&lt;br /&gt;Давайте начнем. Если у вас уже есть аккаунт, щелкните &lt;b&gt;Войти&lt;/b&gt;. Если нет, то щелкните &lt;b&gt;Регистрация&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;В обоих случаях вы будете перенаправлены на наш сайт для завершения авторизации&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>Вас приветствует WhatPulse, &lt;b&gt;та самая&lt;/b&gt; программа статистики, которая вам нужна. WhatPulse отвечает на вопрос 'Сколько я пользуюсь своим ПК в день?'&lt;br /&gt;&lt;br /&gt;Давайте начнем. Если у вас уже есть аккаунт, щелкните &lt;b&gt;Войти&lt;/b&gt;. Если нет, то щелкните &lt;b&gt;Регистрация&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;В обоих случаях вы будете перенаправлены на наш сайт для завершения авторизации&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="25"/>
@@ -5654,8 +5669,8 @@ This will reset any custom layouts!</source>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation>Добро пожаловать в WhatPulse, &lt;b&gt;единственную&lt;/b&gt; статистическую программу, которая вам когда-либо понадобится. WhatPulse отвечает на вопрос &quot;Сколько я использую свой компьютер за день?&quot;&lt;br /&gt;&lt;br /&gt;Для начала введите название вашей &lt;strong&gt;организации или ID&lt;/strong&gt;, предоставленное вашим администратором WhatPulse Professional.</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>Добро пожаловать в WhatPulse, &lt;b&gt;единственную&lt;/b&gt; статистическую программу, которая вам когда-либо понадобится. WhatPulse отвечает на вопрос "Сколько я использую свой компьютер за день?"&lt;br /&gt;&lt;br /&gt;Для начала введите название вашей &lt;strong&gt;организации или ID&lt;/strong&gt;, предоставленное вашим администратором WhatPulse Professional.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="268"/>
@@ -5683,7 +5698,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="108"/>
         <source>Almost there! Select a database from the list below and click Finish to download and restore.</source>
-        <translation>Почти закончили! Выберите базу данных из списка ниже и нажмите &quot;Завершить&quot; для ее скачивания и восстановлениия.</translation>
+        <translation>Почти закончили! Выберите базу данных из списка ниже и нажмите "Завершить" для ее скачивания и восстановлениия.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="111"/>
@@ -5693,7 +5708,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="117"/>
         <source>Almost there! Click Finish to apply your previous client settings.</source>
-        <translation>Почти закончили! Щелкните &quot;Завершить&quot; для применения предыдущих настроек вашей программы.</translation>
+        <translation>Почти закончили! Щелкните "Завершить" для применения предыдущих настроек вашей программы.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="169"/>
@@ -5724,7 +5739,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Извините, функция резервного копирования онлайн доступна только для премиум-статуса. Больше информации здесь: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -5734,7 +5749,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="406"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Извините, сайт выдал ошибку во время подготовки вашей резервной копии. Попробуйте позже. Ошибка: %1</translation>
     </message>
     <message>
@@ -5755,7 +5770,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="460"/>
         <source>All done! Please restart the client by clicking Finished.</source>
-        <translation>Все готово! Перезапустите программу, нажав на &quot;Завершить&quot;.</translation>
+        <translation>Все готово! Перезапустите программу, нажав на "Завершить".</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="462"/>
@@ -5802,7 +5817,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="110"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
         <translation>Вы когда-нибудь задавались вопросом, сколько времени включен ваш компьютер? Эта настройка ответит на ваш вопрос. Также она может рассказать, сколько времени вы используете то или иное приложение.</translation>
     </message>
     <message>
@@ -5822,8 +5837,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="152"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;small&gt;Если вы хотите собирать всю статистику, но не хотите делиться ею с публикой, проверьте ваши &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot;&gt;настройки приватности&lt;/a&gt;.</translation>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;small&gt;Если вы хотите собирать всю статистику, но не хотите делиться ею с публикой, проверьте ваши &lt;a href="https://whatpulse.org/dashboard/my/privacy"&gt;настройки приватности&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>
