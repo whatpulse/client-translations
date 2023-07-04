@@ -62,14 +62,21 @@ A few things to note:
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/TheMorc>
+            <img src=https://avatars.githubusercontent.com/u/13377926?v=4 width="100;"  alt=Morc - Richard Gráčik/>
+            <br />
+            <sub style="font-size:14px"><b>Morc - Richard Gráčik</b></sub>
+        </a>
+    </td>
+</tr>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Radotornado>
             <img src=https://avatars.githubusercontent.com/u/16245632?v=4 width="100;"  alt=Radoslav Mandev/>
             <br />
             <sub style="font-size:14px"><b>Radoslav Mandev</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Stardisk>
             <img src=https://avatars.githubusercontent.com/u/24385735?v=4 width="100;"  alt=Stardisk/>
@@ -82,13 +89,6 @@ A few things to note:
             <img src=https://avatars.githubusercontent.com/u/22997509?v=4 width="100;"  alt=#AA0000/>
             <br />
             <sub style="font-size:14px"><b>#AA0000</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/TheMorc>
-            <img src=https://avatars.githubusercontent.com/u/13377926?v=4 width="100;"  alt=Morc - Richard Gráčik/>
-            <br />
-            <sub style="font-size:14px"><b>Morc - Richard Gráčik</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
