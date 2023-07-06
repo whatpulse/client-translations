@@ -31,12 +31,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="50"/>
         <source>Last Backup:</source>
-        <translation>Posledné zálohovanie:</translation>
+        <translation>Posledná záloha:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="70"/>
         <source>Upgrade to Premium</source>
-        <translation>Upgrade na Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="75"/>
@@ -86,12 +86,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="130"/>
         <source>Total Mouse Scrolls:</source>
-        <translation>Celkový počet posunov myšou:</translation>
+        <translation>Celkový počet scrollnutí myšou:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="132"/>
         <source>Total Mouse Distance:</source>
-        <translation>Celková vzdialenosť myši:</translation>
+        <translation>Celková vzdialenosť na myši:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="202"/>
@@ -222,12 +222,12 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../interface/AccountTab.cpp" line="575"/>
         <source>Backup Started</source>
-        <translation>Spustenie zálohovania</translation>
+        <translation>Zálohovanie spustené</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="576"/>
         <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
-        <translation>Úspešne spustené zálohovanie. Bude prebiehať na pozadí a potrvá niekoľko minút.</translation>
+        <translation>Zálohovanie úspešne spustené. Bude prebiehať na pozadí a potrvá niekoľko minút.</translation>
     </message>
 </context>
 <context>
@@ -260,7 +260,7 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="130"/>
         <source>Organization does not exist! Please check the spelling and try again.</source>
-        <translation>Organizácia neexistuje! Skontrolujte prosím pravopis a skúste to znova.</translation>
+        <translation>Organizácia neexistuje! Skontrolujte prosím meno a skúste to znova.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="136"/>
@@ -278,7 +278,7 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../application.cpp" line="198"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
-        <translation>Nepodarilo sa zistiť žiadny systémový tray na tomto systéme, ten potrebujeme na fungovanie.</translation>
+        <translation>Nepodarilo sa zistiť žiadny systémový tray na tomto systéme.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="216"/>
@@ -318,7 +318,7 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../application.cpp" line="839"/>
         <source>&amp;Pulse!</source>
-        <translation>&amp;Pulz!</translation>
+        <translation>&amp;Pulzni!</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="842"/>
@@ -410,7 +410,7 @@ Vypínam prenosný režim.</translation>
         <location filename="../application.cpp" line="1565"/>
         <location filename="../application.cpp" line="1619"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
-        <translation>Poprehadzovali sme niektoré databázové súbory a potrebujeme reštart, vidíme sa o chvíľu!</translation>
+        <translation>Popresúvali sme niektoré databázové súbory a potrebujeme reštart, vidíme sa o chvíľu!</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1588"/>
@@ -506,7 +506,7 @@ Nechávam prenosný režim zapnutý.</translation>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="201"/>
         <source>Uh oh</source>
-        <translation>Uh oh</translation>
+        <translation>Ajaj</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="202"/>
@@ -675,7 +675,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../util/database.cpp" line="361"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
-        <translation>Nie je podporované downgradeovať WhatPulse klienta, prosím nainštalujte najnovšiu verziu a skúste to znova.</translation>
+        <translation>Downgradeovanie WhatPulse klienta neni podporované, prosím nainštalujte najnovšiu verziu a skúste to znova.</translation>
     </message>
 </context>
 <context>
@@ -701,7 +701,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
         <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
-        <translation>Vitajte! Podľa našich záznamov prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej online zálohy databázy. Prosím dajte si chvíľku a spravte to teraz. Toto okno sa automaticky zatvorí keď bude všetko hotové.</translation>
+        <translation>Vitajte! Prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej zálohy online databázy. Prosím dajte si chvíľku a spravte to teraz. Toto okno sa automaticky zatvorí keď bude všetko hotové.</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="53"/>
@@ -958,7 +958,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="26"/>
         <source>Scrolls</source>
-        <translation>Zvitky</translation>
+        <translation>Scrollnutia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="26"/>
@@ -1030,7 +1030,7 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="114"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="128"/>
         <source>Scrolls:</source>
-        <translation>Zvitky:</translation>
+        <translation>Scrollnutia:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="101"/>
@@ -1099,7 +1099,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="420"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím vráťte sa za hodinu alebo tak.</translation>
+        <translation>Táto aplikácia ešte nebola nahraná na stránku, prosím, skontrolujte to opäť za hodinu.</translation>
     </message>
 </context>
 <context>
@@ -1122,7 +1122,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
         <source>Scrolls</source>
-        <translation>Zvitky</translation>
+        <translation>Scrollnutia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
@@ -1132,7 +1132,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="185"/>
         <source>Go Premium</source>
-        <translation>Kúpiť Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="197"/>
@@ -1235,17 +1235,17 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="97"/>
         <source>Used</source>
-        <translation>Použité</translation>
+        <translation>Počet</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="116"/>
         <source>Hide Shift only</source>
-        <translation>Skryť iba Shift</translation>
+        <translation>Skryť Shiftové skratky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
         <source>Hide Ctrl only</source>
-        <translation>Skryť iba Ctrl</translation>
+        <translation>Skryť Ctrl-ové skratky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="139"/>
@@ -1353,7 +1353,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="317"/>
         <source>Show Heat Map</source>
-        <translation>Zobraziť mapu tepla</translation>
+        <translation>Zobraziť heatmapu</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="319"/>
@@ -1442,13 +1442,13 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="621"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="705"/>
         <source>Left</source>
-        <translation>Vľavo</translation>
+        <translation>Ľavé</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="622"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="705"/>
         <source>Right</source>
-        <translation>Vpravo</translation>
+        <translation>Pravé</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="623"/>
@@ -1465,7 +1465,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="652"/>
         <source>Scrolls</source>
-        <translation>Zvitky</translation>
+        <translation>Scrollnutia</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="667"/>
@@ -1518,12 +1518,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="153"/>
         <source>History of Keys, Clicks, Scrolls, and Distance</source>
-        <translation>História kľúčov, kliknutí, zvitkov a vzdialeností</translation>
+        <translation>História kláves, kliknutí, scrollnutí a vzdialeností</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="157"/>
         <source>Application Keys, Clicks, Scrolls, and Distance</source>
-        <translation>Klávesy aplikácií, kliknutia, posúvanie a vzdialenosť</translation>
+        <translation>Klávesy aplikácií, kliknutia, scrollnutí a vzdialenosť</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="159"/>
@@ -1588,7 +1588,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="291"/>
         <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
-        <translation>História klávesov, kliknutí, posunov a vzdialenosti medzi '%1' a '%2'</translation>
+        <translation>História kláves, kliknutí, scrollnutí a vzdialeností medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="321"/>
@@ -1647,12 +1647,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="654"/>
         <source>Key combinations between '%1' and '%2' </source>
-        <translation>Kombinácie klávesov medzi "%1" a "%2</translation>
+        <translation>Klávesové skratky medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="719"/>
         <source>Key combinations per application between '%1' and '%2' </source>
-        <translation>Kombinácie kľúčov na aplikáciu medzi "%1" a "%2</translation>
+        <translation>Klávesové skratky podľa aplikácie medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="809"/>
@@ -1675,7 +1675,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab.cpp" line="62"/>
         <source>Key Combinations</source>
-        <translation>Klávesové Skratky</translation>
+        <translation>Klávesové skratky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="80"/>
@@ -1833,7 +1833,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="101"/>
         <source>Go Premium</source>
-        <translation>Kúpiť Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
 </context>
 <context>
@@ -1841,7 +1841,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="428"/>
         <source>Image not created!</source>
-        <translation>Obrázok nevytvorený!</translation>
+        <translation>Obrázok nebol vytvorený!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
@@ -1856,7 +1856,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="521"/>
         <source>Image posted online!</source>
-        <translation>Obrázok zverejnený online!</translation>
+        <translation>Obrázok zverejnený!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="522"/>
@@ -1970,7 +1970,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="299"/>
         <source>Image posted online!</source>
-        <translation>Obrázok zverejnený online!</translation>
+        <translation>Obrázok zverejnený!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="300"/>
@@ -2166,7 +2166,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
         <source>Real-time</source>
-        <translation>Reálny čas</translation>
+        <translation>Graf v reálnom čase</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="39"/>
@@ -2176,7 +2176,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="40"/>
         <source>Port Types</source>
-        <translation>Typy portov</translation>
+        <translation>Porty</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="59"/>
@@ -2369,7 +2369,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="75"/>
         <source>Go Premium</source>
-        <translation>Kúpiť Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="110"/>
@@ -2505,7 +2505,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="67"/>
         <source>Go Premium</source>
-        <translation>Kúpiť Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="86"/>
@@ -2632,7 +2632,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="208"/>
         <source>&lt;b&gt;Maximum&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Maximálne&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Maximum&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -2753,12 +2753,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="201"/>
         <source>Summary of Wireless Bandwidth</source>
-        <translation>Súhrn šírky pásma z bezdrôtových</translation>
+        <translation>Súhrn šírky pásma z bezdrôtových sietí</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="203"/>
         <source>Summary of Wired Bandwidth</source>
-        <translation>Súhrn šírky pásma z káblových</translation>
+        <translation>Súhrn šírky pásma z káblových sietí</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="442"/>
@@ -2831,12 +2831,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="74"/>
         <source>Go Premium</source>
-        <translation>Kúpiť Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="102"/>
         <source>Record Unknown Traffic Types</source>
-        <translation>Nahrávať Neznáme Typy Prenosov</translation>
+        <translation>Nahrávať neznáme typy prenosov</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="103"/>
@@ -2892,7 +2892,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="169"/>
         <source>All Traffic</source>
-        <translation>Všetky Prenosy</translation>
+        <translation>Všetky prenosy</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="227"/>
@@ -2915,7 +2915,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="62"/>
         <source> Pulse!</source>
-        <translation> Pulz!</translation>
+        <translation> Pulzni!</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="148"/>
@@ -2933,7 +2933,7 @@ K dispozícií: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="304"/>
         <source>Scrolls:</source>
-        <translation>Zvitky:</translation>
+        <translation>Scrollnutia:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="306"/>
@@ -2975,18 +2975,18 @@ K dispozícií: %2</translation>
         <location filename="../interface/OverviewTab.cpp" line="194"/>
         <location filename="../interface/OverviewTab.cpp" line="370"/>
         <source>Download</source>
-        <translation>Stiahnite si</translation>
+        <translation>Sťahovanie</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="195"/>
         <location filename="../interface/OverviewTab.cpp" line="371"/>
         <source>Upload</source>
-        <translation>Nahraté</translation>
+        <translation>Nahrávanie</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="207"/>
         <source>Current uptime: unknown.&lt;br /&gt;Unknown reboots.</source>
-        <translation>Aktuálny čas prevádzky: neznámy.&lt;br /&gt;Neznáme reštarty.</translation>
+        <translation>Aktuálny uptime: neznámy.&lt;br /&gt;Neznáme reštarty.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="299"/>
@@ -2996,28 +2996,28 @@ K dispozícií: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="301"/>
         <source>unpulsed:</source>
-        <translation>bez impulzov:</translation>
+        <translation>nepulznutých:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="318"/>
         <location filename="../interface/OverviewTab.cpp" line="370"/>
         <location filename="../interface/OverviewTab.cpp" line="371"/>
         <source>unpulsed</source>
-        <translation>neimpulzované</translation>
+        <translation>nepulznutých</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="328"/>
         <source>Key Combinations</source>
-        <translation>Klávesové Skratky</translation>
+        <translation>Klávesové skratky</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="354"/>
         <source>Current uptime: %1
 Unpulsed: %2
 %3 reboots</source>
-        <translation>Aktuálny čas prevádzky: %1
-Neimpulzované: %2
-%3 reštartuje sa</translation>
+        <translation>Aktuálny uptime: %1
+Nepulznutých: %2
+%3 reštartov</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="359"/>
@@ -3028,8 +3028,8 @@ Neimpulzované: %2
         <location filename="../interface/OverviewTab.cpp" line="379"/>
         <source>Download: unknown
 Upload: unknown</source>
-        <translation>Na stiahnutie: neznámy
-Nahrávanie: neznáme</translation>
+        <translation>Stiahnuté: neznámy
+Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="382"/>
@@ -3059,12 +3059,12 @@ Nahrávanie: neznáme</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="410"/>
         <source>Pulse underway, please wait!</source>
-        <translation>Pulz pred nami, počkajte prosím!</translation>
+        <translation>Idem pulzovať, počkajte prosím!</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="415"/>
         <source>Pulse!</source>
-        <translation>Pulz!</translation>
+        <translation>Pulzni!</translation>
     </message>
 </context>
 <context>
@@ -3130,7 +3130,7 @@ Nahrávanie: neznáme</translation>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
         <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Tu je ako by to malo vyzerať: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Keď je začiarkavacie políčko už označené,  skúste ho odznačiť a označiť znovu.  Toto môže byť vyžadované po aktualizáciach.&lt;/center&gt;</translation>
+        <translation>&lt;center&gt;Malo by to vyzerať takto: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Keď je začiarkavacie políčko už označené,  skúste ho odznačiť a označiť znovu.  Toto môže byť vyžadované po aktualizáciach.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3158,7 +3158,7 @@ Nahrávanie: neznáme</translation>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="74"/>
         <source>Time flies! Your Premium membership has expired.</source>
-        <translation>Vaše premium členstvo vypršalo.</translation>
+        <translation>Vaše premium predplatné vypršalo.</translation>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="76"/>
@@ -3229,7 +3229,7 @@ Nahrávanie: neznáme</translation>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="425"/>
         <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>Verzia macOS-u nie je podporovaná; Prosím označte "Zapnúť prístup k pomocným zariadeniam" v sekcií Prístupnosť v Systémových nastaveniach a reštartujte klienta. Rátanie kláves ináč nebude fungovať. Aktualizovaný klient potrebuje znovu zapnutie.</translation>
+        <translation>Verzia systému macOS nie je podporovaná; Prosím označte "Zapnúť prístup k pomocným zariadeniam" v sekcií Prístupnosť v Systémových nastaveniach a reštartujte klienta. Rátanie kláves ináč nebude fungovať. Aktualizovaný klient potrebuje znovu zapnutie.</translation>
     </message>
 </context>
 <context>
@@ -3282,13 +3282,13 @@ Nahrávanie: neznáme</translation>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="51"/>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="71"/>
         <source>Download</source>
-        <translation>Stiahnite si</translation>
+        <translation>Sťahovanie</translation>
     </message>
     <message>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="55"/>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="74"/>
         <source>Upload</source>
-        <translation>Nahraté</translation>
+        <translation>Nahrávanie</translation>
     </message>
 </context>
 <context>
@@ -3306,7 +3306,7 @@ Nahrávanie: neznáme</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="90"/>
         <source>Proxy &amp; Client API</source>
-        <translation>Proxy &amp; Klient API</translation>
+        <translation>Proxy &amp; API klienta</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="91"/>
@@ -3481,7 +3481,7 @@ Nahrávanie: neznáme</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="364"/>
         <source>Pulse Server: </source>
-        <translation>Pulzový perver: </translation>
+        <translation>Pulzový server: </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="382"/>
@@ -3884,7 +3884,7 @@ Nahrávanie: neznáme</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="103"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="419"/>
         <source>Unpulsed Mouse Scrolls</source>
-        <translation>Neimpulzované posúvanie myšou</translation>
+        <translation>Neimpulzované scrollnutia myši</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="104"/>
@@ -4040,13 +4040,13 @@ Nahrávanie: neznáme</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="130"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="471"/>
         <source>Rank Mouse Distance</source>
-        <translation>Poradie Vzdialenosť myši</translation>
+        <translation>Poradie vo vzdialenosť myši</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="131"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="473"/>
         <source>Rank Mouse Scrolls</source>
-        <translation>Poradie Posúvanie myši</translation>
+        <translation>Poradie v scrolloch myši</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="132"/>
@@ -4088,13 +4088,13 @@ Nahrávanie: neznáme</translation>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="139"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="487"/>
         <source>Today Mouse Distance</source>
-        <translation>Dnes Vzdialenosť myší</translation>
+        <translation>Dnešná vzdialenosť myši</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="140"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="489"/>
         <source>Today Mouse Scrolls</source>
-        <translation>Myš sa dnes posúva</translation>
+        <translation>Dnešné scrollovanie myšou</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="151"/>
@@ -4313,7 +4313,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="243"/>
         <source>Time for coffee, you've made X keys!</source>
-        <translation>Čas dať si kávu, spravili ste X kláves!</translation>
+        <translation>Čas na kávu, spravili ste X kláves!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsMilestones.cpp" line="250"/>
@@ -4365,7 +4365,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="71"/>
         <source>Enable Client API</source>
-        <translation>Zapnúť klient API</translation>
+        <translation>Zapnúť API klienta</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="110"/>
@@ -4390,12 +4390,12 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="164"/>
         <source>Client API</source>
-        <translation>Klient API</translation>
+        <translation>API klienta</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="170"/>
         <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="http://dev.whatpulse.org"&gt;Developer Center&lt;/a&gt;</source>
-        <translation>Klient API vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase . Môžete ho použiť na využitie dát v inej aplikácií. Zistite viac na našom &lt;a href="http://dev.whatpulse.org"&gt;vývojárskom centre&lt;/a&gt;</translation>
+        <translation>API klienta vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase . Môžete ho použiť na využitie dát v inej aplikácií. Zistite viac na našom &lt;a href="http://dev.whatpulse.org"&gt;vývojárskom centre&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="191"/>
@@ -4435,7 +4435,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="370"/>
         <source>Proxy test worked!</source>
-        <translation>Prosy test úspešný!</translation>
+        <translation>Proxy test úspešný!</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="372"/>
@@ -4448,7 +4448,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="208"/>
         <source>Pulse</source>
-        <translation>Pulz</translation>
+        <translation>Pulzni</translation>
     </message>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="214"/>
@@ -4572,7 +4572,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="217"/>
         <source>Subscribe to Premium to unlock more per-application history</source>
-        <translation>Predplaťte si službu Premium a odomknite viac histórie na aplikáciu</translation>
+        <translation>Predplaťte si Premium a odomknite viac histórie na aplikáciu</translation>
     </message>
 </context>
 <context>
@@ -4913,7 +4913,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="196"/>
         <source>Go Premium</source>
-        <translation>Kúpiť Premium</translation>
+        <translation>Predplatiť Premium</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="224"/>
@@ -5010,7 +5010,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="355"/>
         <source>hours of uptime</source>
-        <translation>hodiny prevádzkyschopnosti</translation>
+        <translation>hodín uptimu</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="384"/>
@@ -5025,17 +5025,17 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="472"/>
         <source>Show only recently used applications</source>
-        <translation>Zobraziť iba nedávno použité aplikácie</translation>
+        <translation>Zobraziť iba nedávno používané aplikácie</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="479"/>
         <source>Show only running applications</source>
-        <translation>Zobraziť iba pustené aplikácie</translation>
+        <translation>Zobraziť iba spustené aplikácie</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="525"/>
         <source>Details</source>
-        <translation>Podrobnosti na</translation>
+        <translation>Podrobnosti</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="530"/>
@@ -5050,7 +5050,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="541"/>
         <source>Unpulsed uptime:</source>
-        <translation>Nepulzovaný Uptime:</translation>
+        <translation>Nepulzovaný uptime:</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="544"/>
@@ -5295,12 +5295,12 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../utils.cpp" line="362"/>
         <source>meters</source>
-        <translation>metre</translation>
+        <translation>metrov</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="364"/>
         <source>meter</source>
-        <translation>merač</translation>
+        <translation>meter</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="377"/>
@@ -5454,22 +5454,22 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../utils.cpp" line="1356"/>
         <source>Left</source>
-        <translation>Doľava</translation>
+        <translation>Šípka doľava</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1359"/>
         <source>Down</source>
-        <translation>Dole</translation>
+        <translation>Šípka dole</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1362"/>
         <source>Right</source>
-        <translation>Doprava</translation>
+        <translation>Šípka doprava</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1365"/>
         <source>Up</source>
-        <translation>Hore</translation>
+        <translation>Šípka hore</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1368"/>
@@ -5479,7 +5479,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../utils.cpp" line="1371"/>
         <source>Home</source>
-        <translation>Domov</translation>
+        <translation>Home</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1374"/>
@@ -5519,7 +5519,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../utils.cpp" line="2040"/>
         <source>Upgrade to Premium to unlock this feature</source>
-        <translation>Ak chcete túto funkciu odomknúť, aktualizujte na Premium</translation>
+        <translation>Ak chcete túto funkciu odomknúť, predplaťte si Premium</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="943"/>
@@ -5618,13 +5618,13 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="149"/>
         <source>Our server is currently in maintenance, please check back in a few minutes. Sorry!</source>
-        <translation>Náš server je momentálne v údržbe, prosím vrátťe sa neskôr za pár minút. Prepáčte!</translation>
+        <translation>Náš server je momentálne v údržbe, prosím vrátťe sa neskôr za pár minút. Ospravedlňujeme sa!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="162"/>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="175"/>
         <source>Our server producing errors, please check back in a few minutes. Sorry!</source>
-        <translation>Nás server generuje chyby, prosím vrátťe sa neskôr za pár minút. Prepáčte!</translation>
+        <translation>Náš server generuje chyby, prosím vrátťe sa neskôr za pár minút. Ospravedlňujeme sa!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="415"/>
@@ -5735,7 +5735,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="399"/>
         <source>Premium only</source>
-        <translation>Iba pre Premium</translation>
+        <translation>Iba pre Premium členov</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
@@ -5783,7 +5783,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="17"/>
         <source>Almost there! Set up the most important settings here. Click an option to see more detail.</source>
-        <translation>Už sme skoro tam! Nastavte najdôležitejšie nastavenia tu. Kliknite na možnosť na zobrazenie podrobností.</translation>
+        <translation>Už sme skoro tam! Nastavte najdôležitejšie nastavenia. Kliknutím na možnosť zobrazíte podrobnosti.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="52"/>
@@ -5798,7 +5798,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="69"/>
         <source>Also send to the website for use in your Dashboard.</source>
-        <translation>Tiež poslať na stránku na použitie vo vašom prehľade.</translation>
+        <translation>Tiež poslať na stránku na použitie vo vašom Dashboarde.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="80"/>
