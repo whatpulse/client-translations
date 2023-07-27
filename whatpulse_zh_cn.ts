@@ -33,12 +33,17 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="50"/>
         <source>Last Backup:</source>
-        <translation>最后一次备份。</translation>
+        <translation>最后一次备份：</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="70"/>
         <source>Upgrade to Premium</source>
         <translation>升级为高级会员</translation>
+    </message>
+	<message>
+        <location filename="../interface/AccountTab.cpp" line="75"/>
+        <source>Start Backup</source>
+        <translation>开始备份</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="85"/>
@@ -58,27 +63,27 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="112"/>
         <source>Total Keys:</source>
-        <translation>总按键：</translation>
+        <translation>总按键次数：</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="114"/>
         <source>Total Clicks:</source>
-        <translation>总点击：</translation>
+        <translation>总点击次数：</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="116"/>
         <source>Total Download:</source>
-        <translation>总下载：</translation>
+        <translation>总下载流量：</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="118"/>
         <source>Total Upload:</source>
-        <translation>总上传：</translation>
+        <translation>总上传流量：</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="120"/>
         <source>Total Uptime:</source>
-        <translation>总在线：</translation>
+        <translation>总在线时长：</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="122"/>
@@ -88,7 +93,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="124"/>
         <source>Total Mouse Distance:</source>
-        <translation>鼠标总距离:</translation>
+        <translation>鼠标移动的总距离:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="194"/>
@@ -98,12 +103,12 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="202"/>
         <source> &amp;Log out</source>
-        <translation> 退出(&amp;L)</translation>
+        <translation> 退出登录(&amp;L)</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="208"/>
         <source> &amp;Reset Token</source>
-        <translation> 重置(&amp;R)</translation>
+        <translation> 重置令牌(&amp;R)</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="215"/>
@@ -139,7 +144,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="415"/>
         <source>Log Out</source>
-        <translation>登出</translation>
+        <translation>退出登录</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="417"/>
@@ -238,7 +243,7 @@ You can continue pulsing.</source>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
         <source>Welcome to WhatPulse Professional</source>
-        <translation>欢迎来到WhatPulse专业版</translation>
+        <translation>欢迎使用 WhatPulse 专业版</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="123"/>
@@ -253,7 +258,7 @@ You can continue pulsing.</source>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="136"/>
         <source>Server error, please try again!</source>
-        <translation>服务器错误，请重试</translation>
+        <translation>服务器错误，请重试！</translation>
     </message>
 </context>
 <context>
@@ -418,7 +423,7 @@ Keeping Portable Mode enabled.</source>
         <location filename="../application.cpp" line="2025"/>
         <location filename="../application.cpp" line="2038"/>
         <source>Premium features disabled</source>
-        <translation>尊享功能已禁用</translation>
+        <translation>高级会员功能已禁用</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="2026"/>
@@ -436,7 +441,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="63"/>
         <source>Report a Bug</source>
-        <translation>报告bug</translation>
+        <translation>报告 bug</translation>
     </message>
 </context>
 <context>
@@ -489,7 +494,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="195"/>
         <source>Bug Report successfully sent, thanks for reporting!</source>
-        <translation>成功发送bug报告。谢谢你的报告！</translation>
+        <translation>成功发送 bug 报告。谢谢你的报告！</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="201"/>
@@ -499,7 +504,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="202"/>
         <source>Something went wrong while reporting your bug. Please try again!&lt;br /&gt;&lt;br /&gt;</source>
-        <translation>报告bug时出错。请重试！&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation>报告 bug 时出错。请重试！&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="216"/>
@@ -598,7 +603,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../online/clientcommunication.cpp" line="946"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
-        <translation>新 GeoIP 數據庫似乎太小 (%1)，正在停止更新。</translation>
+        <translation>新的 GeoIP 数据库似乎太小 (%1)，正在停止更新。</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="1010"/>
@@ -731,7 +736,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="142"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
-        <translation>抱歉，准备你的备份时网站出错。请稍后再试。错误是： %1</translation>
+        <translation>抱歉，在准备你的备份时网站出错了。请稍后再试。错误是： %1</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="156"/>
@@ -2657,7 +2662,6 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="37"/>
         <source>Total</source>
-        <translation>总</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="62"/>
@@ -2987,7 +2991,6 @@ Available: %2</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="301"/>
         <source>unpulsed:</source>
-        <translation>未Pulse的。</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="318"/>
@@ -3343,12 +3346,12 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="228"/>
         <source>Launch when computer starts</source>
-        <translation>计算机启动时启动</translation>
+        <translation>随计算机启动</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="230"/>
         <source>Enable Portable Mode</source>
-        <translation>开启绿色模式</translation>
+        <translation>开启便携模式</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="234"/>
@@ -3418,7 +3421,7 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="88"/>
         <source>Geek Window</source>
-        <translation>隐藏悬浮窗</translation>
+        <translation>悬浮窗</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="89"/>
@@ -3438,7 +3441,7 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="266"/>
         <source>Send bug and usage reports</source>
-        <translation>发送缺陷与使用报告</translation>
+        <translation>发送 bug 与使用报告</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="298"/>
@@ -3448,7 +3451,7 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="301"/>
         <source>Auto Detect</source>
-        <translation>自動偵測</translation>
+        <translation>自动检测</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="302"/>
@@ -3478,7 +3481,7 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="382"/>
         <source>Active Stats</source>
-        <translation>活跃的统计</translation>
+        <translation>活动统计</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="392"/>
@@ -3871,49 +3874,49 @@ Upload: unknown</source>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="102"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="417"/>
         <source>Unpulsed Mouse Distance</source>
-        <translation>未Pulse的鼠标距离</translation>
+        <translation>未 Pulse 的鼠标距离</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="103"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="419"/>
         <source>Unpulsed Mouse Scrolls</source>
-        <translation>未Pulse的鼠标滚动</translation>
+        <translation>未 Pulse 的鼠标滚动</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="104"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="421"/>
         <source>Unpulsed Upload</source>
-        <translation>未Pulse的上传</translation>
+        <translation>未 Pulse 的上传流量</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="105"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="423"/>
         <source>Unpulsed Uptime</source>
-        <translation>未Pulse的在线时长</translation>
+        <translation>未 Pulse 的在线时长</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="106"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="425"/>
         <source>Unpulsed Click Rate</source>
-        <translation>未Pulse的点击速度</translation>
+        <translation>未 Pulse 的点击速度</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="107"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="427"/>
         <source>Unpulsed Key Rate</source>
-        <translation>未Pulse的按键速度</translation>
+        <translation>未 Pulse 的按键速度</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="108"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="429"/>
         <source>Unpulsed Download Rate</source>
-        <translation>未Pulse的下载速度</translation>
+        <translation>未 Pulse 的下载速度</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="109"/>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="431"/>
         <source>Unpulsed Upload Rate</source>
-        <translation>未Pulse的上传速度</translation>
+        <translation>未 Pulse 的上传速度</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsGeekWindow.cpp" line="110"/>
