@@ -271,174 +271,174 @@ Du kan nu fortsätta pulsa.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="200"/>
+        <location filename="../application.cpp" line="197"/>
         <source>No system tray</source>
         <translation>Inget systemfält</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="201"/>
+        <location filename="../application.cpp" line="198"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Kunde inte upptäcka något systemfält på det här systemet, och jag behöver det för att köra.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="219"/>
+        <location filename="../application.cpp" line="216"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES-funktioner är inte tillgängliga. Finns libeay32.dll och ssleay32.dll närvarande? Om inte, försök att installera om!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="220"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES-funktioner är inte tillgängliga. Finns OpenSSL-biblioteket närvarande?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="226"/>
+        <location filename="../application.cpp" line="223"/>
         <source>AES failure</source>
         <translation>AES-fel</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="841"/>
+        <location filename="../application.cpp" line="837"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Öppna Fönster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="841"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Växla Geek-fönstret</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="845"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Öppna Inställningar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="853"/>
+        <location filename="../application.cpp" line="849"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Sök efter Uppdateringar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="857"/>
+        <location filename="../application.cpp" line="853"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsa!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="860"/>
+        <location filename="../application.cpp" line="856"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Se Online Statistik</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="864"/>
+        <location filename="../application.cpp" line="860"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Avsluta WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="867"/>
+        <location filename="../application.cpp" line="863"/>
         <source>Enabled Stats</source>
         <translation>Aktiverad statistik</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="868"/>
+        <location filename="../application.cpp" line="864"/>
         <source>Keyboard</source>
         <translation>Tangentbord</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="865"/>
         <source>Keyboard Heatmap</source>
         <translation>Tangentbord Värmekarta</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="870"/>
+        <location filename="../application.cpp" line="866"/>
         <source>Mouse</source>
         <translation>Mus</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="871"/>
+        <location filename="../application.cpp" line="867"/>
         <source>Mouse Heatmap</source>
         <translation>Mus Värmekarta</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="872"/>
+        <location filename="../application.cpp" line="868"/>
         <source>Network</source>
         <translation>Nätverk</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="869"/>
         <source>Uptime</source>
         <translation>Drifttid</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1334"/>
+        <location filename="../application.cpp" line="1330"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsering Inaktiverad!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1335"/>
+        <location filename="../application.cpp" line="1331"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Inställningen "Arbeta offline" är aktiverad. Detta förhindrar klienten från att gå online, vilket inkluderar pulsering. Inaktivera den inställningen och du kan pulsa igen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1541"/>
+        <location filename="../application.cpp" line="1537"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Du har aktiverat Portabelt Läge. Detta bör endast användas när du placerar WhatPulse på ett bärbart medium, som en USB-enhet.
 Vill du fotsätta?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1544"/>
-        <location filename="../application.cpp" line="1567"/>
-        <location filename="../application.cpp" line="1583"/>
-        <location filename="../application.cpp" line="1599"/>
-        <location filename="../application.cpp" line="1642"/>
-        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1540"/>
+        <location filename="../application.cpp" line="1563"/>
+        <location filename="../application.cpp" line="1579"/>
+        <location filename="../application.cpp" line="1595"/>
+        <location filename="../application.cpp" line="1638"/>
+        <location filename="../application.cpp" line="1649"/>
         <source>Portable Mode</source>
         <translation>Portabelt Läge</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1564"/>
+        <location filename="../application.cpp" line="1560"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Det gick inte att kopiera databasen till %1! Kontrollera skrivbehörigheter.
 Inaktiverar portabelt läge.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1580"/>
+        <location filename="../application.cpp" line="1576"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Det gick inte att kopiera statistik filen till %1! Kontrollera skrivbehörigheter.
 Inaktiverar portabelt läge.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1600"/>
-        <location filename="../application.cpp" line="1654"/>
+        <location filename="../application.cpp" line="1596"/>
+        <location filename="../application.cpp" line="1650"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Jag ordnade om några databasfiler och måste starta om mig själv, vi ses om en stund!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1623"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Det gick inte att kopiera databasen till %1! Kontrollera skrivbehörigheter.
 Behåller portabelt läge aktiverat.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1639"/>
+        <location filename="../application.cpp" line="1635"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Det gick inte att kopiera statistik filen till %1! Kontrollera skrivbehörigheter.
 Behåller portabelt läge aktiverat.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2092"/>
-        <location filename="../application.cpp" line="2105"/>
+        <location filename="../application.cpp" line="2088"/>
+        <location filename="../application.cpp" line="2101"/>
         <source>Premium features disabled</source>
         <translation>Premiumfunktioner inaktiverade</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2093"/>
+        <location filename="../application.cpp" line="2089"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Jag kunde inte kontakta webbplatsen för att verifiera ditt premiummedlemskap under 96 timmar. Jag har inaktiverat premiumfunktionerna. Gå tillbaka online för att aktivera igen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2106"/>
+        <location filename="../application.cpp" line="2102"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Ditt premiummedlemskap har löpt ut så jag har inaktiverat premiumfunktionerna. Du kan återaktivera ditt medlemskap via hemsidan.</translation>
     </message>
@@ -527,103 +527,113 @@ Behåller portabelt läge aktiverat.</translation>
         <translation>Webbsidan svarar inte korrekt på din förfrågan, försök igen senare.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="311"/>
+        <location filename="../online/clientcommunication.cpp" line="310"/>
+        <source>This computer is archived, and isn't able to connect to your account.</source>
+        <translation>Den här datorn är arkiverad och kan inte ansluta till ditt konto.</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="313"/>
+        <source>Computer Management</source>
+        <translation>Datorhantering</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="330"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Ditt konto väntar på aktivering, kontrollera din e-post och försök igen efter aktivering.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="315"/>
-        <location filename="../online/clientcommunication.cpp" line="365"/>
+        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <location filename="../online/clientcommunication.cpp" line="384"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Konto eller dator okänd! Har du registrerat dig?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="318"/>
-        <location filename="../online/clientcommunication.cpp" line="368"/>
+        <location filename="../online/clientcommunication.cpp" line="337"/>
+        <location filename="../online/clientcommunication.cpp" line="387"/>
         <source>Wrong password! Try again.</source>
         <translation>Fel Lösenord! Försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="322"/>
-        <location filename="../online/clientcommunication.cpp" line="395"/>
+        <location filename="../online/clientcommunication.cpp" line="341"/>
+        <location filename="../online/clientcommunication.cpp" line="414"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Servern är nere på grund av underhåll, försök igen senare.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="325"/>
-        <location filename="../online/clientcommunication.cpp" line="398"/>
+        <location filename="../online/clientcommunication.cpp" line="344"/>
+        <location filename="../online/clientcommunication.cpp" line="417"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Internt serverfel. Vänligen försök igen senare.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="329"/>
-        <location filename="../online/clientcommunication.cpp" line="402"/>
+        <location filename="../online/clientcommunication.cpp" line="348"/>
+        <location filename="../online/clientcommunication.cpp" line="421"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Serverfel: Indata saknas! Kontakta utvecklarna.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="371"/>
+        <location filename="../online/clientcommunication.cpp" line="390"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Aktivitet strypt, detta betyder att dina tangenttryck eller musklick per sekund är för höga. Vänta ungefär en timme för att sänka den och försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="377"/>
+        <location filename="../online/clientcommunication.cpp" line="396"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Fel token, har du använt denna profil på en annan dator?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="380"/>
+        <location filename="../online/clientcommunication.cpp" line="399"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Det begärda användarnamnet är redan registrerat! Välj ett annat användarnamn och försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="385"/>
+        <location filename="../online/clientcommunication.cpp" line="404"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulsen strypt. Du kan bara pulsera var 60:e sekund.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="388"/>
+        <location filename="../online/clientcommunication.cpp" line="407"/>
         <source>Premium only feature.</source>
         <translation>Endast premium-funktion.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="391"/>
+        <location filename="../online/clientcommunication.cpp" line="410"/>
         <source>Organization not found.</source>
         <translation>Organisationen hittades inte.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="405"/>
-        <location filename="../online/clientcommunication.cpp" line="966"/>
+        <location filename="../online/clientcommunication.cpp" line="424"/>
+        <location filename="../online/clientcommunication.cpp" line="985"/>
         <source>Success.</source>
         <translation>Klart.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="408"/>
+        <location filename="../online/clientcommunication.cpp" line="427"/>
         <source>Success, your file is now on the website!</source>
         <translation>Klart, din fil finns nu på hemsidan!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="942"/>
+        <location filename="../online/clientcommunication.cpp" line="961"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Det gick inte att öppna GeoIP-databasen (%1), behörighet nekades.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="954"/>
+        <location filename="../online/clientcommunication.cpp" line="973"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>Ny GeoIP-databas verkar vara för liten (%1), stoppar uppdateringen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1018"/>
+        <location filename="../online/clientcommunication.cpp" line="1037"/>
         <source>Empty reply received</source>
         <translation>Tomt svar mottaget</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1040"/>
+        <location filename="../online/clientcommunication.cpp" line="1059"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Det gick inte att öppna nätverksportbeskrivningsdatabasen (%1), behörighet nekades.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1054"/>
+        <location filename="../online/clientcommunication.cpp" line="1073"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Den nedladdade fien ser inte bra ut: %1</translation>
     </message>
@@ -1872,12 +1882,12 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="128"/>
+        <location filename="../stats/localstats.cpp" line="125"/>
         <source>Pulse throttled!</source>
         <translation>Puls avbryten!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="129"/>
+        <location filename="../stats/localstats.cpp" line="126"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Puls avbryten! Din senaste puls var %1 sekunder sedan, vänligen försök igen om 10 sekunder.</translation>
     </message>
