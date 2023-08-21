@@ -137,6 +137,13 @@ The logs will also tell you if there's something wrong with the translation file
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Miracle0565>
+            <img src=https://avatars.githubusercontent.com/u/53522776?v=4 width="100;"  alt=Miracle0565/>
+            <br />
+            <sub style="font-size:14px"><b>Miracle0565</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/CorruptComputer>
             <img src=https://avatars.githubusercontent.com/u/5573038?v=4 width="100;"  alt=Nickolas Gupton/>
             <br />
