@@ -22,6 +22,28 @@ A few things to note:
 * There could be spaces in the language string. **Please keep those** - they are there for a reason (i.e., extra spacing).
 * The letter before a `&` indicates that you can use that letter as a shortcut. If possible, keep them, unless the language you're working in does not have a convenient way to do this.
 
+# Testing a Translation
+
+Starting WhatPulse v5.5, you can run the client via the below manner making it use a local translation file. First you need to "release" your translate, which creates `.qm` file. In Qt Linguist, the File menu has a `Release As` action, where it'll create the `.qm` file and ask you where to save it. Once it's saved, run the WhatPulse client via the command line.
+
+*Adjust the path to the WhatPulse client and translation .qm file as needed*
+
+## macOS
+1. Open a Terminal.app window
+2. Run: `/Applications/WhatPulse/WhatPulse.app/Contents/MacOS/WhatPulse --translationfile /path/to/your_whatpulse_translation.qm`
+
+## Windows
+1. Open a Command window
+2. Run: `C:\Program Files\WhatPulse\WhatPulse.exe --translationfile C:\path\to\your_whatpulse_translation.qm`
+
+You'll see logs appear in the command terminal, which will say something about the translation file and using it. Something like this:
+
+```
+21-08-2023 12:26:22.735  INFO Using a custom translation file:  "/Users/martijn/WhatPulse/client/languages/whatpulse_de.qm"
+```
+
+The logs will also tell you if there's something wrong with the translation file.
+
 # Contributors
 
 <table>
