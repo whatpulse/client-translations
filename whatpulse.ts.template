@@ -420,18 +420,18 @@ Keeping Portable Mode enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2088"/>
-        <location filename="../application.cpp" line="2101"/>
+        <location filename="../application.cpp" line="2090"/>
+        <location filename="../application.cpp" line="2103"/>
         <source>Premium features disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2089"/>
+        <location filename="../application.cpp" line="2091"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2102"/>
+        <location filename="../application.cpp" line="2104"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation type="unfinished"></translation>
     </message>
