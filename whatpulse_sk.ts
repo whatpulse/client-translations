@@ -116,7 +116,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="231"/>
         <source> Refresh &amp;Account</source>
-        <translation> Prenačítať &amp;účet</translation>
+        <translation> Prenačítať stav &amp;účtu</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="296"/>
@@ -250,12 +250,12 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
         <source>Welcome to WhatPulse Professional</source>
-        <translation>Vitajte v službe WhatPulse Professional</translation>
+        <translation>Vitajte vo WhatPulse Professional</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="123"/>
         <source>Waiting for approval from your administrator to join organization..</source>
-        <translation>Čakáte na schválenie od správcu, aby ste sa mohli pripojiť k organizácii.</translation>
+        <translation>Čakanie na schválenie pripojenia k organizácii od správcu.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="130"/>
@@ -373,7 +373,7 @@ Môžete pokračovať v pulzovaní.</translation>
     <message>
         <location filename="../application.cpp" line="1331"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
+        <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi na online pripojenie, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1537"/>
@@ -529,7 +529,7 @@ Nechávam prenosný režim zapnutý.</translation>
     <message>
         <location filename="../online/clientcommunication.cpp" line="310"/>
         <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
-        <translation>Tento počítač je archivovaný a nemôže sa pripojiť k vášmu kontu.</translation>
+        <translation>Tento počítač je archivovaný a nemôže sa pripojiť k vášmu účtu.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="313"/>
@@ -539,7 +539,7 @@ Nechávam prenosný režim zapnutý.</translation>
     <message>
         <location filename="../online/clientcommunication.cpp" line="330"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
-        <translation>Váš účet čaká na aktiváciiu, prosím skontrolujte Váš email a skúste to znova po aktivovaní.</translation>
+        <translation>Váš účet čaká na aktiváciu, prosím skontrolujte Váš email a skúste to znova po aktivovaní.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="334"/>
@@ -711,7 +711,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
         <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
-        <translation>Vitajte! Prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej zálohy online databázy. Prosím dajte si chvíľku a spravte to teraz. Toto okno sa automaticky zatvorí keď bude všetko hotové.</translation>
+        <translation>Vitajte! Prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej zálohy databáz. Prosím obetujte čas a spravte to teraz. Toto okno sa automaticky zatvorí keď bude všetko hotové.</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="53"/>
@@ -799,7 +799,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../facts.cpp" line="398"/>
         <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
-        <translation>Najviac ste písali v aplikácií &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kláves)</translation>
+        <translation>Najviac ste napísali v aplikácií &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kláves)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="412"/>
@@ -894,12 +894,12 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../facts.cpp" line="696"/>
         <source>You have downloaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation>Na bezdrôtovom pripojení ste stiahli &lt;b&gt;%VAR1:filesize%&lt;/b&gt; a &lt;b&gt;%VAR2:filesize%&lt;/b&gt; na káblovom pripojení.</translation>
+        <translation>Na bezdrôtovom pripojení ste stiahli &lt;b&gt;%VAR1:filesize%&lt;/b&gt; a na káblovom pripojení &lt;b&gt;%VAR2:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="715"/>
         <source>You have uploaded &lt;b&gt;%VAR1:filesize%&lt;/b&gt; on wireless and &lt;b&gt;%VAR2:filesize%&lt;/b&gt; on wired.</source>
-        <translation>Na bezdrôtovom pripojení ste nahrali &lt;b&gt;%VAR1:filesize%&lt;/b&gt; a &lt;b&gt;%VAR2:filesize%&lt;/b&gt; na káblovom pripojení.</translation>
+        <translation>Na bezdrôtovom pripojení ste nahrali &lt;b&gt;%VAR1:filesize%&lt;/b&gt; a na káblovom pripojení &lt;b&gt;%VAR2:filesize%&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="737"/>
@@ -1026,7 +1026,7 @@ Skontrolujte si povolenia na : %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="112"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="126"/>
         <source>Keys:</source>
-        <translation>Kľúče:</translation>
+        <translation>Klávesy:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="99"/>
@@ -1255,7 +1255,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="125"/>
         <source>Hide Ctrl only</source>
-        <translation>Skryť Ctrl-ové skratky</translation>
+        <translation>Skryť Ctrlové skratky</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeycombinationspage.cpp" line="139"/>
@@ -2181,7 +2181,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
         <source>Real-time</source>
-        <translation>Graf v reálnom čase</translation>
+        <translation>Graf reálneho času</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="39"/>
@@ -3446,7 +3446,7 @@ Nahrané: neznáme</translation>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="87"/>
         <source>Auto Pulse</source>
-        <translation>Automatické pulzovanie</translation>
+        <translation>Automatické pulzy</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab.cpp" line="89"/>
@@ -3670,12 +3670,12 @@ Nahrané: neznáme</translation>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="15"/>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="16"/>
         <source>Auto pulse on </source>
-        <translation>Automaticky pulzovať pri </translation>
+        <translation>Automatický pulz pri </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="17"/>
         <source>Auto pulse on startup</source>
-        <translation>Automaticky pulzovať pri spustení</translation>
+        <translation>Automatický pulz pri spustení</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="60"/>
@@ -3722,7 +3722,7 @@ Nahrané: neznáme</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="148"/>
         <source>Auto pulse on hour </source>
-        <translation>Automaticky puzlovať o </translation>
+        <translation>Automatický pulz o </translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsAutoPulse.cpp" line="152"/>
@@ -4410,7 +4410,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="170"/>
         <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>API klienta vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase . Môžete ho použiť na využitie dát v inej aplikácií. Zistite viac na našom &lt;a href=&quot;https://whatpulse.org/in/client_api&quot;&gt;vývojárskom centre&lt;/a&gt;</translation>
+        <translation>API klienta vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase . Môžete ho použiť na využitie dát v inej aplikácií. Zistite viac na našom &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;vývojárskom centre&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/SettingsTab/SettingsProxy.cpp" line="193"/>
@@ -5534,7 +5534,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../utils.cpp" line="2040"/>
         <source>Upgrade to Premium to unlock this feature</source>
-        <translation>Ak chcete túto funkciu odomknúť, predplaťte si Premium</translation>
+        <translation>Predplaťte si Premium na odomknutie funkcie</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="943"/>
