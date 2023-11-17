@@ -71,9 +71,9 @@ The logs will also tell you if there's something wrong with the translation file
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/urbainn>
-            <img src=https://avatars.githubusercontent.com/u/47057465?v=4 width="100;"  alt=UBrain/>
+            <img src=https://avatars.githubusercontent.com/u/47057465?v=4 width="100;"  alt=Urbain/>
             <br />
-            <sub style="font-size:14px"><b>UBrain</b></sub>
+            <sub style="font-size:14px"><b>Urbain</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -129,9 +129,9 @@ The logs will also tell you if there's something wrong with the translation file
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Inktest>
-            <img src=https://avatars.githubusercontent.com/u/40661903?v=4 width="100;"  alt=Inktest/>
+            <img src=https://avatars.githubusercontent.com/u/40661903?v=4 width="100;"  alt=Ink/>
             <br />
-            <sub style="font-size:14px"><b>Inktest</b></sub>
+            <sub style="font-size:14px"><b>Ink</b></sub>
         </a>
     </td>
 </tr>
