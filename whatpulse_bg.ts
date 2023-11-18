@@ -2310,8 +2310,8 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="221"/>
         <source>Reset All Stats</source>
-        <translation/>
-    <id>21</id></message>
+        <translation>Нулиране на всички статистики</translation>
+    </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="237"/>
         <source>Are you sure you want to delete all recorded network interface statistics? This cannot be undone.</source>

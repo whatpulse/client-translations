@@ -163,7 +163,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="454"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>无法在客户端里修改密码。请退出登录，然后使用相同的邮箱和计算机名重新登录以在客户端里修改密码。使用相同的信息时统计会保留。</translation>
     </message>
     <message>
@@ -229,7 +229,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="573"/>
-        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
+        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>成功启动备份。将在后台运行，需要几分钟时间。</translation>
     </message>
 </context>
@@ -280,7 +280,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="205"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>检测不到系统托盘，我启动不了。</translation>
     </message>
     <message>
@@ -375,7 +375,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="1308"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
@@ -483,7 +483,7 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="135"/>
-        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
         <translation>当你选择“发送数据库”时，你的本地数据库将被拷贝一份并发送至 WhatPulse 开发者手中以便复现问题。&lt;br /&gt;&lt;br /&gt;你的数据库是： </translation>
     </message>
     <message>
@@ -531,7 +531,7 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="311"/>
-        <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
+        <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>这台电脑已存档，无法连接到您的账户。</translation>
     </message>
     <message>
@@ -646,7 +646,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/widgets/custommessageboxinfo.cpp" line="24"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
@@ -654,12 +654,12 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/widgets/custommessageboxquestion.cpp" line="19"/>
         <source>Yes</source>
-        <translation type="unfinished">是</translation>
+        <translation>是</translation>
     </message>
     <message>
         <location filename="../interface/widgets/custommessageboxquestion.cpp" line="22"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>不</translation>
     </message>
 </context>
 <context>
@@ -687,7 +687,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../util/database.cpp" line="166"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>数据库“%1”是只读模式。在修复这个问题之前 WhatPulse 无法存储任何统计。</translation>
     </message>
     <message>
@@ -735,7 +735,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>你好呀！根据我的记录，你已经有 &lt;b&gt;%1&lt;/b&gt; 天没有在线备份数据库了。请花一分钟备份一下。备份完成之后这个窗口会自动关闭。</translation>
     </message>
     <message>
@@ -767,7 +767,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="133"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>抱歉，在线备份功能仅面向高级会员。更多信息：https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -777,7 +777,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="144"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>抱歉，在准备你的备份时网站出错了。请稍后再试。错误是： %1</translation>
     </message>
     <message>
@@ -814,17 +814,17 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>你在 &lt;b&gt;%VAR2:date%&lt;/b&gt; 输入最多（%VAR1:int% 次！）</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>你在 &lt;b&gt;%VAR1:appname%&lt;/b&gt; 应用中点击最多！（%VAR2:int% 次）</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>你在 &lt;b&gt;%VAR1:appname%&lt;/b&gt; 应用中按键最多！（%VAR2:int% 次）</translation>
     </message>
     <message>
@@ -940,7 +940,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>你重启过 &lt;b&gt;%VAR1:int%&lt;/b&gt; 次。</translation>
     </message>
     <message>
@@ -1106,17 +1106,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="342"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>排除</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="369"/>
         <source>Exclude application?</source>
-        <translation type="unfinished"></translation>
+        <translation>排除应用程序？</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="370"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="unfinished"></translation>
+        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
+        <translation>您确定要排除应用程序“%1”吗？这也将删除此应用程序的历史记录。</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="348"/>
@@ -1468,12 +1468,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="115"/>
         <source>Show Heat Map</source>
-        <translation type="unfinished">显示热力图</translation>
+        <translation>显示热力图</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="117"/>
         <source>Show Details</source>
-        <translation type="unfinished">显示细节</translation>
+        <translation>显示细节</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
@@ -1634,8 +1634,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="293"/>
-        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>在&apos;%1&apos;和&apos;%2&apos;之间的按键、点击、滚动和距离的历史。</translation>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>在'%1'和'%2'之间的按键、点击、滚动和距离的历史。</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="323"/>
@@ -1678,28 +1678,28 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="453"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Heatmap of keys between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的按键热力图 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="515"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的点击热力图 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="579"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Application input between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的分应用输入 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="656"/>
-        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>在&apos;%1&apos;和&apos;%2&apos;之间的按键组合</translation>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>在'%1'和'%2'之间的按键组合</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="721"/>
-        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>每个应用程序在&apos;%1&apos;和&apos;%2&apos;之间的按键组合</translation>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>每个应用程序在'%1'和'%2'之间的按键组合</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="811"/>
@@ -1804,7 +1804,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="230"/>
         <source>Reset All Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>重置所有统计</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="245"/>
@@ -1838,8 +1838,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="390"/>
-        <source>No input devices found, are your &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>未找到输入设备，您的&lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color:%1&quot;&gt;权限&lt;/a&gt;设置正确吗？</translation>
+        <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>未找到输入设备，您的&lt;a href="https://whatpulse.org/in/linux-install" style="color:%1"&gt;权限&lt;/a&gt;设置正确吗？</translation>
     </message>
 </context>
 <context>
@@ -1977,7 +1977,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="271"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>有一个新版本可用!</translation>
     </message>
     <message>
@@ -2147,7 +2147,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="958"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Network interface traffic between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的网卡流量 </translation>
     </message>
     <message>
@@ -2181,17 +2181,17 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1040"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Network per applications between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的分应用流量 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1099"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Country network traffic between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的国家流量 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1164"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Network per type between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的分类型流量 </translation>
     </message>
     <message>
@@ -2234,8 +2234,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="139"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>您的 GeoIP 数据库是空的，按国家统计的数据将无法使用。点击&lt;a href=&quot;#&quot; style=&quot;color:%1&quot;&gt;此处&lt;/a&gt;刷新数据库。</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>您的 GeoIP 数据库是空的，按国家统计的数据将无法使用。点击&lt;a href="#" style="color:%1"&gt;此处&lt;/a&gt;刷新数据库。</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="175"/>
@@ -2315,7 +2315,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="221"/>
         <source>Reset All Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>重置所有统计数据</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="237"/>
@@ -2365,13 +2365,13 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="395"/>
-        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
+        <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>地理 IP 数据库更新失败，错误是： </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="404"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>未找到网络统计所需的 Npcap。&lt;br&gt;下载地址为 &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>未找到网络统计所需的 Npcap。&lt;br&gt;下载地址为 &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="410"/>
@@ -2492,17 +2492,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="416"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>排除</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="444"/>
         <source>Exclude application?</source>
-        <translation type="unfinished"></translation>
+        <translation>排除应用程序？</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="445"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="unfinished"></translation>
+        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
+        <translation>您确定要排除应用程序“%1”吗？这还将删除该应用程序的历史记录。</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="195"/>
@@ -2711,7 +2711,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="38"/>
         <source>Total</source>
-        <translation></translation>
+        <translation>总计</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="62"/>
@@ -2813,7 +2813,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>排除</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
@@ -3002,8 +3002,8 @@ Available: %2</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="40"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation>&lt;b&gt;注意：&lt;/b&gt;请从我们的网站&lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color:%1&quot;&gt;下载并安装 Apple Silicon 版本&lt;/a&gt;。您运行的是基于 Intel 的版本。</translation>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href="https://whatpulse.org/downloads/" style="color: %1"&gt;from our website&lt;/a&gt;. You're running the Intel-based version.</source>
+        <translation>&lt;b&gt;注意：&lt;/b&gt;请从我们的网站&lt;a href="https://whatpulse.org/downloads/" style="color:%1"&gt;下载并安装 Apple Silicon 版本&lt;/a&gt;。您运行的是基于 Intel 的版本。</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="179"/>
@@ -3041,7 +3041,7 @@ Available: %2</source>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="305"/>
         <source>unpulsed:</source>
-        <translation></translation>
+        <translation>未上传：</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="322"/>
@@ -3083,7 +3083,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="391"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>“脱机工作”选项已开启，所以你无法 Pulse。关闭该选项以继续 Pulse。</translation>
     </message>
     <message>
@@ -3093,7 +3093,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="403"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
@@ -3164,7 +3164,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>WhatPulse 需要权限以统计你的按键和点击。  当被问到时不要退出 WhatPulse。</translation>
     </message>
     <message>
@@ -3174,8 +3174,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;它应该长这样： &lt;br/&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;如果这个选项已经勾上了，  尝试取消勾选再重新勾上。  可能升级之后需要这么做。&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;它应该长这样： &lt;br/&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;如果这个选项已经勾上了，  尝试取消勾选再重新勾上。  可能升级之后需要这么做。&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3228,12 +3228,12 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="65"/>
         <source>All for only a cup of coffee a month.</source>
-        <translation type="unfinished"></translation>
+        <translation>一个月只需一杯咖啡。</translation>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="70"/>
-        <source>Don&apos;t remind me</source>
-        <translation type="unfinished"></translation>
+        <source>Don't remind me</source>
+        <translation>不要提醒我</translation>
     </message>
 </context>
 <context>
@@ -3268,7 +3268,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="457"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
         <translatorcomment>我手头没有 macOS 设备，不知道人家原话是怎样的</translatorcomment>
         <translation>Mac OS 版本不支持。请在系统偏好设置中勾选“允许下面的程序控制您的电脑”并重启客户端。否则将无法统计按键。客户端升级将需要重新授权。</translation>
     </message>
@@ -3337,74 +3337,74 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="22"/>
         <source>Input</source>
-        <translation type="unfinished">输入</translation>
+        <translation>输入</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="28"/>
         <source>Keyboard</source>
-        <translation type="unfinished">键盘</translation>
+        <translation>键盘</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="29"/>
         <source>Mouse</source>
-        <translation type="unfinished">鼠标</translation>
+        <translation>鼠标</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="30"/>
         <location filename="../interface/settings/settingsactivestats.cpp" line="60"/>
         <location filename="../interface/settings/settingsactivestats.cpp" line="81"/>
         <source>Per Application</source>
-        <translation type="unfinished">分应用</translation>
+        <translation>分应用</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="34"/>
         <source>Imperial Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>英制距离</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="35"/>
         <source>Metric Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>公制距离</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="50"/>
         <source>Network</source>
-        <translation type="unfinished">网络</translation>
+        <translation>网络</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="56"/>
         <source>Per Interface</source>
-        <translation type="unfinished">分网卡</translation>
+        <translation>分网卡</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="58"/>
         <source>Per Country</source>
-        <translation type="unfinished">分国家</translation>
+        <translation>分国家</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="62"/>
         <source>Per Traffic Type</source>
-        <translation type="unfinished">分类型</translation>
+        <translation>分类型</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="72"/>
         <source>Uptime</source>
-        <translation type="unfinished">在线时长</translation>
+        <translation>在线时长</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="78"/>
         <source>Computer Uptime</source>
-        <translation type="unfinished">计算机在线时长</translation>
+        <translation>计算机在线时长</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="79"/>
         <source>Reboots</source>
-        <translation type="unfinished">重启</translation>
+        <translation>重启</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.h" line="14"/>
         <source>Active Stats</source>
-        <translation type="unfinished">活动统计</translation>
+        <translation>活动统计</translation>
     </message>
 </context>
 <context>
@@ -3412,73 +3412,73 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="11"/>
         <source>Blink menu bar icon on activity</source>
-        <translation type="unfinished"></translation>
+        <translation>在活动时闪烁菜单栏图标</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="14"/>
         <source>Blink tray icon on activity</source>
-        <translation type="unfinished"></translation>
+        <translation>在活动时闪烁系统托盘图标</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="52"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;主题&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;主题&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="55"/>
         <location filename="../interface/settings/settingsappearance.cpp" line="72"/>
         <source>Adapt to system</source>
-        <translation type="unfinished"></translation>
+        <translation>自适应系统</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="56"/>
         <source>Light</source>
-        <translation type="unfinished">亮</translation>
+        <translation>亮</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
         <source>Dark</source>
-        <translation type="unfinished">暗</translation>
+        <translation>暗</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="66"/>
         <source>&lt;b&gt;Menu bar icon color&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;菜单栏图标颜色&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="68"/>
         <source>&lt;b&gt;Tray icon color&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;系统托盘图标颜色&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="73"/>
         <source>Black</source>
-        <translation type="unfinished">黑</translation>
+        <translation>黑</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
         <source>White</source>
-        <translation type="unfinished">白</translation>
+        <translation>白</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="88"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;语言&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;语言&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="114"/>
         <source>This change needs a window refresh.</source>
-        <translation type="unfinished"></translation>
+        <translation>此更改需要刷新窗口。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="119"/>
         <source>Click here to refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>点击这里刷新</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.h" line="18"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>外观</translation>
     </message>
 </context>
 <context>
@@ -3490,131 +3490,131 @@ Upload: unknown</source>
         <location filename="../interface/settings/settingsautopulse.cpp" line="12"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="13"/>
         <source>Auto pulse on </source>
-        <translation type="unfinished">每 </translation>
+        <translation>每 </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="14"/>
         <source>Auto pulse on startup</source>
-        <translation type="unfinished">启动时自动 Pulse</translation>
+        <translation>启动时自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="31"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="38"/>
         <source>Only 1000 to 99999999</source>
-        <translation type="unfinished"></translation>
+        <translation>只能输入1000到99999999</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="45"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="52"/>
         <source>Only 1024 to 99999999</source>
-        <translation type="unfinished"></translation>
+        <translation>只能输入1024到99999999</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="58"/>
         <source>Only 1 to 9999</source>
-        <translation type="unfinished"></translation>
+        <translation>只能输入1到9999</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="82"/>
         <source>keys</source>
-        <translation type="unfinished">按键自动 Pulse</translation>
+        <translation>按键自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="90"/>
         <source>clicks</source>
-        <translation type="unfinished">点击自动 Pulse</translation>
+        <translation>点击自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="95"/>
         <source>MB download</source>
-        <translation type="unfinished"></translation>
+        <translation>MB 下载</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="100"/>
         <source>MB upload</source>
-        <translation type="unfinished"></translation>
+        <translation>MB 上传</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="105"/>
         <source>hours uptime</source>
-        <translation type="unfinished">小时在线时长自动 Pulse</translation>
+        <translation>小时在线时长自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="122"/>
         <source>Auto pulse on hour </source>
-        <translation type="unfinished">在何时自动 Pulse </translation>
+        <translation>在何时自动 Pulse </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="126"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="440"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="134"/>
         <source>every day</source>
-        <translation type="unfinished">每天</translation>
+        <translation>每天</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="135"/>
         <source>every Monday</source>
-        <translation type="unfinished">每周一</translation>
+        <translation>每周一</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="136"/>
         <source>every Tuesday</source>
-        <translation type="unfinished">每周二</translation>
+        <translation>每周二</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="137"/>
         <source>every Wednesday</source>
-        <translation type="unfinished">每周三</translation>
+        <translation>每周三</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="138"/>
         <source>every Thursday</source>
-        <translation type="unfinished">每周四</translation>
+        <translation>每周四</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="139"/>
         <source>every Friday</source>
-        <translation type="unfinished">每周五</translation>
+        <translation>每周五</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="140"/>
         <source>every Saturday</source>
-        <translation type="unfinished">每周六</translation>
+        <translation>每周六</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="141"/>
         <source>every Sunday</source>
-        <translation type="unfinished">每周日</translation>
+        <translation>每周日</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="351"/>
         <source>WhatPulse will not automatically pulse with your current settings. Change a setting to enable auto pulsing.</source>
-        <translation type="unfinished">当前设置无法让 WhatPulse 自动 Pulse。修改一个设置以开启自动 Pulse。</translation>
+        <translation>当前设置无法让 WhatPulse 自动 Pulse。修改一个设置以开启自动 Pulse。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="354"/>
         <source>WhatPulse will automatically pulse </source>
-        <translation type="unfinished">WhatPulse 将会</translation>
+        <translation>WhatPulse 将会</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="367"/>
         <source>when </source>
-        <translation type="unfinished">当</translation>
+        <translation>当</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="373"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="385"/>
         <source>you reach </source>
-        <translation type="unfinished">你达到</translation>
+        <translation>你达到</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="376"/>
         <source> keys</source>
-        <translation type="unfinished">按键时自动 Pulse</translation>
+        <translation>按键时自动 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="383"/>
@@ -3623,52 +3623,52 @@ Upload: unknown</source>
         <location filename="../interface/settings/settingsautopulse.cpp" line="419"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="430"/>
         <source>, &lt;b&gt;or&lt;/b&gt; when </source>
-        <translation type="unfinished">，&lt;b&gt;或者&lt;/b&gt;当</translation>
+        <translation>，&lt;b&gt;或者&lt;/b&gt;当</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="388"/>
         <source> clicks</source>
-        <translation type="unfinished">点击时自动Pulse</translation>
+        <translation>点击时自动Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="397"/>
-        <source>you&apos;ve downloaded </source>
-        <translation type="unfinished">每下载</translation>
+        <source>you've downloaded </source>
+        <translation>每下载</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="409"/>
-        <source>you&apos;ve uploaded </source>
-        <translation type="unfinished">每上传</translation>
+        <source>you've uploaded </source>
+        <translation>每上传</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="421"/>
-        <source>you&apos;ve collected </source>
-        <translation type="unfinished">每</translation>
+        <source>you've collected </source>
+        <translation>每</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="424"/>
         <source> hours of uptime</source>
-        <translation type="unfinished">小时在线时长</translation>
+        <translation>小时在线时长</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="432"/>
         <source>WhatPulse starts</source>
-        <translation type="unfinished"></translation>
+        <translation>WhatPulse 启动时</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="438"/>
         <source>, &lt;b&gt;and&lt;/b&gt; </source>
-        <translation type="unfinished">，&lt;b&gt;以及&lt;/b&gt; </translation>
+        <translation>，&lt;b&gt;以及&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="441"/>
         <source>every hour on </source>
-        <translation type="unfinished">整点</translation>
+        <translation>整点</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.h" line="37"/>
         <source>Auto Pulse</source>
-        <translation type="unfinished">自动 Pulse</translation>
+        <translation>自动 Pulse</translation>
     </message>
 </context>
 <context>
@@ -3676,37 +3676,37 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="16"/>
         <source>Enable Client API</source>
-        <translation type="unfinished">开启客户端 API</translation>
+        <translation>开启客户端 API</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="61"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation type="unfinished">客户端 API 是一种从 WhatPulse 客户端提取实时信息的方法。您可以用它将数据输入到其他应用程序中。了解更多信息，请访问 &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color:%1&quot;&gt;开发人员中心&lt;/a&gt;。</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>客户端 API 是一种从 WhatPulse 客户端提取实时信息的方法。您可以用它将数据输入到其他应用程序中。了解更多信息，请访问 &lt;a href="https://whatpulse.org/in/client_api" style="color:%1"&gt;开发人员中心&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="84"/>
         <source>Listen on port:</source>
-        <translation type="unfinished">监听端口：</translation>
+        <translation>监听端口：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="87"/>
         <source>WebSocket port:</source>
-        <translation type="unfinished"></translation>
+        <translation>WebSocket端口：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="93"/>
         <source>Enter a value between 1024 and 65535</source>
-        <translation type="unfinished">输入一个 1024 到 65535 之间的数字</translation>
+        <translation>输入一个 1024 到 65535 之间的数字</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="109"/>
         <source>IPs that are allowed to connect. One per line, empty to allow everything:</source>
-        <translation type="unfinished"></translation>
+        <translation>允许连接的IP地址。每行一个，留空则允许所有：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.h" line="23"/>
         <source>Client API</source>
-        <translation type="unfinished">客户端 API</translation>
+        <translation>客户端 API</translation>
     </message>
 </context>
 <context>
@@ -3714,45 +3714,45 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="12"/>
         <source>Application</source>
-        <translation type="unfinished">应用</translation>
+        <translation>应用</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="29"/>
         <source>Network interface</source>
-        <translation type="unfinished">网卡</translation>
+        <translation>网卡</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="47"/>
-        <source>Here you can manage applications and network interfaces that you&apos;ve chosen to exclude from monitoring. Right click an application or interface to manage.</source>
-        <translation type="unfinished"></translation>
+        <source>Here you can manage applications and network interfaces that you've chosen to exclude from monitoring. Right click an application or interface to manage.</source>
+        <translation>在这里，您可以管理您选择从监控中排除的应用程序和网络接口。右键单击一个应用程序或接口以进行管理。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="78"/>
         <location filename="../interface/settings/settingsexclusions.cpp" line="113"/>
         <source>No applications excluded</source>
-        <translation type="unfinished"></translation>
+        <translation>没有排除应用程序</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="104"/>
         <location filename="../interface/settings/settingsexclusions.cpp" line="176"/>
         <source>No network interfaces excluded</source>
-        <translation type="unfinished"></translation>
+        <translation>没有排除网络接口</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="118"/>
         <location filename="../interface/settings/settingsexclusions.cpp" line="181"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="124"/>
         <source>Open file location</source>
-        <translation type="unfinished">打开文件路径</translation>
+        <translation>打开文件路径</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.h" line="16"/>
         <source>Exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>排除项</translation>
     </message>
 </context>
 <context>
@@ -3760,333 +3760,333 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="73"/>
         <source>Add label</source>
-        <translation type="unfinished"></translation>
+        <translation>添加标签</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="85"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="482"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="499"/>
         <source>Select label to edit..</source>
-        <translation type="unfinished">选择标签以编辑..</translation>
+        <translation>选择标签以编辑..</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="96"/>
         <source>Insert statistic:</source>
-        <translation type="unfinished">插入统计：</translation>
+        <translation>插入统计：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="97"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="379"/>
         <source>Unpulsed Keys</source>
-        <translation type="unfinished">未 Pulse 按键</translation>
+        <translation>未 Pulse 按键</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="98"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="381"/>
         <source>Unpulsed Clicks</source>
-        <translation type="unfinished">未 Pulse 点击</translation>
+        <translation>未 Pulse 点击</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="99"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="383"/>
         <source>Unpulsed Download</source>
-        <translation type="unfinished">未 Pulse 下载</translation>
+        <translation>未 Pulse 下载</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="100"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="385"/>
         <source>Unpulsed Mouse Distance</source>
-        <translation type="unfinished">未 Pulse 的鼠标距离</translation>
+        <translation>未 Pulse 的鼠标距离</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="101"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
         <source>Unpulsed Mouse Scrolls</source>
-        <translation type="unfinished">未 Pulse 的鼠标滚动</translation>
+        <translation>未 Pulse 的鼠标滚动</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="102"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="389"/>
         <source>Unpulsed Upload</source>
-        <translation type="unfinished">未 Pulse 的上传流量</translation>
+        <translation>未 Pulse 的上传流量</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="103"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="391"/>
         <source>Unpulsed Uptime</source>
-        <translation type="unfinished">未 Pulse 的在线时长</translation>
+        <translation>未 Pulse 的在线时长</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="393"/>
         <source>Unpulsed Click Rate</source>
-        <translation type="unfinished">未 Pulse 的点击速度</translation>
+        <translation>未 Pulse 的点击速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
         <source>Unpulsed Key Rate</source>
-        <translation type="unfinished">未 Pulse 的按键速度</translation>
+        <translation>未 Pulse 的按键速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="397"/>
         <source>Unpulsed Download Rate</source>
-        <translation type="unfinished">未 Pulse 的下载速度</translation>
+        <translation>未 Pulse 的下载速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="399"/>
         <source>Unpulsed Upload Rate</source>
-        <translation type="unfinished">未 Pulse 的上传速度</translation>
+        <translation>未 Pulse 的上传速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="401"/>
         <source>Current Click Rate</source>
-        <translation type="unfinished">当前点击速度</translation>
+        <translation>当前点击速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="403"/>
         <source>Current Key Rate</source>
-        <translation type="unfinished">当前按键速度</translation>
+        <translation>当前按键速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="405"/>
         <source>Current Download Rate</source>
-        <translation type="unfinished">当前下载速度</translation>
+        <translation>当前下载速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="407"/>
         <source>Current Upload Rate</source>
-        <translation type="unfinished">当前上传速度</translation>
+        <translation>当前上传速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="409"/>
         <source>Current Uptime</source>
-        <translation type="unfinished">当前在线时长</translation>
+        <translation>当前在线时长</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="411"/>
         <source>Total Keys</source>
-        <translation type="unfinished">总按键</translation>
+        <translation>总按键</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
         <source>Total Clicks</source>
-        <translation type="unfinished">总点击</translation>
+        <translation>总点击</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="415"/>
         <source>Total Download</source>
-        <translation type="unfinished">总下载</translation>
+        <translation>总下载</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="417"/>
         <source>Total Upload</source>
-        <translation type="unfinished">总上传</translation>
+        <translation>总上传</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="419"/>
         <source>Total Uptime</source>
-        <translation type="unfinished">总在线时长</translation>
+        <translation>总在线时长</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="429"/>
         <source>Total Mouse Distance</source>
-        <translation type="unfinished">鼠标总距离</translation>
+        <translation>鼠标总距离</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="431"/>
         <source>Total Mouse Scrolls</source>
-        <translation type="unfinished">鼠标滚动的总次数</translation>
+        <translation>鼠标滚动的总次数</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="421"/>
         <source>Total Click Rate</source>
-        <translation type="unfinished">总点击速度</translation>
+        <translation>总点击速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
         <source>Total Key Rate</source>
-        <translation type="unfinished">总按键速度</translation>
+        <translation>总按键速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="425"/>
         <source>Total Download Rate</source>
-        <translation type="unfinished">总下载速度</translation>
+        <translation>总下载速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="427"/>
         <source>Total Upload Rate</source>
-        <translation type="unfinished">总上传速度</translation>
+        <translation>总上传速度</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="125"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
         <source>Rank Keys</source>
-        <translation type="unfinished">按键排名</translation>
+        <translation>按键排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="435"/>
         <source>Rank Clicks</source>
-        <translation type="unfinished">点击排名</translation>
+        <translation>点击排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="437"/>
         <source>Rank Download</source>
-        <translation type="unfinished">下载排名</translation>
+        <translation>下载排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="128"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="439"/>
         <source>Rank Mouse Distance</source>
-        <translation type="unfinished">鼠标距离排名</translation>
+        <translation>鼠标距离排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="441"/>
         <source>Rank Mouse Scrolls</source>
-        <translation type="unfinished">鼠标滚动排名</translation>
+        <translation>鼠标滚动排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="443"/>
         <source>Rank Upload</source>
-        <translation type="unfinished">上传排名</translation>
+        <translation>上传排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="445"/>
         <source>Rank Uptime</source>
-        <translation type="unfinished">在线时长排名</translation>
+        <translation>在线时长排名</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="133"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="447"/>
         <source>Today Keys</source>
-        <translation type="unfinished">今日按键</translation>
+        <translation>今日按键</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="134"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="449"/>
         <source>Today Clicks</source>
-        <translation type="unfinished">今日点击</translation>
+        <translation>今日点击</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
         <source>Today Download</source>
-        <translation type="unfinished">今日下载</translation>
+        <translation>今日下载</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="136"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="453"/>
         <source>Today Upload</source>
-        <translation type="unfinished">今日上传</translation>
+        <translation>今日上传</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="455"/>
         <source>Today Mouse Distance</source>
-        <translation type="unfinished">今天的鼠标距离</translation>
+        <translation>今天的鼠标距离</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="457"/>
         <source>Today Mouse Scrolls</source>
-        <translation type="unfinished">今天鼠标滚动</translation>
+        <translation>今天鼠标滚动</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="149"/>
         <source> Delete label</source>
-        <translation type="unfinished">删除标签</translation>
+        <translation>删除标签</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="153"/>
         <source>Delete label</source>
-        <translation type="unfinished">删除标签</translation>
+        <translation>删除标签</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="200"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="208"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="294"/>
         <source>Reset to default</source>
-        <translation type="unfinished">重置为初始状态</translation>
+        <translation>重置为初始状态</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="212"/>
         <source>Background color: </source>
-        <translation type="unfinished">背景颜色： </translation>
+        <translation>背景颜色： </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="216"/>
         <source>Font color: </source>
-        <translation type="unfinished">文字颜色： </translation>
+        <translation>文字颜色： </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="228"/>
         <source>Font size: </source>
-        <translation type="unfinished">文字大小： </translation>
+        <translation>文字大小： </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
         <source>Close on double click</source>
-        <translation type="unfinished"></translation>
+        <translation>双击关闭</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="242"/>
         <source>Put on top of all windows</source>
-        <translation type="unfinished"></translation>
+        <translation>置于所有窗口之上</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="250"/>
         <source>Snap to grid</source>
-        <translation type="unfinished">对齐到网格</translation>
+        <translation>对齐到网格</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="274"/>
         <source>Transparency: </source>
-        <translation type="unfinished">透明度： </translation>
+        <translation>透明度： </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="284"/>
         <source>Call to Center</source>
-        <translation type="unfinished">移动到中央</translation>
+        <translation>移动到中央</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="571"/>
         <source>Reset to default?</source>
-        <translation type="unfinished">重置为初始状态？</translation>
+        <translation>重置为初始状态？</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
-        <translation type="unfinished">是否将悬浮窗重置为初始状态？
+        <translation>是否将悬浮窗重置为初始状态？
 这将重置全部自定义布局！</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.h" line="33"/>
         <source>Geek Window</source>
-        <translation type="unfinished">悬浮窗</translation>
+        <translation>悬浮窗</translation>
     </message>
 </context>
 <context>
@@ -4094,67 +4094,67 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="27"/>
         <source>Launch when computer starts</source>
-        <translation type="unfinished">随计算机启动</translation>
+        <translation>随计算机启动</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="29"/>
         <source>Open window on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>启动时打开窗口</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="33"/>
         <source>Automatically install new versions</source>
-        <translation type="unfinished">自动安装新版本</translation>
+        <translation>自动安装新版本</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="38"/>
         <source>Include beta versions updates</source>
-        <translation type="unfinished">检查 Beta 版本更新</translation>
+        <translation>检查 Beta 版本更新</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="42"/>
         <source>Pulse on doubleclick trayicon</source>
-        <translation type="unfinished">双击托盘图标时 Pulse</translation>
+        <translation>双击托盘图标时 Pulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="46"/>
         <source>Upload application info</source>
-        <translation type="unfinished">上传应用信息</translation>
+        <translation>上传应用信息</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="49"/>
         <source>Work offline (disables pulsing)</source>
-        <translation type="unfinished">脱机工作（禁用 Pulse）</translation>
+        <translation>脱机工作（禁用 Pulse）</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="52"/>
         <source>Weekly online backups</source>
-        <translation type="unfinished">每周线上备份</translation>
+        <translation>每周线上备份</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
         <source>Pause notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>暂停通知</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="64"/>
         <source>Notification on auto pulse</source>
-        <translation type="unfinished"></translation>
+        <translation>自动脉冲通知</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="68"/>
         <source>Send bug and usage reports</source>
-        <translation type="unfinished">发送 bug 与使用报告</translation>
+        <translation>发送 bug 与使用报告</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="83"/>
         <source>Weekly online backups (premium only)</source>
-        <translation type="unfinished">每周线上备份（高级会员特权）</translation>
+        <translation>每周线上备份（高级会员特权）</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.h" line="19"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>常规</translation>
     </message>
 </context>
 <context>
@@ -4162,114 +4162,114 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="12"/>
         <source>Milestones let you create notifications when you cross certain statistics. Double-click on a Milestone to edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>里程碑可在达到一定统计数据时创建通知。双击里程碑进行编辑。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="17"/>
         <source>Add</source>
-        <translation type="unfinished">添加</translation>
+        <translation>添加</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="67"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="308"/>
         <source>Name</source>
-        <translation type="unfinished">名称</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="309"/>
         <source>Statistic</source>
-        <translation type="unfinished">统计</translation>
+        <translation>统计</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="309"/>
         <source>Amount</source>
-        <translation type="unfinished">数量</translation>
+        <translation>数量</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
         <source>Actions</source>
-        <translation type="unfinished">动作</translation>
+        <translation>动作</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="67"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="308"/>
         <source>Time</source>
-        <translation type="unfinished">时间</translation>
+        <translation>时间</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="80"/>
         <source>&lt;h2&gt;History&lt;/h2&gt;</source>
-        <translation type="unfinished">&lt;h2&gt;历史&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;历史&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="156"/>
         <source>Milestone Name</source>
-        <translation type="unfinished">里程碑名称</translation>
+        <translation>里程碑名称</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="417"/>
         <source>Keys</source>
-        <translation type="unfinished">按键</translation>
+        <translation>按键</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="419"/>
         <source>Clicks</source>
-        <translation type="unfinished">点击</translation>
+        <translation>点击</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="421"/>
         <source>Downloaded MB</source>
-        <translation type="unfinished">下载 MB</translation>
+        <translation>下载 MB</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="424"/>
         <source>Uploaded MB</source>
-        <translation type="unfinished">上传 MB</translation>
+        <translation>上传 MB</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="427"/>
         <source>Uptime in Minutes</source>
-        <translation type="unfinished">在线时长分钟</translation>
+        <translation>在线时长分钟</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="184"/>
         <source>Delete Milestone</source>
-        <translation type="unfinished">删除里程碑</translation>
+        <translation>删除里程碑</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="185"/>
         <source>Are you sure you want to delete this Milestone?</source>
-        <translation type="unfinished">确定删除该里程碑？</translation>
+        <translation>确定删除该里程碑？</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="237"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
-        <translation type="unfinished">喝杯咖啡休息一下，你已经按键 X 下了！</translation>
+        <source>Time for coffee, you've made X keys!</source>
+        <translation>喝杯咖啡休息一下，你已经按键 X 下了！</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="244"/>
         <source>Milestone Message</source>
-        <translation type="unfinished">里程碑信息</translation>
+        <translation>里程碑信息</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="245"/>
         <source>Display a custom message when this Milestone hits:</source>
-        <translation type="unfinished">当里程碑达成时显示自定义信息：</translation>
+        <translation>当里程碑达成时显示自定义信息：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="394"/>
@@ -4277,12 +4277,12 @@ This will reset any custom layouts!</source>
         <location filename="../interface/settings/settingsmilestones.cpp" line="402"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="406"/>
         <source>Please input 100 or higher.</source>
-        <translation type="unfinished">请输入大于等于 100 的数。</translation>
+        <translation>请输入大于等于 100 的数。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="411"/>
         <source>Please input 10 or higher.</source>
-        <translation type="unfinished">请输入大于等于 10 的数。</translation>
+        <translation>请输入大于等于 10 的数。</translation>
     </message>
 </context>
 <context>
@@ -4290,78 +4290,78 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="16"/>
         <source>Use manual proxy</source>
-        <translation type="unfinished">手动配置代理</translation>
+        <translation>手动配置代理</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="17"/>
         <source>Auto detect proxy</source>
-        <translation type="unfinished">自动检测代理</translation>
+        <translation>自动检测代理</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="22"/>
         <location filename="../interface/settings/settingsproxy.cpp" line="225"/>
         <source>Test proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>测试代理</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="24"/>
         <source>Proxy authentication required</source>
-        <translation type="unfinished">代理需要认证</translation>
+        <translation>代理需要认证</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="85"/>
         <source>Hostname:</source>
-        <translation type="unfinished">服务器：</translation>
+        <translation>服务器：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="88"/>
         <source>Port:</source>
-        <translation type="unfinished">端口：</translation>
+        <translation>端口：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="104"/>
         <source>Username:</source>
-        <translation type="unfinished">用户名：</translation>
+        <translation>用户名：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="107"/>
         <source>Password:</source>
-        <translation type="unfinished">密码：</translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="192"/>
         <source>Not enough info</source>
-        <translation type="unfinished">信息不足</translation>
+        <translation>信息不足</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="193"/>
         <source>Please fill out both the proxy hostname and port number before testing.</source>
-        <translation type="unfinished">测试前请填写代理主机和端口号。</translation>
+        <translation>测试前请填写代理主机和端口号。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="199"/>
         <source>Testing..</source>
-        <translation type="unfinished">测试中..</translation>
+        <translation>测试中..</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="231"/>
         <source>Success!</source>
-        <translation type="unfinished">成功！</translation>
+        <translation>成功！</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="231"/>
         <source>Proxy test worked!</source>
-        <translation type="unfinished">代理测试可用！</translation>
+        <translation>代理测试可用！</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="233"/>
         <source>Proxy test error!</source>
-        <translation type="unfinished">代理测试错误！</translation>
+        <translation>代理测试错误！</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.h" line="32"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>代理</translation>
     </message>
 </context>
 <context>
@@ -4369,97 +4369,97 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="65"/>
         <source>Advanced</source>
-        <translation type="unfinished">高级</translation>
+        <translation>高级</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="79"/>
         <source>Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>高级操作</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="87"/>
         <source>Enable portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>启用便携模式</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="89"/>
         <source>Disable &amp;portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>禁用便携模式</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="97"/>
         <source>&amp;Open data directory</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;打开数据目录</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="103"/>
         <source>Re-upload &amp;applications</source>
-        <translation type="unfinished">重新上传应用(&amp;A)</translation>
+        <translation>重新上传应用(&amp;A)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="109"/>
         <source>Reset &amp;database</source>
-        <translation type="unfinished"></translation>
+        <translation>重置 &amp;数据库</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="115"/>
         <source>Update &amp;GeoIP database</source>
-        <translation type="unfinished">更新地理 IP 数据库(&amp;G)</translation>
+        <translation>更新地理 IP 数据库(&amp;G)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="122"/>
         <source>Update Network Port description database</source>
-        <translation type="unfinished"></translation>
+        <translation>更新网络端口描述数据库</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="130"/>
         <source>Upload &amp;Computer profile</source>
-        <translation type="unfinished"></translation>
+        <translation>上传 &amp;计算机配置文件</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="137"/>
         <source>&amp;Upload database</source>
-        <translation type="unfinished">上传数据库(&amp;U)</translation>
+        <translation>上传数据库(&amp;U)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="149"/>
         <source>Check macOS Permissions</source>
-        <translation type="unfinished">检查 macOS 权限</translation>
+        <translation>检查 macOS 权限</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="171"/>
         <source> Check for Updates</source>
-        <translation type="unfinished"> 检查更新</translation>
+        <translation> 检查更新</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="224"/>
         <source>Uploading Apps</source>
-        <translation type="unfinished">上传应用</translation>
+        <translation>上传应用</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="225"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
-        <translation type="unfinished">应用已标记为上传。它显示到网站上可能需要一个小时。</translation>
+        <translation>应用已标记为上传。它显示到网站上可能需要一个小时。</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="246"/>
         <source>Empty Database</source>
-        <translation type="unfinished">清空数据库</translation>
+        <translation>清空数据库</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="247"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
-        <translation type="unfinished">清空本地数据库将摧毁全部本地统计数据并退出登录。这是无法恢复的，继续？</translation>
+        <translation>清空本地数据库将摧毁全部本地统计数据并退出登录。这是无法恢复的，继续？</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="265"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished">上传计算机信息</translation>
+        <translation>上传计算机信息</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="266"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished">成功地开始了计算机资料的上传。网站将在几分钟内更新.</translation>
+        <translation>成功地开始了计算机资料的上传。网站将在几分钟内更新.</translation>
     </message>
 </context>
 <context>
@@ -4598,7 +4598,7 @@ This will reset any custom layouts!</source>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>选择你想看的统计周期的时间范围。</translation>
     </message>
     <message>
@@ -4821,7 +4821,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1458"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Reboot list between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的重启列表 </translation>
     </message>
     <message>
@@ -4831,7 +4831,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1529"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Active application time between '%1' and '%2' </source>
         <translation>从“%1”到“%2”的应用活跃时间 </translation>
     </message>
     <message>
@@ -5129,18 +5129,18 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="719"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>排除</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="746"/>
         <source>Reset to default?</source>
-        <translation type="unfinished">重置为初始状态？</translation>
+        <translation>重置为初始状态？</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="747"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
-        <translation type="unfinished">是否将悬浮窗重置为初始状态？
+        <translation>是否将悬浮窗重置为初始状态？
 这将重置全部自定义布局！</translation>
     </message>
     <message>
@@ -5205,7 +5205,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1259"/>
         <source>Reset All Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>重置所有统计数据</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1275"/>
@@ -5549,7 +5549,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="156"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>您正在运行最新版本的 WhatPulse.</translation>
     </message>
 </context>
@@ -5557,7 +5557,7 @@ This will reset any custom layouts!</source>
     <name>WindowMessageBanner</name>
     <message>
         <location filename="../interface/widgets/WindowMessageBanner.cpp" line="32"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>什么是新的?</translation>
     </message>
 </context>
@@ -5574,7 +5574,7 @@ This will reset any custom layouts!</source>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="22"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>请按照重定向到的网站上的指示操作。在你完成登录流程后，客户端将自动登录，然后你就进入赛道了！</translation>
     </message>
     <message>
@@ -5585,8 +5585,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="122"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>如果浏览器没有打开，请尝试单击或复制 &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt; 此链接&lt;/a&gt;。</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
+        <translation>如果浏览器没有打开，请尝试单击或复制 &lt;a href="%1" style="color: %2"&gt; 此链接&lt;/a&gt;。</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="141"/>
@@ -5624,7 +5624,7 @@ This will reset any custom layouts!</source>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
         <translation>欢迎来到 WhatPulse，你&lt;b&gt;唯一&lt;/b&gt;需要的统计程序。WhatPulse 的目的是回答“我每天使用电脑的程度如何？”这个问题。&lt;br /&gt;&lt;br /&gt;让我们开始吧。如果你已经有一个帐户，请直接&lt;b&gt;登录&lt;/b&gt;。如果你以前没有使用过 WhatPulse，请点击&lt;b&gt;注册&lt;/b&gt;。&lt;br /&gt;&lt;br /&gt;你将会被重定向到我们的网站以登录。&lt;br /&gt;</translation>
     </message>
     <message>
@@ -5642,8 +5642,8 @@ This will reset any custom layouts!</source>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation>欢迎来到WhatPulse，&lt;b&gt;唯一&lt;/b&gt;的统计程序，你将永远需要。WhatPulse回答了 &quot;我在一天中使用了多少电脑？&quot;&lt;br /&gt;&lt;br /&gt;让我们开始吧，输入您的&lt;strong&gt;组织名称或ID&lt;/strong&gt;，这是由您的WhatPulse专业管理员提供的。</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>欢迎来到WhatPulse，&lt;b&gt;唯一&lt;/b&gt;的统计程序，你将永远需要。WhatPulse回答了 "我在一天中使用了多少电脑？"&lt;br /&gt;&lt;br /&gt;让我们开始吧，输入您的&lt;strong&gt;组织名称或ID&lt;/strong&gt;，这是由您的WhatPulse专业管理员提供的。</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="268"/>
@@ -5712,7 +5712,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="394"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>抱歉，在线备份功能仅面向高级会员。更多信息：https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -5722,7 +5722,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>抱歉，准备你的备份时网站出错。请稍后再试。错误是： %1</translation>
     </message>
     <message>
@@ -5790,7 +5790,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="111"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
         <translation>好奇你计算机开了多久？该选项将告诉你这个问题。作为在线时长的一部分，该选项同时告诉你指定应用的使用时长。</translation>
     </message>
     <message>
@@ -5810,8 +5810,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="153"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;small&gt;如果您想收集所有统计信息，但不想公开显示，请查看&lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color:%1&quot;&gt;隐私设置&lt;/a&gt;。</translation>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;small&gt;如果您想收集所有统计信息，但不想公开显示，请查看&lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color:%1"&gt;隐私设置&lt;/a&gt;。</translation>
     </message>
 </context>
 </TS>
