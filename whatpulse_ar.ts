@@ -4037,12 +4037,12 @@ Upload: unknown</source>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
         <source>Close on double click</source>
         <translation/>
-    <id>49</id></message>
+    </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="242"/>
         <source>Put on top of all windows</source>
         <translation/>
-    <id>50</id></message>
+    </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="250"/>
         <source>Snap to grid</source>
