@@ -161,7 +161,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="454"/>
-        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>لا يمكنك تغيير كلمة سرك من داخل الموكل. يرجى تسجيل الخروح وإعادة تسجيل الدخول باستخدام البريد الإلكتروني واسم الحاسوب نفسهما لإعادة تعيين كلمة السر في هذا الموكل. سيتم الاحتفاظ بإحصائياتك إذا قمت باستخدام التفاصيل نفسها.</translation>
     </message>
     <message>
@@ -224,7 +224,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="573"/>
-        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
+        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
         <translation>تم بدء النسخ الاحتياطي بنجاح. سيعمل في الخلفية وسيستغرق بضع دقائق.</translation>
     </message>
 </context>
@@ -275,7 +275,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="205"/>
-        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
+        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>لم أتمكن من رصد أي علبة نظام على هذا الحاسوب، وأحتاج إليها لكي أعمل.</translation>
     </message>
     <message>
@@ -370,8 +370,8 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="1308"/>
-        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>إن الإعداد "العمل من دون إنترنت" مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
+        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>إن الإعداد &quot;العمل من دون إنترنت&quot; مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1525"/>
@@ -478,8 +478,8 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="135"/>
-        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>عند اختيارك 'إرسال قاعدة البيانات' - سيتم إرسال نسخة من قاعدة بياناتك المحلية إلى مطوري وات-بولس لكي يتمكنوا من إعادة إنتاج المشاكل.&lt;br /&gt;&lt;br /&gt;قاعدة بياناتك هي: </translation>
+        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>عند اختيارك &apos;إرسال قاعدة البيانات&apos; - سيتم إرسال نسخة من قاعدة بياناتك المحلية إلى مطوري وات-بولس لكي يتمكنوا من إعادة إنتاج المشاكل.&lt;br /&gt;&lt;br /&gt;قاعدة بياناتك هي: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="144"/>
@@ -526,7 +526,7 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="311"/>
-        <source>This computer is archived, and isn't able to connect to your account.</source>
+        <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
         <translation>تمت أرشفة هذا الكمبيوتر ولا يمكنه الاتصال بحسابك.</translation>
     </message>
     <message>
@@ -680,8 +680,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../util/database.cpp" line="166"/>
-        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>قاعدة البيانات '%1' هي للقراءة فقط. وات-بولس لا يستطيع تخزين أية إحصائيات حتى تحل هذه المشكلة.</translation>
+        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>قاعدة البيانات &apos;%1&apos; هي للقراءة فقط. وات-بولس لا يستطيع تخزين أية إحصائيات حتى تحل هذه المشكلة.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="209"/>
@@ -728,7 +728,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
+        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
         <translation>مرحباً يا من هناك! تبعاً لسجلاتي، لقد مضى &lt;b&gt;%1&lt;/b&gt; منذ آخر نسخ احتياطي لقاعدة البيانات عبر الإنترنت. يرجى أخذ دقيقة أو ما شابه ذلك للقيام بذلك الآن. هذه النافذة سوف تغلق تلقائياً عندما أنتهي.</translation>
     </message>
     <message>
@@ -760,7 +760,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="133"/>
-        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
         <translation>آسف، خاصية النسخ الاحتياطي عبر الإنترنت هو لأعضاء العضوية المتميزة فقط. هناك المزيد من المعلومات هنا: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -770,7 +770,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="144"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
         <translation>آسف، أعطى الموقع عطلاً أثناء التحضير لنسخك الاحتياطي. يرجى المحاولة مجدداً لاحقاً. إليك العطل: %1</translation>
     </message>
     <message>
@@ -807,17 +807,17 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
-        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>نقراتك الأكثر كانت بتاريخ &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% مفتاح!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
-        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>نقراتك الأكثر كانت بداخل التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% نقرة)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
-        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>طباعتك الأكثر كانت في التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% مفتاح)</translation>
     </message>
     <message>
@@ -932,7 +932,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
-        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>لقد أعدت تشغيل حاسوبك &lt;b&gt;%VAR1:int%&lt;/b&gt; مرة.</translation>
     </message>
     <message>
@@ -1107,8 +1107,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="370"/>
-        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
-        <translation>هل أنت متأكد من رغبتك في استثناء التطبيق '%1'؟ سيتم أيضًا إزالة سجل هذا التطبيق.</translation>
+        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
+        <translation>هل أنت متأكد من رغبتك في استثناء التطبيق &apos;%1&apos;؟ سيتم أيضًا إزالة سجل هذا التطبيق.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="348"/>
@@ -1626,7 +1626,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="293"/>
-        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>محفوظات المفاتيح والنقرات والتمرير والمسافة بين &amp;#39;٪ 1&amp;#39; و &amp;#39;٪ 2&amp;#39;</translation>
     </message>
     <message>
@@ -1670,27 +1670,27 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="453"/>
-        <source>Heatmap of keys between '%1' and '%2' </source>
-        <translation>خريطة المفاتيح الحرارية بين '%1' و'%2' </translation>
+        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>خريطة المفاتيح الحرارية بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="515"/>
-        <source>Heatmap of clicks between '%1' and '%2' </source>
-        <translation>خريطة النقرات الحرارية بين '%1' و'%2' </translation>
+        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>خريطة النقرات الحرارية بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="579"/>
-        <source>Application input between '%1' and '%2' </source>
-        <translation>إدخال التطبيق بين '%1' و'%2' </translation>
+        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>إدخال التطبيق بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="656"/>
-        <source>Key combinations between '%1' and '%2' </source>
+        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>تركيبات المفاتيح بين &amp;#39;٪ 1&amp;#39; و &amp;#39;٪ 2&amp;#39;</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="721"/>
-        <source>Key combinations per application between '%1' and '%2' </source>
+        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>مجموعات المفاتيح لكل تطبيق بين &amp;#39;٪ 1&amp;#39; و &amp;#39;٪ 2&amp;#39;</translation>
     </message>
     <message>
@@ -1829,8 +1829,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="390"/>
-        <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>لم يتم العثور على أجهزة إدخال ، هل تم إعداد &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;أذوناتك&lt;/a&gt; بشكل صحيح؟</translation>
+        <source>No input devices found, are your &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>لم يتم العثور على أجهزة إدخال ، هل تم إعداد &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;أذوناتك&lt;/a&gt; بشكل صحيح؟</translation>
     </message>
 </context>
 <context>
@@ -1968,7 +1968,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="271"/>
-        <source>There's a new version available!</source>
+        <source>There&apos;s a new version available!</source>
         <translation>هناك نسخة جديدة متاحة!</translation>
     </message>
     <message>
@@ -2138,8 +2138,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="958"/>
-        <source>Network interface traffic between '%1' and '%2' </source>
-        <translation>حركة مرور واجهة الشبكة بين '%1' و'%2' </translation>
+        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>حركة مرور واجهة الشبكة بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="988"/>
@@ -2172,18 +2172,18 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1040"/>
-        <source>Network per applications between '%1' and '%2' </source>
-        <translation>الشبكة لكل تطبيق بين '%1' و'%2' </translation>
+        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>الشبكة لكل تطبيق بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1099"/>
-        <source>Country network traffic between '%1' and '%2' </source>
-        <translation>حركة مرور شبكة البلد بين '%1' و'%2' </translation>
+        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>حركة مرور شبكة البلد بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1164"/>
-        <source>Network per type between '%1' and '%2' </source>
-        <translation>الشبكة لكل نوع بين '%1' و'%2' </translation>
+        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>الشبكة لكل نوع بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1249"/>
@@ -2225,8 +2225,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="139"/>
-        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>قاعدة بيانات GeoIP الخاصة بك فارغة ، ولن تعمل الإحصائيات الخاصة بكل دولة. انقر &lt;a href="#" style="color: %1"&gt;هنا&lt;/a&gt; لتحديث قاعدة البيانات.</translation>
+        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>قاعدة بيانات GeoIP الخاصة بك فارغة ، ولن تعمل الإحصائيات الخاصة بكل دولة. انقر &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;هنا&lt;/a&gt; لتحديث قاعدة البيانات.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="175"/>
@@ -2356,13 +2356,13 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="395"/>
-        <source>GeoIP Database did not update succesfully, here's the error: </source>
+        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
         <translation>لم يتم تحديث قاعدة بيانات بروتوكول الإنترنت الجغرافي بنجاح، إليك الخطأ: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="404"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
-        <translation>لم يتم العثور على Npcap ، وهو مطلوب لإحصاءات الشبكة.&lt;br&gt; تنزيل من &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</source>
+        <translation>لم يتم العثور على Npcap ، وهو مطلوب لإحصاءات الشبكة.&lt;br&gt; تنزيل من &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="410"/>
@@ -2492,8 +2492,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="445"/>
-        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
-        <translation>هل أنت متأكد أنك تريد استثناء التطبيق '%1'؟ سيتم أيضًا إزالة سجل هذه التطبيقات.</translation>
+        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
+        <translation>هل أنت متأكد أنك تريد استثناء التطبيق &apos;%1&apos;؟ سيتم أيضًا إزالة سجل هذه التطبيقات.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="195"/>
@@ -2993,8 +2993,8 @@ Available: %2</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="40"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href="https://whatpulse.org/downloads/" style="color: %1"&gt;from our website&lt;/a&gt;. You're running the Intel-based version.</source>
-        <translation>&lt;b&gt;ملاحظة:&lt;/b&gt; يرجى تنزيل وتثبيت إصدار Apple Silicon &lt;a href="https://whatpulse.org/downloads/" style="color: %1"&gt;من موقعنا على الإنترنت&lt;/a&gt; . أنت تقوم بتشغيل الإصدار المستند إلى Intel.</translation>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
+        <translation>&lt;b&gt;ملاحظة:&lt;/b&gt; يرجى تنزيل وتثبيت إصدار Apple Silicon &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;من موقعنا على الإنترنت&lt;/a&gt; . أنت تقوم بتشغيل الإصدار المستند إلى Intel.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="179"/>
@@ -3071,8 +3071,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="391"/>
-        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>إن الخيار 'العمل من دون الإتصال بالإنترنت' مفعل، وبالتالي لا يمكنك النبض. ألغي تفعيل ذلك الخيار لمتابعة النبض.</translation>
+        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>إن الخيار &apos;العمل من دون الإتصال بالإنترنت&apos; مفعل، وبالتالي لا يمكنك النبض. ألغي تفعيل ذلك الخيار لمتابعة النبض.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="402"/>
@@ -3081,8 +3081,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="403"/>
-        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>إن الخيار 'العمل من دون الإتصال بالإنترنت' مفعل، هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
+        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>إن الخيار &apos;العمل من دون الإتصال بالإنترنت&apos; مفعل، هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="413"/>
@@ -3152,7 +3152,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
         <translation>يحتاج وات-بولس أذونات لعد مفاتيحك ونقراتك. لا تغادر من وات-بولس عندما يطلب منك عدم فعل ذلك.</translation>
     </message>
     <message>
@@ -3162,8 +3162,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;إليك كيف يجب أن تبدو: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;إذا كانت خانة الاختيار محددة مسبقاً، جرب إلغاء تحديدها وتحديدهاً مجدداً. قد تحتاج لهذا بعد التحديثات.&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;إليك كيف يجب أن تبدو: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;إذا كانت خانة الاختيار محددة مسبقاً، جرب إلغاء تحديدها وتحديدهاً مجدداً. قد تحتاج لهذا بعد التحديثات.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3220,7 +3220,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="70"/>
-        <source>Don't remind me</source>
+        <source>Don&apos;t remind me</source>
         <translation>لا تذكرني</translation>
     </message>
 </context>
@@ -3256,8 +3256,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="457"/>
-        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>نظام تشفيل ماك غير مدعوم؛ يرجى وضع إشارة صح في "السماح بوصول الأجهزة المساعدة" في لوحة الوصول العام في تفضيلات النظام وقم بإعادة تشغيل الموكل. وإلا لن يعمل عد المفاتيح. ستحتاج لإعادة التفعيل عند تحديث الموكل.</translation>
+        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>نظام تشفيل ماك غير مدعوم؛ يرجى وضع إشارة صح في &quot;السماح بوصول الأجهزة المساعدة&quot; في لوحة الوصول العام في تفضيلات النظام وقم بإعادة تشغيل الموكل. وإلا لن يعمل عد المفاتيح. ستحتاج لإعادة التفعيل عند تحديث الموكل.</translation>
     </message>
 </context>
 <context>
@@ -3619,17 +3619,17 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="397"/>
-        <source>you've downloaded </source>
+        <source>you&apos;ve downloaded </source>
         <translation>لقد نزلت </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="409"/>
-        <source>you've uploaded </source>
+        <source>you&apos;ve uploaded </source>
         <translation>لقد رفعت </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="421"/>
-        <source>you've collected </source>
+        <source>you&apos;ve collected </source>
         <translation>تجمع </translation>
     </message>
     <message>
@@ -3667,8 +3667,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="61"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
-        <translation>تعد واجهة برمجة تطبيقات العميل طريقة لاستخراج المعلومات في الوقت الفعلي من عميل WhatPulse. يمكنك استخدام هذا لتغذية البيانات الخاصة بك في تطبيق آخر. اكتشف المزيد في &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;مركز المطورين&lt;/a&gt; لدينا</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
+        <translation>تعد واجهة برمجة تطبيقات العميل طريقة لاستخراج المعلومات في الوقت الفعلي من عميل WhatPulse. يمكنك استخدام هذا لتغذية البيانات الخاصة بك في تطبيق آخر. اكتشف المزيد في &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;مركز المطورين&lt;/a&gt; لدينا</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="84"/>
@@ -3710,7 +3710,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="47"/>
-        <source>Here you can manage applications and network interfaces that you've chosen to exclude from monitoring. Right click an application or interface to manage.</source>
+        <source>Here you can manage applications and network interfaces that you&apos;ve chosen to exclude from monitoring. Right click an application or interface to manage.</source>
         <translation>هنا يمكنك إدارة التطبيقات وواجهات الشبكة التي قمت بإستبعادها من التتبع. قم بالنقر بالزر الأيمن للتطبيق أو الواجهة للتحكم فيها.</translation>
     </message>
     <message>
@@ -4245,7 +4245,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="237"/>
-        <source>Time for coffee, you've made X keys!</source>
+        <source>Time for coffee, you&apos;ve made X keys!</source>
         <translation>حان وقت القهوة، لقد ضغطت X مفتاحاً!</translation>
     </message>
     <message>
@@ -4585,7 +4585,7 @@ This will reset any custom layouts!</source>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <source>Select the start and end date of the period you'd like to see statistics from.</source>
+        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
         <translation>حدد تاريخ البداية والنهاية للمدة التي تود رؤية الإحصائيات فيها.</translation>
     </message>
     <message>
@@ -4808,8 +4808,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1458"/>
-        <source>Reboot list between '%1' and '%2' </source>
-        <translation>قائمة إعادة التشغيل بين '%1' و'%2' </translation>
+        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>قائمة إعادة التشغيل بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1488"/>
@@ -4818,8 +4818,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1529"/>
-        <source>Active application time between '%1' and '%2' </source>
-        <translation>مدة تشغيل التطبيق بين '%1' و'%2' </translation>
+        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>مدة تشغيل التطبيق بين &apos;%1&apos; و&apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1537"/>
@@ -5536,7 +5536,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="156"/>
-        <source>You're running the latest version of WhatPulse.</source>
+        <source>You&apos;re running the latest version of WhatPulse.</source>
         <translation>أنت تقوم بتشغيل أحدث إصدار من WhatPulse.</translation>
     </message>
 </context>
@@ -5544,7 +5544,7 @@ This will reset any custom layouts!</source>
     <name>WindowMessageBanner</name>
     <message>
         <location filename="../interface/widgets/WindowMessageBanner.cpp" line="32"/>
-        <source>What's new?</source>
+        <source>What&apos;s new?</source>
         <translation>ما هو الجديد؟</translation>
     </message>
 </context>
@@ -5561,7 +5561,7 @@ This will reset any custom layouts!</source>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="22"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
         <translation>لقد تم إعادة توجيهك إلى الموقع، يرجى اتباع التعليمات هناك. بعد أن تنتهي من عملية الدخول، سيسجل الموكل الدخول تلقائياً وستكون جاهزاً للبدء!</translation>
     </message>
     <message>
@@ -5572,8 +5572,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="122"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
-        <translation>إذا لم يفتح المستعرض الخاص بك ، فحاول النقر فوق &lt;a href="%1" style="color: %2"&gt;هذا الارتباط&lt;/a&gt; أو نسخه.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
+        <translation>إذا لم يفتح المستعرض الخاص بك ، فحاول النقر فوق &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;هذا الارتباط&lt;/a&gt; أو نسخه.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="141"/>
@@ -5611,8 +5611,8 @@ This will reset any custom layouts!</source>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>أهلاً بك في وات-بولس، برنامج الإحصائيات &lt;b&gt;الوحيد&lt;/b&gt; الذي ستحتاجه مطلقاً. يجيب وات-بولس على سؤال 'كم أستخدم حاسوبي في اليوم؟'&lt;/b&gt;&lt;br /&gt;فلنبدأ. إن كنت تمتلك حساباً من قبل، فيرجى الضغط على &lt;b&gt;تسجيل الدخول&lt;/b&gt;. إن كنت جديداً على وات-بولس، يرجى الضغط على &lt;b&gt;التسجيل&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;في كلتا الحالتين سيتم إعادة توجيهك إلى موقعنا لإكمال تسجيل الدخول.&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>أهلاً بك في وات-بولس، برنامج الإحصائيات &lt;b&gt;الوحيد&lt;/b&gt; الذي ستحتاجه مطلقاً. يجيب وات-بولس على سؤال &apos;كم أستخدم حاسوبي في اليوم؟&apos;&lt;/b&gt;&lt;br /&gt;فلنبدأ. إن كنت تمتلك حساباً من قبل، فيرجى الضغط على &lt;b&gt;تسجيل الدخول&lt;/b&gt;. إن كنت جديداً على وات-بولس، يرجى الضغط على &lt;b&gt;التسجيل&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;في كلتا الحالتين سيتم إعادة توجيهك إلى موقعنا لإكمال تسجيل الدخول.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="25"/>
@@ -5629,7 +5629,7 @@ This will reset any custom layouts!</source>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
         <translation>مرحبًا بك في WhatPulse ، برنامج الإحصاء &lt;b&gt;الوحيد&lt;/b&gt; الذي ستحتاج إليه على الإطلاق. يجيب WhatPulse على السؤال &amp;quot;كم يمكنني استخدام جهاز الكمبيوتر الخاص بي في يوم واحد؟&amp;quot;&lt;br /&gt;&lt;br /&gt; لنبدأ بإدخال &lt;strong&gt;اسم مؤسستك أو معرّفك&lt;/strong&gt; ، على النحو المنصوص عليه من قبل مسؤول WhatPulse Professional.</translation>
     </message>
     <message>
@@ -5699,7 +5699,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="394"/>
-        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
         <translation>آسف، خاصية النسخ الاحتياطي عبر الإنترنت هو لأعضاء العضوية المتميزة فقط. هناك المزيد من المعلومات هنا: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -5709,7 +5709,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
         <translation>آسف، أعطى الموقع خللاً أثناء التجهيز لنسختك الاحتياطية. يرجى إعادة المحاولة لاحقاً. إليك الخلل: %1</translation>
     </message>
     <message>
@@ -5777,7 +5777,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="111"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
         <translation>هل تسائلت يوماً كم بقى حاسوبك مشغلاً؟ هذا الخيار سيخبرك بذلك تحديداً. كجزء من مدة التشغيل، سيخبرك هذا أيضاً كم تمضي من الوقت في استخدام تطبيقات معينة.</translation>
     </message>
     <message>
@@ -5797,8 +5797,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="153"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;html&gt;&lt;small&gt;إذا كنت ترغب في جمع كل الإحصائيات ، ولكن لا تريد عرضها علنًا ، فتحقق من &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;إعدادات الخصوصية&lt;/a&gt; الخاصة بك.&lt;/small&gt;</translation>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;html&gt;&lt;small&gt;إذا كنت ترغب في جمع كل الإحصائيات ، ولكن لا تريد عرضها علنًا ، فتحقق من &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;إعدادات الخصوصية&lt;/a&gt; الخاصة بك.&lt;/small&gt;</translation>
     </message>
 </context>
 </TS>
