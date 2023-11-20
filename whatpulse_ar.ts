@@ -2804,7 +2804,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
         <source>Exclude</source>
-        <translation/>
+        <translation>استبعاد</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
@@ -4036,12 +4036,12 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
         <source>Close on double click</source>
-        <translation/>
+        <translation>إغلاق بالنقرة المزدوجة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="242"/>
         <source>Put on top of all windows</source>
-        <translation/>
+        <translation>وضعها في الأعلى من جميع النوافذ</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="250"/>
