@@ -161,7 +161,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="454"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>لا يمكنك تغيير كلمة سرك من داخل الموكل. يرجى تسجيل الخروح وإعادة تسجيل الدخول باستخدام البريد الإلكتروني واسم الحاسوب نفسهما لإعادة تعيين كلمة السر في هذا الموكل. سيتم الاحتفاظ بإحصائياتك إذا قمت باستخدام التفاصيل نفسها.</translation>
     </message>
     <message>
@@ -224,7 +224,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="573"/>
-        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
+        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>تم بدء النسخ الاحتياطي بنجاح. سيعمل في الخلفية وسيستغرق بضع دقائق.</translation>
     </message>
 </context>
@@ -275,7 +275,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="205"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>لم أتمكن من رصد أي علبة نظام على هذا الحاسوب، وأحتاج إليها لكي أعمل.</translation>
     </message>
     <message>
@@ -370,8 +370,8 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="1308"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>إن الإعداد &quot;العمل من دون إنترنت&quot; مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>إن الإعداد "العمل من دون إنترنت" مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1525"/>
@@ -478,8 +478,8 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="135"/>
-        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>عند اختيارك &apos;إرسال قاعدة البيانات&apos; - سيتم إرسال نسخة من قاعدة بياناتك المحلية إلى مطوري وات-بولس لكي يتمكنوا من إعادة إنتاج المشاكل.&lt;br /&gt;&lt;br /&gt;قاعدة بياناتك هي: </translation>
+        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>عند اختيارك 'إرسال قاعدة البيانات' - سيتم إرسال نسخة من قاعدة بياناتك المحلية إلى مطوري وات-بولس لكي يتمكنوا من إعادة إنتاج المشاكل.&lt;br /&gt;&lt;br /&gt;قاعدة بياناتك هي: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="144"/>
@@ -526,7 +526,7 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="311"/>
-        <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
+        <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>تمت أرشفة هذا الكمبيوتر ولا يمكنه الاتصال بحسابك.</translation>
     </message>
     <message>
@@ -641,7 +641,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/widgets/custommessageboxinfo.cpp" line="24"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>حسناً</translation>
     </message>
 </context>
 <context>
@@ -649,12 +649,12 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/widgets/custommessageboxquestion.cpp" line="19"/>
         <source>Yes</source>
-        <translation type="unfinished">نعم</translation>
+        <translation>نعم</translation>
     </message>
     <message>
         <location filename="../interface/widgets/custommessageboxquestion.cpp" line="22"/>
         <source>No</source>
-        <translation type="unfinished">لا</translation>
+        <translation>لا</translation>
     </message>
 </context>
 <context>
@@ -680,8 +680,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../util/database.cpp" line="166"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>قاعدة البيانات &apos;%1&apos; هي للقراءة فقط. وات-بولس لا يستطيع تخزين أية إحصائيات حتى تحل هذه المشكلة.</translation>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>قاعدة البيانات '%1' هي للقراءة فقط. وات-بولس لا يستطيع تخزين أية إحصائيات حتى تحل هذه المشكلة.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="209"/>
@@ -728,7 +728,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>مرحباً يا من هناك! تبعاً لسجلاتي، لقد مضى &lt;b&gt;%1&lt;/b&gt; منذ آخر نسخ احتياطي لقاعدة البيانات عبر الإنترنت. يرجى أخذ دقيقة أو ما شابه ذلك للقيام بذلك الآن. هذه النافذة سوف تغلق تلقائياً عندما أنتهي.</translation>
     </message>
     <message>
@@ -760,7 +760,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="133"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>آسف، خاصية النسخ الاحتياطي عبر الإنترنت هو لأعضاء العضوية المتميزة فقط. هناك المزيد من المعلومات هنا: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -770,7 +770,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="144"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>آسف، أعطى الموقع عطلاً أثناء التحضير لنسخك الاحتياطي. يرجى المحاولة مجدداً لاحقاً. إليك العطل: %1</translation>
     </message>
     <message>
@@ -807,17 +807,17 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="369"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>نقراتك الأكثر كانت بتاريخ &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% مفتاح!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="384"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>نقراتك الأكثر كانت بداخل التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% نقرة)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="398"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>طباعتك الأكثر كانت في التطبيق &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% مفتاح)</translation>
     </message>
     <message>
@@ -932,7 +932,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../facts.cpp" line="765"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>لقد أعدت تشغيل حاسوبك &lt;b&gt;%VAR1:int%&lt;/b&gt; مرة.</translation>
     </message>
     <message>
@@ -1098,17 +1098,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="342"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>استثناء</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="369"/>
         <source>Exclude application?</source>
-        <translation type="unfinished"></translation>
+        <translation>استثناء التطبيق؟</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="370"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="unfinished"></translation>
+        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
+        <translation>هل أنت متأكد من رغبتك في استثناء التطبيق '%1'؟ سيتم أيضًا إزالة سجل هذا التطبيق.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="348"/>
@@ -1460,12 +1460,12 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="115"/>
         <source>Show Heat Map</source>
-        <translation type="unfinished">إظهار خريطة الحرارة</translation>
+        <translation>إظهار خريطة الحرارة</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="117"/>
         <source>Show Details</source>
-        <translation type="unfinished">اظهر التفاصيل</translation>
+        <translation>اظهر التفاصيل</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
@@ -1626,7 +1626,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="293"/>
-        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
         <translation>محفوظات المفاتيح والنقرات والتمرير والمسافة بين &amp;#39;٪ 1&amp;#39; و &amp;#39;٪ 2&amp;#39;</translation>
     </message>
     <message>
@@ -1670,27 +1670,27 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="453"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>خريطة المفاتيح الحرارية بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Heatmap of keys between '%1' and '%2' </source>
+        <translation>خريطة المفاتيح الحرارية بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="515"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>خريطة النقرات الحرارية بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
+        <translation>خريطة النقرات الحرارية بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="579"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>إدخال التطبيق بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Application input between '%1' and '%2' </source>
+        <translation>إدخال التطبيق بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="656"/>
-        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Key combinations between '%1' and '%2' </source>
         <translation>تركيبات المفاتيح بين &amp;#39;٪ 1&amp;#39; و &amp;#39;٪ 2&amp;#39;</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="721"/>
-        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
+        <source>Key combinations per application between '%1' and '%2' </source>
         <translation>مجموعات المفاتيح لكل تطبيق بين &amp;#39;٪ 1&amp;#39; و &amp;#39;٪ 2&amp;#39;</translation>
     </message>
     <message>
@@ -1795,7 +1795,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/InputTab.cpp" line="230"/>
         <source>Reset All Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين جميع الإحصائيات</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="245"/>
@@ -1829,8 +1829,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="390"/>
-        <source>No input devices found, are your &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>لم يتم العثور على أجهزة إدخال ، هل تم إعداد &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;أذوناتك&lt;/a&gt; بشكل صحيح؟</translation>
+        <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>لم يتم العثور على أجهزة إدخال ، هل تم إعداد &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;أذوناتك&lt;/a&gt; بشكل صحيح؟</translation>
     </message>
 </context>
 <context>
@@ -1968,7 +1968,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="271"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>هناك نسخة جديدة متاحة!</translation>
     </message>
     <message>
@@ -2138,8 +2138,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="958"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>حركة مرور واجهة الشبكة بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Network interface traffic between '%1' and '%2' </source>
+        <translation>حركة مرور واجهة الشبكة بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="988"/>
@@ -2172,18 +2172,18 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1040"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>الشبكة لكل تطبيق بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Network per applications between '%1' and '%2' </source>
+        <translation>الشبكة لكل تطبيق بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1099"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>حركة مرور شبكة البلد بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Country network traffic between '%1' and '%2' </source>
+        <translation>حركة مرور شبكة البلد بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1164"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>الشبكة لكل نوع بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Network per type between '%1' and '%2' </source>
+        <translation>الشبكة لكل نوع بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1249"/>
@@ -2225,8 +2225,8 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="139"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>قاعدة بيانات GeoIP الخاصة بك فارغة ، ولن تعمل الإحصائيات الخاصة بكل دولة. انقر &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;هنا&lt;/a&gt; لتحديث قاعدة البيانات.</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>قاعدة بيانات GeoIP الخاصة بك فارغة ، ولن تعمل الإحصائيات الخاصة بكل دولة. انقر &lt;a href="#" style="color: %1"&gt;هنا&lt;/a&gt; لتحديث قاعدة البيانات.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="175"/>
@@ -2306,7 +2306,7 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="221"/>
         <source>Reset All Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين جميع الإحصائيات</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="237"/>
@@ -2356,13 +2356,13 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="395"/>
-        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
+        <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>لم يتم تحديث قاعدة بيانات بروتوكول الإنترنت الجغرافي بنجاح، إليك الخطأ: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="404"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>لم يتم العثور على Npcap ، وهو مطلوب لإحصاءات الشبكة.&lt;br&gt; تنزيل من &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>لم يتم العثور على Npcap ، وهو مطلوب لإحصاءات الشبكة.&lt;br&gt; تنزيل من &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="410"/>
@@ -2483,17 +2483,17 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="416"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>استثناء</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="444"/>
         <source>Exclude application?</source>
-        <translation type="unfinished"></translation>
+        <translation>استثناء التطبيق؟</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="445"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation type="unfinished"></translation>
+        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
+        <translation>هل أنت متأكد أنك تريد استثناء التطبيق '%1'؟ سيتم أيضًا إزالة سجل هذه التطبيقات.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="195"/>
@@ -2678,7 +2678,7 @@ Please check your permissions on: %2</source>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
         <source>Interface</source>
-        <translation>واجهة الاستخدام</translation>
+        <translation>استثناء</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
@@ -2804,8 +2804,8 @@ Please check your permissions on: %2</source>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation/>
+    <id>22</id></message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
         <source>Delete Interface?</source>
@@ -2993,8 +2993,8 @@ Available: %2</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="40"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation>&lt;b&gt;ملاحظة:&lt;/b&gt; يرجى تنزيل وتثبيت إصدار Apple Silicon &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;من موقعنا على الإنترنت&lt;/a&gt; . أنت تقوم بتشغيل الإصدار المستند إلى Intel.</translation>
+        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href="https://whatpulse.org/downloads/" style="color: %1"&gt;from our website&lt;/a&gt;. You're running the Intel-based version.</source>
+        <translation>&lt;b&gt;ملاحظة:&lt;/b&gt; يرجى تنزيل وتثبيت إصدار Apple Silicon &lt;a href="https://whatpulse.org/downloads/" style="color: %1"&gt;من موقعنا على الإنترنت&lt;/a&gt; . أنت تقوم بتشغيل الإصدار المستند إلى Intel.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="179"/>
@@ -3071,8 +3071,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="391"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>إن الخيار &apos;العمل من دون الإتصال بالإنترنت&apos; مفعل، وبالتالي لا يمكنك النبض. ألغي تفعيل ذلك الخيار لمتابعة النبض.</translation>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>إن الخيار 'العمل من دون الإتصال بالإنترنت' مفعل، وبالتالي لا يمكنك النبض. ألغي تفعيل ذلك الخيار لمتابعة النبض.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="402"/>
@@ -3081,8 +3081,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="403"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>إن الخيار &apos;العمل من دون الإتصال بالإنترنت&apos; مفعل، هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>إن الخيار 'العمل من دون الإتصال بالإنترنت' مفعل، هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="413"/>
@@ -3152,7 +3152,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>يحتاج وات-بولس أذونات لعد مفاتيحك ونقراتك. لا تغادر من وات-بولس عندما يطلب منك عدم فعل ذلك.</translation>
     </message>
     <message>
@@ -3162,8 +3162,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;إليك كيف يجب أن تبدو: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;إذا كانت خانة الاختيار محددة مسبقاً، جرب إلغاء تحديدها وتحديدهاً مجدداً. قد تحتاج لهذا بعد التحديثات.&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;إليك كيف يجب أن تبدو: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;إذا كانت خانة الاختيار محددة مسبقاً، جرب إلغاء تحديدها وتحديدهاً مجدداً. قد تحتاج لهذا بعد التحديثات.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3216,12 +3216,12 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="65"/>
         <source>All for only a cup of coffee a month.</source>
-        <translation type="unfinished"></translation>
+        <translation>كل ذلك بسعر فنجان قهوة شهريًا.</translation>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="70"/>
-        <source>Don&apos;t remind me</source>
-        <translation type="unfinished"></translation>
+        <source>Don't remind me</source>
+        <translation>لا تذكرني</translation>
     </message>
 </context>
 <context>
@@ -3256,8 +3256,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="457"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>نظام تشفيل ماك غير مدعوم؛ يرجى وضع إشارة صح في &quot;السماح بوصول الأجهزة المساعدة&quot; في لوحة الوصول العام في تفضيلات النظام وقم بإعادة تشغيل الموكل. وإلا لن يعمل عد المفاتيح. ستحتاج لإعادة التفعيل عند تحديث الموكل.</translation>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>نظام تشفيل ماك غير مدعوم؛ يرجى وضع إشارة صح في "السماح بوصول الأجهزة المساعدة" في لوحة الوصول العام في تفضيلات النظام وقم بإعادة تشغيل الموكل. وإلا لن يعمل عد المفاتيح. ستحتاج لإعادة التفعيل عند تحديث الموكل.</translation>
     </message>
 </context>
 <context>
@@ -3324,74 +3324,74 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="22"/>
         <source>Input</source>
-        <translation type="unfinished">الإدخال</translation>
+        <translation>الإدخال</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="28"/>
         <source>Keyboard</source>
-        <translation type="unfinished">لوحة المفاتيح</translation>
+        <translation>لوحة المفاتيح</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="29"/>
         <source>Mouse</source>
-        <translation type="unfinished">الفأرة</translation>
+        <translation>الفأرة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="30"/>
         <location filename="../interface/settings/settingsactivestats.cpp" line="60"/>
         <location filename="../interface/settings/settingsactivestats.cpp" line="81"/>
         <source>Per Application</source>
-        <translation type="unfinished">لكل تطبيق</translation>
+        <translation>لكل تطبيق</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="34"/>
         <source>Imperial Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة الإمبراطورية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="35"/>
         <source>Metric Distance</source>
-        <translation type="unfinished"></translation>
+        <translation>المسافة المترية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="50"/>
         <source>Network</source>
-        <translation type="unfinished">الشبكة</translation>
+        <translation>الشبكة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="56"/>
         <source>Per Interface</source>
-        <translation type="unfinished">لكل واجهة مستخدم</translation>
+        <translation>لكل واجهة مستخدم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="58"/>
         <source>Per Country</source>
-        <translation type="unfinished">لكل بلد</translation>
+        <translation>لكل بلد</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="62"/>
         <source>Per Traffic Type</source>
-        <translation type="unfinished">لكل نوع حركة المرور</translation>
+        <translation>لكل نوع حركة المرور</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="72"/>
         <source>Uptime</source>
-        <translation type="unfinished">مدة التشغيل</translation>
+        <translation>مدة التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="78"/>
         <source>Computer Uptime</source>
-        <translation type="unfinished">مدة تشغيل الحاسوب</translation>
+        <translation>مدة تشغيل الحاسوب</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="79"/>
         <source>Reboots</source>
-        <translation type="unfinished">عمليات إعادة التشغيل</translation>
+        <translation>عمليات إعادة التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.h" line="14"/>
         <source>Active Stats</source>
-        <translation type="unfinished">الإحصائيات الفعالة</translation>
+        <translation>الإحصائيات الفعالة</translation>
     </message>
 </context>
 <context>
@@ -3399,73 +3399,73 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="11"/>
         <source>Blink menu bar icon on activity</source>
-        <translation type="unfinished"></translation>
+        <translation>وميض أيقونة شريط القوائم عند النشاط</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="14"/>
         <source>Blink tray icon on activity</source>
-        <translation type="unfinished"></translation>
+        <translation>وميض أيقونة صينية النظام عند النشاط</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="52"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;السمة&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;السمة&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="55"/>
         <location filename="../interface/settings/settingsappearance.cpp" line="72"/>
         <source>Adapt to system</source>
-        <translation type="unfinished"></translation>
+        <translation>التكيف مع النظام</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="56"/>
         <source>Light</source>
-        <translation type="unfinished">الضوء</translation>
+        <translation>الضوء</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
         <source>Dark</source>
-        <translation type="unfinished">مظلم</translation>
+        <translation>مظلم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="66"/>
         <source>&lt;b&gt;Menu bar icon color&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;لون أيقونة شريط القوائم&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="68"/>
         <source>&lt;b&gt;Tray icon color&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;لون أيقونة صينية النظام&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="73"/>
         <source>Black</source>
-        <translation type="unfinished">أسود</translation>
+        <translation>أسود</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
         <source>White</source>
-        <translation type="unfinished">أبيض</translation>
+        <translation>أبيض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="88"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;اللغة&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;اللغة&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="114"/>
         <source>This change needs a window refresh.</source>
-        <translation type="unfinished"></translation>
+        <translation>هذا التغيير يحتاج إلى تحديث النافذة.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="119"/>
         <source>Click here to refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر هنا للتحديث</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.h" line="18"/>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>المظهر</translation>
     </message>
 </context>
 <context>
@@ -3477,131 +3477,131 @@ Upload: unknown</source>
         <location filename="../interface/settings/settingsautopulse.cpp" line="12"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="13"/>
         <source>Auto pulse on </source>
-        <translation type="unfinished">النبض التلقائي عند </translation>
+        <translation>النبض التلقائي عند </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="14"/>
         <source>Auto pulse on startup</source>
-        <translation type="unfinished">النبض التلقائي عند بدء التشغيل</translation>
+        <translation>النبض التلقائي عند بدء التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="31"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="38"/>
         <source>Only 1000 to 99999999</source>
-        <translation type="unfinished"></translation>
+        <translation>فقط من 1000 إلى 99999999</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="45"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="52"/>
         <source>Only 1024 to 99999999</source>
-        <translation type="unfinished"></translation>
+        <translation>فقط من 1024 إلى 99999999</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="58"/>
         <source>Only 1 to 9999</source>
-        <translation type="unfinished"></translation>
+        <translation>فقط من 1 إلى 9999</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="82"/>
         <source>keys</source>
-        <translation type="unfinished">مفتاحاً</translation>
+        <translation>مفتاحاً</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="90"/>
         <source>clicks</source>
-        <translation type="unfinished">نقرة</translation>
+        <translation>نقرة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="95"/>
         <source>MB download</source>
-        <translation type="unfinished"></translation>
+        <translation>تنزيل ميجابايت</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="100"/>
         <source>MB upload</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل ميجابايت</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="105"/>
         <source>hours uptime</source>
-        <translation type="unfinished">ساعات مدة التشغيل</translation>
+        <translation>ساعات مدة التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="122"/>
         <source>Auto pulse on hour </source>
-        <translation type="unfinished">النبض التلقائي عند الساعة </translation>
+        <translation>النبض التلقائي عند الساعة </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="126"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="440"/>
         <source>All</source>
-        <translation type="unfinished">الكل</translation>
+        <translation>الكل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="134"/>
         <source>every day</source>
-        <translation type="unfinished">كل يوم</translation>
+        <translation>كل يوم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="135"/>
         <source>every Monday</source>
-        <translation type="unfinished">كل اثنين</translation>
+        <translation>كل اثنين</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="136"/>
         <source>every Tuesday</source>
-        <translation type="unfinished">كل ثلاثاء</translation>
+        <translation>كل ثلاثاء</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="137"/>
         <source>every Wednesday</source>
-        <translation type="unfinished">كل أربعاء</translation>
+        <translation>كل أربعاء</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="138"/>
         <source>every Thursday</source>
-        <translation type="unfinished">كل خميس</translation>
+        <translation>كل خميس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="139"/>
         <source>every Friday</source>
-        <translation type="unfinished">كل جمعة</translation>
+        <translation>كل جمعة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="140"/>
         <source>every Saturday</source>
-        <translation type="unfinished">كل سبت</translation>
+        <translation>كل سبت</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="141"/>
         <source>every Sunday</source>
-        <translation type="unfinished">كل أحد</translation>
+        <translation>كل أحد</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="351"/>
         <source>WhatPulse will not automatically pulse with your current settings. Change a setting to enable auto pulsing.</source>
-        <translation type="unfinished">لن ينبض وات-بولس تلقائياً تبعاً لإعداداتك الحالية. غير إعداداً لتفعيل النبض التلقائي.</translation>
+        <translation>لن ينبض وات-بولس تلقائياً تبعاً لإعداداتك الحالية. غير إعداداً لتفعيل النبض التلقائي.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="354"/>
         <source>WhatPulse will automatically pulse </source>
-        <translation type="unfinished">سينبض وات-بولس تلقائياً </translation>
+        <translation>سينبض وات-بولس تلقائياً </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="367"/>
         <source>when </source>
-        <translation type="unfinished">عندما </translation>
+        <translation>عندما </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="373"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="385"/>
         <source>you reach </source>
-        <translation type="unfinished">تصل إلى </translation>
+        <translation>تصل إلى </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="376"/>
         <source> keys</source>
-        <translation type="unfinished"> مفتاحاً</translation>
+        <translation> مفتاحاً</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="383"/>
@@ -3610,52 +3610,52 @@ Upload: unknown</source>
         <location filename="../interface/settings/settingsautopulse.cpp" line="419"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="430"/>
         <source>, &lt;b&gt;or&lt;/b&gt; when </source>
-        <translation type="unfinished">, &lt;b&gt;أو&lt;/b&gt; عندما </translation>
+        <translation>, &lt;b&gt;أو&lt;/b&gt; عندما </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="388"/>
         <source> clicks</source>
-        <translation type="unfinished"> نقرة</translation>
+        <translation> نقرة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="397"/>
-        <source>you&apos;ve downloaded </source>
-        <translation type="unfinished">لقد نزلت </translation>
+        <source>you've downloaded </source>
+        <translation>لقد نزلت </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="409"/>
-        <source>you&apos;ve uploaded </source>
-        <translation type="unfinished">لقد رفعت </translation>
+        <source>you've uploaded </source>
+        <translation>لقد رفعت </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="421"/>
-        <source>you&apos;ve collected </source>
-        <translation type="unfinished">تجمع </translation>
+        <source>you've collected </source>
+        <translation>تجمع </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="424"/>
         <source> hours of uptime</source>
-        <translation type="unfinished"> ساعة من مدة التشغيل</translation>
+        <translation> ساعة من مدة التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="432"/>
         <source>WhatPulse starts</source>
-        <translation type="unfinished"></translation>
+        <translation>بدء WhatPulse</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="438"/>
         <source>, &lt;b&gt;and&lt;/b&gt; </source>
-        <translation type="unfinished">, &lt;b&gt;و&lt;/b&gt; </translation>
+        <translation>, &lt;b&gt;و&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="441"/>
         <source>every hour on </source>
-        <translation type="unfinished">كل ساعة عند </translation>
+        <translation>كل ساعة عند </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.h" line="37"/>
         <source>Auto Pulse</source>
-        <translation type="unfinished">نبض تلقائي</translation>
+        <translation>نبض تلقائي</translation>
     </message>
 </context>
 <context>
@@ -3663,37 +3663,37 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="16"/>
         <source>Enable Client API</source>
-        <translation type="unfinished">تفعيل واجهة التطبيق البرمجية للعميل</translation>
+        <translation>تفعيل واجهة التطبيق البرمجية للعميل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="61"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation type="unfinished">تعد واجهة برمجة تطبيقات العميل طريقة لاستخراج المعلومات في الوقت الفعلي من عميل WhatPulse. يمكنك استخدام هذا لتغذية البيانات الخاصة بك في تطبيق آخر. اكتشف المزيد في &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;مركز المطورين&lt;/a&gt; لدينا</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>تعد واجهة برمجة تطبيقات العميل طريقة لاستخراج المعلومات في الوقت الفعلي من عميل WhatPulse. يمكنك استخدام هذا لتغذية البيانات الخاصة بك في تطبيق آخر. اكتشف المزيد في &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;مركز المطورين&lt;/a&gt; لدينا</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="84"/>
         <source>Listen on port:</source>
-        <translation type="unfinished">الاستماع إلى المنفذ:</translation>
+        <translation>الاستماع إلى المنفذ:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="87"/>
         <source>WebSocket port:</source>
-        <translation type="unfinished"></translation>
+        <translation>منفذ WebSocket:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="93"/>
         <source>Enter a value between 1024 and 65535</source>
-        <translation type="unfinished">أدخل قيمة بين 1024 و65535</translation>
+        <translation>أدخل قيمة بين 1024 و65535</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="109"/>
         <source>IPs that are allowed to connect. One per line, empty to allow everything:</source>
-        <translation type="unfinished"></translation>
+        <translation>عناوين IP المسموحة بالاتصال. واحدة في كل سطر، فارغة للسماح بكل شيء:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.h" line="23"/>
         <source>Client API</source>
-        <translation type="unfinished">واجهة التطبيق البرمجية للعميل</translation>
+        <translation>واجهة التطبيق البرمجية للعميل</translation>
     </message>
 </context>
 <context>
@@ -3701,45 +3701,45 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="12"/>
         <source>Application</source>
-        <translation type="unfinished">التطبيق</translation>
+        <translation>التطبيق</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="29"/>
         <source>Network interface</source>
-        <translation type="unfinished">واجهة الشبكة</translation>
+        <translation>واجهة الشبكة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="47"/>
-        <source>Here you can manage applications and network interfaces that you&apos;ve chosen to exclude from monitoring. Right click an application or interface to manage.</source>
-        <translation type="unfinished"></translation>
+        <source>Here you can manage applications and network interfaces that you've chosen to exclude from monitoring. Right click an application or interface to manage.</source>
+        <translation>هنا يمكنك إدارة التطبيقات وواجهات الشبكة التي قمت بإستبعادها من التتبع. قم بالنقر بالزر الأيمن للتطبيق أو الواجهة للتحكم فيها.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="78"/>
         <location filename="../interface/settings/settingsexclusions.cpp" line="113"/>
         <source>No applications excluded</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد تطبيقات مُستبعدة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="104"/>
         <location filename="../interface/settings/settingsexclusions.cpp" line="176"/>
         <source>No network interfaces excluded</source>
-        <translation type="unfinished"></translation>
+        <translation>لا يوجد واجهات شبكة مُستبعدة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="118"/>
         <location filename="../interface/settings/settingsexclusions.cpp" line="181"/>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="124"/>
         <source>Open file location</source>
-        <translation type="unfinished">فتح موقع الملف</translation>
+        <translation>فتح موقع الملف</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.h" line="16"/>
         <source>Exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>الاستبعادات</translation>
     </message>
 </context>
 <context>
@@ -3747,333 +3747,333 @@ Upload: unknown</source>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="73"/>
         <source>Add label</source>
-        <translation type="unfinished"></translation>
+        <translation>وضع فوق جميع النوافذ</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="85"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="482"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="499"/>
         <source>Select label to edit..</source>
-        <translation type="unfinished">اختر ملصقاً لتعديله..</translation>
+        <translation>اختر ملصقاً لتعديله..</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="96"/>
         <source>Insert statistic:</source>
-        <translation type="unfinished">إدخال إحصائية:</translation>
+        <translation>إدخال إحصائية:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="97"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="379"/>
         <source>Unpulsed Keys</source>
-        <translation type="unfinished">المفاتيح غير المنبوضة</translation>
+        <translation>المفاتيح غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="98"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="381"/>
         <source>Unpulsed Clicks</source>
-        <translation type="unfinished">النقرات غير المنبوضة</translation>
+        <translation>النقرات غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="99"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="383"/>
         <source>Unpulsed Download</source>
-        <translation type="unfinished">التنزيل غير المنبوض</translation>
+        <translation>التنزيل غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="100"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="385"/>
         <source>Unpulsed Mouse Distance</source>
-        <translation type="unfinished">مسافة الماوس غير نابض</translation>
+        <translation>مسافة الماوس غير نابض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="101"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
         <source>Unpulsed Mouse Scrolls</source>
-        <translation type="unfinished">مخطوطات الماوس غير نابض</translation>
+        <translation>مخطوطات الماوس غير نابض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="102"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="389"/>
         <source>Unpulsed Upload</source>
-        <translation type="unfinished">الرفع غير المنبوض</translation>
+        <translation>الرفع غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="103"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="391"/>
         <source>Unpulsed Uptime</source>
-        <translation type="unfinished">مدة التشغيل غير المنبوضة</translation>
+        <translation>مدة التشغيل غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="393"/>
         <source>Unpulsed Click Rate</source>
-        <translation type="unfinished">معدل النقرات غير المنبوضة</translation>
+        <translation>معدل النقرات غير المنبوضة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
         <source>Unpulsed Key Rate</source>
-        <translation type="unfinished">معدل المفتاح غير المنبوض</translation>
+        <translation>معدل المفتاح غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="397"/>
         <source>Unpulsed Download Rate</source>
-        <translation type="unfinished">معدل التنزيل غير المنبوض</translation>
+        <translation>معدل التنزيل غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="399"/>
         <source>Unpulsed Upload Rate</source>
-        <translation type="unfinished">معدل الرفع غير المنبوض</translation>
+        <translation>معدل الرفع غير المنبوض</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="401"/>
         <source>Current Click Rate</source>
-        <translation type="unfinished">معدل النقر الحالي</translation>
+        <translation>معدل النقر الحالي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="403"/>
         <source>Current Key Rate</source>
-        <translation type="unfinished">معدل المفتاح الحالي</translation>
+        <translation>معدل المفتاح الحالي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="405"/>
         <source>Current Download Rate</source>
-        <translation type="unfinished">معدل التنزيل الحالي</translation>
+        <translation>معدل التنزيل الحالي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="407"/>
         <source>Current Upload Rate</source>
-        <translation type="unfinished">معدل الرفع الحالي</translation>
+        <translation>معدل الرفع الحالي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="409"/>
         <source>Current Uptime</source>
-        <translation type="unfinished">مدة التشغيل الحالية</translation>
+        <translation>مدة التشغيل الحالية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="411"/>
         <source>Total Keys</source>
-        <translation type="unfinished">إجمالي المفاتيح</translation>
+        <translation>إجمالي المفاتيح</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
         <source>Total Clicks</source>
-        <translation type="unfinished">النقرات الكلية</translation>
+        <translation>النقرات الكلية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="415"/>
         <source>Total Download</source>
-        <translation type="unfinished">إجمالي التحميل</translation>
+        <translation>إجمالي التحميل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="417"/>
         <source>Total Upload</source>
-        <translation type="unfinished">إجمالي الرفع</translation>
+        <translation>إجمالي الرفع</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="419"/>
         <source>Total Uptime</source>
-        <translation type="unfinished">إجمالي مدة التشغيل</translation>
+        <translation>إجمالي مدة التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="429"/>
         <source>Total Mouse Distance</source>
-        <translation type="unfinished">إجمالي مسافة الماوس</translation>
+        <translation>إجمالي مسافة الماوس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="431"/>
         <source>Total Mouse Scrolls</source>
-        <translation type="unfinished">إجمالي مخطوطات الماوس</translation>
+        <translation>إجمالي مخطوطات الماوس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="421"/>
         <source>Total Click Rate</source>
-        <translation type="unfinished">إجمالي معدل النقر</translation>
+        <translation>إجمالي معدل النقر</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
         <source>Total Key Rate</source>
-        <translation type="unfinished">إجمالي معدل المفاتيح</translation>
+        <translation>إجمالي معدل المفاتيح</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="425"/>
         <source>Total Download Rate</source>
-        <translation type="unfinished">إجمالي معدل التنزيل</translation>
+        <translation>إجمالي معدل التنزيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="427"/>
         <source>Total Upload Rate</source>
-        <translation type="unfinished">إجمالي معدل الرفع</translation>
+        <translation>إجمالي معدل الرفع</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="125"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
         <source>Rank Keys</source>
-        <translation type="unfinished">رتبة المفاتيح</translation>
+        <translation>رتبة المفاتيح</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="435"/>
         <source>Rank Clicks</source>
-        <translation type="unfinished">رتبة النقرات</translation>
+        <translation>رتبة النقرات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="437"/>
         <source>Rank Download</source>
-        <translation type="unfinished">رتبة التنزيل</translation>
+        <translation>رتبة التنزيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="128"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="439"/>
         <source>Rank Mouse Distance</source>
-        <translation type="unfinished">ترتيب مسافة الماوس</translation>
+        <translation>ترتيب مسافة الماوس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="441"/>
         <source>Rank Mouse Scrolls</source>
-        <translation type="unfinished">مخطوطات رتبة الماوس</translation>
+        <translation>مخطوطات رتبة الماوس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="443"/>
         <source>Rank Upload</source>
-        <translation type="unfinished">رتبة الرفع</translation>
+        <translation>رتبة الرفع</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="445"/>
         <source>Rank Uptime</source>
-        <translation type="unfinished">رتبة مدة التشغيل</translation>
+        <translation>رتبة مدة التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="133"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="447"/>
         <source>Today Keys</source>
-        <translation type="unfinished">مفاتيح اليوم</translation>
+        <translation>مفاتيح اليوم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="134"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="449"/>
         <source>Today Clicks</source>
-        <translation type="unfinished">نقرات اليوم</translation>
+        <translation>نقرات اليوم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
         <source>Today Download</source>
-        <translation type="unfinished">تنزيل اليوم</translation>
+        <translation>تنزيل اليوم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="136"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="453"/>
         <source>Today Upload</source>
-        <translation type="unfinished">رفع اليوم</translation>
+        <translation>رفع اليوم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="455"/>
         <source>Today Mouse Distance</source>
-        <translation type="unfinished">اليوم مسافة الماوس</translation>
+        <translation>اليوم مسافة الماوس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="457"/>
         <source>Today Mouse Scrolls</source>
-        <translation type="unfinished">اليوم مخطوطات الماوس</translation>
+        <translation>اليوم مخطوطات الماوس</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="149"/>
         <source> Delete label</source>
-        <translation type="unfinished">حذف التسمية</translation>
+        <translation>حذف التسمية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="153"/>
         <source>Delete label</source>
-        <translation type="unfinished">حذف الملصق</translation>
+        <translation>حذف الملصق</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="200"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="208"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="294"/>
         <source>Reset to default</source>
-        <translation type="unfinished">إعادة التعيين إلى الوضع الافتراضي</translation>
+        <translation>إعادة التعيين إلى الوضع الافتراضي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="212"/>
         <source>Background color: </source>
-        <translation type="unfinished">لون الخلفية: </translation>
+        <translation>لون الخلفية: </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="216"/>
         <source>Font color: </source>
-        <translation type="unfinished">لون الخط: </translation>
+        <translation>لون الخط: </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="228"/>
         <source>Font size: </source>
-        <translation type="unfinished">حجم الخط: </translation>
+        <translation>حجم الخط: </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
         <source>Close on double click</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation/>
+    <id>49</id></message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="242"/>
         <source>Put on top of all windows</source>
-        <translation type="unfinished"></translation>
-    </message>
+        <translation/>
+    <id>50</id></message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="250"/>
         <source>Snap to grid</source>
-        <translation type="unfinished">الالتصاق إلى الشبكة</translation>
+        <translation>الالتصاق إلى الشبكة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="274"/>
         <source>Transparency: </source>
-        <translation type="unfinished">الشفافية: </translation>
+        <translation>الشفافية: </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="284"/>
         <source>Call to Center</source>
-        <translation type="unfinished">الاتصال بالمركز</translation>
+        <translation>الاتصال بالمركز</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="571"/>
         <source>Reset to default?</source>
-        <translation type="unfinished">إعادة التعيين إلى الوضع الافتراضي؟</translation>
+        <translation>إعادة التعيين إلى الوضع الافتراضي؟</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
-        <translation type="unfinished">هل تود إعادة تعيين نافذة الوَلُوع إلى وضعها الافتراضي؟
+        <translation>هل تود إعادة تعيين نافذة الوَلُوع إلى وضعها الافتراضي؟
 هذا سيعيد تعيين أية نسق مخصصة!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.h" line="33"/>
         <source>Geek Window</source>
-        <translation type="unfinished">نافذة الوَلُوع</translation>
+        <translation>نافذة الوَلُوع</translation>
     </message>
 </context>
 <context>
@@ -4081,67 +4081,67 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="27"/>
         <source>Launch when computer starts</source>
-        <translation type="unfinished">البدء عند بدء الحاسوب</translation>
+        <translation>البدء عند بدء الحاسوب</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="29"/>
         <source>Open window on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح النافذة عند بدء التشغيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="33"/>
         <source>Automatically install new versions</source>
-        <translation type="unfinished">تثبيت النسخ الجديدة تلقائياً</translation>
+        <translation>تثبيت النسخ الجديدة تلقائياً</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="38"/>
         <source>Include beta versions updates</source>
-        <translation type="unfinished">شمل تحديثات النسخ التجريبية</translation>
+        <translation>شمل تحديثات النسخ التجريبية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="42"/>
         <source>Pulse on doubleclick trayicon</source>
-        <translation type="unfinished">النبض عند الضغط المزدوج على رمز الأيقونة</translation>
+        <translation>النبض عند الضغط المزدوج على رمز الأيقونة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="46"/>
         <source>Upload application info</source>
-        <translation type="unfinished">رفع معلومات التطبيق</translation>
+        <translation>رفع معلومات التطبيق</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="49"/>
         <source>Work offline (disables pulsing)</source>
-        <translation type="unfinished">العمل من دون الإتصال بالإنترنت (يلغي تفعيل النبض)</translation>
+        <translation>العمل من دون الإتصال بالإنترنت (يلغي تفعيل النبض)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="52"/>
         <source>Weekly online backups</source>
-        <translation type="unfinished">خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية</translation>
+        <translation>خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
         <source>Pause notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>إيقاف الإشعارات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="64"/>
         <source>Notification on auto pulse</source>
-        <translation type="unfinished"></translation>
+        <translation>الإشعار عند النبض التلقائي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="68"/>
         <source>Send bug and usage reports</source>
-        <translation type="unfinished">إرسال تقارير الاستخدام والأعطال</translation>
+        <translation>إرسال تقارير الاستخدام والأعطال</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="83"/>
         <source>Weekly online backups (premium only)</source>
-        <translation type="unfinished">خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية (العضوية المتميزة فقط)</translation>
+        <translation>خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية (العضوية المتميزة فقط)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.h" line="19"/>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>عام</translation>
     </message>
 </context>
 <context>
@@ -4149,114 +4149,114 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="12"/>
         <source>Milestones let you create notifications when you cross certain statistics. Double-click on a Milestone to edit.</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكنك المعالم من إنشاء إشعارات عندما تتجاوز إحصائيات معينة. قم بالنقر المزدوج على المعلم لتحريره.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="17"/>
         <source>Add</source>
-        <translation type="unfinished">إضافة</translation>
+        <translation>إضافة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="67"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="308"/>
         <source>Name</source>
-        <translation type="unfinished">الاسم</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="309"/>
         <source>Statistic</source>
-        <translation type="unfinished">الإحصائية</translation>
+        <translation>الإحصائية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="309"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation>المبلغ</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
         <source>Actions</source>
-        <translation type="unfinished">الأعمال</translation>
+        <translation>الأعمال</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="67"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="308"/>
         <source>Time</source>
-        <translation type="unfinished">الوقت</translation>
+        <translation>الوقت</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="80"/>
         <source>&lt;h2&gt;History&lt;/h2&gt;</source>
-        <translation type="unfinished">&lt;h2&gt;التاريخ&lt;/h2&gt;</translation>
+        <translation>&lt;h2&gt;التاريخ&lt;/h2&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="156"/>
         <source>Milestone Name</source>
-        <translation type="unfinished">اسم الحدث الرئيسي</translation>
+        <translation>اسم الحدث الرئيسي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="417"/>
         <source>Keys</source>
-        <translation type="unfinished">المفاتيح</translation>
+        <translation>المفاتيح</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="419"/>
         <source>Clicks</source>
-        <translation type="unfinished">النقرات</translation>
+        <translation>النقرات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="421"/>
         <source>Downloaded MB</source>
-        <translation type="unfinished">الميجابايت المنزلة</translation>
+        <translation>الميجابايت المنزلة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="424"/>
         <source>Uploaded MB</source>
-        <translation type="unfinished">الميجابايت المرفوعة</translation>
+        <translation>الميجابايت المرفوعة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="427"/>
         <source>Uptime in Minutes</source>
-        <translation type="unfinished">مدة تشغيل الحاسوب في الدقائق</translation>
+        <translation>مدة تشغيل الحاسوب في الدقائق</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="184"/>
         <source>Delete Milestone</source>
-        <translation type="unfinished">حذف الحدث الرئيسي</translation>
+        <translation>حذف الحدث الرئيسي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="185"/>
         <source>Are you sure you want to delete this Milestone?</source>
-        <translation type="unfinished">هل أنت متأكد من أنك تود حذف هذا الحدث الرئيسي؟</translation>
+        <translation>هل أنت متأكد من أنك تود حذف هذا الحدث الرئيسي؟</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="237"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
-        <translation type="unfinished">حان وقت القهوة، لقد ضغطت X مفتاحاً!</translation>
+        <source>Time for coffee, you've made X keys!</source>
+        <translation>حان وقت القهوة، لقد ضغطت X مفتاحاً!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="244"/>
         <source>Milestone Message</source>
-        <translation type="unfinished">رسالة الحدث الرئيسي</translation>
+        <translation>رسالة الحدث الرئيسي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="245"/>
         <source>Display a custom message when this Milestone hits:</source>
-        <translation type="unfinished">عرض رسالة مخصصة عند تحقيق هذا الحدث الرئيسي:</translation>
+        <translation>عرض رسالة مخصصة عند تحقيق هذا الحدث الرئيسي:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="394"/>
@@ -4264,12 +4264,12 @@ This will reset any custom layouts!</source>
         <location filename="../interface/settings/settingsmilestones.cpp" line="402"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="406"/>
         <source>Please input 100 or higher.</source>
-        <translation type="unfinished">يرجى إدخال 100 أو أعلى.</translation>
+        <translation>يرجى إدخال 100 أو أعلى.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="411"/>
         <source>Please input 10 or higher.</source>
-        <translation type="unfinished">يرجى إدخال 10 أو أعلى.</translation>
+        <translation>يرجى إدخال 10 أو أعلى.</translation>
     </message>
 </context>
 <context>
@@ -4277,78 +4277,78 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="16"/>
         <source>Use manual proxy</source>
-        <translation type="unfinished">استخدام الوكيل التلقائي</translation>
+        <translation>استخدام الوكيل التلقائي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="17"/>
         <source>Auto detect proxy</source>
-        <translation type="unfinished">رصد الوكيل تلقائياً</translation>
+        <translation>رصد الوكيل تلقائياً</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="22"/>
         <location filename="../interface/settings/settingsproxy.cpp" line="225"/>
         <source>Test proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>اختبار الوكيل</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="24"/>
         <source>Proxy authentication required</source>
-        <translation type="unfinished">توثيق الوكيل مطلوب</translation>
+        <translation>توثيق الوكيل مطلوب</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="85"/>
         <source>Hostname:</source>
-        <translation type="unfinished">اسم المضيف:</translation>
+        <translation>اسم المضيف:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="88"/>
         <source>Port:</source>
-        <translation type="unfinished">المنفذ:</translation>
+        <translation>المنفذ:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="104"/>
         <source>Username:</source>
-        <translation type="unfinished">اسم المستخدم:</translation>
+        <translation>اسم المستخدم:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="107"/>
         <source>Password:</source>
-        <translation type="unfinished">كلمة السر:</translation>
+        <translation>كلمة السر:</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="192"/>
         <source>Not enough info</source>
-        <translation type="unfinished">المعلومات غير كافية</translation>
+        <translation>المعلومات غير كافية</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="193"/>
         <source>Please fill out both the proxy hostname and port number before testing.</source>
-        <translation type="unfinished">يرجى ملء كلاً من اسم مضيف الوكيل ورقم المنفذ قبل التجريب.</translation>
+        <translation>يرجى ملء كلاً من اسم مضيف الوكيل ورقم المنفذ قبل التجريب.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="199"/>
         <source>Testing..</source>
-        <translation type="unfinished">جار التجريب..</translation>
+        <translation>جار التجريب..</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="231"/>
         <source>Success!</source>
-        <translation type="unfinished"></translation>
+        <translation>نجاح!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="231"/>
         <source>Proxy test worked!</source>
-        <translation type="unfinished">تجريب الوكيل نجح!</translation>
+        <translation>تجريب الوكيل نجح!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.cpp" line="233"/>
         <source>Proxy test error!</source>
-        <translation type="unfinished">عطل في تجريب الوكيل!</translation>
+        <translation>عطل في تجريب الوكيل!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsproxy.h" line="32"/>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>الوكيل</translation>
     </message>
 </context>
 <context>
@@ -4356,97 +4356,97 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="65"/>
         <source>Advanced</source>
-        <translation type="unfinished">متقدم</translation>
+        <translation>متقدم</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="79"/>
         <source>Advanced Actions</source>
-        <translation type="unfinished"></translation>
+        <translation>الإجراءات المتقدمة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="87"/>
         <source>Enable portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تمكين الوضع المحمول</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="89"/>
         <source>Disable &amp;portable mode</source>
-        <translation type="unfinished"></translation>
+        <translation>تعطيل الوضع المحمول</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="97"/>
         <source>&amp;Open data directory</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح مجلد البيانات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="103"/>
         <source>Re-upload &amp;applications</source>
-        <translation type="unfinished">إعادة رفع الت&amp;طبيقات</translation>
+        <translation>إعادة رفع الت&amp;طبيقات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="109"/>
         <source>Reset &amp;database</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة ضبط قاعدة البيانات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="115"/>
         <source>Update &amp;GeoIP database</source>
-        <translation type="unfinished">تحديث قاعدة بيانات بروتوكول الإنترنت ال&amp;جغرافي</translation>
+        <translation>تحديث قاعدة بيانات بروتوكول الإنترنت ال&amp;جغرافي</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="122"/>
         <source>Update Network Port description database</source>
-        <translation type="unfinished"></translation>
+        <translation>تحديث قاعدة بيانات وصف منفذ الشبكة</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="130"/>
         <source>Upload &amp;Computer profile</source>
-        <translation type="unfinished"></translation>
+        <translation>تحميل ملف تعريف الحاسوب</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="137"/>
         <source>&amp;Upload database</source>
-        <translation type="unfinished">رفع &amp;قاعدة البيانات</translation>
+        <translation>رفع &amp;قاعدة البيانات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="149"/>
         <source>Check macOS Permissions</source>
-        <translation type="unfinished">التحقق من أذونات نظام تشغيل ماك</translation>
+        <translation>التحقق من أذونات نظام تشغيل ماك</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="171"/>
         <source> Check for Updates</source>
-        <translation type="unfinished"> التحقق من التحديثات</translation>
+        <translation> التحقق من التحديثات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="224"/>
         <source>Uploading Apps</source>
-        <translation type="unfinished">جاري رفع التطبيقات</translation>
+        <translation>جاري رفع التطبيقات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="225"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
-        <translation type="unfinished">تم تحديد التطبيقات ليتم الرفع. قد يتطلب الأمر ساعة قبل ظهورهم على الموقع.</translation>
+        <translation>تم تحديد التطبيقات ليتم الرفع. قد يتطلب الأمر ساعة قبل ظهورهم على الموقع.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="246"/>
         <source>Empty Database</source>
-        <translation type="unfinished">إفراغ قاعدة البيانات</translation>
+        <translation>إفراغ قاعدة البيانات</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="247"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
-        <translation type="unfinished">إفراغ قاعدة بياناتك المحلية سوف يدمر جميع الإحصائيات المحلية ويسجل الخروج من حسابك. لا يوجد استرداد لهذا، المتابعة؟</translation>
+        <translation>إفراغ قاعدة بياناتك المحلية سوف يدمر جميع الإحصائيات المحلية ويسجل الخروج من حسابك. لا يوجد استرداد لهذا، المتابعة؟</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="265"/>
         <source>Upload Computer Info</source>
-        <translation type="unfinished">تحميل معلومات الكمبيوتر</translation>
+        <translation>تحميل معلومات الكمبيوتر</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="266"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
-        <translation type="unfinished">تم بدء تحميل ملف تعريف الكمبيوتر بنجاح. سيتم تحديث الموقع في بضع دقائق.</translation>
+        <translation>تم بدء تحميل ملف تعريف الكمبيوتر بنجاح. سيتم تحديث الموقع في بضع دقائق.</translation>
     </message>
 </context>
 <context>
@@ -4585,7 +4585,7 @@ This will reset any custom layouts!</source>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>حدد تاريخ البداية والنهاية للمدة التي تود رؤية الإحصائيات فيها.</translation>
     </message>
     <message>
@@ -4808,8 +4808,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1458"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>قائمة إعادة التشغيل بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Reboot list between '%1' and '%2' </source>
+        <translation>قائمة إعادة التشغيل بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1488"/>
@@ -4818,8 +4818,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1529"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>مدة تشغيل التطبيق بين &apos;%1&apos; و&apos;%2&apos; </translation>
+        <source>Active application time between '%1' and '%2' </source>
+        <translation>مدة تشغيل التطبيق بين '%1' و'%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="1537"/>
@@ -5116,18 +5116,18 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="719"/>
         <source>Exclude</source>
-        <translation type="unfinished"></translation>
+        <translation>استبعاد</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="746"/>
         <source>Reset to default?</source>
-        <translation type="unfinished">إعادة التعيين إلى الوضع الافتراضي؟</translation>
+        <translation>إعادة التعيين إلى الوضع الافتراضي؟</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="747"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
-        <translation type="unfinished">هل تود إعادة تعيين نافذة الوَلُوع إلى وضعها الافتراضي؟
+        <translation>هل تود إعادة تعيين نافذة الوَلُوع إلى وضعها الافتراضي؟
 هذا سيعيد تعيين أية نسق مخصصة!</translation>
     </message>
     <message>
@@ -5192,7 +5192,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1259"/>
         <source>Reset All Stats</source>
-        <translation type="unfinished"></translation>
+        <translation>إعادة تعيين جميع الإحصائيات</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="1275"/>
@@ -5536,7 +5536,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="156"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>أنت تقوم بتشغيل أحدث إصدار من WhatPulse.</translation>
     </message>
 </context>
@@ -5544,7 +5544,7 @@ This will reset any custom layouts!</source>
     <name>WindowMessageBanner</name>
     <message>
         <location filename="../interface/widgets/WindowMessageBanner.cpp" line="32"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>ما هو الجديد؟</translation>
     </message>
 </context>
@@ -5561,7 +5561,7 @@ This will reset any custom layouts!</source>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="22"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>لقد تم إعادة توجيهك إلى الموقع، يرجى اتباع التعليمات هناك. بعد أن تنتهي من عملية الدخول، سيسجل الموكل الدخول تلقائياً وستكون جاهزاً للبدء!</translation>
     </message>
     <message>
@@ -5572,8 +5572,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="122"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>إذا لم يفتح المستعرض الخاص بك ، فحاول النقر فوق &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;هذا الارتباط&lt;/a&gt; أو نسخه.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
+        <translation>إذا لم يفتح المستعرض الخاص بك ، فحاول النقر فوق &lt;a href="%1" style="color: %2"&gt;هذا الارتباط&lt;/a&gt; أو نسخه.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="141"/>
@@ -5611,8 +5611,8 @@ This will reset any custom layouts!</source>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>أهلاً بك في وات-بولس، برنامج الإحصائيات &lt;b&gt;الوحيد&lt;/b&gt; الذي ستحتاجه مطلقاً. يجيب وات-بولس على سؤال &apos;كم أستخدم حاسوبي في اليوم؟&apos;&lt;/b&gt;&lt;br /&gt;فلنبدأ. إن كنت تمتلك حساباً من قبل، فيرجى الضغط على &lt;b&gt;تسجيل الدخول&lt;/b&gt;. إن كنت جديداً على وات-بولس، يرجى الضغط على &lt;b&gt;التسجيل&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;في كلتا الحالتين سيتم إعادة توجيهك إلى موقعنا لإكمال تسجيل الدخول.&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>أهلاً بك في وات-بولس، برنامج الإحصائيات &lt;b&gt;الوحيد&lt;/b&gt; الذي ستحتاجه مطلقاً. يجيب وات-بولس على سؤال 'كم أستخدم حاسوبي في اليوم؟'&lt;/b&gt;&lt;br /&gt;فلنبدأ. إن كنت تمتلك حساباً من قبل، فيرجى الضغط على &lt;b&gt;تسجيل الدخول&lt;/b&gt;. إن كنت جديداً على وات-بولس، يرجى الضغط على &lt;b&gt;التسجيل&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;في كلتا الحالتين سيتم إعادة توجيهك إلى موقعنا لإكمال تسجيل الدخول.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="25"/>
@@ -5629,7 +5629,7 @@ This will reset any custom layouts!</source>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
         <translation>مرحبًا بك في WhatPulse ، برنامج الإحصاء &lt;b&gt;الوحيد&lt;/b&gt; الذي ستحتاج إليه على الإطلاق. يجيب WhatPulse على السؤال &amp;quot;كم يمكنني استخدام جهاز الكمبيوتر الخاص بي في يوم واحد؟&amp;quot;&lt;br /&gt;&lt;br /&gt; لنبدأ بإدخال &lt;strong&gt;اسم مؤسستك أو معرّفك&lt;/strong&gt; ، على النحو المنصوص عليه من قبل مسؤول WhatPulse Professional.</translation>
     </message>
     <message>
@@ -5699,7 +5699,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="394"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>آسف، خاصية النسخ الاحتياطي عبر الإنترنت هو لأعضاء العضوية المتميزة فقط. هناك المزيد من المعلومات هنا: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -5709,7 +5709,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="400"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>آسف، أعطى الموقع خللاً أثناء التجهيز لنسختك الاحتياطية. يرجى إعادة المحاولة لاحقاً. إليك الخلل: %1</translation>
     </message>
     <message>
@@ -5777,7 +5777,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="111"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
         <translation>هل تسائلت يوماً كم بقى حاسوبك مشغلاً؟ هذا الخيار سيخبرك بذلك تحديداً. كجزء من مدة التشغيل، سيخبرك هذا أيضاً كم تمضي من الوقت في استخدام تطبيقات معينة.</translation>
     </message>
     <message>
@@ -5797,8 +5797,8 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="153"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;html&gt;&lt;small&gt;إذا كنت ترغب في جمع كل الإحصائيات ، ولكن لا تريد عرضها علنًا ، فتحقق من &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;إعدادات الخصوصية&lt;/a&gt; الخاصة بك.&lt;/small&gt;</translation>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;html&gt;&lt;small&gt;إذا كنت ترغب في جمع كل الإحصائيات ، ولكن لا تريد عرضها علنًا ، فتحقق من &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;إعدادات الخصوصية&lt;/a&gt; الخاصة بك.&lt;/small&gt;</translation>
     </message>
 </context>
 </TS>
