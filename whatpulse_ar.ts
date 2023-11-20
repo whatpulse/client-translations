@@ -2805,7 +2805,7 @@ Please check your permissions on: %2</source>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
         <source>Exclude</source>
         <translation/>
-    <id>22</id></message>
+    </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
         <source>Delete Interface?</source>
