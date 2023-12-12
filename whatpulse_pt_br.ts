@@ -1943,12 +1943,12 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/MainWindow.cpp" line="184"/>
         <source>Uptime</source>
-        <translation>Tempo em atividade</translation>
+        <translation>Atividade</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="185"/>
         <source>Settings</source>
-        <translation>Configurações</translation>
+        <translation>Configs</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="189"/>
