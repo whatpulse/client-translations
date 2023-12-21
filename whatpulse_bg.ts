@@ -271,174 +271,174 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="204"/>
+        <location filename="../application.cpp" line="210"/>
         <source>No system tray</source>
         <translation>Няма област за уведомяване</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="205"/>
+        <location filename="../application.cpp" line="211"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>Не можахме да намерим област за уведомяване на вашият компютър, а е нуждна за нашата програма.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="229"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES функционалността не е налична. Налични ли са файловете libeay32.dll и ssleay32.dll? Ако не, пробвайте да инсталирате програмата отново!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="227"/>
+        <location filename="../application.cpp" line="233"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES функционалността не е налична. Налична ли е OpenSSL библиотеката?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="230"/>
+        <location filename="../application.cpp" line="236"/>
         <source>AES failure</source>
         <translation>провал на AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="814"/>
+        <location filename="../application.cpp" line="845"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="818"/>
+        <location filename="../application.cpp" line="849"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="822"/>
+        <location filename="../application.cpp" line="853"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="826"/>
+        <location filename="../application.cpp" line="857"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="830"/>
+        <location filename="../application.cpp" line="861"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="833"/>
+        <location filename="../application.cpp" line="864"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="837"/>
+        <location filename="../application.cpp" line="868"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="840"/>
+        <location filename="../application.cpp" line="871"/>
         <source>Enabled Stats</source>
         <translation>Включени статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="841"/>
+        <location filename="../application.cpp" line="872"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="842"/>
+        <location filename="../application.cpp" line="873"/>
         <source>Keyboard Heatmap</source>
         <translation>Топлинна карта на клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="843"/>
+        <location filename="../application.cpp" line="874"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="844"/>
+        <location filename="../application.cpp" line="875"/>
         <source>Mouse Heatmap</source>
         <translation>Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="876"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="877"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1307"/>
+        <location filename="../application.cpp" line="1338"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1308"/>
+        <location filename="../application.cpp" line="1339"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1525"/>
+        <location filename="../application.cpp" line="1556"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1529"/>
-        <location filename="../application.cpp" line="1559"/>
-        <location filename="../application.cpp" line="1576"/>
-        <location filename="../application.cpp" line="1593"/>
-        <location filename="../application.cpp" line="1639"/>
-        <location filename="../application.cpp" line="1652"/>
+        <location filename="../application.cpp" line="1560"/>
+        <location filename="../application.cpp" line="1590"/>
+        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1624"/>
+        <location filename="../application.cpp" line="1670"/>
+        <location filename="../application.cpp" line="1683"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1556"/>
+        <location filename="../application.cpp" line="1587"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1573"/>
+        <location filename="../application.cpp" line="1604"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1594"/>
-        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1625"/>
+        <location filename="../application.cpp" line="1684"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1620"/>
+        <location filename="../application.cpp" line="1651"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1636"/>
+        <location filename="../application.cpp" line="1667"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2055"/>
-        <location filename="../application.cpp" line="2068"/>
+        <location filename="../application.cpp" line="2086"/>
+        <location filename="../application.cpp" line="2099"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2056"/>
+        <location filename="../application.cpp" line="2087"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2069"/>
+        <location filename="../application.cpp" line="2100"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -664,7 +664,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../util/database.cpp" line="61"/>
         <location filename="../util/database.cpp" line="73"/>
-        <location filename="../util/database.cpp" line="165"/>
+        <location filename="../util/database.cpp" line="172"/>
         <source>Database failure</source>
         <translation>Грешка в базата данни</translation>
     </message>
@@ -683,29 +683,29 @@ Please check your permissions on: %2</source>
         <translation>Не може да създаде база данни: %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="166"/>
+        <location filename="../util/database.cpp" line="173"/>
         <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>Базата данни &apos;%1&apos; е само за четене. WhatPulse не може да запази статистиките докато не оправите този проблем.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="209"/>
-        <location filename="../util/database.cpp" line="241"/>
+        <location filename="../util/database.cpp" line="216"/>
+        <location filename="../util/database.cpp" line="248"/>
         <source>Critical database error!</source>
         <translation>Критичен проблем с базата данни!</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="210"/>
-        <location filename="../util/database.cpp" line="242"/>
+        <location filename="../util/database.cpp" line="217"/>
+        <location filename="../util/database.cpp" line="249"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Нещо наистина се обърка с базата данни и резервната. Единственият начин за оправяне на този проблем е да се създаде нова. Това няма да промени статистиките, които още не са качени, но ще изтрие всички останали. Да продължим ли?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="359"/>
+        <location filename="../util/database.cpp" line="366"/>
         <source>Version</source>
         <translation>Версия</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="360"/>
+        <location filename="../util/database.cpp" line="367"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>Не можете да се върнете на по-стара версия на WhatPulse, моля инсталирайте последната версия и пробвайте пак.</translation>
     </message>
@@ -713,12 +713,12 @@ Please check your permissions on: %2</source>
 <context>
     <name>DatabaseBackupUtility</name>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="133"/>
+        <location filename="../database/databasebackuputility.cpp" line="224"/>
         <source>Zipping database..</source>
         <translation>Компресиране на базата данни..</translation>
     </message>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="159"/>
+        <location filename="../database/databasebackuputility.cpp" line="250"/>
         <source>Starting upload..</source>
         <translation>Започване на качването..</translation>
     </message>
@@ -2948,110 +2948,105 @@ Please check your permissions on: %2</source>
 <context>
     <name>OverviewTab</name>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="62"/>
+        <location filename="../interface/OverviewTab.cpp" line="39"/>
         <source>Open Window on Startup</source>
         <translation>Отвори прозорец при включване на компютъра</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="66"/>
+        <location filename="../interface/OverviewTab.cpp" line="43"/>
         <source> Pulse!</source>
         <translation> Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="152"/>
-        <location filename="../interface/OverviewTab.cpp" line="260"/>
+        <location filename="../interface/OverviewTab.cpp" line="129"/>
+        <location filename="../interface/OverviewTab.cpp" line="237"/>
         <source>Total: %1
 Available: %2</source>
         <translation>Общо: %1
 Достъпно: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="308"/>
+        <location filename="../interface/OverviewTab.cpp" line="285"/>
         <source>Scrolls:</source>
         <translation>Свитъци:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="310"/>
+        <location filename="../interface/OverviewTab.cpp" line="287"/>
         <source>Distance:</source>
         <translation>Разстояние:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="313"/>
+        <location filename="../interface/OverviewTab.cpp" line="290"/>
         <source>Click counting is disabled</source>
         <translation>Броенето на кликове е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="337"/>
+        <location filename="../interface/OverviewTab.cpp" line="314"/>
         <source>Key counting is disabled</source>
         <translation>Броенето на клавиши е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="179"/>
-        <location filename="../interface/OverviewTab.cpp" line="189"/>
-        <location filename="../interface/OverviewTab.cpp" line="198"/>
-        <location filename="../interface/OverviewTab.cpp" line="199"/>
-        <location filename="../interface/OverviewTab.cpp" line="340"/>
-        <location filename="../interface/OverviewTab.cpp" line="341"/>
+        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="166"/>
+        <location filename="../interface/OverviewTab.cpp" line="175"/>
+        <location filename="../interface/OverviewTab.cpp" line="176"/>
+        <location filename="../interface/OverviewTab.cpp" line="317"/>
+        <location filename="../interface/OverviewTab.cpp" line="318"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="40"/>
-        <source>&lt;b&gt;Note:&lt;/b&gt; Please download and install the Apple Silicon version &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;from our website&lt;/a&gt;. You&apos;re running the Intel-based version.</source>
-        <translation>&lt;b&gt;Забележка:&lt;/b&gt; Моля, изтеглете и инсталирайте версията на Apple Silicon &lt;a href=&quot;https://whatpulse.org/downloads/&quot; style=&quot;color: %1&quot;&gt;от нашия уебсайт&lt;/a&gt;. Вие използвате версията, базирана на Intel.</translation>
-    </message>
-    <message>
-        <location filename="../interface/OverviewTab.cpp" line="179"/>
-        <location filename="../interface/OverviewTab.cpp" line="322"/>
+        <location filename="../interface/OverviewTab.cpp" line="156"/>
+        <location filename="../interface/OverviewTab.cpp" line="299"/>
         <source>Keys</source>
         <translation>Клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="189"/>
+        <location filename="../interface/OverviewTab.cpp" line="166"/>
         <source>Clicks</source>
         <translation>Кликове</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="198"/>
-        <location filename="../interface/OverviewTab.cpp" line="374"/>
+        <location filename="../interface/OverviewTab.cpp" line="175"/>
+        <location filename="../interface/OverviewTab.cpp" line="351"/>
         <source>Download</source>
         <translation>Изтегляне</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="199"/>
-        <location filename="../interface/OverviewTab.cpp" line="375"/>
+        <location filename="../interface/OverviewTab.cpp" line="176"/>
+        <location filename="../interface/OverviewTab.cpp" line="352"/>
         <source>Upload</source>
         <translation>Качване</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="211"/>
+        <location filename="../interface/OverviewTab.cpp" line="188"/>
         <source>Current uptime: unknown.&lt;br /&gt;Unknown reboots.</source>
         <translation>Текущо време на работа: неизвестно.&lt;br /&gt;Неизвестни рестартирания.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="303"/>
+        <location filename="../interface/OverviewTab.cpp" line="280"/>
         <source>Clicks:</source>
         <translation>Кликове:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="305"/>
+        <location filename="../interface/OverviewTab.cpp" line="282"/>
         <source>unpulsed:</source>
         <translation>без импулси:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="322"/>
-        <location filename="../interface/OverviewTab.cpp" line="374"/>
-        <location filename="../interface/OverviewTab.cpp" line="375"/>
+        <location filename="../interface/OverviewTab.cpp" line="299"/>
+        <location filename="../interface/OverviewTab.cpp" line="351"/>
+        <location filename="../interface/OverviewTab.cpp" line="352"/>
         <source>unpulsed</source>
         <translation>непулсиран</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="332"/>
+        <location filename="../interface/OverviewTab.cpp" line="309"/>
         <source>Key Combinations</source>
         <translation>Клавишни комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="358"/>
+        <location filename="../interface/OverviewTab.cpp" line="335"/>
         <source>Current uptime: %1
 Unpulsed: %2
 %3 reboots</source>
@@ -3060,49 +3055,49 @@ Unpulsed: %2
 %3 рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="363"/>
+        <location filename="../interface/OverviewTab.cpp" line="340"/>
         <source>Uptime is disabled</source>
         <translation>Следенето на време на работа е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="383"/>
+        <location filename="../interface/OverviewTab.cpp" line="360"/>
         <source>Download: unknown
 Upload: unknown</source>
         <translation>Изтегляне: unknown
 Качване: неизвестно</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="386"/>
+        <location filename="../interface/OverviewTab.cpp" line="363"/>
         <source>Network is disabled</source>
         <translation>Следенето на интернет трафика е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="391"/>
+        <location filename="../interface/OverviewTab.cpp" line="368"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>Опцията &apos;Работи офлайн&apos; е включена, и по тази причина не можете да пулсирате. Изключете тази опция за да върнете възможността.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="402"/>
+        <location filename="../interface/OverviewTab.cpp" line="379"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="403"/>
+        <location filename="../interface/OverviewTab.cpp" line="380"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="413"/>
+        <location filename="../interface/OverviewTab.cpp" line="390"/>
         <source>Pulsing..</source>
         <translation>Пулсиране..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="414"/>
+        <location filename="../interface/OverviewTab.cpp" line="391"/>
         <source>Pulse underway, please wait!</source>
         <translation>Пулсът още се изпълнява, моля изчакай!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="419"/>
+        <location filename="../interface/OverviewTab.cpp" line="396"/>
         <source>Pulse!</source>
         <translation>Пулсирай!</translation>
     </message>
@@ -3329,69 +3324,69 @@ Upload: unknown</source>
 <context>
     <name>SettingsActiveStats</name>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="22"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="21"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="28"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="27"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="29"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="28"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="30"/>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="60"/>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="81"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="29"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="59"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="80"/>
         <source>Per Application</source>
         <translation>За приложение</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="34"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="33"/>
         <source>Imperial Distance</source>
         <translation>Империални Дистанции</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="35"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="34"/>
         <source>Metric Distance</source>
         <translation>Метрични Дистанции</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="50"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="49"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="56"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="55"/>
         <source>Per Interface</source>
         <translation>За интерфейс</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="58"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="57"/>
         <source>Per Country</source>
         <translation>За страна</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="62"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="61"/>
         <source>Per Traffic Type</source>
         <translation>За тип трафик</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="72"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="71"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="78"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="77"/>
         <source>Computer Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="79"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="78"/>
         <source>Reboots</source>
         <translation>Рестартирания</translation>
     </message>
@@ -3404,73 +3399,73 @@ Upload: unknown</source>
 <context>
     <name>SettingsAppearance</name>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="11"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="12"/>
         <source>Blink menu bar icon on activity</source>
         <translation>Мига на активността на иконата в менюто</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="14"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="15"/>
         <source>Blink tray icon on activity</source>
         <translation>Мига на активността на иконата в сътейника</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="52"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="53"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
         <translation>&lt;b&gt;Тема&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="55"/>
-        <location filename="../interface/settings/settingsappearance.cpp" line="72"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="56"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="73"/>
         <source>Adapt to system</source>
         <translation>Адаптиране към системата</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="56"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
         <source>Light</source>
         <translation>Светъл</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="58"/>
         <source>Dark</source>
         <translation>Тъмен</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="66"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="67"/>
         <source>&lt;b&gt;Menu bar icon color&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цвят на иконата в менюто&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="68"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="69"/>
         <source>&lt;b&gt;Tray icon color&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цвят на иконата в сътейника&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="73"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
         <source>Black</source>
         <translation>Черна</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="75"/>
         <source>White</source>
         <translation>Бяла</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="88"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="89"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
         <translation>&lt;b&gt;Език&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="114"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="115"/>
         <source>This change needs a window refresh.</source>
         <translation>Тази промяна изисква опресняване на прозореца.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="119"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="120"/>
         <source>Click here to refresh</source>
         <translation>Щракнете тук, за да опресните</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.h" line="18"/>
+        <location filename="../interface/settings/settingsappearance.h" line="20"/>
         <source>Appearance</source>
         <translation>Външност</translation>
     </message>
@@ -3478,189 +3473,189 @@ Upload: unknown</source>
 <context>
     <name>SettingsAutoPulse</name>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="9"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="10"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="11"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="12"/>
         <location filename="../interface/settings/settingsautopulse.cpp" line="13"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="14"/>
         <source>Auto pulse on </source>
         <translation>Автоматично пулсиране при </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="14"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="15"/>
         <source>Auto pulse on startup</source>
         <translation>Автоматично пулсиране при включване на компютъра</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="31"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="38"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="32"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="39"/>
         <source>Only 1000 to 99999999</source>
         <translation>Само от 1000 до 99999999</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="45"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="52"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="46"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="53"/>
         <source>Only 1024 to 99999999</source>
         <translation>Само от 1024 до 99999999</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="58"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="59"/>
         <source>Only 1 to 9999</source>
         <translation>Само от 1 до 9999</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="82"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="83"/>
         <source>keys</source>
         <translation>клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="90"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="91"/>
         <source>clicks</source>
         <translation>кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="95"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="96"/>
         <source>MB download</source>
         <translation>MB изтегляне</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="100"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="101"/>
         <source>MB upload</source>
         <translation>MB качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="105"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="106"/>
         <source>hours uptime</source>
         <translation>часове време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="122"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="123"/>
         <source>Auto pulse on hour </source>
         <translation>Пулсирай автоматично на час </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="126"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="440"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="127"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="446"/>
         <source>All</source>
         <translation>Винаги</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="134"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="135"/>
         <source>every day</source>
         <translation>всеки ден</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="135"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="136"/>
         <source>every Monday</source>
         <translation>всеки Понеделник</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="136"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="137"/>
         <source>every Tuesday</source>
         <translation>всеки Вторник</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="137"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="138"/>
         <source>every Wednesday</source>
         <translation>всяка Сряда</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="138"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="139"/>
         <source>every Thursday</source>
         <translation>всеки Четвъртък</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="139"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="140"/>
         <source>every Friday</source>
         <translation>всеки Петък</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="140"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="141"/>
         <source>every Saturday</source>
         <translation>всяка Събота</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="141"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="142"/>
         <source>every Sunday</source>
         <translation>всяка Неделя</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="351"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="357"/>
         <source>WhatPulse will not automatically pulse with your current settings. Change a setting to enable auto pulsing.</source>
         <translation>WhatPulse няма да пулсира автоматично с текущите настройки. Смени настройката за да позволиш автоматично пулсиране.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="354"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="360"/>
         <source>WhatPulse will automatically pulse </source>
         <translation>WhatPulse ше пулсира автоматично </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="367"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="373"/>
         <source>when </source>
         <translation>когато </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="373"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="385"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="379"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="391"/>
         <source>you reach </source>
         <translation>достигнете </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="376"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="382"/>
         <source> keys</source>
         <translation> клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="383"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="395"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="407"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="419"/>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="430"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="389"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="401"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="413"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="425"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="436"/>
         <source>, &lt;b&gt;or&lt;/b&gt; when </source>
         <translation>, &lt;b&gt;или&lt;/b&gt; когато </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="388"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="394"/>
         <source> clicks</source>
         <translation> клика</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="397"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="403"/>
         <source>you&apos;ve downloaded </source>
         <translation>вие сте изтеглили </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="409"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="415"/>
         <source>you&apos;ve uploaded </source>
         <translation>вие сте качили </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="421"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="427"/>
         <source>you&apos;ve collected </source>
         <translation>вие сте събрали </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="424"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="430"/>
         <source> hours of uptime</source>
         <translation> часа време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="432"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="438"/>
         <source>WhatPulse starts</source>
         <translation>WhatPulse започва</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="438"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="444"/>
         <source>, &lt;b&gt;and&lt;/b&gt; </source>
         <translation>, &lt;b&gt;и&lt;/b&gt; </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.cpp" line="441"/>
+        <location filename="../interface/settings/settingsautopulse.cpp" line="447"/>
         <source>every hour on </source>
         <translation>вскеи час на </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.h" line="37"/>
+        <location filename="../interface/settings/settingsautopulse.h" line="38"/>
         <source>Auto Pulse</source>
         <translation>Автоматично пулсиране</translation>
     </message>
@@ -3752,333 +3747,333 @@ Upload: unknown</source>
 <context>
     <name>SettingsGeekWindow</name>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="73"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="74"/>
         <source>Add label</source>
         <translation>Добавяне на етикет</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="85"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="482"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="499"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="86"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="483"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="500"/>
         <source>Select label to edit..</source>
         <translation>Селектирай етикет за промяна..</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="96"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="97"/>
         <source>Insert statistic:</source>
         <translation>Вкарай статистика:</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="97"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="379"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="98"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="380"/>
         <source>Unpulsed Keys</source>
         <translation>Не-пулсирани клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="98"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="381"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="99"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="382"/>
         <source>Unpulsed Clicks</source>
         <translation>Не-пулсирани кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="99"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="383"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="100"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="384"/>
         <source>Unpulsed Download</source>
         <translation>Не-пулсирано изтегляне</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="100"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="385"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="101"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="386"/>
         <source>Unpulsed Mouse Distance</source>
         <translation>Неимпулсно разстояние на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="101"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="102"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="388"/>
         <source>Unpulsed Mouse Scrolls</source>
         <translation>Неимпулсно превъртане на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="102"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="389"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="103"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="390"/>
         <source>Unpulsed Upload</source>
         <translation>Не-пулсирано качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="103"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="391"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="392"/>
         <source>Unpulsed Uptime</source>
         <translation>Не-пулсирано време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="393"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="394"/>
         <source>Unpulsed Click Rate</source>
         <translation>Не-пулсирана скорост на кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="396"/>
         <source>Unpulsed Key Rate</source>
         <translation>Не-пулсирана скорост на клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="397"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="398"/>
         <source>Unpulsed Download Rate</source>
         <translation>Не-пулсирана скорост на теглене</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="399"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="400"/>
         <source>Unpulsed Upload Rate</source>
         <translation>Не-пулсирана скорост на качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="401"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="402"/>
         <source>Current Click Rate</source>
         <translation>Сргашна скорост на кликване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="403"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="404"/>
         <source>Current Key Rate</source>
         <translation>Сргашна скорост на клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="405"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="406"/>
         <source>Current Download Rate</source>
         <translation>Сргашна скорост на теглене</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="407"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="408"/>
         <source>Current Upload Rate</source>
         <translation>Сргашна скорост на качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="409"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="410"/>
         <source>Current Uptime</source>
         <translation>Сегашно време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="411"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="412"/>
         <source>Total Keys</source>
         <translation>Общо клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="414"/>
         <source>Total Clicks</source>
         <translation>Общо кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="415"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="416"/>
         <source>Total Download</source>
         <translation>Общо теглене</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="417"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="418"/>
         <source>Total Upload</source>
         <translation>Общо качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="419"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="420"/>
         <source>Total Uptime</source>
         <translation>Общо време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="429"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="430"/>
         <source>Total Mouse Distance</source>
         <translation>Общо разстояние на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="431"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="432"/>
         <source>Total Mouse Scrolls</source>
         <translation>Общо превъртания на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="421"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="422"/>
         <source>Total Click Rate</source>
         <translation>Обща скорост на кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="424"/>
         <source>Total Key Rate</source>
         <translation>Обща скорост на клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="425"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="426"/>
         <source>Total Download Rate</source>
         <translation>Обща скорост за теглене</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="427"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="124"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="428"/>
         <source>Total Upload Rate</source>
         <translation>Обща скорост за качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="125"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="434"/>
         <source>Rank Keys</source>
         <translation>Ранк на клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="435"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="436"/>
         <source>Rank Clicks</source>
         <translation>Ранк на кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="437"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="128"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="438"/>
         <source>Rank Download</source>
         <translation>Ранк на теглене</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="128"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="439"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="440"/>
         <source>Rank Mouse Distance</source>
         <translation>Ранг Разстояние до мишката</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="441"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="442"/>
         <source>Rank Mouse Scrolls</source>
         <translation>Ранг Мишката се превърта</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="443"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="444"/>
         <source>Rank Upload</source>
         <translation>Ранк на качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="445"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="132"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="446"/>
         <source>Rank Uptime</source>
         <translation>Ранк на време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="133"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="447"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="134"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="448"/>
         <source>Today Keys</source>
         <translation>Общо клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="134"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="449"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="450"/>
         <source>Today Clicks</source>
         <translation>Общо кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="136"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="452"/>
         <source>Today Download</source>
         <translation>Общо теглене</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="136"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="453"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="454"/>
         <source>Today Upload</source>
         <translation>Общо качване</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="455"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="456"/>
         <source>Today Mouse Distance</source>
         <translation>Разстояние до мишката днес</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="457"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="139"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="458"/>
         <source>Today Mouse Scrolls</source>
         <translation>Днес Мишката се превърта</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="149"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="150"/>
         <source> Delete label</source>
         <translation> Изтриване на етикета</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="153"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="154"/>
         <source>Delete label</source>
         <translation>Изтрий етикет</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="200"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="208"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="294"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="201"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="209"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="295"/>
         <source>Reset to default</source>
         <translation>Върни по подразбиране</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="212"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="213"/>
         <source>Background color: </source>
         <translation>Цвят на фона: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="216"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="217"/>
         <source>Font color: </source>
         <translation>Цвят на текста: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="228"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="229"/>
         <source>Font size: </source>
         <translation>Големина на текста: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="237"/>
         <source>Close on double click</source>
         <translation>Затваряне при двойно кликане</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="242"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="243"/>
         <source>Put on top of all windows</source>
         <translation>Поставяне най-отгоре на всички прозорци</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="250"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="251"/>
         <source>Snap to grid</source>
         <translation>Нагласи прозореца</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="274"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="275"/>
         <source>Transparency: </source>
         <translation>Прозрачност: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="284"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="285"/>
         <source>Call to Center</source>
         <translation>Центрирай</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="571"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
         <source>Reset to default?</source>
         <translation>Рестартирай по подразбиране?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="573"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>Искаш ли да рестартираш прозореца на програмиста на настройките му по подразбиране?
 Това ще рестартира всички ръчни настройки!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.h" line="33"/>
+        <location filename="../interface/settings/settingsgeekwindow.h" line="34"/>
         <source>Geek Window</source>
         <translation>Програмистки прозорец</translation>
     </message>
@@ -4146,7 +4141,7 @@ This will reset any custom layouts!</source>
         <translation>Онлайн резервни копия всяка седмица (само за премиум)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.h" line="19"/>
+        <location filename="../interface/settings/settingsgeneral.h" line="16"/>
         <source>General</source>
         <translation>Общи</translation>
     </message>
@@ -4154,38 +4149,38 @@ This will reset any custom layouts!</source>
 <context>
     <name>SettingsMilestones</name>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="12"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="13"/>
         <source>Milestones let you create notifications when you cross certain statistics. Double-click on a Milestone to edit.</source>
         <translation>С Мечещки Вие можете да създавате известия, когато преминете определени статистики. Двукратно щракнете върху Мечещки, за да ги редактирате.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="17"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="18"/>
         <source>Add</source>
         <translation>Добави</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="67"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="308"/>
         <source>Name</source>
         <translation>Име</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="309"/>
         <source>Statistic</source>
         <translation>Статистика</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="309"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="41"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="69"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="310"/>
         <source>Amount</source>
         <translation>Количество</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="41"/>
         <source>Actions</source>
         <translation>Действия</translation>
     </message>
@@ -4196,85 +4191,85 @@ This will reset any custom layouts!</source>
         <translation>Време</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="80"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="81"/>
         <source>&lt;h2&gt;History&lt;/h2&gt;</source>
         <translation>&lt;h2&gt;История&lt;/h2&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="156"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="157"/>
         <source>Milestone Name</source>
         <translation>Име на основен етап</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="417"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="418"/>
         <source>Keys</source>
         <translation>Клавиши</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="419"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="420"/>
         <source>Clicks</source>
         <translation>Кликове</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="162"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="283"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="421"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="422"/>
         <source>Downloaded MB</source>
         <translation>MB изтеглени</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
         <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="424"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="425"/>
         <source>Uploaded MB</source>
         <translation>MB качени</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="284"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="427"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="164"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="285"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="428"/>
         <source>Uptime in Minutes</source>
         <translation>Време на работа в минути</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="184"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="185"/>
         <source>Delete Milestone</source>
         <translation>Изтрий основен етап</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="185"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="186"/>
         <source>Are you sure you want to delete this Milestone?</source>
         <translation>Сигурни ли сте че искате да изтриете този основен етап?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="237"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="238"/>
         <source>Time for coffee, you&apos;ve made X keys!</source>
         <translation>Веме за кафе, вие направихте X клавиша!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="244"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="245"/>
         <source>Milestone Message</source>
         <translation>Съобщение на основен етап</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="245"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="246"/>
         <source>Display a custom message when this Milestone hits:</source>
         <translation>Покажи собствено съобщение, когато този основен етап бъде достигнат:</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="394"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="398"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="402"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="406"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="395"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="399"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="403"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="407"/>
         <source>Please input 100 or higher.</source>
         <translation>Моля въведете 100 или повече.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="411"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="412"/>
         <source>Please input 10 or higher.</source>
         <translation>Моля въведете 10 или повече.</translation>
     </message>
@@ -4459,57 +4454,57 @@ This will reset any custom layouts!</source>
 <context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="208"/>
+        <location filename="../interface/tasktraypopup.cpp" line="220"/>
         <source>Pulse</source>
         <translation>Качи данни</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="214"/>
+        <location filename="../interface/tasktraypopup.cpp" line="226"/>
         <source>Open Client</source>
         <translation>Отвори приложение</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="220"/>
+        <location filename="../interface/tasktraypopup.cpp" line="232"/>
         <source>View Online Stats</source>
         <translation>Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="226"/>
+        <location filename="../interface/tasktraypopup.cpp" line="238"/>
         <source>Toggle Geek Window</source>
         <translation>Включи програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="233"/>
+        <location filename="../interface/tasktraypopup.cpp" line="245"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="239"/>
+        <location filename="../interface/tasktraypopup.cpp" line="251"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="244"/>
+        <location filename="../interface/tasktraypopup.cpp" line="256"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="252"/>
+        <location filename="../interface/tasktraypopup.cpp" line="264"/>
         <source>Account</source>
         <translation>Акаунт</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="258"/>
+        <location filename="../interface/tasktraypopup.cpp" line="270"/>
         <source>Check for Updates</source>
         <translation>Провери за нова версия на софтуера</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="264"/>
+        <location filename="../interface/tasktraypopup.cpp" line="276"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="270"/>
+        <location filename="../interface/tasktraypopup.cpp" line="282"/>
         <source>Exit WhatPulse</source>
         <translation>Излез от WhatPulse</translation>
     </message>
@@ -5096,125 +5091,125 @@ This will reset any custom layouts!</source>
         <translation>История на рестартиранията за </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="619"/>
+        <location filename="../interface/UptimeTab.cpp" line="618"/>
         <source>No reboots found</source>
         <translation>Няма намерени рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="632"/>
+        <location filename="../interface/UptimeTab.cpp" line="631"/>
         <source>Reboot history</source>
         <translation>История на рестартиранията</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="691"/>
+        <location filename="../interface/UptimeTab.cpp" line="689"/>
         <source>Application</source>
         <translation>Приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="691"/>
+        <location filename="../interface/UptimeTab.cpp" line="689"/>
         <source>Total time</source>
         <translation>Общо време</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="692"/>
+        <location filename="../interface/UptimeTab.cpp" line="690"/>
         <source>Total active time</source>
         <translation>Общо време на активност</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="719"/>
+        <location filename="../interface/UptimeTab.cpp" line="717"/>
         <source>Exclude</source>
         <translation>Изключване</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="746"/>
+        <location filename="../interface/UptimeTab.cpp" line="744"/>
         <source>Reset to default?</source>
         <translation>Рестартирай по подразбиране?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="747"/>
+        <location filename="../interface/UptimeTab.cpp" line="745"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>Искаш ли да рестартираш прозореца на програмиста на настройките му по подразбиране?
 Това ще рестартира всички ръчни настройки!</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="725"/>
+        <location filename="../interface/UptimeTab.cpp" line="723"/>
         <source>Open File Location</source>
         <translation>Отвори файл</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="731"/>
+        <location filename="../interface/UptimeTab.cpp" line="729"/>
         <source>Open Online Profile</source>
         <translation>Отвори онлайн профил</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="797"/>
+        <location filename="../interface/UptimeTab.cpp" line="795"/>
         <source>Not yet</source>
         <translation>Не още</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="798"/>
+        <location filename="../interface/UptimeTab.cpp" line="796"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Това приложение не е качено в уебсайта още, моля проверете след час отново.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1235"/>
-        <location filename="../interface/UptimeTab.cpp" line="1241"/>
+        <location filename="../interface/UptimeTab.cpp" line="1233"/>
+        <location filename="../interface/UptimeTab.cpp" line="1239"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>време на работа и данни за рестартиране (всички освен за приложения) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1236"/>
-        <location filename="../interface/UptimeTab.cpp" line="1242"/>
+        <location filename="../interface/UptimeTab.cpp" line="1234"/>
+        <location filename="../interface/UptimeTab.cpp" line="1240"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Рестартирай история за време на работа/рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1246"/>
-        <location filename="../interface/UptimeTab.cpp" line="1251"/>
+        <location filename="../interface/UptimeTab.cpp" line="1244"/>
+        <location filename="../interface/UptimeTab.cpp" line="1249"/>
         <source>application uptime data</source>
         <translation>данни за време на работа на приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1247"/>
-        <location filename="../interface/UptimeTab.cpp" line="1252"/>
+        <location filename="../interface/UptimeTab.cpp" line="1245"/>
+        <location filename="../interface/UptimeTab.cpp" line="1250"/>
         <source>Reset Application History</source>
         <translation>Рестартирай история за приложенията</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1257"/>
+        <location filename="../interface/UptimeTab.cpp" line="1255"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Искате ли да рестартирате всички данни за работното време или само за %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1256"/>
-        <location filename="../interface/UptimeTab.cpp" line="1274"/>
-        <location filename="../interface/UptimeTab.cpp" line="1298"/>
-        <location filename="../interface/UptimeTab.cpp" line="1321"/>
-        <location filename="../interface/UptimeTab.cpp" line="1342"/>
-        <location filename="../interface/UptimeTab.cpp" line="1363"/>
+        <location filename="../interface/UptimeTab.cpp" line="1254"/>
+        <location filename="../interface/UptimeTab.cpp" line="1272"/>
+        <location filename="../interface/UptimeTab.cpp" line="1296"/>
+        <location filename="../interface/UptimeTab.cpp" line="1319"/>
+        <location filename="../interface/UptimeTab.cpp" line="1340"/>
+        <location filename="../interface/UptimeTab.cpp" line="1361"/>
         <source>Delete stats?</source>
         <translation>Изтрий статистики?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1259"/>
+        <location filename="../interface/UptimeTab.cpp" line="1257"/>
         <source>Reset All Stats</source>
         <translation>Нулиране на всички статистики</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1275"/>
-        <location filename="../interface/UptimeTab.cpp" line="1299"/>
+        <location filename="../interface/UptimeTab.cpp" line="1273"/>
+        <location filename="../interface/UptimeTab.cpp" line="1297"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за записаното време на работа (освен за приложения)? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1322"/>
-        <location filename="../interface/UptimeTab.cpp" line="1343"/>
+        <location filename="../interface/UptimeTab.cpp" line="1320"/>
+        <location filename="../interface/UptimeTab.cpp" line="1341"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни относно работното време на приложенията? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1364"/>
+        <location filename="../interface/UptimeTab.cpp" line="1362"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за работно време? Това не може да се върне.</translation>
     </message>
@@ -5389,147 +5384,147 @@ This will reset any custom layouts!</source>
         <translation>Събота</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1205"/>
-        <location filename="../utils.cpp" line="1231"/>
+        <location filename="../utils.cpp" line="1212"/>
+        <location filename="../utils.cpp" line="1238"/>
         <source>Save as...</source>
         <translation>Запази като...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1218"/>
-        <location filename="../utils.cpp" line="1246"/>
+        <location filename="../utils.cpp" line="1225"/>
+        <location filename="../utils.cpp" line="1253"/>
         <source>Export Failed</source>
         <translation>Експортирането се провали</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1219"/>
-        <location filename="../utils.cpp" line="1247"/>
+        <location filename="../utils.cpp" line="1226"/>
+        <location filename="../utils.cpp" line="1254"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Отварянето на файла за експорт се провали! Моля пробвай пак в друга директория.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1257"/>
+        <location filename="../utils.cpp" line="1264"/>
         <source>Backspace</source>
         <translation>Клавиш за обратен ход</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1260"/>
+        <location filename="../utils.cpp" line="1267"/>
         <source>Enter</source>
         <translation>Ентър</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1263"/>
+        <location filename="../utils.cpp" line="1270"/>
         <source>Tab</source>
         <translation>Таб</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1266"/>
+        <location filename="../utils.cpp" line="1273"/>
         <source>Capslock</source>
         <translation>Капслок</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1269"/>
+        <location filename="../utils.cpp" line="1276"/>
         <source>Left Shift</source>
         <translation>Ляв шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1272"/>
+        <location filename="../utils.cpp" line="1279"/>
         <source>Left Control</source>
         <translation>Ляв контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1275"/>
+        <location filename="../utils.cpp" line="1282"/>
         <source>Left Alt</source>
         <translation>Ляв алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1278"/>
+        <location filename="../utils.cpp" line="1285"/>
         <source>Right Alt</source>
         <translation>Десен алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1281"/>
+        <location filename="../utils.cpp" line="1288"/>
         <source>Right Control</source>
         <translation>Десен контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1284"/>
+        <location filename="../utils.cpp" line="1291"/>
         <source>Right Shift</source>
         <translation>Десен шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1287"/>
+        <location filename="../utils.cpp" line="1294"/>
         <source>Left</source>
         <translation>Стрелка наляво</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1290"/>
+        <location filename="../utils.cpp" line="1297"/>
         <source>Down</source>
         <translation>Стрелка надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1293"/>
+        <location filename="../utils.cpp" line="1300"/>
         <source>Right</source>
         <translation>Стрелка надясно</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1296"/>
+        <location filename="../utils.cpp" line="1303"/>
         <source>Up</source>
         <translation>Стрелка нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1299"/>
+        <location filename="../utils.cpp" line="1306"/>
         <source>Insert</source>
         <translation>Вмъкни</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1302"/>
+        <location filename="../utils.cpp" line="1309"/>
         <source>Home</source>
         <translation>Начало</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1305"/>
+        <location filename="../utils.cpp" line="1312"/>
         <source>Page Up</source>
         <translation>Страница нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1308"/>
+        <location filename="../utils.cpp" line="1315"/>
         <source>Delete</source>
         <translation>Изтрий</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1311"/>
+        <location filename="../utils.cpp" line="1318"/>
         <source>End</source>
         <translation>Край</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1314"/>
+        <location filename="../utils.cpp" line="1321"/>
         <source>Page Down</source>
         <translation>Страница надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1317"/>
+        <location filename="../utils.cpp" line="1324"/>
         <source>Escape</source>
         <translation>Ескейп</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1359"/>
+        <location filename="../utils.cpp" line="1366"/>
         <source>Space</source>
         <translation>Спейс</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1476"/>
+        <location filename="../utils.cpp" line="1483"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1967"/>
+        <location filename="../utils.cpp" line="1974"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Надградете до Premium, за да отключите тази функция</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="872"/>
         <location filename="../utils.cpp" line="1105"/>
-        <location filename="../utils.cpp" line="1594"/>
+        <location filename="../utils.cpp" line="1601"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
@@ -5567,51 +5562,43 @@ This will reset any custom layouts!</source>
 <context>
     <name>wizardAuthorizationPage</name>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="22"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="23"/>
         <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
         <translation>Вие бяхте препратени към уебсайта, моля последвайте инструкциите там. След като направите процедурата на влизане в профила, приложението ще влезе в профила ви автоматично и ще е готово за ползване!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="39"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="78"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="40"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="86"/>
         <source>Waiting on authorization via website..</source>
         <translation>Изчаква се ауторизация през уебсайта..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="122"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
         <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
         <translation>Ако браузърът ви не се е отворил, опитайте да кликнете или да копирате &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;тази връзка&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="141"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="149"/>
         <source>Our server is currently in maintenance, please check back in a few minutes. Sorry!</source>
         <translation>Сървърът ни в момента е в ремонт, моля пробвайте пак след няколко минути. Извиняваме се!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="154"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="167"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="162"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="175"/>
         <source>Our server producing errors, please check back in a few minutes. Sorry!</source>
         <translation>Нашият сървър изпраща грешка, моля пробвайте пак след няколко минути. Извиняваме се!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="407"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="417"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="434"/>
         <source>Restore Database?</source>
         <translation>Да върнем базата данни?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="408"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="418"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="435"/>
         <source>Good news! I found your previous client database backups, do you want to restore?</source>
         <translation>Добри новини! Намерихме старо резервно копие на вашата база данни, искате ли да я върнем?</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="422"/>
-        <source>Restore Settings?</source>
-        <translation>Искате ли да върнем вашите настройки?</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="423"/>
-        <source>Good news! I found your previous client settings, do you want to load them?</source>
-        <translation>Добри новини! Намерихме вашите предишни настройки, искате ли да ги заредим?</translation>
     </message>
 </context>
 <context>
