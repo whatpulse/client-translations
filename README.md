@@ -84,21 +84,14 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/jinai>
-            <img src=https://avatars.githubusercontent.com/u/7669687?v=4 width="100;"  alt=jinai/>
+        <a href=https://github.com/AA0000-33>
+            <img src=https://avatars.githubusercontent.com/u/22997509?v=4 width="100;"  alt=#AA0000/>
             <br />
-            <sub style="font-size:14px"><b>jinai</b></sub>
+            <sub style="font-size:14px"><b>#AA0000</b></sub>
         </a>
     </td>
 </tr>
 <tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Radotornado>
-            <img src=https://avatars.githubusercontent.com/u/16245632?v=4 width="100;"  alt=Radoslav Mandev/>
-            <br />
-            <sub style="font-size:14px"><b>Radoslav Mandev</b></sub>
-        </a>
-    </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Stardisk>
             <img src=https://avatars.githubusercontent.com/u/24385735?v=4 width="100;"  alt=Stardisk/>
@@ -107,10 +100,17 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/AA0000-33>
-            <img src=https://avatars.githubusercontent.com/u/22997509?v=4 width="100;"  alt=#AA0000/>
+        <a href=https://github.com/Radotornado>
+            <img src=https://avatars.githubusercontent.com/u/16245632?v=4 width="100;"  alt=Radoslav Mandev/>
             <br />
-            <sub style="font-size:14px"><b>#AA0000</b></sub>
+            <sub style="font-size:14px"><b>Radoslav Mandev</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/jinai>
+            <img src=https://avatars.githubusercontent.com/u/7669687?v=4 width="100;"  alt=jinai/>
+            <br />
+            <sub style="font-size:14px"><b>jinai</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
