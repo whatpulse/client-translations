@@ -296,149 +296,149 @@ You can continue pulsing.</source>
         <translation>провал на AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="830"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="834"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="853"/>
+        <location filename="../application.cpp" line="838"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="857"/>
+        <location filename="../application.cpp" line="842"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="861"/>
+        <location filename="../application.cpp" line="846"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="864"/>
+        <location filename="../application.cpp" line="849"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="868"/>
+        <location filename="../application.cpp" line="853"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="871"/>
+        <location filename="../application.cpp" line="856"/>
         <source>Enabled Stats</source>
         <translation>Включени статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="872"/>
+        <location filename="../application.cpp" line="857"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="858"/>
         <source>Keyboard Heatmap</source>
         <translation>Топлинна карта на клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="874"/>
+        <location filename="../application.cpp" line="859"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="875"/>
+        <location filename="../application.cpp" line="860"/>
         <source>Mouse Heatmap</source>
         <translation>Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="876"/>
+        <location filename="../application.cpp" line="861"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="862"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1338"/>
+        <location filename="../application.cpp" line="1323"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1339"/>
+        <location filename="../application.cpp" line="1324"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1556"/>
+        <location filename="../application.cpp" line="1541"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1560"/>
-        <location filename="../application.cpp" line="1590"/>
-        <location filename="../application.cpp" line="1607"/>
-        <location filename="../application.cpp" line="1624"/>
-        <location filename="../application.cpp" line="1670"/>
-        <location filename="../application.cpp" line="1683"/>
+        <location filename="../application.cpp" line="1545"/>
+        <location filename="../application.cpp" line="1575"/>
+        <location filename="../application.cpp" line="1592"/>
+        <location filename="../application.cpp" line="1609"/>
+        <location filename="../application.cpp" line="1655"/>
+        <location filename="../application.cpp" line="1668"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1572"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1604"/>
+        <location filename="../application.cpp" line="1589"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1625"/>
-        <location filename="../application.cpp" line="1684"/>
+        <location filename="../application.cpp" line="1610"/>
+        <location filename="../application.cpp" line="1669"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1651"/>
+        <location filename="../application.cpp" line="1636"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1667"/>
+        <location filename="../application.cpp" line="1652"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2086"/>
-        <location filename="../application.cpp" line="2099"/>
+        <location filename="../application.cpp" line="2071"/>
+        <location filename="../application.cpp" line="2084"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2087"/>
+        <location filename="../application.cpp" line="2072"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2100"/>
+        <location filename="../application.cpp" line="2085"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -522,118 +522,118 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="271"/>
+        <location filename="../online/clientcommunication.cpp" line="267"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>Уебсайтът не отговаря правилно на вашата заявка, моля пробвайте пак по-късно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="311"/>
+        <location filename="../online/clientcommunication.cpp" line="307"/>
         <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
         <translation>Този компютър е архивиран и не може да се свърже с акаунта ви.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="314"/>
+        <location filename="../online/clientcommunication.cpp" line="310"/>
         <source>Computer Management</source>
         <translation>Управление на компютри</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="331"/>
+        <location filename="../online/clientcommunication.cpp" line="327"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Вашият акаунт не е напълно активиран, моля проверете имейла си и опитайте пак след като го активирате.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="335"/>
-        <location filename="../online/clientcommunication.cpp" line="385"/>
+        <location filename="../online/clientcommunication.cpp" line="331"/>
+        <location filename="../online/clientcommunication.cpp" line="381"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Акаунта или компютъра са непознати! Регистрирали ли сте се?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="338"/>
-        <location filename="../online/clientcommunication.cpp" line="388"/>
+        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <location filename="../online/clientcommunication.cpp" line="384"/>
         <source>Wrong password! Try again.</source>
         <translation>Грешна парола! Пробвайте пак.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="342"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="338"/>
+        <location filename="../online/clientcommunication.cpp" line="411"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Сървърът ни е офлайн, заради поддръжка. Пробвайте отново по-късно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="345"/>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="341"/>
+        <location filename="../online/clientcommunication.cpp" line="414"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Вътрешна грешка. Моля пробвайте по-късно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="349"/>
-        <location filename="../online/clientcommunication.cpp" line="422"/>
+        <location filename="../online/clientcommunication.cpp" line="345"/>
+        <location filename="../online/clientcommunication.cpp" line="418"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Сървърна грешка: Липсващ вход! Моля свържете се с разработчиците.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="391"/>
+        <location filename="../online/clientcommunication.cpp" line="387"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Нарушение на входове. Това означава, че вашите клавиши или кликвания в секунда са твърде високи. Изчакайте около час, за да го намалите и опитайте отново.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="397"/>
+        <location filename="../online/clientcommunication.cpp" line="393"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Грешен ключ, ползвали ли сте този профил на друг компютър?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="400"/>
+        <location filename="../online/clientcommunication.cpp" line="396"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Желаното име е вече регистрирано! Моля изберете друго име и пробвайте пак.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="405"/>
+        <location filename="../online/clientcommunication.cpp" line="401"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Пулс спрян! Можете да пулсирате само на вски 60 секунди.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="408"/>
+        <location filename="../online/clientcommunication.cpp" line="404"/>
         <source>Premium only feature.</source>
         <translation>Тази функция е само за премиум.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="411"/>
+        <location filename="../online/clientcommunication.cpp" line="407"/>
         <source>Organization not found.</source>
         <translation>Организацията не е намерена.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="425"/>
-        <location filename="../online/clientcommunication.cpp" line="976"/>
+        <location filename="../online/clientcommunication.cpp" line="421"/>
+        <location filename="../online/clientcommunication.cpp" line="913"/>
         <source>Success.</source>
         <translation>Успех.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="428"/>
+        <location filename="../online/clientcommunication.cpp" line="424"/>
         <source>Success, your file is now on the website!</source>
         <translation>Успех, вашият файл е в базата данни!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="952"/>
+        <location filename="../online/clientcommunication.cpp" line="889"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Не можахме да отворим GeoIP базата данни (%1), заради отказани позволения.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="964"/>
+        <location filename="../online/clientcommunication.cpp" line="901"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>Новата база данни GeoIP изглежда е твърде малка (%1), спира актуализацията.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1026"/>
+        <location filename="../online/clientcommunication.cpp" line="963"/>
         <source>Empty reply received</source>
         <translation>Получен е празен отговор</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1047"/>
+        <location filename="../online/clientcommunication.cpp" line="984"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Не можахме да отворим базата данни с мрежови портове (%1), заради отказани позволения.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1061"/>
+        <location filename="../online/clientcommunication.cpp" line="998"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Изтегленият файл не изглежда добре: %1</translation>
     </message>
@@ -971,6 +971,14 @@ Please check your permissions on: %2</source>
     </message>
 </context>
 <context>
+    <name>GeekWindowLayout</name>
+    <message>
+        <location filename="../interface/widgets/geekwindowlayout.cpp" line="170"/>
+        <source>Edit me</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InputApplicationsPage</name>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="26"/>
@@ -1132,6 +1140,44 @@ Please check your permissions on: %2</source>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="424"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Това приложение все още не е качено на уебсайта, моля, проверете отново след около час.</translation>
+    </message>
+</context>
+<context>
+    <name>InputChart</name>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="119"/>
+        <source>Image not created!</source>
+        <translation type="unfinished">Изображението не е създадено!</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="120"/>
+        <source>Unable to generate heatmap image. Please try again or check permissions on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="219"/>
+        <source>No data available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="387"/>
+        <source>keys</source>
+        <translation type="unfinished">клавиши</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="395"/>
+        <source>clicks</source>
+        <translation type="unfinished">кликове</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="415"/>
+        <source>Keys</source>
+        <translation type="unfinished">Клавиши</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="416"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Кликове</translation>
     </message>
 </context>
 <context>
@@ -1471,6 +1517,11 @@ Please check your permissions on: %2</source>
         <translation>Покажи подробности</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="273"/>
+        <source>Button Clicks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
         <source>Button</source>
         <translation>Бутон</translation>
@@ -1505,11 +1556,13 @@ Please check your permissions on: %2</source>
         <translation>Други</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="653"/>
         <source>Scrolls</source>
         <translation>Свитъци</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="668"/>
         <source>Distance</source>
         <translation>Разстояние</translation>
@@ -1911,17 +1964,17 @@ Please check your permissions on: %2</source>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="125"/>
+        <location filename="../stats/localstats.cpp" line="118"/>
         <source>Pulse throttled!</source>
         <translation>Пулс спрян!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="126"/>
+        <location filename="../stats/localstats.cpp" line="119"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Пулс спрян! Последният пулс беше преди %1 секунди, моля пробвайте пак след 10 секунди.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="344"/>
+        <location filename="../stats/localstats.cpp" line="337"/>
         <source>Error while pulsing!</source>
         <translation>Грешка по време на пулс!</translation>
     </message>
@@ -3252,12 +3305,12 @@ Upload: unknown</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="456"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="387"/>
         <source>Access for assistive devices</source>
         <translation>Достъп за помощни устройства</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="457"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="388"/>
         <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
         <translation>Mac OS версията не е поддържана; Моля селектирай &quot;Позволи достъп до помощни устройства&quot; в панела Универсален Достъп в системните настройки и рестартирай приложението. Иначе броенето на натискането на клавишите няма да работи. Новата версия на клиента се нуждае от позволение отново.</translation>
     </message>
@@ -4005,10 +4058,6 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="150"/>
-        <source> Delete label</source>
-        <translation> Изтриване на етикета</translation>
-    </message>
-    <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="154"/>
         <source>Delete label</source>
         <translation>Изтрий етикет</translation>
@@ -4119,6 +4168,11 @@ This will reset any custom layouts!</source>
         <location filename="../interface/settings/settingsgeneral.cpp" line="52"/>
         <source>Weekly online backups</source>
         <translation>Онлайн резервни копия всяка седмица</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="57"/>
+        <source>Run as Administrator (improves input accuracy)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
@@ -4454,57 +4508,57 @@ This will reset any custom layouts!</source>
 <context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="220"/>
+        <location filename="../interface/tasktraypopup.cpp" line="227"/>
         <source>Pulse</source>
         <translation>Качи данни</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="226"/>
+        <location filename="../interface/tasktraypopup.cpp" line="233"/>
         <source>Open Client</source>
         <translation>Отвори приложение</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="232"/>
+        <location filename="../interface/tasktraypopup.cpp" line="239"/>
         <source>View Online Stats</source>
         <translation>Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="238"/>
+        <location filename="../interface/tasktraypopup.cpp" line="245"/>
         <source>Toggle Geek Window</source>
         <translation>Включи програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="245"/>
+        <location filename="../interface/tasktraypopup.cpp" line="252"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="251"/>
+        <location filename="../interface/tasktraypopup.cpp" line="258"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="256"/>
+        <location filename="../interface/tasktraypopup.cpp" line="263"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="264"/>
+        <location filename="../interface/tasktraypopup.cpp" line="271"/>
         <source>Account</source>
         <translation>Акаунт</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="270"/>
+        <location filename="../interface/tasktraypopup.cpp" line="277"/>
         <source>Check for Updates</source>
         <translation>Провери за нова версия на софтуера</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="276"/>
+        <location filename="../interface/tasktraypopup.cpp" line="283"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="282"/>
+        <location filename="../interface/tasktraypopup.cpp" line="289"/>
         <source>Exit WhatPulse</source>
         <translation>Излез от WhatPulse</translation>
     </message>
@@ -5568,35 +5622,35 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="40"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="86"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="88"/>
         <source>Waiting on authorization via website..</source>
         <translation>Изчаква се ауторизация през уебсайта..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="132"/>
         <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
         <translation>Ако браузърът ви не се е отворил, опитайте да кликнете или да копирате &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;тази връзка&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="149"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="151"/>
         <source>Our server is currently in maintenance, please check back in a few minutes. Sorry!</source>
         <translation>Сървърът ни в момента е в ремонт, моля пробвайте пак след няколко минути. Извиняваме се!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="162"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="175"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="164"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="177"/>
         <source>Our server producing errors, please check back in a few minutes. Sorry!</source>
         <translation>Нашият сървър изпраща грешка, моля пробвайте пак след няколко минути. Извиняваме се!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="417"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="434"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="419"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="436"/>
         <source>Restore Database?</source>
         <translation>Да върнем базата данни?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="418"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="435"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="420"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="437"/>
         <source>Good news! I found your previous client database backups, do you want to restore?</source>
         <translation>Добри новини! Намерихме старо резервно копие на вашата база данни, искате ли да я върнем?</translation>
     </message>

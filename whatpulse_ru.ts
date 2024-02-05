@@ -296,149 +296,149 @@ You can continue pulsing.</source>
         <translation>Ошибка AES-шифрования</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="845"/>
+        <location filename="../application.cpp" line="830"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Открыть окно</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="834"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Показать/скрыть мини-статистику</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="853"/>
+        <location filename="../application.cpp" line="838"/>
         <source>&amp;Open Settings</source>
         <translation>Открыть &amp;настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="857"/>
+        <location filename="../application.cpp" line="842"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Проверить обновления</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="861"/>
+        <location filename="../application.cpp" line="846"/>
         <source>&amp;Pulse!</source>
         <translation>Отправить &amp;данные!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="864"/>
+        <location filename="../application.cpp" line="849"/>
         <source>&amp;View Online Stats</source>
         <translation>Просмотр ст&amp;атистики в интернете</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="868"/>
+        <location filename="../application.cpp" line="853"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>В&amp;ыйти из аккаунта</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="871"/>
+        <location filename="../application.cpp" line="856"/>
         <source>Enabled Stats</source>
         <translation>Включенная статистика</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="872"/>
+        <location filename="../application.cpp" line="857"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="858"/>
         <source>Keyboard Heatmap</source>
         <translation>Тепловая карта клавиатуры</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="874"/>
+        <location filename="../application.cpp" line="859"/>
         <source>Mouse</source>
         <translation>Мышь</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="875"/>
+        <location filename="../application.cpp" line="860"/>
         <source>Mouse Heatmap</source>
         <translation>Тепловая карта мыши</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="876"/>
+        <location filename="../application.cpp" line="861"/>
         <source>Network</source>
         <translation>Сеть</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="862"/>
         <source>Uptime</source>
         <translation>Время работы</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1338"/>
+        <location filename="../application.cpp" line="1323"/>
         <source>Pulsing Disabled!</source>
         <translation>Отправка данных отключена!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1339"/>
+        <location filename="../application.cpp" line="1324"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Включена настройка &quot;Работать оффлайн&quot;. Это не позволяет программе выходить в интернет, в том числе и для отправки данных. Отключение этой настройки позволит вновь отправлять данные.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1556"/>
+        <location filename="../application.cpp" line="1541"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>У вас включен портативный режим. Это следует использовать при установке программы на съемные носители, например, USB-флэшки.
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1560"/>
-        <location filename="../application.cpp" line="1590"/>
-        <location filename="../application.cpp" line="1607"/>
-        <location filename="../application.cpp" line="1624"/>
-        <location filename="../application.cpp" line="1670"/>
-        <location filename="../application.cpp" line="1683"/>
+        <location filename="../application.cpp" line="1545"/>
+        <location filename="../application.cpp" line="1575"/>
+        <location filename="../application.cpp" line="1592"/>
+        <location filename="../application.cpp" line="1609"/>
+        <location filename="../application.cpp" line="1655"/>
+        <location filename="../application.cpp" line="1668"/>
         <source>Portable Mode</source>
         <translation>Портативный режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1572"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирование базы в %1 не удалось. Проверьте разрешение на запись.
 Выключение портативного режима.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1604"/>
+        <location filename="../application.cpp" line="1589"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирование файла статистики в %1 не удалось. Проверьте разрешение на запись.
 Выключение портативного режима.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1625"/>
-        <location filename="../application.cpp" line="1684"/>
+        <location filename="../application.cpp" line="1610"/>
+        <location filename="../application.cpp" line="1669"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>База данных перестроена, требуется перезапуск!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1651"/>
+        <location filename="../application.cpp" line="1636"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирование базы данных в %1 не удалось. Проверьте разрешение на запись.
 Портативный режим остается активен.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1667"/>
+        <location filename="../application.cpp" line="1652"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирование файла статистики в %1 не удалось. Проверьте разрешение на запись.
 Портативный режим остается активен.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2086"/>
-        <location filename="../application.cpp" line="2099"/>
+        <location filename="../application.cpp" line="2071"/>
+        <location filename="../application.cpp" line="2084"/>
         <source>Premium features disabled</source>
         <translation>Премиум-функции отключены</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2087"/>
+        <location filename="../application.cpp" line="2072"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не удается связаться с сервером для проверки вашего премиум-статуса уже 96 часов. Ваши премиум-функции отключены. Вернитесь в онлайн, чтобы включить их снова.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2100"/>
+        <location filename="../application.cpp" line="2085"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Ваш премиум-статус истек, поэтому премиум-функции отключены. Вы можете повторно активировать ваш премиум-статус на сайте.</translation>
     </message>
@@ -522,118 +522,118 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="271"/>
+        <location filename="../online/clientcommunication.cpp" line="267"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>Сайт не отвечает правильно на ваш запрос, попробуйте позже.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="311"/>
+        <location filename="../online/clientcommunication.cpp" line="307"/>
         <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
         <translation>Этот компьютер помещен в архив и не может подключиться к вашей учетной записи.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="314"/>
+        <location filename="../online/clientcommunication.cpp" line="310"/>
         <source>Computer Management</source>
         <translation>Управление компьютером</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="331"/>
+        <location filename="../online/clientcommunication.cpp" line="327"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Ваш аккаунт ожидает активации, проверьте ваш почтовый ящик и попробуйте снова после активаци..</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="335"/>
-        <location filename="../online/clientcommunication.cpp" line="385"/>
+        <location filename="../online/clientcommunication.cpp" line="331"/>
+        <location filename="../online/clientcommunication.cpp" line="381"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Аккаунт или компьютер неизвестнен. Вы зарегистрированы?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="338"/>
-        <location filename="../online/clientcommunication.cpp" line="388"/>
+        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <location filename="../online/clientcommunication.cpp" line="384"/>
         <source>Wrong password! Try again.</source>
         <translation>Неверный пароль! Попробуйте снова.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="342"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="338"/>
+        <location filename="../online/clientcommunication.cpp" line="411"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Сервер отключен для проведения технических работ. Попробуйте позже.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="345"/>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="341"/>
+        <location filename="../online/clientcommunication.cpp" line="414"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Внутренняя ошибка сервера. Попробуйте позже.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="349"/>
-        <location filename="../online/clientcommunication.cpp" line="422"/>
+        <location filename="../online/clientcommunication.cpp" line="345"/>
+        <location filename="../online/clientcommunication.cpp" line="418"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Ошибка сервера: отсутствуют входящие данные. Пожалуйста, свяжитесь с разработчиками.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="391"/>
+        <location filename="../online/clientcommunication.cpp" line="387"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Нарушение активности, это означает что вы производите слишком много нажатий клавиш или кликов в секунду. Подождите 1 час и давайте помедленнее.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="397"/>
+        <location filename="../online/clientcommunication.cpp" line="393"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Неверный токен, вы использовали этот аккаунт на другом компьютере?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="400"/>
+        <location filename="../online/clientcommunication.cpp" line="396"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Указанное имя пользователя уже существует! Пожалуйста, выберите другое имя пользователя.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="405"/>
+        <location filename="../online/clientcommunication.cpp" line="401"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Превышена частота отправки данных. Вы можете отправлять данные каждые 60 секунд.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="408"/>
+        <location filename="../online/clientcommunication.cpp" line="404"/>
         <source>Premium only feature.</source>
         <translation>Доступно в премиум-статусе.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="411"/>
+        <location filename="../online/clientcommunication.cpp" line="407"/>
         <source>Organization not found.</source>
         <translation>Организация не найдена.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="425"/>
-        <location filename="../online/clientcommunication.cpp" line="976"/>
+        <location filename="../online/clientcommunication.cpp" line="421"/>
+        <location filename="../online/clientcommunication.cpp" line="913"/>
         <source>Success.</source>
         <translation>Успешно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="428"/>
+        <location filename="../online/clientcommunication.cpp" line="424"/>
         <source>Success, your file is now on the website!</source>
         <translation>Успешно, ваш файл теперь на сайте!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="952"/>
+        <location filename="../online/clientcommunication.cpp" line="889"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Не удается открыть базу данных GeoIP (%1), доступ запрещен.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="964"/>
+        <location filename="../online/clientcommunication.cpp" line="901"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>Новая база GeoUP слишком маленькая (%1), обновление прекращено.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1026"/>
+        <location filename="../online/clientcommunication.cpp" line="963"/>
         <source>Empty reply received</source>
         <translation>Получен пустой ответ</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1047"/>
+        <location filename="../online/clientcommunication.cpp" line="984"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Не удалется открыть сетевой порт базы данных (%1), доступ запрещен.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1061"/>
+        <location filename="../online/clientcommunication.cpp" line="998"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Скачанный файл не соответствует корректному: %1</translation>
     </message>
@@ -971,6 +971,14 @@ Please check your permissions on: %2</source>
     </message>
 </context>
 <context>
+    <name>GeekWindowLayout</name>
+    <message>
+        <location filename="../interface/widgets/geekwindowlayout.cpp" line="170"/>
+        <source>Edit me</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InputApplicationsPage</name>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="26"/>
@@ -1132,6 +1140,44 @@ Please check your permissions on: %2</source>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="424"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Это приложение еще не было загружено на сайт, проверьте еще раз через час.</translation>
+    </message>
+</context>
+<context>
+    <name>InputChart</name>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="119"/>
+        <source>Image not created!</source>
+        <translation type="unfinished">Изображение не создано!</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="120"/>
+        <source>Unable to generate heatmap image. Please try again or check permissions on:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="219"/>
+        <source>No data available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="387"/>
+        <source>keys</source>
+        <translation type="unfinished">нажатий клавиш</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="395"/>
+        <source>clicks</source>
+        <translation type="unfinished">кликов</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="415"/>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/chart/inputchart.cpp" line="416"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Клики</translation>
     </message>
 </context>
 <context>
@@ -1471,6 +1517,11 @@ Please check your permissions on: %2</source>
         <translation>Показать подробности</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="273"/>
+        <source>Button Clicks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
         <source>Button</source>
         <translation>Кнопка</translation>
@@ -1505,11 +1556,13 @@ Please check your permissions on: %2</source>
         <translation>Другое</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="653"/>
         <source>Scrolls</source>
         <translation>Свитки</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="668"/>
         <source>Distance</source>
         <translation>Расстояние</translation>
@@ -1910,17 +1963,17 @@ Please check your permissions on: %2</source>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="125"/>
+        <location filename="../stats/localstats.cpp" line="118"/>
         <source>Pulse throttled!</source>
         <translation>Отправка данных ограничена!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="126"/>
+        <location filename="../stats/localstats.cpp" line="119"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Отправка данных ограничена! Последний раз вы отправляли данные %1 секунд назад, попробуйте еще раз через 10 секунд.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="344"/>
+        <location filename="../stats/localstats.cpp" line="337"/>
         <source>Error while pulsing!</source>
         <translation>Ошибка во время отправки данных!</translation>
     </message>
@@ -3251,12 +3304,12 @@ Upload: unknown</source>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="456"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="387"/>
         <source>Access for assistive devices</source>
         <translation>Доступ к вспомогательным устройствам</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="457"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="388"/>
         <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
         <translation>Версия Mac OS не поддерживается; поставьте галочку &quot;Разрешить доступ к вспомогательным устройствам&quot; в &quot;Универсальной панели доступа&quot; в &quot;Настройках системы&quot; и перезапустите программу. Иначе подсчет клавиш не будет работать. Обновление программы потребует поставить эту галку снова.</translation>
     </message>
@@ -4004,10 +4057,6 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="150"/>
-        <source> Delete label</source>
-        <translation> Удалить ярлык</translation>
-    </message>
-    <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="154"/>
         <source>Delete label</source>
         <translation>Удалить метку</translation>
@@ -4118,6 +4167,11 @@ This will reset any custom layouts!</source>
         <location filename="../interface/settings/settingsgeneral.cpp" line="52"/>
         <source>Weekly online backups</source>
         <translation>Еженедельное резервное копирование онлайн</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="57"/>
+        <source>Run as Administrator (improves input accuracy)</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
@@ -4453,57 +4507,57 @@ This will reset any custom layouts!</source>
 <context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="220"/>
+        <location filename="../interface/tasktraypopup.cpp" line="227"/>
         <source>Pulse</source>
         <translation>Отправить</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="226"/>
+        <location filename="../interface/tasktraypopup.cpp" line="233"/>
         <source>Open Client</source>
         <translation>Открыть программу</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="232"/>
+        <location filename="../interface/tasktraypopup.cpp" line="239"/>
         <source>View Online Stats</source>
         <translation>Онлайн-статистика</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="238"/>
+        <location filename="../interface/tasktraypopup.cpp" line="245"/>
         <source>Toggle Geek Window</source>
         <translation>Вкл/выкл министатистику</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="245"/>
+        <location filename="../interface/tasktraypopup.cpp" line="252"/>
         <source>Input</source>
         <translation>Ввод</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="251"/>
+        <location filename="../interface/tasktraypopup.cpp" line="258"/>
         <source>Network</source>
         <translation>Сеть</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="256"/>
+        <location filename="../interface/tasktraypopup.cpp" line="263"/>
         <source>Uptime</source>
         <translation>Время работы</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="264"/>
+        <location filename="../interface/tasktraypopup.cpp" line="271"/>
         <source>Account</source>
         <translation>Аккаунт</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="270"/>
+        <location filename="../interface/tasktraypopup.cpp" line="277"/>
         <source>Check for Updates</source>
         <translation>Проверить обновления</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="276"/>
+        <location filename="../interface/tasktraypopup.cpp" line="283"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="282"/>
+        <location filename="../interface/tasktraypopup.cpp" line="289"/>
         <source>Exit WhatPulse</source>
         <translation>Закрыть WhatPulse</translation>
     </message>
@@ -5567,35 +5621,35 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="40"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="86"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="88"/>
         <source>Waiting on authorization via website..</source>
         <translation>Ожидание авторизации через сайт..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="130"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="132"/>
         <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
         <translation>Если браузер не открылся, попробуйте щелкнуть или скопировать &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;эту ссылку&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="149"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="151"/>
         <source>Our server is currently in maintenance, please check back in a few minutes. Sorry!</source>
         <translation>Извините, но сервер находится на тех. обслуживании, попробуйте еще раз через несколько минут!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="162"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="175"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="164"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="177"/>
         <source>Our server producing errors, please check back in a few minutes. Sorry!</source>
         <translation>На нашем сервере происходят ошибки, попробуйте еще раз через несколько минут, извините!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="417"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="434"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="419"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="436"/>
         <source>Restore Database?</source>
         <translation>Восстановить базу данных?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="418"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="435"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="420"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="437"/>
         <source>Good news! I found your previous client database backups, do you want to restore?</source>
         <translation>Хорошие новости, мы нашли резервные копии вашей базы данных, хотите восстановить?</translation>
     </message>
