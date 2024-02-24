@@ -140,53 +140,53 @@
         <translation>Non</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="429"/>
+        <location filename="../interface/AccountTab.cpp" line="467"/>
         <source>Log Out</source>
         <translation>Se déconnecter</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="430"/>
+        <location filename="../interface/AccountTab.cpp" line="468"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Se déconnecter entraînera la réinitialisation de vos statistiques non-pulsées si vous vous reconnectez depuis un autre compte (la base de données est préservée) et réinitiez l&apos;Assistant d&apos;Installation.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="434"/>
+        <location filename="../interface/AccountTab.cpp" line="472"/>
         <source>Do you want to continue?</source>
         <translation>Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="453"/>
+        <location filename="../interface/AccountTab.cpp" line="491"/>
         <source>Change Password</source>
         <translation>Modifier votre Mot de passe</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="454"/>
+        <location filename="../interface/AccountTab.cpp" line="492"/>
         <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Vous ne pouvez pas modifier votre mot de passe à l&apos;intérieur du client. Déconnectez-vous, puis reconnectez-vous avec la même adresse email et nom de machine pour pouvoir modifier votre mot de passe dans ce client. Vos stats seront conservées si vous utilisez les mêmes informations de connexion.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="464"/>
-        <location filename="../interface/AccountTab.cpp" line="496"/>
+        <location filename="../interface/AccountTab.cpp" line="502"/>
+        <location filename="../interface/AccountTab.cpp" line="534"/>
         <source>Reset your token</source>
         <translation>Réinitialisez votre Token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="465"/>
+        <location filename="../interface/AccountTab.cpp" line="503"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Réinitialiser votre token va réinitialiser toutes vos statistiques locales et vous autorisera à pulser de nouveau.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="467"/>
+        <location filename="../interface/AccountTab.cpp" line="505"/>
         <source>Are you sure?</source>
         <translation>Êtes-vous sûr(e) ?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="492"/>
+        <location filename="../interface/AccountTab.cpp" line="530"/>
         <source>Token reset!</source>
         <translation>Token réinitialisé !</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="493"/>
+        <location filename="../interface/AccountTab.cpp" line="531"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -195,37 +195,37 @@ You can continue pulsing.</source>
 Vous pouvez continuer de pulser.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="497"/>
+        <location filename="../interface/AccountTab.cpp" line="535"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>Une erreur est survenue lors de la réinitialisation de votre token :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="556"/>
+        <location filename="../interface/AccountTab.cpp" line="594"/>
         <source>Premium Membership</source>
         <translation>Abonnement Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="557"/>
+        <location filename="../interface/AccountTab.cpp" line="595"/>
         <source>Your premium membership has just been activated!</source>
         <translation>Votre souscription au premium vient d&apos;être activée !</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="563"/>
+        <location filename="../interface/AccountTab.cpp" line="601"/>
         <source>Refresh Account Status</source>
         <translation>Actualiser le statut de votre Compte</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="564"/>
+        <location filename="../interface/AccountTab.cpp" line="602"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Un problème est survenu lors de l&apos;actualisation des données de votre compte :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="572"/>
+        <location filename="../interface/AccountTab.cpp" line="610"/>
         <source>Backup Started</source>
         <translation>Sauvegarde démarrée</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="573"/>
+        <location filename="../interface/AccountTab.cpp" line="611"/>
         <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
         <translation>La sauvegarde a été lancée avec succès. Elle s&apos;exécutera en arrière-plan et prendra quelques minutes.</translation>
     </message>
@@ -248,22 +248,22 @@ Vous pouvez continuer de pulser.</translation>
         <translation>Bienvenue sur WhatPulse</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="66"/>
         <source>Welcome to WhatPulse Professional</source>
         <translation>Bienvenue à WhatPulse Professional</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="123"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="127"/>
         <source>Waiting for approval from your administrator to join organization..</source>
         <translation>En attente de l&apos;approbation de votre administrateur pour rejoindre l&apos;organisation..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="130"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="134"/>
         <source>Organization does not exist! Please check the spelling and try again.</source>
         <translation>L&apos;organisation n&apos;existe pas ! Veuillez vérifier l&apos;orthographe et réessayer.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="136"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="140"/>
         <source>Server error, please try again!</source>
         <translation>Erreur de serveur, veuillez réessayer !</translation>
     </message>
@@ -296,148 +296,148 @@ Vous pouvez continuer de pulser.</translation>
         <translation>Échec de l&apos;AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="830"/>
+        <location filename="../application.cpp" line="832"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Ouvrir la Fenêtre</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="834"/>
+        <location filename="../application.cpp" line="836"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Basculer vers la fenêtre Geek</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="838"/>
+        <location filename="../application.cpp" line="840"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Ouvrir les Paramètres</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="842"/>
+        <location filename="../application.cpp" line="844"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Vérifier les Mises à jour</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="848"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulser !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="849"/>
+        <location filename="../application.cpp" line="851"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Voir ses Statistiques en Ligne</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="853"/>
+        <location filename="../application.cpp" line="855"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Quitter WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="856"/>
+        <location filename="../application.cpp" line="858"/>
         <source>Enabled Stats</source>
         <translation>Statistiques activées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="857"/>
+        <location filename="../application.cpp" line="859"/>
         <source>Keyboard</source>
         <translation>Clavier</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="858"/>
+        <location filename="../application.cpp" line="860"/>
         <source>Keyboard Heatmap</source>
         <translation>Carte thermique du clavier</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="859"/>
+        <location filename="../application.cpp" line="861"/>
         <source>Mouse</source>
         <translation>Souris</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="860"/>
+        <location filename="../application.cpp" line="862"/>
         <source>Mouse Heatmap</source>
         <translation>Carte thermique de la souris</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="861"/>
+        <location filename="../application.cpp" line="863"/>
         <source>Network</source>
         <translation>Réseau</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="862"/>
+        <location filename="../application.cpp" line="864"/>
         <source>Uptime</source>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1323"/>
+        <location filename="../application.cpp" line="1327"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsage Désactivé !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1324"/>
+        <location filename="../application.cpp" line="1328"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Le paramètre &quot;Fonctionnement hors-connexion&quot; est activé. Cela empêche au client de se connecter, empêchant aussi le pulsage. Désactivez ce paramètre pour pouvoir à nouveau pulser.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1541"/>
+        <location filename="../application.cpp" line="1545"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Vous avez activé le Mode Portable. Celui-ci ne devrait être activé que lorsque WhatPulse se situe sur un média portable, tel qu&apos;une clé USB. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1545"/>
-        <location filename="../application.cpp" line="1575"/>
-        <location filename="../application.cpp" line="1592"/>
-        <location filename="../application.cpp" line="1609"/>
-        <location filename="../application.cpp" line="1655"/>
-        <location filename="../application.cpp" line="1668"/>
+        <location filename="../application.cpp" line="1549"/>
+        <location filename="../application.cpp" line="1579"/>
+        <location filename="../application.cpp" line="1596"/>
+        <location filename="../application.cpp" line="1613"/>
+        <location filename="../application.cpp" line="1659"/>
+        <location filename="../application.cpp" line="1672"/>
         <source>Portable Mode</source>
         <translation>Mode Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1572"/>
+        <location filename="../application.cpp" line="1576"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1589"/>
+        <location filename="../application.cpp" line="1593"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1610"/>
-        <location filename="../application.cpp" line="1669"/>
+        <location filename="../application.cpp" line="1614"/>
+        <location filename="../application.cpp" line="1673"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>J&apos;ai réarrangé certains fichiers de base de données et je dois redémarrer, à bientôt !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1636"/>
+        <location filename="../application.cpp" line="1640"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1652"/>
+        <location filename="../application.cpp" line="1656"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2071"/>
-        <location filename="../application.cpp" line="2084"/>
+        <location filename="../application.cpp" line="2075"/>
+        <location filename="../application.cpp" line="2088"/>
         <source>Premium features disabled</source>
         <translation>Fonctionnalités premium désactivées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2072"/>
+        <location filename="../application.cpp" line="2076"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Je n&apos;ai pas pu contacter le site web pour vérifier votre abonnement premium depuis 96 heures. J&apos;ai donc désactivé les fonctionnalités premium. Rétablissez la connexion à internet pour retrouver l&apos;accès à ces fonctionnalités.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2085"/>
+        <location filename="../application.cpp" line="2089"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Votre abonnement premium a expiré, donc j&apos;ai désactivé les fonctionnalités premium. Vous pouvez réactiver votre souscription depuis le site web.</translation>
     </message>
@@ -1978,54 +1978,51 @@ Please check your permissions on: %2</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="180"/>
+        <location filename="../interface/MainWindow.cpp" line="187"/>
         <source>Overview</source>
         <translation>Aperçu</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="182"/>
+        <location filename="../interface/MainWindow.cpp" line="189"/>
         <source>Input</source>
         <translation>Saisie</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="183"/>
+        <location filename="../interface/MainWindow.cpp" line="191"/>
         <source>Network</source>
         <translation>Réseau</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="184"/>
+        <location filename="../interface/MainWindow.cpp" line="193"/>
         <source>Uptime</source>
         <translation>Temps</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="185"/>
+        <location filename="../interface/MainWindow.cpp" line="195"/>
+        <location filename="../interface/MainWindow.cpp" line="196"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="189"/>
-        <location filename="../interface/MainWindow.cpp" line="319"/>
-        <location filename="../interface/MainWindow.cpp" line="365"/>
+        <location filename="../interface/MainWindow.cpp" line="199"/>
+        <location filename="../interface/MainWindow.cpp" line="369"/>
+        <location filename="../interface/MainWindow.cpp" line="370"/>
         <source>Account</source>
         <translation>Compte</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="190"/>
-        <source>Give feedback</source>
-        <translation>Donnez votre avis</translation>
-    </message>
-    <message>
-        <location filename="../interface/MainWindow.cpp" line="192"/>
-        <source>Need help?</source>
-        <translation>Besoin d&apos;aide ?</translation>
-    </message>
-    <message>
-        <location filename="../interface/MainWindow.cpp" line="271"/>
+        <location filename="../interface/MainWindow.cpp" line="272"/>
         <source>There&apos;s a new version available!</source>
         <translation>Une nouvelle version est disponible&#xa0;!</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="376"/>
+        <location filename="../interface/MainWindow.cpp" line="320"/>
+        <location filename="../interface/MainWindow.cpp" line="321"/>
+        <source>Setup</source>
+        <translation>Configuration</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="382"/>
         <source>Disabled</source>
         <translation>Désactivé</translation>
     </message>
@@ -3301,12 +3298,12 @@ Ascendant : inconnu</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="387"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="392"/>
         <source>Access for assistive devices</source>
         <translation>Accès aux appareils d&apos;assistance</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="388"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="393"/>
         <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
         <translation>Version Mac OS non prise en charge; Veuillez cocher &quot;Activer l&apos;accès aux appareils d&apos;assistance&quot; dans le panneau d&apos;accès Universel dans les Préférences Système, puis redémarrez le client. La comptabilisation du nombre de frappes ne fonctionnera pas autrement. Un client mis à jour nécessite une réactivation.</translation>
     </message>
@@ -5664,7 +5661,7 @@ Tous les labels personnalisés seront supprimés !</translation>
         <translation>Se connecter</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="28"/>
+        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="29"/>
         <source>Register Account</source>
         <translation>Créer un compte</translation>
     </message>
@@ -5672,12 +5669,12 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>wizardMainPagePro</name>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="245"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="249"/>
         <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
         <translation>Bienvenue à WhatPulse, &lt;b&gt;le seul&lt;/b&gt; programme de statistiques dont vous aurez besoin. WhatPulse répond à la question &quot;Combien de fois est-ce que j&apos;utilise mon ordinateur en une journée ?&quot;&lt;br /&gt;&lt;br /&gt;Commençons par saisir le nom ou l&apos;identifiant de votre &lt;strong&gt;organisation&lt;/strong&gt;, tel qu&apos;il vous a été fourni par votre administrateur WhatPulse Professional.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="268"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="272"/>
         <source>Request Activation</source>
         <translation>Demande d&apos;activation</translation>
     </message>
