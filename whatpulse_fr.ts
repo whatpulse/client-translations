@@ -366,78 +366,78 @@ Vous pouvez continuer de pulser.</translation>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1327"/>
+        <location filename="../application.cpp" line="1325"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsage Désactivé !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1328"/>
+        <location filename="../application.cpp" line="1326"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Le paramètre &quot;Fonctionnement hors-connexion&quot; est activé. Cela empêche au client de se connecter, empêchant aussi le pulsage. Désactivez ce paramètre pour pouvoir à nouveau pulser.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1545"/>
+        <location filename="../application.cpp" line="1535"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Vous avez activé le Mode Portable. Celui-ci ne devrait être activé que lorsque WhatPulse se situe sur un média portable, tel qu&apos;une clé USB. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1549"/>
-        <location filename="../application.cpp" line="1579"/>
-        <location filename="../application.cpp" line="1596"/>
-        <location filename="../application.cpp" line="1613"/>
-        <location filename="../application.cpp" line="1659"/>
-        <location filename="../application.cpp" line="1672"/>
+        <location filename="../application.cpp" line="1539"/>
+        <location filename="../application.cpp" line="1569"/>
+        <location filename="../application.cpp" line="1586"/>
+        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1649"/>
+        <location filename="../application.cpp" line="1662"/>
         <source>Portable Mode</source>
         <translation>Mode Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1576"/>
+        <location filename="../application.cpp" line="1566"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1593"/>
+        <location filename="../application.cpp" line="1583"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1614"/>
-        <location filename="../application.cpp" line="1673"/>
+        <location filename="../application.cpp" line="1604"/>
+        <location filename="../application.cpp" line="1663"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>J&apos;ai réarrangé certains fichiers de base de données et je dois redémarrer, à bientôt !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1640"/>
+        <location filename="../application.cpp" line="1630"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1656"/>
+        <location filename="../application.cpp" line="1646"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2075"/>
-        <location filename="../application.cpp" line="2088"/>
+        <location filename="../application.cpp" line="2065"/>
+        <location filename="../application.cpp" line="2078"/>
         <source>Premium features disabled</source>
         <translation>Fonctionnalités premium désactivées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2076"/>
+        <location filename="../application.cpp" line="2066"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Je n&apos;ai pas pu contacter le site web pour vérifier votre abonnement premium depuis 96 heures. J&apos;ai donc désactivé les fonctionnalités premium. Rétablissez la connexion à internet pour retrouver l&apos;accès à ces fonctionnalités.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2089"/>
+        <location filename="../application.cpp" line="2079"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Votre abonnement premium a expiré, donc j&apos;ai désactivé les fonctionnalités premium. Vous pouvez réactiver votre souscription depuis le site web.</translation>
     </message>
@@ -1356,22 +1356,22 @@ Please check your permissions on: %2</source>
         <translation>Exporter</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="150"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="160"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exporter au format .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="154"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="164"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exporter au format .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="158"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="168"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;assistant d&apos;exportation</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="167"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="147"/>
         <source>Share</source>
         <translation>Partager</translation>
     </message>
@@ -1927,32 +1927,32 @@ Please check your permissions on: %2</source>
 <context>
     <name>KeyboardHeatmap</name>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="428"/>
         <source>Image not created!</source>
         <translation>L&apos;image n&apos;a pas été créée !</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="430"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Impossible de générer une image de la carte thermique. Réessayez ou vérifiez les permissions sur : </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="465"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="464"/>
         <source>Pressed</source>
         <translation>Appuyé</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="518"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="517"/>
         <source>Image posted online!</source>
         <translation>Image postée en ligne !</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="519"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="518"/>
         <source>Keyboard image succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Image du clavier téléchargée avec succès ! Voulez-vous l&apos;ouvrir dans votre navigateur ?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="533"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="532"/>
         <source>Error uploading file!</source>
         <translation>Erreur lors de l&apos;envoi du fichier !</translation>
     </message>
@@ -5601,7 +5601,7 @@ Tous les labels personnalisés seront supprimés !</translation>
     <name>wHTTP</name>
     <message>
         <location filename="../online/whttp.cpp" line="174"/>
-        <location filename="../online/whttp.cpp" line="338"/>
+        <location filename="../online/whttp.cpp" line="336"/>
         <source>SSL errors, something fishy is going on!</source>
         <translation>Erreurs SSL, quelque chose de suspect se trame !</translation>
     </message>

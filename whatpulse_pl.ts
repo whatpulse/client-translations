@@ -370,78 +370,78 @@ Znów możesz pulsować.</translation>
         <translation>Czas pracy</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1327"/>
+        <location filename="../application.cpp" line="1325"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsowanie wyłączone!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1328"/>
+        <location filename="../application.cpp" line="1326"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Włączony jest &quot;Tryb offline&quot;. Powoduje to, że aplikacja nie będzie używała internetu, co między innymi oznacza brak pulsowania. Wyłącz ten tryb, aby móc znów pulsować.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1545"/>
+        <location filename="../application.cpp" line="1535"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Włączony został &quot;Tryb przenośny&quot;. Powinno się go używać wyłącznie w przypadku, kiedy WhatPulse zainstalowane jest na nośniku przenośnym, jak na przykład pendrive. Czy chcesz kontynuować?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1549"/>
-        <location filename="../application.cpp" line="1579"/>
-        <location filename="../application.cpp" line="1596"/>
-        <location filename="../application.cpp" line="1613"/>
-        <location filename="../application.cpp" line="1659"/>
-        <location filename="../application.cpp" line="1672"/>
+        <location filename="../application.cpp" line="1539"/>
+        <location filename="../application.cpp" line="1569"/>
+        <location filename="../application.cpp" line="1586"/>
+        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1649"/>
+        <location filename="../application.cpp" line="1662"/>
         <source>Portable Mode</source>
         <translation>Tryb przenośny</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1576"/>
+        <location filename="../application.cpp" line="1566"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Kopiowanie bazy danych do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Wyłączam tryb przenośny.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1593"/>
+        <location filename="../application.cpp" line="1583"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Kopiowanie pliku ze statystykami do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Wyłączam tryb przenośny.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1614"/>
-        <location filename="../application.cpp" line="1673"/>
+        <location filename="../application.cpp" line="1604"/>
+        <location filename="../application.cpp" line="1663"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Trochę przeorganizowałem pliki z bazami danych i teraz muszę ponownie się uruchomić. Zaraz wracam!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1640"/>
+        <location filename="../application.cpp" line="1630"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Kopiowanie bazy danych do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Tryb przenośny pozostaje włączony.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1656"/>
+        <location filename="../application.cpp" line="1646"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Kopiowanie pliku ze statystykami do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Tryb przenośny pozostaje włączony.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2075"/>
-        <location filename="../application.cpp" line="2088"/>
+        <location filename="../application.cpp" line="2065"/>
+        <location filename="../application.cpp" line="2078"/>
         <source>Premium features disabled</source>
         <translation>Funkcje premium wyłączone</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2076"/>
+        <location filename="../application.cpp" line="2066"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Od 96 godzin nie udało mi się połączyć ze stroną internetową w celu potwierdzenia aktywności Twojej subskrypcji premium. Połącz się z internetem, aby przywrócić premium.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2089"/>
+        <location filename="../application.cpp" line="2079"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Twoja subskrypcja wygasła, a więc wyłączam funkcje premium. Możesz ponownie aktywować konto premium za pośrednictwem strony internetowej.</translation>
     </message>
@@ -1366,22 +1366,22 @@ Sprawdź swoje uprawnienia do: %2</translation>
         <translation>Eksport</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="150"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="160"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Eksport do .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="154"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="164"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Eksport do .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="158"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="168"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Eksport (kreator)</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="167"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="147"/>
         <source>Share</source>
         <translation>Udostępnij</translation>
     </message>
@@ -1939,32 +1939,32 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>KeyboardHeatmap</name>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="428"/>
         <source>Image not created!</source>
         <translation>Obraz nie został utworzony!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="430"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Problem z utworzeniem obrazu mapy cieplnej. Spróbuj jeszcze raz, albo sprawdź dostępy do: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="465"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="464"/>
         <source>Pressed</source>
         <translation>Naciśnięte</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="518"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="517"/>
         <source>Image posted online!</source>
         <translation>Obraz umieszczony na stronie!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="519"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="518"/>
         <source>Keyboard image succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Obraz klawiatury wysłany z powodzeniem! Czy chcesz obejrzeć go w przeglądarce?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="533"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="532"/>
         <source>Error uploading file!</source>
         <translation>Błąd podczas przesyłania pliku!</translation>
     </message>
@@ -5614,7 +5614,7 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
     <name>wHTTP</name>
     <message>
         <location filename="../online/whttp.cpp" line="174"/>
-        <location filename="../online/whttp.cpp" line="338"/>
+        <location filename="../online/whttp.cpp" line="336"/>
         <source>SSL errors, something fishy is going on!</source>
         <translation>Błędy SSL... Dzieje się coś podejrzanego!</translation>
     </message>
