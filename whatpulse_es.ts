@@ -36,7 +36,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="71"/>
         <source>Upgrade to Premium</source>
-        <translation>Pasar a Premium</translation>
+        <translation>Mejorar a Premium</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="76"/>
@@ -66,7 +66,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="123"/>
         <source>Total Clicks:</source>
-        <translation>Clicks Totales:</translation>
+        <translation>Clics Totales:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="125"/>
@@ -86,7 +86,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="131"/>
         <source>Total Mouse Scrolls:</source>
-        <translation>Desplazamiento total del ratón:</translation>
+        <translation>Scrolls del ratón totales:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="133"/>
@@ -996,7 +996,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="27"/>
         <source>Scrolls</source>
-        <translation>Pergaminos</translation>
+        <translation>Scrolls</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="27"/>
@@ -1068,7 +1068,7 @@ Por favor compurebe sus permisos en: %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="116"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="130"/>
         <source>Scrolls:</source>
-        <translation>Pergaminos:</translation>
+        <translation>Scrolls:</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="103"/>
@@ -1198,7 +1198,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
         <source>Scrolls</source>
-        <translation>Pergaminos</translation>
+        <translation>Scrolls</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputhistorypage.cpp" line="175"/>
@@ -1557,7 +1557,7 @@ Por favor compurebe sus permisos en: %2</translation>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="653"/>
         <source>Scrolls</source>
-        <translation>Pergaminos</translation>
+        <translation>Scrolls</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
@@ -1611,12 +1611,12 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="154"/>
         <source>History of Keys, Clicks, Scrolls, and Distance</source>
-        <translation>Historia de las llaves, los clics, los pergaminos y la distancia</translation>
+        <translation>Historia de las teclas, clics, scrolls y distancia</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="158"/>
         <source>Application Keys, Clicks, Scrolls, and Distance</source>
-        <translation>Teclas de aplicación, clics, desplazamientos y distancia</translation>
+        <translation>Teclas de aplicación, clics, scrolls y distancia</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="160"/>
@@ -1681,7 +1681,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="293"/>
         <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Historial de teclas, clics, desplazamientos y distancia entre &apos;%1&apos; y &apos;%2&apos; </translation>
+        <translation>Historial de teclas, clics, scrolls y distancia entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow.cpp" line="323"/>
@@ -1986,7 +1986,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/MainWindow.cpp" line="189"/>
         <source>Input</source>
-        <translation>Entradas</translation>
+        <translation>Teclas</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="191"/>
@@ -2257,7 +2257,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="38"/>
         <source>Real-time</source>
-        <translation>A Tiempo Real</translation>
+        <translation>En Tiempo Real</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="39"/>
@@ -2719,7 +2719,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="205"/>
         <source>&lt;b&gt;Maximum&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Máximo&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Máxima&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -2783,7 +2783,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="119"/>
         <source>Show in bytes</source>
-        <translation>Mostrar en byes</translation>
+        <translation>Mostrar en bytes</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
@@ -3002,7 +3002,7 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="43"/>
         <source> Pulse!</source>
-        <translation> Pulsado!</translation>
+        <translation> Pulsa!</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="129"/>
@@ -3015,7 +3015,7 @@ Disponible: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="285"/>
         <source>Scrolls:</source>
-        <translation>Pergaminos:</translation>
+        <translation>Scrolls:</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="287"/>
@@ -3146,7 +3146,7 @@ Carga: desconocido</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="396"/>
         <source>Pulse!</source>
-        <translation>Pulsado!</translation>
+        <translation>Pulsa!</translation>
     </message>
 </context>
 <context>
@@ -3838,7 +3838,7 @@ Carga: desconocido</translation>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="102"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="388"/>
         <source>Unpulsed Mouse Scrolls</source>
-        <translation>Desplazamiento del ratón sin pulsar</translation>
+        <translation>Scrolls sin pulsar</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="103"/>
@@ -3946,7 +3946,7 @@ Carga: desconocido</translation>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="432"/>
         <source>Total Mouse Scrolls</source>
-        <translation>Desplazamientos totales del ratón</translation>
+        <translation>Scrolls totales</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
@@ -4000,7 +4000,7 @@ Carga: desconocido</translation>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="442"/>
         <source>Rank Mouse Scrolls</source>
-        <translation>Rango de desplazamiento del ratón</translation>
+        <translation>Rango de Scrolls</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
