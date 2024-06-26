@@ -114,6 +114,13 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Inktest>
+            <img src=https://avatars.githubusercontent.com/u/40661903?v=4 width="100;"  alt=Ink/>
+            <br />
+            <sub style="font-size:14px"><b>Ink</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/edermachado>
             <img src=https://avatars.githubusercontent.com/u/1864475?v=4 width="100;"  alt=Éder Magalhães Machado/>
             <br />
@@ -127,20 +134,13 @@ The logs will also tell you if there's something wrong with the translation file
             <sub style="font-size:14px"><b>Krzysiek Setlak</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/MoweME>
             <img src=https://avatars.githubusercontent.com/u/20139023?v=4 width="100;"  alt=Finn/>
             <br />
             <sub style="font-size:14px"><b>Finn</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Inktest>
-            <img src=https://avatars.githubusercontent.com/u/40661903?v=4 width="100;"  alt=Ink/>
-            <br />
-            <sub style="font-size:14px"><b>Ink</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
