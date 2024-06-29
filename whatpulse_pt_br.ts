@@ -248,170 +248,155 @@ Você pode continuar pulsando.</translation>
         <translation>Bem-vindo ao WhatPulse</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="66"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
         <source>Welcome to WhatPulse Professional</source>
         <translation>Bem-vindo ao WhatPulse Professional</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="127"/>
-        <source>Waiting for approval from your administrator to join organization..</source>
-        <translation>Aguardando aprovação do seu administrador para ingressar na organização..</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="134"/>
-        <source>Organization does not exist! Please check the spelling and try again.</source>
-        <translation>A organização especificada não está registrada. Verifique se o nome está correto e tente novamente.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="140"/>
-        <source>Server error, please try again!</source>
-        <translation>Erro no servidor, tente novamente!</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="214"/>
+        <location filename="../application.cpp" line="218"/>
         <source>No system tray</source>
         <translation>Sem icone na bandeja</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="215"/>
+        <location filename="../application.cpp" line="219"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>Não foi possível detectar nenhuma bandeja do sistema neste sistema, e eu preciso disso para executar.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="233"/>
+        <location filename="../application.cpp" line="237"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>Funções AES não disponíveis. Libeay32.dll e ssleay32.dll estão presentes? Se não, tente reinstalar!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="237"/>
+        <location filename="../application.cpp" line="241"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Funções AES não disponíveis. A biblioteca OpenSSL está presente?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="240"/>
+        <location filename="../application.cpp" line="244"/>
         <source>AES failure</source>
         <translation>Falha AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="869"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Abrir Janela</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="850"/>
+        <location filename="../application.cpp" line="873"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>Exibir/Ocul&amp;tar Janela para Nerds</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="854"/>
+        <location filename="../application.cpp" line="877"/>
         <source>&amp;Open Settings</source>
         <translation>Abrir C&amp;onfigurações</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="858"/>
+        <location filename="../application.cpp" line="881"/>
         <source>&amp;Check for Updates</source>
         <translation>Verifi&amp;car Atualizações</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="862"/>
+        <location filename="../application.cpp" line="885"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsar!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="865"/>
+        <location filename="../application.cpp" line="888"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Visualizar Estatísticas on-line</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="892"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Encerrar WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="872"/>
+        <location filename="../application.cpp" line="895"/>
         <source>Enabled Stats</source>
         <translation>Ativar Estatísticas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="896"/>
         <source>Keyboard</source>
         <translation>Teclado</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="874"/>
+        <location filename="../application.cpp" line="897"/>
         <source>Keyboard Heatmap</source>
         <translation>Mapa de calor do Teclado</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="875"/>
+        <location filename="../application.cpp" line="898"/>
         <source>Mouse</source>
         <translation>Mouse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="876"/>
+        <location filename="../application.cpp" line="899"/>
         <source>Mouse Heatmap</source>
         <translation>Mapa de calor do Mouse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="900"/>
         <source>Network</source>
         <translation>Rede</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="878"/>
+        <location filename="../application.cpp" line="901"/>
         <source>Uptime</source>
         <translation>Tempo em atividade</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1345"/>
+        <location filename="../application.cpp" line="1368"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsação Desativada!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1346"/>
+        <location filename="../application.cpp" line="1369"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>A configuração &quot;Trabalhar Offline&quot; está ativada. Isso impede que o cliente fique online, incluindo o envio de dados. Desative essa configuração e você poderá enviar dados novamente.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1555"/>
+        <location filename="../application.cpp" line="1578"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Você habilitou o modo portátil. Isso só deve ser usado ao colocar o WhatPulse em uma mídia portátil, como uma unidade USB.
 Você deseja continuar?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1559"/>
-        <location filename="../application.cpp" line="1589"/>
-        <location filename="../application.cpp" line="1606"/>
-        <location filename="../application.cpp" line="1623"/>
-        <location filename="../application.cpp" line="1669"/>
-        <location filename="../application.cpp" line="1682"/>
+        <location filename="../application.cpp" line="1582"/>
+        <location filename="../application.cpp" line="1612"/>
+        <location filename="../application.cpp" line="1629"/>
+        <location filename="../application.cpp" line="1646"/>
+        <location filename="../application.cpp" line="1692"/>
+        <location filename="../application.cpp" line="1705"/>
         <source>Portable Mode</source>
         <translation>Modo Portátil</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1586"/>
+        <location filename="../application.cpp" line="1609"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>A cópia do banco de dados para %1 falhou! Verifique as permissões de gravação. Desativando o Modo Portátil.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1626"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>A cópia do arquivo de estatísticas para %1 falhou! Verifique as permissões de gravação. Desativando o Modo Portátil.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1624"/>
-        <location filename="../application.cpp" line="1683"/>
+        <location filename="../application.cpp" line="1647"/>
+        <location filename="../application.cpp" line="1706"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Eu reorganizei alguns arquivos de banco de dados e preciso reiniciar, nos vemos em breve!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1650"/>
+        <location filename="../application.cpp" line="1673"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>breve!
@@ -419,24 +404,24 @@ Keeping Portable Mode enabled.</source>
 A cópia do banco de dados para %1 falhou! Verifique as permissões de gravação. Mantendo o Modo Portátil ativado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1666"/>
+        <location filename="../application.cpp" line="1689"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>A cópia do arquivo de estatísticas para %1 falhou! Verifique as permissões de gravação. Mantendo o Modo Portátil ativado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2091"/>
-        <location filename="../application.cpp" line="2104"/>
+        <location filename="../application.cpp" line="2114"/>
+        <location filename="../application.cpp" line="2127"/>
         <source>Premium features disabled</source>
         <translation>Funcionalidades Premium desativadas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2092"/>
+        <location filename="../application.cpp" line="2115"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Não consegui entrar em contato com o site para verificar sua associação premium por 96 horas. Desativei os recursos premium. Volte online para ativar novamente.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2105"/>
+        <location filename="../application.cpp" line="2128"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Sua associação premium expirou, então desativei os recursos premium. Você pode reativar sua associação pelo site.</translation>
     </message>
@@ -3268,6 +3253,24 @@ Enviado: desconhecido</translation>
     </message>
 </context>
 <context>
+    <name>ProActivationProcess</name>
+    <message>
+        <location filename="../online/proactivationprocess.cpp" line="56"/>
+        <source>Waiting for approval from your administrator to join organization..</source>
+        <translation type="unfinished">Aguardando aprovação do seu administrador para ingressar na organização..</translation>
+    </message>
+    <message>
+        <location filename="../online/proactivationprocess.cpp" line="61"/>
+        <source>Organization does not exist! Please check the spelling and try again.</source>
+        <translation type="unfinished">A organização especificada não está registrada. Verifique se o nome está correto e tente novamente.</translation>
+    </message>
+    <message>
+        <location filename="../online/proactivationprocess.cpp" line="64"/>
+        <source>Server error, please try again!</source>
+        <translation type="unfinished">Erro no servidor, tente novamente!</translation>
+    </message>
+</context>
+<context>
     <name>ProfileFilterWidget</name>
     <message>
         <location filename="../interface/widgets/profilefilterwidget.cpp" line="18"/>
@@ -5846,12 +5849,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
 <context>
     <name>wizardMainPagePro</name>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="249"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="132"/>
         <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
         <translation>Bem-vindo ao WhatPulse, o &lt;b&gt;único&lt;/b&gt; programa de estatísticas que você precisará. O WhatPulse responde à pergunta &quot;Quanto eu uso meu computador em um dia?&quot;&lt;br /&gt;&lt;br /&gt;Vamos começar digitando o seu &lt;strong&gt;nome ou ID da organização&lt;/strong&gt;, conforme fornecido pelo administrador do seu WhatPulse Professional.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="272"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="155"/>
         <source>Request Activation</source>
         <translation>Solicitação de Ativação</translation>
     </message>

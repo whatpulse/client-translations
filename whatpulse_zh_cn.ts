@@ -251,197 +251,182 @@ You can continue pulsing.</source>
         <translation>欢迎使用 WhatPulse</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="66"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
         <source>Welcome to WhatPulse Professional</source>
         <translation>欢迎使用 WhatPulse 专业版</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="127"/>
-        <source>Waiting for approval from your administrator to join organization..</source>
-        <translation>等待你的管理员批准加入组织..</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="134"/>
-        <source>Organization does not exist! Please check the spelling and try again.</source>
-        <translation>组织不存在!请检查拼写并重试。</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="140"/>
-        <source>Server error, please try again!</source>
-        <translation>服务器错误，请重试！</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="214"/>
+        <location filename="../application.cpp" line="218"/>
         <source>No system tray</source>
         <translation>无系统托盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="215"/>
+        <location filename="../application.cpp" line="219"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>检测不到系统托盘，我启动不了。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="233"/>
+        <location filename="../application.cpp" line="237"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>无法使用 AES 函数。有没有 libeay32.dll 和 ssleay32.dll？如果没有的话，重装试试看！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="237"/>
+        <location filename="../application.cpp" line="241"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>无法使用 AES 函数。有没有 OpenSSL 库？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="240"/>
+        <location filename="../application.cpp" line="244"/>
         <source>AES failure</source>
         <translation>AES 失败</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="846"/>
+        <location filename="../application.cpp" line="869"/>
         <source>&amp;Open Window</source>
         <translation>打开窗口(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="850"/>
+        <location filename="../application.cpp" line="873"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>显示 / 隐藏悬浮窗(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="854"/>
+        <location filename="../application.cpp" line="877"/>
         <source>&amp;Open Settings</source>
         <translation>打开设置(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="858"/>
+        <location filename="../application.cpp" line="881"/>
         <source>&amp;Check for Updates</source>
         <translation>检查更新(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="862"/>
+        <location filename="../application.cpp" line="885"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="865"/>
+        <location filename="../application.cpp" line="888"/>
         <source>&amp;View Online Stats</source>
         <translation>查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="892"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>退出 WhatPulse(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="872"/>
+        <location filename="../application.cpp" line="895"/>
         <source>Enabled Stats</source>
         <translation>开启统计</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="896"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="874"/>
+        <location filename="../application.cpp" line="897"/>
         <source>Keyboard Heatmap</source>
         <translation>键盘热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="875"/>
+        <location filename="../application.cpp" line="898"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="876"/>
+        <location filename="../application.cpp" line="899"/>
         <source>Mouse Heatmap</source>
         <translation>鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="900"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="878"/>
+        <location filename="../application.cpp" line="901"/>
         <source>Uptime</source>
         <translation>在线时长</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1345"/>
+        <location filename="../application.cpp" line="1368"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1346"/>
+        <location filename="../application.cpp" line="1369"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1555"/>
+        <location filename="../application.cpp" line="1578"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开便携模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携储存设备的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1559"/>
-        <location filename="../application.cpp" line="1589"/>
-        <location filename="../application.cpp" line="1606"/>
-        <location filename="../application.cpp" line="1623"/>
-        <location filename="../application.cpp" line="1669"/>
-        <location filename="../application.cpp" line="1682"/>
+        <location filename="../application.cpp" line="1582"/>
+        <location filename="../application.cpp" line="1612"/>
+        <location filename="../application.cpp" line="1629"/>
+        <location filename="../application.cpp" line="1646"/>
+        <location filename="../application.cpp" line="1692"/>
+        <location filename="../application.cpp" line="1705"/>
         <source>Portable Mode</source>
         <translation>便携模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1586"/>
+        <location filename="../application.cpp" line="1609"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1626"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1624"/>
-        <location filename="../application.cpp" line="1683"/>
+        <location filename="../application.cpp" line="1647"/>
+        <location filename="../application.cpp" line="1706"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1650"/>
+        <location filename="../application.cpp" line="1673"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1666"/>
+        <location filename="../application.cpp" line="1689"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2091"/>
-        <location filename="../application.cpp" line="2104"/>
+        <location filename="../application.cpp" line="2114"/>
+        <location filename="../application.cpp" line="2127"/>
         <source>Premium features disabled</source>
         <translation>高级会员功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2092"/>
+        <location filename="../application.cpp" line="2115"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的高级会员资格了。我已经禁用了你的高级会员功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2105"/>
+        <location filename="../application.cpp" line="2128"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的高级会员已经过期，所以我已经禁用了你的高级会员功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
@@ -3276,6 +3261,24 @@ Upload: unknown</source>
     </message>
 </context>
 <context>
+    <name>ProActivationProcess</name>
+    <message>
+        <location filename="../online/proactivationprocess.cpp" line="56"/>
+        <source>Waiting for approval from your administrator to join organization..</source>
+        <translation type="unfinished">等待你的管理员批准加入组织..</translation>
+    </message>
+    <message>
+        <location filename="../online/proactivationprocess.cpp" line="61"/>
+        <source>Organization does not exist! Please check the spelling and try again.</source>
+        <translation type="unfinished">组织不存在!请检查拼写并重试。</translation>
+    </message>
+    <message>
+        <location filename="../online/proactivationprocess.cpp" line="64"/>
+        <source>Server error, please try again!</source>
+        <translation type="unfinished">服务器错误，请重试！</translation>
+    </message>
+</context>
+<context>
     <name>ProfileFilterWidget</name>
     <message>
         <location filename="../interface/widgets/profilefilterwidget.cpp" line="18"/>
@@ -5855,12 +5858,12 @@ This will reset any custom layouts!</source>
 <context>
     <name>wizardMainPagePro</name>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="249"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="132"/>
         <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
         <translation>欢迎来到WhatPulse，&lt;b&gt;唯一&lt;/b&gt;的统计程序，你将永远需要。WhatPulse回答了 &quot;我在一天中使用了多少电脑？&quot;&lt;br /&gt;&lt;br /&gt;让我们开始吧，输入您的&lt;strong&gt;组织名称或ID&lt;/strong&gt;，这是由您的WhatPulse专业管理员提供的。</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="272"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="155"/>
         <source>Request Activation</source>
         <translation>请求激活</translation>
     </message>
