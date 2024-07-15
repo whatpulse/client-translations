@@ -4,190 +4,190 @@
 <context>
     <name>AccountTab</name>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="41"/>
+        <location filename="../interface/AccountTab.cpp" line="52"/>
         <source>Username:</source>
         <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="43"/>
+        <location filename="../interface/AccountTab.cpp" line="54"/>
         <source>UserID:</source>
         <translation>ID użytkownika:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="46"/>
+        <location filename="../interface/AccountTab.cpp" line="57"/>
         <source>Computer:</source>
         <translation>Komputer:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="48"/>
+        <location filename="../interface/AccountTab.cpp" line="59"/>
         <source>Email:</source>
         <translatorcomment>Konwencja pisania e-mail po polsku: przez myślnik.</translatorcomment>
         <translation>Adres e-mail:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="50"/>
+        <location filename="../interface/AccountTab.cpp" line="61"/>
         <source>Premium:</source>
         <translation>Premium:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="51"/>
+        <location filename="../interface/AccountTab.cpp" line="62"/>
         <source>Last Backup:</source>
         <translation>Ostatni backup:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="71"/>
+        <location filename="../interface/AccountTab.cpp" line="82"/>
         <source>Upgrade to Premium</source>
         <translation>Ulepszenie do Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="76"/>
+        <location filename="../interface/AccountTab.cpp" line="87"/>
         <source>Start Backup</source>
         <translation>Rozpocznij tworzenie kopii zapasowej</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="91"/>
+        <location filename="../interface/AccountTab.cpp" line="102"/>
         <source>Today</source>
         <translation>Dzisiaj</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="94"/>
+        <location filename="../interface/AccountTab.cpp" line="105"/>
         <source>day ago</source>
         <translation>dzień temu</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="97"/>
+        <location filename="../interface/AccountTab.cpp" line="108"/>
         <source>days ago</source>
         <translation>dni temu</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="121"/>
+        <location filename="../interface/AccountTab.cpp" line="141"/>
         <source>Total Keys:</source>
         <translation>Całkowita liczba naciśnięć klawiszy:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="123"/>
+        <location filename="../interface/AccountTab.cpp" line="143"/>
         <source>Total Clicks:</source>
         <translation>Całkowita liczba kliknięć myszą:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="125"/>
+        <location filename="../interface/AccountTab.cpp" line="145"/>
         <source>Total Download:</source>
         <translation>Całkowita ilość pobranych danych:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="127"/>
+        <location filename="../interface/AccountTab.cpp" line="147"/>
         <source>Total Upload:</source>
         <translation>Całkowita ilość wysłanych danych:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="129"/>
+        <location filename="../interface/AccountTab.cpp" line="149"/>
         <source>Total Uptime:</source>
         <translation>Całkowity czas pracy:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="131"/>
+        <location filename="../interface/AccountTab.cpp" line="151"/>
         <source>Total Mouse Scrolls:</source>
         <translation>Total Mouse Scrolls:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="133"/>
+        <location filename="../interface/AccountTab.cpp" line="153"/>
         <source>Total Mouse Distance:</source>
         <translation>Całkowity dystans myszy:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="203"/>
+        <location filename="../interface/AccountTab.cpp" line="223"/>
         <source> &amp;View Online Stats</source>
         <translation> &amp;Zobacz statystyki na stronie</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="211"/>
+        <location filename="../interface/AccountTab.cpp" line="231"/>
         <source> &amp;Log out</source>
         <translation> &amp;Wyloguj się</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="218"/>
+        <location filename="../interface/AccountTab.cpp" line="238"/>
         <source> &amp;Reset Token</source>
         <translation> &amp;Odśwież token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="226"/>
+        <location filename="../interface/AccountTab.cpp" line="246"/>
         <source> Change &amp;Password</source>
         <translation> Zmiana &amp;hasła</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="234"/>
+        <location filename="../interface/AccountTab.cpp" line="254"/>
         <source> Refresh &amp;Account</source>
         <translation> Odśwież &amp;konto</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="299"/>
-        <location filename="../interface/AccountTab.cpp" line="307"/>
-        <location filename="../interface/AccountTab.cpp" line="315"/>
-        <location filename="../interface/AccountTab.cpp" line="323"/>
-        <location filename="../interface/AccountTab.cpp" line="331"/>
-        <location filename="../interface/AccountTab.cpp" line="339"/>
-        <location filename="../interface/AccountTab.cpp" line="348"/>
+        <location filename="../interface/AccountTab.cpp" line="319"/>
+        <location filename="../interface/AccountTab.cpp" line="327"/>
+        <location filename="../interface/AccountTab.cpp" line="335"/>
+        <location filename="../interface/AccountTab.cpp" line="343"/>
+        <location filename="../interface/AccountTab.cpp" line="351"/>
+        <location filename="../interface/AccountTab.cpp" line="359"/>
+        <location filename="../interface/AccountTab.cpp" line="368"/>
         <source>Unknown</source>
         <translation>Brak danych</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="354"/>
+        <location filename="../interface/AccountTab.cpp" line="374"/>
         <source>Yes (expires at %1)</source>
         <translation>Tak (kończy się %1)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="358"/>
+        <location filename="../interface/AccountTab.cpp" line="378"/>
         <source>No</source>
         <translation>Nie</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="467"/>
+        <location filename="../interface/AccountTab.cpp" line="489"/>
         <source>Log Out</source>
         <translation>Wyloguj się</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="468"/>
+        <location filename="../interface/AccountTab.cpp" line="490"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Wylogowanie się zresetuje twoje niezapulsowane statystyki, jeżeli potem zalogujesz się do innego konta i ponownie uruchomisz Asystenta Pierwszego Uruchomienia (baza danych zostaje zachowana).</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="472"/>
+        <location filename="../interface/AccountTab.cpp" line="494"/>
         <source>Do you want to continue?</source>
         <translation>Czy chcesz kontynuować?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="491"/>
+        <location filename="../interface/AccountTab.cpp" line="513"/>
         <source>Change Password</source>
         <translation>Zmiana hasła</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="492"/>
+        <location filename="../interface/AccountTab.cpp" line="514"/>
         <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Nie możesz zmienić hasła w aplikacji. Wyloguj się i zaloguj ponowie tym samym adresem e-mail i wybierz ten sam komputer, aby zmienić hasło w tej aplikacji. Twoje statystyki zostaną zachowane, jeśli użyjesz tego samego konta i nazwy komputera.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="502"/>
-        <location filename="../interface/AccountTab.cpp" line="534"/>
+        <location filename="../interface/AccountTab.cpp" line="524"/>
+        <location filename="../interface/AccountTab.cpp" line="556"/>
         <source>Reset your token</source>
         <translation>Odśwież swój token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="503"/>
+        <location filename="../interface/AccountTab.cpp" line="525"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Odświeżenie tokena zresetuje Twoje lokalne statystyki i pozwoli Ci na ponowne pulsowanie.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="505"/>
+        <location filename="../interface/AccountTab.cpp" line="527"/>
         <source>Are you sure?</source>
         <translation>Czy masz pewność?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="530"/>
+        <location filename="../interface/AccountTab.cpp" line="552"/>
         <source>Token reset!</source>
         <translation>Token odświeżony!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="531"/>
+        <location filename="../interface/AccountTab.cpp" line="553"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -196,37 +196,37 @@ You can continue pulsing.</source>
 Znów możesz pulsować.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="535"/>
+        <location filename="../interface/AccountTab.cpp" line="557"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>Coś poszło nie tak podczas odświeżania Twojego tokena:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="595"/>
+        <location filename="../interface/AccountTab.cpp" line="617"/>
         <source>Premium Membership</source>
         <translation>Konto premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="596"/>
+        <location filename="../interface/AccountTab.cpp" line="618"/>
         <source>Your premium membership has just been activated! Close and re-open the WhatPulse window to activate all features.</source>
         <translation>Twój abonament premium został właśnie aktywowany! Zamknij i ponownie otwórz okno WhatPulse, aby aktywować wszystkie funkcje.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="603"/>
+        <location filename="../interface/AccountTab.cpp" line="625"/>
         <source>Refresh Account Status</source>
         <translation>Odśwież status konta</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="604"/>
+        <location filename="../interface/AccountTab.cpp" line="626"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Coś poszło nie tak podczas odświeżania statusu Twojego konta:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="612"/>
+        <location filename="../interface/AccountTab.cpp" line="634"/>
         <source>Backup Started</source>
         <translation>Rozpoczęcie tworzenia kopii zapasowej</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="613"/>
+        <location filename="../interface/AccountTab.cpp" line="635"/>
         <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
         <translation>Pomyślnie rozpoczęto tworzenie kopii zapasowej. Zostanie ona uruchomiona w tle i potrwa kilka minut.</translation>
     </message>
@@ -782,7 +782,7 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>ExportWindow</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="23"/>
+        <location filename="../interface/ExportWindow.cpp" line="18"/>
         <source>WhatPulse Export Wizard</source>
         <translation>Kreator eksportu WhatPulse</translation>
     </message>
@@ -1582,174 +1582,184 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>InputPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="139"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="7"/>
         <source>Exporting Input</source>
         <translatorcomment>No sure about the context...</translatorcomment>
         <translation>Eksportowanie kliknięć</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="140"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="8"/>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="146"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="14"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Wybierz elementy do eksportu poniżej. Zaznacz, które dane chcesz wyeksportować, zakres czasu, jaki Cię interesuje oraz określ, czy chcesz grupować dane dniami, tygodniami czy miesiącami, a na koniec naciśnij &quot;Zapisz&quot;, aby dokonać eksportu w formacie CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="155"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="24"/>
         <source>Heatmap of Keys</source>
         <translation>Mapa cieplna klawiatury</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="156"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="25"/>
         <source>Heatmap of Clicks</source>
         <translation>Mapa cieplna kliknięć myszą</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="154"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="23"/>
         <source>History of Keys, Clicks, Scrolls, and Distance</source>
         <translation>Historia klawiszy, kliknięć, zwojów i odległości</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="158"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="27"/>
         <source>Application Keys, Clicks, Scrolls, and Distance</source>
         <translation>Klawisze aplikacji, kliknięcia, przewijanie i odległość</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="160"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="29"/>
         <source>History of Key Combinations</source>
         <translation>Historia kombinacji klawiszy</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="162"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="31"/>
         <source>History of Key Combinations per Application</source>
         <translation>Historia kombinacji klawiszy według aplikacji</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="176"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="48"/>
         <source>Export from:</source>
         <translation>Eksport z:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="194"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="67"/>
         <source>to:</source>
         <translation>do:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="213"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="92"/>
         <source>Group by:</source>
         <translation>Grupowanie:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="215"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="96"/>
         <source>Hour</source>
         <translation>Godzina</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="216"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="97"/>
         <source>Day</source>
         <translation>Dzień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="217"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="98"/>
         <source>Week</source>
         <translation>Tydzień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="218"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="99"/>
         <source>Month</source>
         <translation>Miesiąc</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="228"/>
-        <source>Save</source>
-        <translation>Zapisz</translation>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="104"/>
+        <source>Profile:</source>
+        <translation type="unfinished">Profil:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="237"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="111"/>
+        <source>All stats</source>
+        <translation type="unfinished">Wszystkie statystyki</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="126"/>
+        <source>Export</source>
+        <translation type="unfinished">Eksport</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="135"/>
         <source>Premium Only</source>
         <translation>Tylko z kontem premium</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="246"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="144"/>
         <source>Working..</source>
         <translation>Czekaj..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="293"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="198"/>
         <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Historia klawiszy, kliknięć, przewinięć i odległości między &apos;%1&apos; a &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="323"/>
-        <location filename="../interface/ExportWindow.cpp" line="464"/>
-        <location filename="../interface/ExportWindow.cpp" line="540"/>
-        <location filename="../interface/ExportWindow.cpp" line="592"/>
-        <location filename="../interface/ExportWindow.cpp" line="667"/>
-        <location filename="../interface/ExportWindow.cpp" line="733"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="232"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="386"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="467"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="522"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="601"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="671"/>
         <source>grouped by Week </source>
         <translation>grupowanie tygodniami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="343"/>
-        <location filename="../interface/ExportWindow.cpp" line="471"/>
-        <location filename="../interface/ExportWindow.cpp" line="601"/>
-        <location filename="../interface/ExportWindow.cpp" line="674"/>
-        <location filename="../interface/ExportWindow.cpp" line="741"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="256"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="394"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="532"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="609"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="680"/>
         <source>grouped by Month </source>
         <translation>grupowanie miesiącami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="367"/>
-        <location filename="../interface/ExportWindow.cpp" line="480"/>
-        <location filename="../interface/ExportWindow.cpp" line="530"/>
-        <location filename="../interface/ExportWindow.cpp" line="612"/>
-        <location filename="../interface/ExportWindow.cpp" line="683"/>
-        <location filename="../interface/ExportWindow.cpp" line="751"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="284"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="404"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="456"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="544"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="619"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="691"/>
         <source>grouped by Hour </source>
         <translation>grupowanie godzinami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="388"/>
-        <location filename="../interface/ExportWindow.cpp" line="487"/>
-        <location filename="../interface/ExportWindow.cpp" line="554"/>
-        <location filename="../interface/ExportWindow.cpp" line="621"/>
-        <location filename="../interface/ExportWindow.cpp" line="690"/>
-        <location filename="../interface/ExportWindow.cpp" line="759"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="309"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="412"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="483"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="554"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="627"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="700"/>
         <source>grouped by Day </source>
         <translation>grupowanie dniami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="453"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="374"/>
         <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Mapa cieplna klawiatury pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="515"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="440"/>
         <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Mapa cieplna kliknięć myszą pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="579"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="508"/>
         <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Naciśnięcia klawiszy i kliknięcia pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="656"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="589"/>
         <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Kombinacje klawiszy pomiędzy &quot;%1&quot; i &quot;%2 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="721"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="658"/>
         <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Kombinacje klawiszy na aplikację między &quot;%1&quot; i &quot;%2 </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="811"/>
-        <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
-        <translation>Wybierasz zakres czasu większy niż 90 dni. Eksport może chwilę potrwać.</translation>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="753"/>
+        <source>Exporting may take a while for date ranges longer than 90 days.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1890,37 +1900,37 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>IntroPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="58"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="6"/>
         <source>Export Wizard</source>
         <translation>Kreator Eksportu</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="64"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="12"/>
         <source>Welcome to the Export Wizard. This wizard allows you to export all your data inside the WhatPulse client into a CSV file. Pick a statistic and press Next!</source>
         <translation>Witam w Kreatorze Eksportu. Narzędzie to pozwala na eskport wszystkich Twoich danych zgromadzonych w WhatPulse do pliku CSV. Wybierz statystykę i naciśnij Dalej!</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="71"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="19"/>
         <source>Input</source>
         <translation>Naciśnięcia klawiszy i kliknięcia</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="72"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="20"/>
         <source>Network</source>
         <translation>Sieć</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="73"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="21"/>
         <source>Uptime</source>
         <translation>Czas pracy</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="89"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="37"/>
         <source>This advanced export wizard is a &lt;b&gt;premium only&lt;/b&gt; feature. You can browse to see the possibilities, but you need a premium subscription to export data.</source>
         <translation>Ten zaawansowany kreator jest dostępny tylko z &lt;b&gt;kontem premium&lt;/b&gt;. Możesz rozejrzeć się po jego funkcjach, ale żeby dokończyć eksport, musisz mieć wykupione konto premium.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="101"/>
+        <location filename="../interface/ExportWindow/intropage.cpp" line="49"/>
         <source>Go Premium</source>
         <translation>Uzyskaj konto premium</translation>
     </message>
@@ -2100,144 +2110,154 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>NetworkPage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="821"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="8"/>
         <source>Exporting Network</source>
         <translation>Eksportowanie ruchu sieciowego</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="822"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="9"/>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="828"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="15"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Wybierz elementy do eksportu poniżej. Zaznacz, które dane chcesz wyeksportować, zakres czasu, jaki Cię interesuje oraz określ, czy chcesz grupować dane dniami, tygodniami czy miesiącami, a na koniec naciśnij &quot;Zapisz&quot;, aby dokonać eksportu w formacie CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="835"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="22"/>
         <source>Traffic per application</source>
         <translation>Ruch sieciowy per aplikacja</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="836"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="23"/>
         <source>Traffic per country</source>
         <translation>Ruch sieciowy per kraj</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="837"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="24"/>
         <source>Traffic per network interface</source>
         <translation>Ruch sieciowy per interfejs</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="838"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="25"/>
         <source>Traffic per type</source>
         <translation>Ruch sieciowy grupowany typami</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="850"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="50"/>
         <source>Export from:</source>
         <translation>Eksportuj z:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="860"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="69"/>
         <source>to:</source>
         <translation>do:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="879"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="92"/>
         <source>Group by:</source>
         <translation>Grupowanie:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="881"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="95"/>
         <source>Day</source>
         <translation>Dzień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="882"/>
-        <location filename="../interface/ExportWindow.cpp" line="981"/>
-        <location filename="../interface/ExportWindow.cpp" line="1045"/>
-        <location filename="../interface/ExportWindow.cpp" line="1104"/>
-        <location filename="../interface/ExportWindow.cpp" line="1169"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="96"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="222"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="286"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="348"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="416"/>
         <source>Week</source>
         <translation>Tydzień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="883"/>
-        <location filename="../interface/ExportWindow.cpp" line="989"/>
-        <location filename="../interface/ExportWindow.cpp" line="1052"/>
-        <location filename="../interface/ExportWindow.cpp" line="1112"/>
-        <location filename="../interface/ExportWindow.cpp" line="1178"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="97"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="230"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="294"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="357"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="426"/>
         <source>Month</source>
         <translation>Miesiąc</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="893"/>
-        <source>Save</source>
-        <translation>Zapisz</translation>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="102"/>
+        <source>Profile:</source>
+        <translation type="unfinished">Profil:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="902"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="110"/>
+        <source>All stats</source>
+        <translation type="unfinished">Wszystkie statystyki</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="125"/>
+        <source>Export</source>
+        <translation type="unfinished">Eksport</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="134"/>
         <source>Premium Only</source>
         <translation>Tylko z kontem premium</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="911"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="143"/>
         <source>Working..</source>
         <translation>Czekaj..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="958"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="199"/>
         <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Ruch sieciowy pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="988"/>
-        <location filename="../interface/ExportWindow.cpp" line="1051"/>
-        <location filename="../interface/ExportWindow.cpp" line="1111"/>
-        <location filename="../interface/ExportWindow.cpp" line="1177"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="229"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="293"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="356"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="425"/>
         <source>grouped by Week </source>
         <translation>grupowanie tygodniami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="996"/>
-        <location filename="../interface/ExportWindow.cpp" line="1058"/>
-        <location filename="../interface/ExportWindow.cpp" line="1119"/>
-        <location filename="../interface/ExportWindow.cpp" line="1186"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="237"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="301"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="365"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="435"/>
         <source>grouped by Month </source>
         <translation>grupowanie miesiącami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1004"/>
-        <location filename="../interface/ExportWindow.cpp" line="1066"/>
-        <location filename="../interface/ExportWindow.cpp" line="1127"/>
-        <location filename="../interface/ExportWindow.cpp" line="1195"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="245"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="310"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="374"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="445"/>
         <source>grouped by Day </source>
         <translation>grupowanie dniami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1023"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="264"/>
         <source>Unknown</source>
         <translation>Nieznany</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1040"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="281"/>
         <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Ruch sieciowy per aplikacja pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1099"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="343"/>
         <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Ruch sieciowy per kraj pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1164"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="411"/>
         <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Ruch sieciowy grupowany typami pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1249"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="499"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Wybierasz zakres czasu większy niż 90 dni. Eksport może chwilę potrwać.</translation>
     </message>
@@ -4624,42 +4644,42 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>&amp;Generuj dane demonstracyjne</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="195"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="196"/>
         <source>Settings saved!</source>
         <translation>Ustawienia zapisane!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="210"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="220"/>
         <source> Check for Updates</source>
         <translation> Sprawdź dostępność aktualizacji</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="263"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="273"/>
         <source>Uploading Apps</source>
         <translation>Wysyłanie aplikacji</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="264"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="274"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Aplikacje zostały przygotowane do wysłania. Zanim będą widoczne na stronie internetowej, może chwila minąć.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="285"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="295"/>
         <source>Empty Database</source>
         <translation>Opróżnij bazę danych</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="286"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="296"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Opróżnienie lokalnej bazy danych usunie wszystkie lokalnie zapisane statystyki i wyloguje Cię. Nie można cofnąć tej operacji. Kontynuować?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="304"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="314"/>
         <source>Upload Computer Info</source>
         <translation>Prześlij informacje o komputerze</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="305"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="315"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Pomyślnie rozpoczęto wgrywanie profilu komputera. Strona zostanie zaktualizowana za kilka minut.</translation>
     </message>
@@ -4954,127 +4974,137 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
 <context>
     <name>UptimePage</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1259"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="7"/>
         <source>Exporting Uptime</source>
         <translation>Eksportowanie czasu pracy</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1260"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="8"/>
         <source>Close</source>
         <translation>Zamknij</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1266"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="14"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Save to export as CSV.</source>
         <translation>Wybierz elementy do eksportu poniżej. Zaznacz, które dane chcesz wyeksportować, zakres czasu, jaki Cię interesuje oraz określ, czy chcesz grupować dane dniami, tygodniami czy miesiącami, a na koniec naciśnij &quot;Zapisz&quot;, aby dokonać eksportu w formacie CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1274"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="22"/>
         <source>Total uptime per application</source>
         <translation>Całkowity czas pracy per aplikacja</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1276"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="24"/>
         <source>Active time used per application</source>
         <translation>Czas czynnego użytkowania per aplikacja</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1277"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="25"/>
         <source>List of your reboots</source>
         <translation>Lista Twoich uruchomień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1295"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="46"/>
         <source>Export from:</source>
         <translation>Eksportuj z:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1306"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="66"/>
         <source>to:</source>
         <translation>do:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1326"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="92"/>
         <source>Group by:</source>
         <translation>Grupowanie:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1329"/>
-        <location filename="../interface/ExportWindow.cpp" line="1536"/>
-        <location filename="../interface/ExportWindow.cpp" line="1557"/>
-        <location filename="../interface/ExportWindow.cpp" line="1560"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="97"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="345"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="366"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="369"/>
         <source>Hour</source>
         <translation>Godzina</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1330"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="98"/>
         <source>Day</source>
         <translation>Dzień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1331"/>
-        <location filename="../interface/ExportWindow.cpp" line="1540"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="99"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="349"/>
         <source>Week</source>
         <translation>Tydzień</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1332"/>
-        <location filename="../interface/ExportWindow.cpp" line="1544"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="100"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="353"/>
         <source>Month</source>
         <translation>Miesiąc</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1342"/>
-        <source>Save</source>
-        <translation>Zapisz</translation>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="105"/>
+        <source>Profile:</source>
+        <translation type="unfinished">Profil:</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1351"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="113"/>
+        <source>All stats</source>
+        <translation type="unfinished">Wszystkie statystyki</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="128"/>
+        <source>Export</source>
+        <translation type="unfinished">Eksport</translation>
+    </message>
+    <message>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="137"/>
         <source>Premium Only</source>
         <translation>Tylko z kontem premium</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1360"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="146"/>
         <source>Working..</source>
         <translation>Czekaj..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1384"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="170"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Wybierasz zakres czasu większy niż 90 dni. Eksport może chwilę potrwać.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1458"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="262"/>
         <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Lista uruchomień pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1488"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="292"/>
         <source>Application uptime </source>
         <translation>Czas pracy aplikacji </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1529"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="338"/>
         <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
         <translation>Czas czynnego użytkowania aplikacji pomiędzy &apos;%1&apos; i &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1537"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="346"/>
         <source>grouped by Hour </source>
         <translation>grupowanie godzinami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1541"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="350"/>
         <source>grouped by Week </source>
         <translation>grupowanie tygodniami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1545"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="354"/>
         <source>grouped by Month </source>
         <translation>grupowanie miesiącami </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="1549"/>
+        <location filename="../interface/ExportWindow/uptimepage.cpp" line="358"/>
         <source>grouped by Day </source>
         <translation>grupowanie dniami </translation>
     </message>
