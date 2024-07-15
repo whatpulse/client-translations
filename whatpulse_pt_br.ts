@@ -4869,12 +4869,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="128"/>
         <source>Down:</source>
-        <translation>Abaixo:</translation>
+        <translation>Recebido:</translation>
     </message>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="129"/>
         <source>Up:</source>
-        <translation>Acima:</translation>
+        <translation>Enviado:</translation>
     </message>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="138"/>
@@ -4889,12 +4889,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="149"/>
         <source>Down: %1</source>
-        <translation>Abaixo: %1</translation>
+        <translation>Recebido: %1</translation>
     </message>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="152"/>
         <source>Up: %1</source>
-        <translation>Acima: %1</translation>
+        <translation>Enviado: %1</translation>
     </message>
     <message>
         <location filename="../interface/tasktraypopup.cpp" line="159"/>
