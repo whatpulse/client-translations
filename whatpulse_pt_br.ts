@@ -4056,7 +4056,7 @@ Enviado: desconhecido</translation>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
         <source>Rank Uptime</source>
-        <translation>Tempo em atividade</translation>
+        <translation>Ranking de Tempo em Atividade</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
