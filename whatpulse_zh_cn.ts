@@ -5561,12 +5561,12 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../utils.cpp" line="332"/>
         <source>meters</source>
-        <translation>仪表</translation>
+        <translation>米</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="334"/>
         <source>meter</source>
-        <translation>仪表</translation>
+        <translation>米</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="347"/>
@@ -5576,7 +5576,7 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../utils.cpp" line="349"/>
         <source>centimeter</source>
-        <translation>公分</translation>
+        <translation>厘米</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="370"/>
