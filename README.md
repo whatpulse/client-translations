@@ -158,6 +158,13 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/arrio464>
+            <img src=https://avatars.githubusercontent.com/u/87381996?v=4 width="100;"  alt=arrio464/>
+            <br />
+            <sub style="font-size:14px"><b>arrio464</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/suliveevil>
             <img src=https://avatars.githubusercontent.com/u/35763237?v=4 width="100;"  alt=suliveevil/>
             <br />
