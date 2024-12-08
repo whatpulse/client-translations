@@ -281,148 +281,174 @@ Vous pouvez continuer de pulser.</translation>
         <translation>Échec de l&apos;AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="873"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Ouvrir la Fenêtre</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="877"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Basculer vers la fenêtre Geek</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="881"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Ouvrir les Paramètres</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="885"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Vérifier les Mises à jour</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="889"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulser !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="888"/>
+        <location filename="../application.cpp" line="892"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Voir ses Statistiques en Ligne</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="892"/>
+        <location filename="../application.cpp" line="896"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Quitter WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="895"/>
+        <location filename="../application.cpp" line="899"/>
         <source>Enabled Stats</source>
         <translation>Statistiques activées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="900"/>
         <source>Keyboard</source>
         <translation>Clavier</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="897"/>
+        <location filename="../application.cpp" line="901"/>
         <source>Keyboard Heatmap</source>
         <translation>Carte thermique du clavier</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="898"/>
+        <location filename="../application.cpp" line="902"/>
         <source>Mouse</source>
         <translation>Souris</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="899"/>
+        <location filename="../application.cpp" line="903"/>
         <source>Mouse Heatmap</source>
         <translation>Carte thermique de la souris</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="904"/>
         <source>Network</source>
         <translation>Réseau</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="901"/>
+        <location filename="../application.cpp" line="905"/>
+        <location filename="../application.cpp" line="1155"/>
         <source>Uptime</source>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1368"/>
+        <location filename="../application.cpp" line="1139"/>
+        <source>Keys</source>
+        <translation type="unfinished">Frappes</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1143"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Clics</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1147"/>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1150"/>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1158"/>
+        <source>Not logged in!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1374"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsage Désactivé !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1369"/>
+        <location filename="../application.cpp" line="1375"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Le paramètre &quot;Fonctionnement hors-connexion&quot; est activé. Cela empêche au client de se connecter, empêchant aussi le pulsage. Désactivez ce paramètre pour pouvoir à nouveau pulser.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1578"/>
+        <location filename="../application.cpp" line="1584"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Vous avez activé le Mode Portable. Celui-ci ne devrait être activé que lorsque WhatPulse se situe sur un média portable, tel qu&apos;une clé USB. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1582"/>
-        <location filename="../application.cpp" line="1612"/>
-        <location filename="../application.cpp" line="1629"/>
-        <location filename="../application.cpp" line="1646"/>
-        <location filename="../application.cpp" line="1692"/>
-        <location filename="../application.cpp" line="1705"/>
+        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1618"/>
+        <location filename="../application.cpp" line="1635"/>
+        <location filename="../application.cpp" line="1652"/>
+        <location filename="../application.cpp" line="1698"/>
+        <location filename="../application.cpp" line="1711"/>
         <source>Portable Mode</source>
         <translation>Mode Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1609"/>
+        <location filename="../application.cpp" line="1615"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1626"/>
+        <location filename="../application.cpp" line="1632"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1647"/>
-        <location filename="../application.cpp" line="1706"/>
+        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1712"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>J&apos;ai réarrangé certains fichiers de base de données et je dois redémarrer, à bientôt !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1673"/>
+        <location filename="../application.cpp" line="1679"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1689"/>
+        <location filename="../application.cpp" line="1695"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d&apos;écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2114"/>
-        <location filename="../application.cpp" line="2127"/>
+        <location filename="../application.cpp" line="2120"/>
+        <location filename="../application.cpp" line="2133"/>
         <source>Premium features disabled</source>
         <translation>Fonctionnalités premium désactivées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2115"/>
+        <location filename="../application.cpp" line="2121"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Je n&apos;ai pas pu contacter le site web pour vérifier votre abonnement premium depuis 96 heures. J&apos;ai donc désactivé les fonctionnalités premium. Rétablissez la connexion à internet pour retrouver l&apos;accès à ces fonctionnalités.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2128"/>
+        <location filename="../application.cpp" line="2134"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Votre abonnement premium a expiré, donc j&apos;ai désactivé les fonctionnalités premium. Vous pouvez réactiver votre souscription depuis le site web.</translation>
     </message>
@@ -1509,6 +1535,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="740"/>
         <source>Button</source>
         <translation>Bouton</translation>
     </message>
@@ -1519,7 +1546,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="636"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="723"/>
         <source>Left</source>
         <translation>Gauche</translation>
     </message>
@@ -1531,40 +1558,39 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="638"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="724"/>
         <source>Middle</source>
         <translation>Milieu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="639"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="726"/>
         <source>Other</source>
         <translation>Autre</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="672"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="670"/>
         <source>Scrolls</source>
         <translation>Défilements</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="687"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="685"/>
         <source>Distance</source>
         <translation>Distance</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="798"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="795"/>
         <source>None</source>
         <translation>Aucun</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="831"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="828"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Purger la carte thermique de la souris</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="832"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="829"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>En ne purgeant pas votre carte thermique de la souris, votre base de données va devenir assez large et ralentira possiblement WhatPulse. Mettre fin à la purge ?</translation>
     </message>
@@ -2075,22 +2101,22 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkInterfaces_WiredvsWirelessButtons</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="601"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="620"/>
         <source>Show Wired</source>
         <translation>Afficher le filaire</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="603"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="622"/>
         <source>Hide Wired</source>
         <translation>Masquer le filaire</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="612"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="631"/>
         <source>Show Wifi</source>
         <translation>Afficher le Wifi</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="614"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="633"/>
         <source>Hide Wifi</source>
         <translation>Masquer le Wifi</translation>
     </message>
@@ -2437,135 +2463,141 @@ Please check your permissions on: %2</source>
         <translation>Application</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
-        <source>Current download</source>
-        <translation>Descendant actuel</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
-        <source>Current upload</source>
-        <translation>Ascendant actuel</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="47"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="48"/>
         <source>Show only active applications</source>
         <translation>Afficher seulement les application actives</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="56"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="57"/>
         <source>Export</source>
         <translation>Exporter</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="66"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="67"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Assistant d&apos;Exportation</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="77"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="78"/>
         <source>Go Premium</source>
         <translation>Devenir Premium</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="115"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="116"/>
         <source>Show in bytes</source>
         <translation>Afficher en bytes</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="116"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="117"/>
         <source>Show in bits</source>
         <translation>Afficher en bits</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="198"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="135"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="199"/>
         <source>Summary</source>
         <translation>Résumé</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="137"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="147"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="139"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="148"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="157"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="149"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="158"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="560"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="159"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="561"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="562"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="563"/>
         <source>unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="142"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Aujourd&apos;hui&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
-        <source>Downloaded:</source>
-        <translation>Téléchargé :</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="144"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="154"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="164"/>
+        <source>Downloaded:</source>
+        <translation>Téléchargé :</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="145"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="155"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="165"/>
         <source>Uploaded:</source>
         <translation>Ascendant :</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="152"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Hier&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="162"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Tous les temps&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="264"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="351"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="265"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="352"/>
         <source>Summary of </source>
         <translation>Résumé de </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="410"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="411"/>
         <source>Exclude</source>
         <translation>Exclure</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="439"/>
         <source>Exclude application?</source>
         <translation>Exclure l&apos;application ?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="439"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="440"/>
         <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Êtes-vous sûr de vouloir exclure l&apos;application &apos;%1&apos; ? Cela supprimera également l&apos;historique de cette application.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="187"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="188"/>
         <source>(Per-application bandwidth is disabled)</source>
         <translation>(La Bande passante par application est désactivée)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="416"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
+        <source>Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="27"/>
+        <source>Total</source>
+        <translation type="unfinished">Total</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="417"/>
         <source>Open File Location</source>
         <translation>Ouvrir l&apos;Emplacement du Fichier</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="422"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="423"/>
         <source>Open Online Profile</source>
         <translation>Ouvrir le Profil en Ligne</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="491"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="492"/>
         <source>Not yet</source>
         <translation>Pas encore</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="492"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="493"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Cette application n&apos;est pas encore enregistrée sur le site web, revenez dans environ une heure.</translation>
     </message>
@@ -2586,6 +2618,11 @@ Please check your permissions on: %2</source>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
         <source>Upload</source>
         <translation>Télécharger</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
+        <source>Total</source>
+        <translation type="unfinished">Total</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="67"/>
@@ -2724,154 +2761,140 @@ Please check your permissions on: %2</source>
     <name>NetworkTabInterfaces</name>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
         <source>Interface</source>
         <translation>Interface</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <source>Current download</source>
-        <translation>Descendant actuel</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
-        <source>Current upload</source>
-        <translation>Ascendant actuel</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="29"/>
         <source>IP-address</source>
         <translation>Adresse IP</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="38"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="39"/>
         <source>Total</source>
         <translation>Total</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="62"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="63"/>
         <source>Show only active interfaces</source>
         <translation>Afficher seulement les interfaces actives</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="71"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="72"/>
         <source>Export</source>
         <translation>Exporter</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="81"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="82"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Assistant d&apos;exportation</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="107"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="108"/>
         <source>Testing..</source>
         <translation>Test en cours..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="112"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="113"/>
         <source>Internet:</source>
         <translation>Internet :</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="119"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
         <source>Show in bytes</source>
         <translation>Afficher en bytes</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="121"/>
         <source>Show in bits</source>
         <translation>Afficher en bits</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="201"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="139"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="202"/>
         <source>Summary</source>
         <translation>Résumé</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="141"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="142"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="151"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="143"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="152"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="161"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="153"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="162"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="371"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="163"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="372"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="373"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="374"/>
         <source>unknown</source>
         <translation>inconnu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="146"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Aujourd&apos;hui&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
-        <source>Downloaded:</source>
-        <translation>Téléchargé :</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="148"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="158"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="168"/>
+        <source>Downloaded:</source>
+        <translation>Téléchargé :</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="149"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="159"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="169"/>
         <source>Uploaded:</source>
         <translation>Téléchargé en ascendant :</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="156"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Hier&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="166"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Tous les temps&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="197"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="198"/>
         <source>Summary of Wireless Bandwidth</source>
         <translation>Résumé de la bande passante non-filaire</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="199"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="200"/>
         <source>Summary of Wired Bandwidth</source>
         <translation>Résumé de la bande passante filaire</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="463"/>
         <source>Delete</source>
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="468"/>
         <source>Exclude</source>
         <translation>Exclure</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="502"/>
         <source>Delete Interface?</source>
         <translation>Supprimer l&apos;interface ?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="478"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="503"/>
         <source>Deleting a network interface will remove its history. Continue?</source>
         <translation>La suppression d&apos;une interface réseau entraîne la suppression de son historique. Continuer ?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
         <source>Download</source>
         <translation>Téléchargé</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
         <source>Upload</source>
         <translation>Ascendant</translation>
     </message>
@@ -2899,93 +2922,99 @@ Please check your permissions on: %2</source>
         <translation>Ascendant</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="43"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="26"/>
+        <source>Total</source>
+        <translation type="unfinished">Total</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="44"/>
         <source>Record unknown traffic types</source>
         <translation>Enregistrer les types de traffic inconnus</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="56"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="57"/>
         <source>Export</source>
         <translation>Exporter</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="66"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="67"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Assistant d&apos;exportation</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="76"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="77"/>
         <source>Go Premium</source>
         <translation>Devenir Premium</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="104"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="105"/>
         <source>Record Unknown Traffic Types</source>
         <translation>Enregistrer les Types de Traffic Inconnus</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="105"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="106"/>
         <source>By recording unknown traffic types, your database will get pretty large and possibly slow WhatPulse down. Still record unknown?</source>
         <translation>En enregistrant des types de trafic inconnus, votre base de données deviendra assez large et ralentira possiblement WhatPulse. Conserver l&apos;enregistrement de types inconnus ?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="121"/>
         <source>Summary</source>
         <translation>Résumé</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="123"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="124"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="133"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="125"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="143"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="135"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="144"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="346"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="145"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="347"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="348"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="349"/>
         <source>unknown</source>
         <translation>inconnu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="128"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Aujourd&apos;hui&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
-        <source>Downloaded:</source>
-        <translation>Descendant :</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="130"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="140"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="150"/>
+        <source>Downloaded:</source>
+        <translation>Descendant :</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="131"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="141"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="151"/>
         <source>Uploaded:</source>
         <translation>Ascendant :</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="138"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Hier&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="148"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Tous les temps&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="173"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="174"/>
         <source>All Traffic</source>
         <translation>Tout le Trafic</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="235"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="236"/>
         <source>Summary of </source>
         <translation>Résumé de </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="278"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="279"/>
         <source>(Per-type bandwidth is disabled)</source>
         <translation>(La Bande passante par type est désactivée)</translation>
     </message>
@@ -5640,147 +5669,147 @@ Tous les labels personnalisés seront supprimés !</translation>
         <translation>Samedi</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1219"/>
-        <location filename="../utils.cpp" line="1245"/>
+        <location filename="../utils.cpp" line="1207"/>
+        <location filename="../utils.cpp" line="1233"/>
         <source>Save as...</source>
         <translation>Sauvegarder sous...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1232"/>
-        <location filename="../utils.cpp" line="1260"/>
+        <location filename="../utils.cpp" line="1220"/>
+        <location filename="../utils.cpp" line="1248"/>
         <source>Export Failed</source>
         <translation>Échec de l&apos;exportation</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1233"/>
-        <location filename="../utils.cpp" line="1261"/>
+        <location filename="../utils.cpp" line="1221"/>
+        <location filename="../utils.cpp" line="1249"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Échec de l&apos;ouverture du fichier d&apos;export ! Veuillez réessayer à nouveau dans un autre dossier.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1271"/>
+        <location filename="../utils.cpp" line="1259"/>
         <source>Backspace</source>
         <translation>Retour Arrière</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1274"/>
+        <location filename="../utils.cpp" line="1262"/>
         <source>Enter</source>
         <translation>Entrée</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1277"/>
+        <location filename="../utils.cpp" line="1265"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1280"/>
+        <location filename="../utils.cpp" line="1268"/>
         <source>Capslock</source>
         <translation>Vérouillage Majuscule</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1283"/>
+        <location filename="../utils.cpp" line="1271"/>
         <source>Left Shift</source>
         <translation>Shift Gauche</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1286"/>
+        <location filename="../utils.cpp" line="1274"/>
         <source>Left Control</source>
         <translation>Ctrl Gauche</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1289"/>
+        <location filename="../utils.cpp" line="1277"/>
         <source>Left Alt</source>
         <translation>Alt Gauche</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1292"/>
+        <location filename="../utils.cpp" line="1280"/>
         <source>Right Alt</source>
         <translation>Alt Droit</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1295"/>
+        <location filename="../utils.cpp" line="1283"/>
         <source>Right Control</source>
         <translation>Ctrl Droit</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1298"/>
+        <location filename="../utils.cpp" line="1286"/>
         <source>Right Shift</source>
         <translation>Shift Droit</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1301"/>
+        <location filename="../utils.cpp" line="1289"/>
         <source>Left</source>
         <translation>Gauche</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1304"/>
+        <location filename="../utils.cpp" line="1292"/>
         <source>Down</source>
         <translation>Bas</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1307"/>
+        <location filename="../utils.cpp" line="1295"/>
         <source>Right</source>
         <translation>Droite</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1310"/>
+        <location filename="../utils.cpp" line="1298"/>
         <source>Up</source>
         <translation>Haut</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1313"/>
+        <location filename="../utils.cpp" line="1301"/>
         <source>Insert</source>
         <translation>Inser</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1316"/>
+        <location filename="../utils.cpp" line="1304"/>
         <source>Home</source>
         <translation>Accueil</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1319"/>
+        <location filename="../utils.cpp" line="1307"/>
         <source>Page Up</source>
         <translation>Défilement Haut</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1322"/>
+        <location filename="../utils.cpp" line="1310"/>
         <source>Delete</source>
         <translation>Suppr</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1325"/>
+        <location filename="../utils.cpp" line="1313"/>
         <source>End</source>
         <translation>Fin</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1328"/>
+        <location filename="../utils.cpp" line="1316"/>
         <source>Page Down</source>
         <translation>Défilement Bas</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1331"/>
+        <location filename="../utils.cpp" line="1319"/>
         <source>Escape</source>
         <translation>Echap</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1373"/>
+        <location filename="../utils.cpp" line="1361"/>
         <source>Space</source>
         <translation>Espace</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1490"/>
+        <location filename="../utils.cpp" line="1478"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1984"/>
+        <location filename="../utils.cpp" line="1972"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Passez à la version Premium pour débloquer cette fonctionnalité</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="873"/>
         <location filename="../utils.cpp" line="1106"/>
-        <location filename="../utils.cpp" line="1608"/>
+        <location filename="../utils.cpp" line="1596"/>
         <source>unknown</source>
         <translation>inconnu</translation>
     </message>

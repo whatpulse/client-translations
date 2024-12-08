@@ -284,149 +284,175 @@ You can continue pulsing.</source>
         <translation>AES 失败</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="873"/>
         <source>&amp;Open Window</source>
         <translation>打开窗口(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="877"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>显示 / 隐藏悬浮窗(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="881"/>
         <source>&amp;Open Settings</source>
         <translation>打开设置(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="885"/>
         <source>&amp;Check for Updates</source>
         <translation>检查更新(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="889"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="888"/>
+        <location filename="../application.cpp" line="892"/>
         <source>&amp;View Online Stats</source>
         <translation>查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="892"/>
+        <location filename="../application.cpp" line="896"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>退出 WhatPulse(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="895"/>
+        <location filename="../application.cpp" line="899"/>
         <source>Enabled Stats</source>
         <translation>开启统计</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="900"/>
         <source>Keyboard</source>
         <translation>键盘</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="897"/>
+        <location filename="../application.cpp" line="901"/>
         <source>Keyboard Heatmap</source>
         <translation>键盘热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="898"/>
+        <location filename="../application.cpp" line="902"/>
         <source>Mouse</source>
         <translation>鼠标</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="899"/>
+        <location filename="../application.cpp" line="903"/>
         <source>Mouse Heatmap</source>
         <translation>鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="904"/>
         <source>Network</source>
         <translation>网络</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="901"/>
+        <location filename="../application.cpp" line="905"/>
+        <location filename="../application.cpp" line="1155"/>
         <source>Uptime</source>
         <translation>在线时长</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1368"/>
+        <location filename="../application.cpp" line="1139"/>
+        <source>Keys</source>
+        <translation type="unfinished">按键</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1143"/>
+        <source>Clicks</source>
+        <translation type="unfinished">点击</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1147"/>
+        <source>Download</source>
+        <translation type="unfinished">下载</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1150"/>
+        <source>Upload</source>
+        <translation type="unfinished">上传</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1158"/>
+        <source>Not logged in!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1374"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1369"/>
+        <location filename="../application.cpp" line="1375"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1578"/>
+        <location filename="../application.cpp" line="1584"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开便携模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携储存设备的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1582"/>
-        <location filename="../application.cpp" line="1612"/>
-        <location filename="../application.cpp" line="1629"/>
-        <location filename="../application.cpp" line="1646"/>
-        <location filename="../application.cpp" line="1692"/>
-        <location filename="../application.cpp" line="1705"/>
+        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1618"/>
+        <location filename="../application.cpp" line="1635"/>
+        <location filename="../application.cpp" line="1652"/>
+        <location filename="../application.cpp" line="1698"/>
+        <location filename="../application.cpp" line="1711"/>
         <source>Portable Mode</source>
         <translation>便携模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1609"/>
+        <location filename="../application.cpp" line="1615"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1626"/>
+        <location filename="../application.cpp" line="1632"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1647"/>
-        <location filename="../application.cpp" line="1706"/>
+        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1712"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1673"/>
+        <location filename="../application.cpp" line="1679"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1689"/>
+        <location filename="../application.cpp" line="1695"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2114"/>
-        <location filename="../application.cpp" line="2127"/>
+        <location filename="../application.cpp" line="2120"/>
+        <location filename="../application.cpp" line="2133"/>
         <source>Premium features disabled</source>
         <translation>高级会员功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2115"/>
+        <location filename="../application.cpp" line="2121"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的高级会员资格了。我已经禁用了你的高级会员功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2128"/>
+        <location filename="../application.cpp" line="2134"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的高级会员已经过期，所以我已经禁用了你的高级会员功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
@@ -1517,6 +1543,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="740"/>
         <source>Button</source>
         <translation>按键</translation>
     </message>
@@ -1527,7 +1554,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="636"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="723"/>
         <source>Left</source>
         <translation>左键</translation>
     </message>
@@ -1539,40 +1566,39 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="638"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="724"/>
         <source>Middle</source>
         <translation>中键</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="639"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="726"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="672"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="670"/>
         <source>Scrolls</source>
         <translation>滑轮</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="687"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="685"/>
         <source>Distance</source>
         <translation>距离</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="798"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="795"/>
         <source>None</source>
         <translation>无</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="831"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="828"/>
         <source>Prune Mouse Heatmap</source>
         <translation>丢弃鼠标热力图</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="832"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="829"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>如果不丢弃鼠标热力图的话，数据库将会变得相当大并拖慢 WhatPulse。停止丢弃？</translation>
     </message>
@@ -2084,22 +2110,22 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkInterfaces_WiredvsWirelessButtons</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="601"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="620"/>
         <source>Show Wired</source>
         <translation>显示有线</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="603"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="622"/>
         <source>Hide Wired</source>
         <translation>隐藏有线</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="612"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="631"/>
         <source>Show Wifi</source>
         <translation>显示无线</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="614"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="633"/>
         <source>Hide Wifi</source>
         <translation>隐藏无线</translation>
     </message>
@@ -2446,135 +2472,141 @@ Please check your permissions on: %2</source>
         <translation>应用</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
-        <source>Current download</source>
-        <translation>当前下载</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
-        <source>Current upload</source>
-        <translation>当前上传</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="47"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="48"/>
         <source>Show only active applications</source>
         <translation>仅显示活跃应用</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="56"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="57"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="66"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="67"/>
         <source>&amp;Export Wizard</source>
         <translation>导出向导(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="77"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="78"/>
         <source>Go Premium</source>
         <translation>启用高级会员</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="115"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="116"/>
         <source>Show in bytes</source>
         <translation>以字节计</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="116"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="117"/>
         <source>Show in bits</source>
         <translation>以比特计</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="198"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="135"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="199"/>
         <source>Summary</source>
         <translation>总结</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="137"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="147"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="139"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="148"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="157"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="149"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="158"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="560"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="159"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="561"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="562"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="563"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="142"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;今天&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
-        <source>Downloaded:</source>
-        <translation>下载：</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="144"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="154"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="164"/>
+        <source>Downloaded:</source>
+        <translation>下载：</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="145"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="155"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="165"/>
         <source>Uploaded:</source>
         <translation>上传：</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="152"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;昨天&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="162"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;全部&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="264"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="351"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="265"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="352"/>
         <source>Summary of </source>
         <translation>总结 </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="410"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="411"/>
         <source>Exclude</source>
         <translation>排除</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="439"/>
         <source>Exclude application?</source>
         <translation>排除应用程序？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="439"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="440"/>
         <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>您确定要排除应用程序“%1”吗？这还将删除该应用程序的历史记录。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="187"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="188"/>
         <source>(Per-application bandwidth is disabled)</source>
         <translation>（已禁用分应用带宽）</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="416"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
+        <source>Download</source>
+        <translation type="unfinished">下载</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
+        <source>Upload</source>
+        <translation type="unfinished">上传</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="27"/>
+        <source>Total</source>
+        <translation type="unfinished">总计</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="417"/>
         <source>Open File Location</source>
         <translation>打开文件路径</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="422"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="423"/>
         <source>Open Online Profile</source>
         <translation>打开线上个人页</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="491"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="492"/>
         <source>Not yet</source>
         <translation>先不要</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="492"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="493"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>该应用尚未上传到网站，请一小时左右之后再试。</translation>
     </message>
@@ -2595,6 +2627,11 @@ Please check your permissions on: %2</source>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
         <source>Upload</source>
         <translation>上传</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
+        <source>Total</source>
+        <translation type="unfinished">总计</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="67"/>
@@ -2733,154 +2770,140 @@ Please check your permissions on: %2</source>
     <name>NetworkTabInterfaces</name>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
         <source>Interface</source>
         <translation>网卡</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <source>Current download</source>
-        <translation>当前下载</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
-        <source>Current upload</source>
-        <translation>当前上传</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="29"/>
         <source>IP-address</source>
         <translation>IP 地址</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="38"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="39"/>
         <source>Total</source>
         <translation>总计</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="62"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="63"/>
         <source>Show only active interfaces</source>
         <translation>仅显示活跃网卡</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="71"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="72"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="81"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="82"/>
         <source>&amp;Export Wizard</source>
         <translation>导出向导(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="107"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="108"/>
         <source>Testing..</source>
         <translation>测试中..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="112"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="113"/>
         <source>Internet:</source>
         <translation>网络：</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="119"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
         <source>Show in bytes</source>
         <translation>以字节计</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="121"/>
         <source>Show in bits</source>
         <translation>以比特计</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="201"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="139"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="202"/>
         <source>Summary</source>
         <translation>总结</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="141"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="142"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="151"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="143"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="152"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="161"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="153"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="162"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="371"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="163"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="372"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="373"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="374"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="146"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;今天&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
-        <source>Downloaded:</source>
-        <translation>下载：</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="148"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="158"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="168"/>
+        <source>Downloaded:</source>
+        <translation>下载：</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="149"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="159"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="169"/>
         <source>Uploaded:</source>
         <translation>上传：</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="156"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;昨天&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="166"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;全部&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="197"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="198"/>
         <source>Summary of Wireless Bandwidth</source>
         <translation>无线带宽总结</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="199"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="200"/>
         <source>Summary of Wired Bandwidth</source>
         <translation>有线带宽总结</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="463"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="468"/>
         <source>Exclude</source>
         <translation>排除</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="502"/>
         <source>Delete Interface?</source>
         <translation>删除界面？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="478"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="503"/>
         <source>Deleting a network interface will remove its history. Continue?</source>
         <translation>删除一个网络接口将删除其历史记录。继续吗？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
         <source>Upload</source>
         <translation>上传</translation>
     </message>
@@ -2908,93 +2931,99 @@ Please check your permissions on: %2</source>
         <translation>上传</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="43"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="26"/>
+        <source>Total</source>
+        <translation type="unfinished">总计</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="44"/>
         <source>Record unknown traffic types</source>
         <translation>记录未知流量类型</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="56"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="57"/>
         <source>Export</source>
         <translation>导出</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="66"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="67"/>
         <source>&amp;Export Wizard</source>
         <translation>导出向导(&amp;E)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="76"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="77"/>
         <source>Go Premium</source>
         <translation>启用高级会员</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="104"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="105"/>
         <source>Record Unknown Traffic Types</source>
         <translation>记录未知流量类型</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="105"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="106"/>
         <source>By recording unknown traffic types, your database will get pretty large and possibly slow WhatPulse down. Still record unknown?</source>
         <translation>如果记录未知流量类型的话，数据库将会变得相当大并拖慢 WhatPulse。依然记录？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="121"/>
         <source>Summary</source>
         <translation>总结</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="123"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="124"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="133"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="125"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="143"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="135"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="144"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="346"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="145"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="347"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="348"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="349"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="128"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;今天&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
-        <source>Downloaded:</source>
-        <translation>下载：</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="130"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="140"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="150"/>
+        <source>Downloaded:</source>
+        <translation>下载：</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="131"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="141"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="151"/>
         <source>Uploaded:</source>
         <translation>上传：</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="138"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;昨天&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="148"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;全部&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="173"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="174"/>
         <source>All Traffic</source>
         <translation>全部流量</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="235"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="236"/>
         <source>Summary of </source>
         <translation>总结 </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="278"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="279"/>
         <source>(Per-type bandwidth is disabled)</source>
         <translation>（已禁用分类型带宽）</translation>
     </message>
@@ -5650,147 +5679,147 @@ This will reset any custom layouts!</source>
         <translation>周六</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1219"/>
-        <location filename="../utils.cpp" line="1245"/>
+        <location filename="../utils.cpp" line="1207"/>
+        <location filename="../utils.cpp" line="1233"/>
         <source>Save as...</source>
         <translation>另存为…</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1232"/>
-        <location filename="../utils.cpp" line="1260"/>
+        <location filename="../utils.cpp" line="1220"/>
+        <location filename="../utils.cpp" line="1248"/>
         <source>Export Failed</source>
         <translation>导出失败</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1233"/>
-        <location filename="../utils.cpp" line="1261"/>
+        <location filename="../utils.cpp" line="1221"/>
+        <location filename="../utils.cpp" line="1249"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>打开导出文件失败！请使用其他目录重试。</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1271"/>
+        <location filename="../utils.cpp" line="1259"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1274"/>
+        <location filename="../utils.cpp" line="1262"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1277"/>
+        <location filename="../utils.cpp" line="1265"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1280"/>
+        <location filename="../utils.cpp" line="1268"/>
         <source>Capslock</source>
         <translation>Capslock</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1283"/>
+        <location filename="../utils.cpp" line="1271"/>
         <source>Left Shift</source>
         <translation>左 Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1286"/>
+        <location filename="../utils.cpp" line="1274"/>
         <source>Left Control</source>
         <translation>左 Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1289"/>
+        <location filename="../utils.cpp" line="1277"/>
         <source>Left Alt</source>
         <translation>左 Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1292"/>
+        <location filename="../utils.cpp" line="1280"/>
         <source>Right Alt</source>
         <translation>右 Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1295"/>
+        <location filename="../utils.cpp" line="1283"/>
         <source>Right Control</source>
         <translation>右 Control</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1298"/>
+        <location filename="../utils.cpp" line="1286"/>
         <source>Right Shift</source>
         <translation>右 Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1301"/>
+        <location filename="../utils.cpp" line="1289"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1304"/>
+        <location filename="../utils.cpp" line="1292"/>
         <source>Down</source>
         <translation>下</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1307"/>
+        <location filename="../utils.cpp" line="1295"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1310"/>
+        <location filename="../utils.cpp" line="1298"/>
         <source>Up</source>
         <translation>上</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1313"/>
+        <location filename="../utils.cpp" line="1301"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1316"/>
+        <location filename="../utils.cpp" line="1304"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1319"/>
+        <location filename="../utils.cpp" line="1307"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1322"/>
+        <location filename="../utils.cpp" line="1310"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1325"/>
+        <location filename="../utils.cpp" line="1313"/>
         <source>End</source>
         <translation>End</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1328"/>
+        <location filename="../utils.cpp" line="1316"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1331"/>
+        <location filename="../utils.cpp" line="1319"/>
         <source>Escape</source>
         <translation>Esc</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1373"/>
+        <location filename="../utils.cpp" line="1361"/>
         <source>Space</source>
         <translation>Space</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1490"/>
+        <location filename="../utils.cpp" line="1478"/>
         <source>Unknown</source>
         <translation>未知</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1984"/>
+        <location filename="../utils.cpp" line="1972"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>升级到高级版以解锁此功能</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="873"/>
         <location filename="../utils.cpp" line="1106"/>
-        <location filename="../utils.cpp" line="1608"/>
+        <location filename="../utils.cpp" line="1596"/>
         <source>unknown</source>
         <translation>未知</translation>
     </message>

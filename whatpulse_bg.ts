@@ -281,149 +281,175 @@ You can continue pulsing.</source>
         <translation>провал на AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="869"/>
+        <location filename="../application.cpp" line="873"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="877"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="881"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="885"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="889"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="888"/>
+        <location filename="../application.cpp" line="892"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="892"/>
+        <location filename="../application.cpp" line="896"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="895"/>
+        <location filename="../application.cpp" line="899"/>
         <source>Enabled Stats</source>
         <translation>Включени статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="900"/>
         <source>Keyboard</source>
         <translation>Клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="897"/>
+        <location filename="../application.cpp" line="901"/>
         <source>Keyboard Heatmap</source>
         <translation>Топлинна карта на клавиатура</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="898"/>
+        <location filename="../application.cpp" line="902"/>
         <source>Mouse</source>
         <translation>Мишка</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="899"/>
+        <location filename="../application.cpp" line="903"/>
         <source>Mouse Heatmap</source>
         <translation>Топлинна карта за мишката</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="904"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="901"/>
+        <location filename="../application.cpp" line="905"/>
+        <location filename="../application.cpp" line="1155"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1368"/>
+        <location filename="../application.cpp" line="1139"/>
+        <source>Keys</source>
+        <translation type="unfinished">Клавиши</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1143"/>
+        <source>Clicks</source>
+        <translation type="unfinished">Кликове</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1147"/>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1150"/>
+        <source>Upload</source>
+        <translation type="unfinished">Качване</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1158"/>
+        <source>Not logged in!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1374"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1369"/>
+        <location filename="../application.cpp" line="1375"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1578"/>
+        <location filename="../application.cpp" line="1584"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1582"/>
-        <location filename="../application.cpp" line="1612"/>
-        <location filename="../application.cpp" line="1629"/>
-        <location filename="../application.cpp" line="1646"/>
-        <location filename="../application.cpp" line="1692"/>
-        <location filename="../application.cpp" line="1705"/>
+        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1618"/>
+        <location filename="../application.cpp" line="1635"/>
+        <location filename="../application.cpp" line="1652"/>
+        <location filename="../application.cpp" line="1698"/>
+        <location filename="../application.cpp" line="1711"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1609"/>
+        <location filename="../application.cpp" line="1615"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1626"/>
+        <location filename="../application.cpp" line="1632"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1647"/>
-        <location filename="../application.cpp" line="1706"/>
+        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1712"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1673"/>
+        <location filename="../application.cpp" line="1679"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1689"/>
+        <location filename="../application.cpp" line="1695"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2114"/>
-        <location filename="../application.cpp" line="2127"/>
+        <location filename="../application.cpp" line="2120"/>
+        <location filename="../application.cpp" line="2133"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2115"/>
+        <location filename="../application.cpp" line="2121"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2128"/>
+        <location filename="../application.cpp" line="2134"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -1512,6 +1538,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="740"/>
         <source>Button</source>
         <translation>Бутон</translation>
     </message>
@@ -1522,7 +1549,7 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="636"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="723"/>
         <source>Left</source>
         <translation>Вляво</translation>
     </message>
@@ -1534,40 +1561,39 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="638"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="724"/>
         <source>Middle</source>
         <translation>Среден</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="639"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="726"/>
         <source>Other</source>
         <translation>Други</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="672"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="670"/>
         <source>Scrolls</source>
         <translation>Свитъци</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="687"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="685"/>
         <source>Distance</source>
         <translation>Разстояние</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="798"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="795"/>
         <source>None</source>
         <translation>Няма</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="831"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="828"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Изчисти топлинната карта на мишката</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="832"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="829"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Ако горещите точки на мишката не се изтриват периодично, базата данни ще стане голяма и ще забави WhatPulse. Сигурни ли сте че искате да спрете почистването?</translation>
     </message>
@@ -2079,22 +2105,22 @@ Please check your permissions on: %2</source>
 <context>
     <name>NetworkInterfaces_WiredvsWirelessButtons</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="601"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="620"/>
         <source>Show Wired</source>
         <translation>Покажи жичен</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="603"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="622"/>
         <source>Hide Wired</source>
         <translation>Скрий жичен</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="612"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="631"/>
         <source>Show Wifi</source>
         <translation>Покажи WiFi</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="614"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="633"/>
         <source>Hide Wifi</source>
         <translation>Скрий WiFi</translation>
     </message>
@@ -2441,135 +2467,141 @@ Please check your permissions on: %2</source>
         <translation>Приложение</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
-        <source>Current download</source>
-        <translation>Сегашно изтегляне</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
-        <source>Current upload</source>
-        <translation>Сегашно качване</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="47"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="48"/>
         <source>Show only active applications</source>
         <translation>Покажи само активни приложения</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="56"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="57"/>
         <source>Export</source>
         <translation>Експорт</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="66"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="67"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Съветник за изтегляне на данни</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="77"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="78"/>
         <source>Go Premium</source>
         <translation>Вземи премиум</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="115"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="116"/>
         <source>Show in bytes</source>
         <translation>Покажи в байтове</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="116"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="117"/>
         <source>Show in bits</source>
         <translation>Покажи в битове</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="198"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="135"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="199"/>
         <source>Summary</source>
         <translation>Обобщение</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="137"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="147"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="139"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="148"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="157"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="149"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="158"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="560"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="159"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="561"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="562"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="563"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="142"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Днес&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="143"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
-        <source>Downloaded:</source>
-        <translation>Изтеглени:</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="144"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="154"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="164"/>
+        <source>Downloaded:</source>
+        <translation>Изтеглени:</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="145"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="155"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="165"/>
         <source>Uploaded:</source>
         <translation>Качени:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="152"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Вчера&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="162"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цялото време&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="264"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="351"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="265"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="352"/>
         <source>Summary of </source>
         <translation>Обобщение от </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="410"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="411"/>
         <source>Exclude</source>
         <translation>Изключи</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="439"/>
         <source>Exclude application?</source>
         <translation>Изключване на приложението?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="439"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="440"/>
         <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Сигурни ли сте, че искате да изключите приложението &apos;%1&apos;? Това също ще премахне историята на това приложение.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="187"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="188"/>
         <source>(Per-application bandwidth is disabled)</source>
         <translation>(Показване на трафика по видове е изключено)</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="416"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
+        <source>Upload</source>
+        <translation type="unfinished">Качване</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="27"/>
+        <source>Total</source>
+        <translation type="unfinished">Общо</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="417"/>
         <source>Open File Location</source>
         <translation>Селектирай файл</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="422"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="423"/>
         <source>Open Online Profile</source>
         <translation>Отвори онлайн профил</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="491"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="492"/>
         <source>Not yet</source>
         <translation>Още не</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="492"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="493"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Това приложение не е качено още в уебсайта, моля изчакай поне час.</translation>
     </message>
@@ -2590,6 +2622,11 @@ Please check your permissions on: %2</source>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
         <source>Upload</source>
         <translation>Качване</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
+        <source>Total</source>
+        <translation type="unfinished">Общо</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="67"/>
@@ -2728,154 +2765,140 @@ Please check your permissions on: %2</source>
     <name>NetworkTabInterfaces</name>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
         <source>Interface</source>
         <translation>Интерфейс</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="517"/>
-        <source>Current download</source>
-        <translation>Сегашно изтегляне</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
-        <source>Current upload</source>
-        <translation>Сегашно качване</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="518"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="29"/>
         <source>IP-address</source>
         <translation>IP-адрес</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="38"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="39"/>
         <source>Total</source>
         <translation>Общо</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="62"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="63"/>
         <source>Show only active interfaces</source>
         <translation>Покажи само активните интерфейси</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="71"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="72"/>
         <source>Export</source>
         <translation>Експорт</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="81"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="82"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Съветник за изтегляне на данни</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="107"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="108"/>
         <source>Testing..</source>
         <translation>Тестване..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="112"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="113"/>
         <source>Internet:</source>
         <translation>Интернет:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="119"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
         <source>Show in bytes</source>
         <translation>Покажи в байтове</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="121"/>
         <source>Show in bits</source>
         <translation>Покажи в битове</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="138"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="201"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="139"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="202"/>
         <source>Summary</source>
         <translation>Обобщение</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="141"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="142"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="151"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="143"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="152"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="161"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="153"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="162"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="371"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="163"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="372"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="373"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="374"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="146"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Днес&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="147"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
-        <source>Downloaded:</source>
-        <translation>Изтеглени:</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="148"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="158"/>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="168"/>
+        <source>Downloaded:</source>
+        <translation>Изтеглени:</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="149"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="159"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="169"/>
         <source>Uploaded:</source>
         <translation>Качени:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="156"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="157"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Вчера&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="166"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="167"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цялото време&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="197"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="198"/>
         <source>Summary of Wireless Bandwidth</source>
         <translation>Обобщение на безжичния интернет</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="199"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="200"/>
         <source>Summary of Wired Bandwidth</source>
         <translation>Обобщение на жичния интернет</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="463"/>
         <source>Delete</source>
         <translation>Изтрий</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="443"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="468"/>
         <source>Exclude</source>
         <translation>Изключи</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="477"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="502"/>
         <source>Delete Interface?</source>
         <translation>Изтриване на интерфейса?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="478"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="503"/>
         <source>Deleting a network interface will remove its history. Continue?</source>
         <translation>Изтриването на мрежов интерфейс ще премахне неговата история. Продължете?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="525"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
         <source>Download</source>
         <translation>Изтегляне</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="526"/>
+        <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
         <source>Upload</source>
         <translation>Качване</translation>
     </message>
@@ -2903,93 +2926,99 @@ Please check your permissions on: %2</source>
         <translation>Качване</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="43"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="26"/>
+        <source>Total</source>
+        <translation type="unfinished">Общо</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="44"/>
         <source>Record unknown traffic types</source>
         <translation>Записвай непознати видове трафик</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="56"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="57"/>
         <source>Export</source>
         <translation>Експорт</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="66"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="67"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Съветник за изтегляне на данни</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="76"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="77"/>
         <source>Go Premium</source>
         <translation>Поръчай премиум</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="104"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="105"/>
         <source>Record Unknown Traffic Types</source>
         <translation>Записвай непознати видове трафик</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="105"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="106"/>
         <source>By recording unknown traffic types, your database will get pretty large and possibly slow WhatPulse down. Still record unknown?</source>
         <translation>При записване на непознати видове трафик е възможно базата данни да стане голяма и да забави WhatPulse. Все още ли искате да продължите?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="120"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="121"/>
         <source>Summary</source>
         <translation>Обобщение</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="123"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="124"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="133"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="125"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="134"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="143"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="135"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="144"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="346"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="145"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="347"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="348"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="349"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="128"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Днес&lt;/b&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="129"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
-        <source>Downloaded:</source>
-        <translation>Изтеглени:</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="130"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="140"/>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="150"/>
+        <source>Downloaded:</source>
+        <translation>Изтеглени:</translation>
+    </message>
+    <message>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="131"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="141"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="151"/>
         <source>Uploaded:</source>
         <translation>Качени:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="138"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="139"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Вчера&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="148"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="149"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цялото време&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="173"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="174"/>
         <source>All Traffic</source>
         <translation>Всичкия трафик</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="235"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="236"/>
         <source>Summary of </source>
         <translation>Обобщение от </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="278"/>
+        <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="279"/>
         <source>(Per-type bandwidth is disabled)</source>
         <translation>(Показване на трафика по видове е изключено)</translation>
     </message>
@@ -5644,147 +5673,147 @@ This will reset any custom layouts!</source>
         <translation>Събота</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1219"/>
-        <location filename="../utils.cpp" line="1245"/>
+        <location filename="../utils.cpp" line="1207"/>
+        <location filename="../utils.cpp" line="1233"/>
         <source>Save as...</source>
         <translation>Запази като...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1232"/>
-        <location filename="../utils.cpp" line="1260"/>
+        <location filename="../utils.cpp" line="1220"/>
+        <location filename="../utils.cpp" line="1248"/>
         <source>Export Failed</source>
         <translation>Експортирането се провали</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1233"/>
-        <location filename="../utils.cpp" line="1261"/>
+        <location filename="../utils.cpp" line="1221"/>
+        <location filename="../utils.cpp" line="1249"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Отварянето на файла за експорт се провали! Моля пробвай пак в друга директория.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1271"/>
+        <location filename="../utils.cpp" line="1259"/>
         <source>Backspace</source>
         <translation>Клавиш за обратен ход</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1274"/>
+        <location filename="../utils.cpp" line="1262"/>
         <source>Enter</source>
         <translation>Ентър</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1277"/>
+        <location filename="../utils.cpp" line="1265"/>
         <source>Tab</source>
         <translation>Таб</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1280"/>
+        <location filename="../utils.cpp" line="1268"/>
         <source>Capslock</source>
         <translation>Капслок</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1283"/>
+        <location filename="../utils.cpp" line="1271"/>
         <source>Left Shift</source>
         <translation>Ляв шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1286"/>
+        <location filename="../utils.cpp" line="1274"/>
         <source>Left Control</source>
         <translation>Ляв контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1289"/>
+        <location filename="../utils.cpp" line="1277"/>
         <source>Left Alt</source>
         <translation>Ляв алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1292"/>
+        <location filename="../utils.cpp" line="1280"/>
         <source>Right Alt</source>
         <translation>Десен алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1295"/>
+        <location filename="../utils.cpp" line="1283"/>
         <source>Right Control</source>
         <translation>Десен контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1298"/>
+        <location filename="../utils.cpp" line="1286"/>
         <source>Right Shift</source>
         <translation>Десен шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1301"/>
+        <location filename="../utils.cpp" line="1289"/>
         <source>Left</source>
         <translation>Стрелка наляво</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1304"/>
+        <location filename="../utils.cpp" line="1292"/>
         <source>Down</source>
         <translation>Стрелка надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1307"/>
+        <location filename="../utils.cpp" line="1295"/>
         <source>Right</source>
         <translation>Стрелка надясно</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1310"/>
+        <location filename="../utils.cpp" line="1298"/>
         <source>Up</source>
         <translation>Стрелка нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1313"/>
+        <location filename="../utils.cpp" line="1301"/>
         <source>Insert</source>
         <translation>Вмъкни</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1316"/>
+        <location filename="../utils.cpp" line="1304"/>
         <source>Home</source>
         <translation>Начало</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1319"/>
+        <location filename="../utils.cpp" line="1307"/>
         <source>Page Up</source>
         <translation>Страница нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1322"/>
+        <location filename="../utils.cpp" line="1310"/>
         <source>Delete</source>
         <translation>Изтрий</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1325"/>
+        <location filename="../utils.cpp" line="1313"/>
         <source>End</source>
         <translation>Край</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1328"/>
+        <location filename="../utils.cpp" line="1316"/>
         <source>Page Down</source>
         <translation>Страница надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1331"/>
+        <location filename="../utils.cpp" line="1319"/>
         <source>Escape</source>
         <translation>Ескейп</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1373"/>
+        <location filename="../utils.cpp" line="1361"/>
         <source>Space</source>
         <translation>Спейс</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1490"/>
+        <location filename="../utils.cpp" line="1478"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1984"/>
+        <location filename="../utils.cpp" line="1972"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Надградете до Premium, за да отключите тази функция</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="873"/>
         <location filename="../utils.cpp" line="1106"/>
-        <location filename="../utils.cpp" line="1608"/>
+        <location filename="../utils.cpp" line="1596"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
