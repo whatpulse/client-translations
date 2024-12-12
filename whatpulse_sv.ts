@@ -281,175 +281,175 @@ Du kan nu fortsätta pulsa.</translation>
         <translation>AES-fel</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="873"/>
+        <location filename="../application.cpp" line="877"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Öppna Fönster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="881"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Växla Geek-fönstret</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="885"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Öppna Inställningar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="889"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Sök efter Uppdateringar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="889"/>
+        <location filename="../application.cpp" line="893"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsa!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="892"/>
+        <location filename="../application.cpp" line="896"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Se Online Statistik</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="900"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Avsluta WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="899"/>
+        <location filename="../application.cpp" line="903"/>
         <source>Enabled Stats</source>
         <translation>Aktiverad statistik</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="904"/>
         <source>Keyboard</source>
         <translation>Tangentbord</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="901"/>
+        <location filename="../application.cpp" line="905"/>
         <source>Keyboard Heatmap</source>
         <translation>Tangentbord Värmekarta</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="902"/>
+        <location filename="../application.cpp" line="906"/>
         <source>Mouse</source>
         <translation>Mus</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="903"/>
+        <location filename="../application.cpp" line="907"/>
         <source>Mouse Heatmap</source>
         <translation>Mus Värmekarta</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="904"/>
+        <location filename="../application.cpp" line="908"/>
         <source>Network</source>
         <translation>Nätverk</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="905"/>
-        <location filename="../application.cpp" line="1155"/>
+        <location filename="../application.cpp" line="909"/>
+        <location filename="../application.cpp" line="1159"/>
         <source>Uptime</source>
         <translation>Drifttid</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1139"/>
+        <location filename="../application.cpp" line="1143"/>
         <source>Keys</source>
         <translation type="unfinished">Tangenttryck</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1143"/>
+        <location filename="../application.cpp" line="1147"/>
         <source>Clicks</source>
         <translation type="unfinished">Musklick</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1147"/>
+        <location filename="../application.cpp" line="1151"/>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1150"/>
+        <location filename="../application.cpp" line="1154"/>
         <source>Upload</source>
         <translation type="unfinished">Uppladdning</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1158"/>
+        <location filename="../application.cpp" line="1162"/>
         <source>Not logged in!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1374"/>
+        <location filename="../application.cpp" line="1378"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsering Inaktiverad!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1375"/>
+        <location filename="../application.cpp" line="1379"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Inställningen &quot;Arbeta offline&quot; är aktiverad. Detta förhindrar klienten från att gå online, vilket inkluderar pulsering. Inaktivera den inställningen och du kan pulsa igen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1588"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Du har aktiverat Portabelt Läge. Detta bör endast användas när du placerar WhatPulse på ett bärbart medium, som en USB-enhet.
 Vill du fotsätta?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1588"/>
-        <location filename="../application.cpp" line="1618"/>
-        <location filename="../application.cpp" line="1635"/>
-        <location filename="../application.cpp" line="1652"/>
-        <location filename="../application.cpp" line="1698"/>
-        <location filename="../application.cpp" line="1711"/>
+        <location filename="../application.cpp" line="1592"/>
+        <location filename="../application.cpp" line="1622"/>
+        <location filename="../application.cpp" line="1639"/>
+        <location filename="../application.cpp" line="1656"/>
+        <location filename="../application.cpp" line="1702"/>
+        <location filename="../application.cpp" line="1715"/>
         <source>Portable Mode</source>
         <translation>Portabelt Läge</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1615"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Det gick inte att kopiera databasen till %1! Kontrollera skrivbehörigheter.
 Inaktiverar portabelt läge.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1632"/>
+        <location filename="../application.cpp" line="1636"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Det gick inte att kopiera statistik filen till %1! Kontrollera skrivbehörigheter.
 Inaktiverar portabelt läge.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1653"/>
-        <location filename="../application.cpp" line="1712"/>
+        <location filename="../application.cpp" line="1657"/>
+        <location filename="../application.cpp" line="1716"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Jag ordnade om några databasfiler och måste starta om mig själv, vi ses om en stund!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1679"/>
+        <location filename="../application.cpp" line="1683"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Det gick inte att kopiera databasen till %1! Kontrollera skrivbehörigheter.
 Behåller portabelt läge aktiverat.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1695"/>
+        <location filename="../application.cpp" line="1699"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Det gick inte att kopiera statistik filen till %1! Kontrollera skrivbehörigheter.
 Behåller portabelt läge aktiverat.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2120"/>
-        <location filename="../application.cpp" line="2133"/>
+        <location filename="../application.cpp" line="2124"/>
+        <location filename="../application.cpp" line="2137"/>
         <source>Premium features disabled</source>
         <translation>Premiumfunktioner inaktiverade</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2121"/>
+        <location filename="../application.cpp" line="2125"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Jag kunde inte kontakta webbplatsen för att verifiera ditt premiummedlemskap under 96 timmar. Jag har inaktiverat premiumfunktionerna. Gå tillbaka online för att aktivera igen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2134"/>
+        <location filename="../application.cpp" line="2138"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Ditt premiummedlemskap har löpt ut så jag har inaktiverat premiumfunktionerna. Du kan återaktivera ditt medlemskap via hemsidan.</translation>
     </message>
@@ -1538,7 +1538,6 @@ Kontrollera dina behörigheter på: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="282"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="740"/>
         <source>Button</source>
         <translation>Knapp</translation>
     </message>
@@ -1548,52 +1547,44 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Musklick</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="636"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="723"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="637"/>
         <source>Left</source>
         <translation>Vänster</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="637"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="725"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="638"/>
         <source>Right</source>
         <translation>Höger</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="638"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="724"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="639"/>
         <source>Middle</source>
         <translation>Mitten</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="726"/>
-        <source>Other</source>
-        <translation>Övriga</translation>
-    </message>
-    <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="296"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="670"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="297"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="671"/>
         <source>Scrolls</source>
         <translation>Rullar</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="304"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="685"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="305"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="686"/>
         <source>Distance</source>
         <translation>Avstånd</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="795"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="786"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="828"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="819"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Rensa Mus Värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="829"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="820"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Genom att inte rensa din mus värmekarta kommer din databas att bli ganska stor och möjligen sakta ner WhatPulse applikationen. Sluta rensa?</translation>
     </message>
@@ -3377,6 +3368,51 @@ Uppladdning: okänt</translation>
         <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
         <translation>Mac OS-version stöds inte; Vänligen markera &quot;Aktivera åtkomst för hjälpmedel&quot; i panelen Universell åtkomst i Systeminställningar och starta om klienten. Tangenttrycksräknare fungerar inte annars. En uppgraderad klient kräver en återaktivering.</translation>
     </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="26"/>
+        <source>Other</source>
+        <translation type="unfinished">Annat</translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="35"/>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="36"/>
+        <source>Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="39"/>
+        <source>Gamepad Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="40"/>
+        <source>Gamepad Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="41"/>
+        <source>Gamepad Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="42"/>
+        <source>Gamepad Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="43"/>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../types/GamepadButton.h" line="44"/>
+        <source>Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>QuaGzipFile</name>
@@ -3863,335 +3899,335 @@ Uppladdning: okänt</translation>
 <context>
     <name>SettingsGeekWindow</name>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="76"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="82"/>
         <source>Add label</source>
         <translation>Lägg till etikett</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="88"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="488"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="505"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="94"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="496"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="513"/>
         <source>Select label to edit..</source>
         <translation>Välj etikett att redigera..</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="99"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
         <source>Insert statistic:</source>
         <translation>Infoga statistik:</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="100"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="383"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="391"/>
         <source>Active Profile Name</source>
         <translation>Aktiv Profilnamn</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="101"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="385"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="393"/>
         <source>Unpulsed Keys</source>
         <translation>Opulserade Tangenttyck</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="102"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
         <source>Unpulsed Clicks</source>
         <translation>Opulserade Musklick</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="103"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="389"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="397"/>
         <source>Unpulsed Download</source>
         <translation>Opulserad Nedladdning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="391"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="399"/>
         <source>Unpulsed Mouse Distance</source>
         <translation>Avstånd till musen utan puls</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="393"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="401"/>
         <source>Unpulsed Mouse Scrolls</source>
         <translation>Opulserad musrullning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="403"/>
         <source>Unpulsed Upload</source>
         <translation>Opulserad Uppladdning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="397"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="405"/>
         <source>Unpulsed Uptime</source>
         <translation>Opulserad Drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="399"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="407"/>
         <source>Unpulsed Click Rate</source>
         <translation>Opulserad Musklickfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="401"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="409"/>
         <source>Unpulsed Key Rate</source>
         <translation>Opulserad tangenttryckfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="403"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="411"/>
         <source>Unpulsed Download Rate</source>
         <translation>Opulserad Nedladdningsfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="405"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
         <source>Unpulsed Upload Rate</source>
         <translation>Opulserad Uppladdningsfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="407"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="415"/>
         <source>Current Click Rate</source>
         <translation>Aktuell Musklickfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="409"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="417"/>
         <source>Current Key Rate</source>
         <translation>Aktuell Tangenttryckfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="411"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="419"/>
         <source>Current Download Rate</source>
         <translation>Aktuell Nedladdningsfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="421"/>
         <source>Current Upload Rate</source>
         <translation>Aktuell Uppladdningsfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="415"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
         <source>Current Uptime</source>
         <translation>Nuvarande Drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="417"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="425"/>
         <source>Total Keys</source>
         <translation>Totala Tangenttryck</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="419"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="124"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="427"/>
         <source>Total Clicks</source>
         <translation>Totala Musklick</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="421"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="125"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="429"/>
         <source>Total Download</source>
         <translation>Total Nedladdning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="431"/>
         <source>Total Upload</source>
         <translation>Total Uppladdning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="425"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
         <source>Total Uptime</source>
         <translation>Total Drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="435"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="128"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="443"/>
         <source>Total Mouse Distance</source>
         <translation>Totalt avstånd för musen</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="437"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="445"/>
         <source>Total Mouse Scrolls</source>
         <translation>Totalt antal musrullningar</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="124"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="427"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="435"/>
         <source>Total Click Rate</source>
         <translation>Total Musklicksfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="125"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="429"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="437"/>
         <source>Total Key Rate</source>
         <translation>Total Tangenttrycksfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="431"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="132"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="439"/>
         <source>Total Download Rate</source>
         <translation>Total Nedladdningsfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="133"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="441"/>
         <source>Total Upload Rate</source>
         <translation>Total Uppladdningsfrekvens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="439"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="447"/>
         <source>Rank Keys</source>
         <translation>Rangordna Tangenter</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="441"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="136"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="449"/>
         <source>Rank Clicks</source>
         <translation>Rangordna Klick</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="443"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
         <source>Rank Download</source>
         <translation>Rangordna Nedladdning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="132"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="445"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="453"/>
         <source>Rank Mouse Distance</source>
         <translation>Rank Mouse Distance</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="133"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="447"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="139"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="455"/>
         <source>Rank Mouse Scrolls</source>
         <translation>Rank Mouse Scrolls</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="134"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="449"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="140"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="457"/>
         <source>Rank Upload</source>
         <translation>Rangordna Uppladdning</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="141"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="459"/>
         <source>Rank Uptime</source>
         <translation>Rangordna Drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="453"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="143"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="461"/>
         <source>Today Keys</source>
         <translation>Tangenttryck Idag</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="455"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="144"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="463"/>
         <source>Today Clicks</source>
         <translation>Musklick Idag</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="139"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="457"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="145"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="465"/>
         <source>Today Download</source>
         <translation>Nedladdning Idag</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="140"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="459"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="146"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="467"/>
         <source>Today Upload</source>
         <translation>Uppladdning Idag</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="141"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="461"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="147"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="469"/>
         <source>Today Mouse Distance</source>
         <translation>Idag Musavstånd</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="142"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="463"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="148"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="471"/>
         <source>Today Mouse Scrolls</source>
         <translation>Idag rullar musen</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="153"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="157"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="159"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="163"/>
         <source>Delete label</source>
         <translation>Radera etikett</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="204"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="212"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="298"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="210"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="218"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="302"/>
         <source>Reset to default</source>
         <translation>Återställ till standard</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="216"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="222"/>
         <source>Background color: </source>
         <translation>Bakgrundsfärg: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="220"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="226"/>
         <source>Font color: </source>
         <translation>Fontfärg: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="232"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="238"/>
         <source>Font size: </source>
         <translation>Fontstorlek: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="240"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="246"/>
         <source>Close on double click</source>
         <translation>Stäng vid dubbelklick</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="246"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="251"/>
         <source>Put on top of all windows</source>
         <translation>Placera över alla fönster</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="254"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="258"/>
         <source>Snap to grid</source>
         <translation>Fäst till rutnät</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="278"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="282"/>
         <source>Transparency: </source>
         <translation>Transparens: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="288"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="292"/>
         <source>Call to Center</source>
         <translation>Anropa till Center</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="577"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="585"/>
         <source>Reset to default?</source>
         <translation>Återställ till standard?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="578"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="586"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>Vill du återställa Geek Fönstret till standard?
 Detta kommer att återställa alla anpassade layouter!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.h" line="34"/>
+        <location filename="../interface/settings/settingsgeekwindow.h" line="35"/>
         <source>Geek Window</source>
         <translation>Geek-fönstret</translation>
     </message>
@@ -5741,6 +5777,7 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1289"/>
+        <location filename="../utils.cpp" line="1997"/>
         <source>Left</source>
         <translation>Vänster</translation>
     </message>
@@ -5751,6 +5788,7 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="1295"/>
+        <location filename="../utils.cpp" line="1995"/>
         <source>Right</source>
         <translation>Höger</translation>
     </message>
@@ -5808,6 +5846,21 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <location filename="../utils.cpp" line="1972"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Uppgradera till Premium för att låsa upp den här funktionen</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="1999"/>
+        <source>Middle</source>
+        <translation type="unfinished">Mitten</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="2001"/>
+        <source>Other</source>
+        <translation type="unfinished">Annat</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="2009"/>
+        <source>Button</source>
+        <translation type="unfinished">Knapp</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="873"/>
