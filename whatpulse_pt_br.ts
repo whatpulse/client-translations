@@ -354,27 +354,27 @@ Você pode continuar pulsando.</translation>
     <message>
         <location filename="../application.cpp" line="1143"/>
         <source>Keys</source>
-        <translation type="unfinished">Teclas</translation>
+        <translation>Teclas</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1147"/>
         <source>Clicks</source>
-        <translation type="unfinished">Clicks</translation>
+        <translation>Cliques</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1151"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixado</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1154"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1162"/>
         <source>Not logged in!</source>
-        <translation type="unfinished"></translation>
+        <translation>Não Logado!</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1378"/>
@@ -2561,17 +2561,17 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="25"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixado</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="26"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviado</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="27"/>
         <source>Total</source>
-        <translation type="unfinished">Total</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="417"/>
@@ -2614,7 +2614,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="51"/>
         <source>Total</source>
-        <translation type="unfinished">Total</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="67"/>
@@ -2883,7 +2883,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="27"/>
         <source>Download</source>
-        <translation>Baixar</translation>
+        <translation>Baixado</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="28"/>
@@ -2916,7 +2916,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="26"/>
         <source>Total</source>
-        <translation type="unfinished">Total</translation>
+        <translation>Total</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="44"/>
@@ -3369,47 +3369,47 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../types/GamepadButton.h" line="26"/>
         <source>Other</source>
-        <translation type="unfinished">Outro</translation>
+        <translation>Outro</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="35"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="36"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Início</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="39"/>
         <source>Gamepad Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle para Cima</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="40"/>
         <source>Gamepad Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle para Baixo</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="41"/>
         <source>Gamepad Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle para Direita</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="42"/>
         <source>Gamepad Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle para Esquerda</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="43"/>
         <source>Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Centro</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="44"/>
         <source>Guide</source>
-        <translation type="unfinished"></translation>
+        <translation>Guia</translation>
     </message>
 </context>
 <context>
@@ -5848,17 +5848,17 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../utils.cpp" line="1999"/>
         <source>Middle</source>
-        <translation type="unfinished">Central</translation>
+        <translation>Central</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="2001"/>
         <source>Other</source>
-        <translation type="unfinished">Outro</translation>
+        <translation>Outro</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="2009"/>
         <source>Button</source>
-        <translation type="unfinished">Botão</translation>
+        <translation>Botão</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="873"/>
