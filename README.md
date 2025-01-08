@@ -77,26 +77,26 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/edermachado>
+            <img src=https://avatars.githubusercontent.com/u/1864475?v=4 width="100;"  alt=Éder Magalhães Machado/>
+            <br />
+            <sub style="font-size:14px"><b>Éder Magalhães Machado</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/TheMorc>
             <img src=https://avatars.githubusercontent.com/u/13377926?v=4 width="100;"  alt=Richard Gráčik/>
             <br />
             <sub style="font-size:14px"><b>Richard Gráčik</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/AA0000-33>
             <img src=https://avatars.githubusercontent.com/u/22997509?v=4 width="100;"  alt=Ammar Naif/>
             <br />
             <sub style="font-size:14px"><b>Ammar Naif</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/edermachado>
-            <img src=https://avatars.githubusercontent.com/u/1864475?v=4 width="100;"  alt=Éder Magalhães Machado/>
-            <br />
-            <sub style="font-size:14px"><b>Éder Magalhães Machado</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
