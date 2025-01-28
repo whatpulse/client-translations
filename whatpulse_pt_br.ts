@@ -572,7 +572,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../online/clientcommunication.cpp" line="406"/>
         <source>Computer login still pending.</source>
-        <translation type="unfinished"></translation>
+        <translation>Login no computador ainda pendente.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="408"/>
@@ -647,7 +647,7 @@ Keeping Portable Mode enabled.</source>
     <message>
         <location filename="../interface/customtitlebarwindow/premiumupgradebutton.cpp" line="4"/>
         <source>Upgrade to Premium</source>
-        <translation type="unfinished">Atualizar para o Premium</translation>
+        <translation>Atualizar para o Premium</translation>
     </message>
 </context>
 <context>
@@ -3289,7 +3289,7 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../interface/widgets/profilefilterwidget.cpp" line="18"/>
         <source>Profile filter:</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtro de perfil:</translation>
     </message>
     <message>
         <location filename="../interface/widgets/profilefilterwidget.cpp" line="31"/>
@@ -3389,62 +3389,62 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="22"/>
         <source>Transcribe</source>
-        <translation type="unfinished"></translation>
+        <translation>Transcrever</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="23"/>
         <source>Backward</source>
-        <translation type="unfinished"></translation>
+        <translation>Para trás</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="24"/>
         <source>Dictate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ditar</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="25"/>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Avançar</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="26"/>
         <source>Rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebobinar</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="27"/>
         <source>Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanço rápido</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="28"/>
         <source>Stop/Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Parar/Reproduzir</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="29"/>
         <source>Custom Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Esquerda Personalizada</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="30"/>
         <source>Custom Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Direito Aduaneiro</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="31"/>
         <source>Enter</source>
-        <translation type="unfinished">Enter</translation>
+        <translation>Enter</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="32"/>
         <source>Mouse Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Mouse Esquerdo</translation>
     </message>
     <message>
         <location filename="../types/NuancePowermicButton.h" line="33"/>
         <source>Mouse Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Mouse Direito</translation>
     </message>
 </context>
 <context>
@@ -4699,7 +4699,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="132"/>
         <source>Resync &amp;time series</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressincronizar séries &amp;temporais</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="137"/>
@@ -4759,12 +4759,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="292"/>
         <source>Time series resync</source>
-        <translation type="unfinished"></translation>
+        <translation>Ressincronização de séries temporais</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="293"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na próxima vez que você pulsar, os dados da série temporal das últimas 2 semanas serão ressincronizados com o site.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="315"/>
@@ -5923,12 +5923,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../online/versioncheck.cpp" line="139"/>
         <source>Error checking for new versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificação de erros para novas versões</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="140"/>
         <source>There was an error running the WhatPulseMaintenanceTool, which checks for new versions. Please try again or refer to the error below for more information:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro ao executar o WhatPulseMaintenanceTool, que verifica novas versões. Tente novamente ou consulte o erro abaixo para obter mais informações:</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="172"/>
@@ -6002,7 +6002,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="484"/>
         <source>Authorization process has timed out after %1 hours. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>O processo de autorização expirou após %1 horas. Tente novamente.</translation>
     </message>
 </context>
 <context>
