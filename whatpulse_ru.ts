@@ -256,169 +256,169 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="222"/>
+        <location filename="../application.cpp" line="228"/>
         <source>No system tray</source>
         <translation>Нет области уведомлений</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="229"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>Не удается обнаружить область уведомлений в этой системе, данный компонент необходим для запуска.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="241"/>
+        <location filename="../application.cpp" line="247"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>Функции AES-шифрования недоступны. В системе установлены библиотеки libeay32.dll и ssleay32.dll? Если нет, попробуйте переустановить!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="245"/>
+        <location filename="../application.cpp" line="251"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Функции AES-шифрования недоступны. Библиотека OpenSSL установлена?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="248"/>
+        <location filename="../application.cpp" line="254"/>
         <source>AES failure</source>
         <translation>Ошибка AES-шифрования</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="914"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Открыть окно</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="918"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Показать/скрыть мини-статистику</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="922"/>
         <source>&amp;Open Settings</source>
         <translation>Открыть &amp;настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="889"/>
+        <location filename="../application.cpp" line="926"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Проверить обновления</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="893"/>
+        <location filename="../application.cpp" line="930"/>
         <source>&amp;Pulse!</source>
         <translation>Отправить &amp;данные!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="933"/>
         <source>&amp;View Online Stats</source>
         <translation>Просмотр ст&amp;атистики в интернете</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="937"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>В&amp;ыйти из аккаунта</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1020"/>
+        <location filename="../application.cpp" line="1057"/>
         <source>Uptime</source>
         <translation>Время работы</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1004"/>
+        <location filename="../application.cpp" line="1041"/>
         <source>Keys</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1008"/>
+        <location filename="../application.cpp" line="1045"/>
         <source>Clicks</source>
         <translation type="unfinished">Клики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1012"/>
+        <location filename="../application.cpp" line="1049"/>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1015"/>
+        <location filename="../application.cpp" line="1052"/>
         <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1023"/>
+        <location filename="../application.cpp" line="1060"/>
         <source>Not logged in!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1285"/>
+        <location filename="../application.cpp" line="1327"/>
         <source>Pulsing Disabled!</source>
         <translation>Отправка данных отключена!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1286"/>
+        <location filename="../application.cpp" line="1328"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Включена настройка &quot;Работать оффлайн&quot;. Это не позволяет программе выходить в интернет, в том числе и для отправки данных. Отключение этой настройки позволит вновь отправлять данные.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1506"/>
+        <location filename="../application.cpp" line="1516"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>У вас включен портативный режим. Это следует использовать при установке программы на съемные носители, например, USB-флэшки.
 Вы хотите продолжить?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1510"/>
-        <location filename="../application.cpp" line="1540"/>
-        <location filename="../application.cpp" line="1557"/>
-        <location filename="../application.cpp" line="1574"/>
-        <location filename="../application.cpp" line="1620"/>
-        <location filename="../application.cpp" line="1633"/>
+        <location filename="../application.cpp" line="1520"/>
+        <location filename="../application.cpp" line="1550"/>
+        <location filename="../application.cpp" line="1567"/>
+        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1630"/>
+        <location filename="../application.cpp" line="1643"/>
         <source>Portable Mode</source>
         <translation>Портативный режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1537"/>
+        <location filename="../application.cpp" line="1547"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирование базы в %1 не удалось. Проверьте разрешение на запись.
 Выключение портативного режима.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1564"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирование файла статистики в %1 не удалось. Проверьте разрешение на запись.
 Выключение портативного режима.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1575"/>
-        <location filename="../application.cpp" line="1634"/>
+        <location filename="../application.cpp" line="1585"/>
+        <location filename="../application.cpp" line="1644"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>База данных перестроена, требуется перезапуск!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1601"/>
+        <location filename="../application.cpp" line="1611"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирование базы данных в %1 не удалось. Проверьте разрешение на запись.
 Портативный режим остается активен.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1617"/>
+        <location filename="../application.cpp" line="1627"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирование файла статистики в %1 не удалось. Проверьте разрешение на запись.
 Портативный режим остается активен.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2045"/>
-        <location filename="../application.cpp" line="2058"/>
+        <location filename="../application.cpp" line="2066"/>
+        <location filename="../application.cpp" line="2079"/>
         <source>Premium features disabled</source>
         <translation>Премиум-функции отключены</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2046"/>
+        <location filename="../application.cpp" line="2067"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не удается связаться с сервером для проверки вашего премиум-статуса уже 96 часов. Ваши премиум-функции отключены. Вернитесь в онлайн, чтобы включить их снова.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2059"/>
+        <location filename="../application.cpp" line="2080"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Ваш премиум-статус истек, поэтому премиум-функции отключены. Вы можете повторно активировать ваш премиум-статус на сайте.</translation>
     </message>
@@ -1953,17 +1953,17 @@ Please check your permissions on: %2</source>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="121"/>
+        <location filename="../stats/localstats.cpp" line="111"/>
         <source>Pulse throttled!</source>
         <translation>Отправка данных ограничена!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="122"/>
+        <location filename="../stats/localstats.cpp" line="112"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Отправка данных ограничена! Последний раз вы отправляли данные %1 секунд назад, попробуйте еще раз через 10 секунд.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="342"/>
+        <location filename="../stats/localstats.cpp" line="316"/>
         <source>Error while pulsing!</source>
         <translation>Ошибка во время отправки данных!</translation>
     </message>
@@ -1998,24 +1998,24 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="192"/>
-        <location filename="../interface/MainWindow.cpp" line="375"/>
         <location filename="../interface/MainWindow.cpp" line="376"/>
+        <location filename="../interface/MainWindow.cpp" line="377"/>
         <source>Account</source>
         <translation>Аккаунт</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="265"/>
+        <location filename="../interface/MainWindow.cpp" line="266"/>
         <source>There&apos;s a new version available!</source>
         <translation>Доступно обновление!</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="326"/>
         <location filename="../interface/MainWindow.cpp" line="327"/>
+        <location filename="../interface/MainWindow.cpp" line="328"/>
         <source>Setup</source>
         <translation>Установка</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="388"/>
+        <location filename="../interface/MainWindow.cpp" line="389"/>
         <source>Disabled</source>
         <translation>Отключено</translation>
     </message>
@@ -4734,59 +4734,87 @@ This will reset any custom layouts!</source>
         <translation>Проверить разрешения MacOS</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="175"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="174"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="386"/>
+        <source>Use advanced input method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="176"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="388"/>
+        <source>enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="178"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="390"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="191"/>
         <source>&amp;Generate demo data</source>
         <translation>&amp;Сгенерировать демонстрационные данные</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="201"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="217"/>
         <source>Settings saved!</source>
         <translation>Настройки сохранены!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="225"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="241"/>
         <source> Check for Updates</source>
         <translation> Проверить обновления</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="280"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="296"/>
         <source>Uploading Apps</source>
         <translation>Отправка приложений</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="281"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="297"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Приложения были помечены на отправку. Они появятся на сайте примерно через час.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="292"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="308"/>
         <source>Time series resync</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="293"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="309"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="315"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="331"/>
         <source>Empty Database</source>
         <translation>Очистить базу данных</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="316"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="332"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Очистка вашей локальной базы уничтожит всю вашу локальную статистику и выйдет из вашего аккаунта. Восстановить будет невозможно, продолжить?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="334"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="350"/>
         <source>Upload Computer Info</source>
         <translation>Загрузка информации о компьютере</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="335"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="351"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Успешно начата загрузка профиля компьютера. Сайт будет обновлен через несколько минут.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="394"/>
+        <source>Restart required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="395"/>
+        <source>Before this setting change can take effect, please restart WhatPulse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

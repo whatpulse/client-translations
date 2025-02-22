@@ -256,169 +256,169 @@ Môžete pokračovať v pulzovaní.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="222"/>
+        <location filename="../application.cpp" line="228"/>
         <source>No system tray</source>
         <translation>Žiadny systémový tray</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="229"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>Nepodarilo sa zistiť žiadny systémový tray na tomto systéme.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="241"/>
+        <location filename="../application.cpp" line="247"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES funkcie sú nedostupné. Sú libeay32.dll a ssleay32.dll prítomné? Ak nie, skúste preinštalovať!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="245"/>
+        <location filename="../application.cpp" line="251"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES funkcie sú nedostupné. Je knižnica OpenSSL prítomná?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="248"/>
+        <location filename="../application.cpp" line="254"/>
         <source>AES failure</source>
         <translation>zlyhanie AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="914"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Otvoriť okno</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="918"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Prepnúť geek okno</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="922"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Otvoriť nastavenia</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="889"/>
+        <location filename="../application.cpp" line="926"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Skontrolovať aktualizácie</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="893"/>
+        <location filename="../application.cpp" line="930"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulzni!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="933"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Zobraziť online štatistiky</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="937"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Zatvoriť WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1020"/>
+        <location filename="../application.cpp" line="1057"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1004"/>
+        <location filename="../application.cpp" line="1041"/>
         <source>Keys</source>
         <translation type="unfinished">Klávesy</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1008"/>
+        <location filename="../application.cpp" line="1045"/>
         <source>Clicks</source>
         <translation type="unfinished">Kliknutia</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1012"/>
+        <location filename="../application.cpp" line="1049"/>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1015"/>
+        <location filename="../application.cpp" line="1052"/>
         <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1023"/>
+        <location filename="../application.cpp" line="1060"/>
         <source>Not logged in!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1285"/>
+        <location filename="../application.cpp" line="1327"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulzovanie vypnuté!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1286"/>
+        <location filename="../application.cpp" line="1328"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi na online pripojenie, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1506"/>
+        <location filename="../application.cpp" line="1516"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Máte zapnutý prenosný režim. Táto možnosť by mala byť použitá iba keď používate WhatPulse z prenosného média ako je USB disk.
 Chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1510"/>
-        <location filename="../application.cpp" line="1540"/>
-        <location filename="../application.cpp" line="1557"/>
-        <location filename="../application.cpp" line="1574"/>
-        <location filename="../application.cpp" line="1620"/>
-        <location filename="../application.cpp" line="1633"/>
+        <location filename="../application.cpp" line="1520"/>
+        <location filename="../application.cpp" line="1550"/>
+        <location filename="../application.cpp" line="1567"/>
+        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1630"/>
+        <location filename="../application.cpp" line="1643"/>
         <source>Portable Mode</source>
         <translation>Prenosný režim</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1537"/>
+        <location filename="../application.cpp" line="1547"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Kopírovanie databázy do %1 zlyhalo! Skontrolujte povolenia zápisu.
 Vypínam prenosný režim.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1564"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Kopírovanie súboru štatistík do %1 zlyhalo! Skontrolujte povolenia zápisu.
 Vypínam prenosný režim.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1575"/>
-        <location filename="../application.cpp" line="1634"/>
+        <location filename="../application.cpp" line="1585"/>
+        <location filename="../application.cpp" line="1644"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Popresúvali sme niektoré databázové súbory a potrebujeme reštart, vidíme sa o chvíľu!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1601"/>
+        <location filename="../application.cpp" line="1611"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Kopírovanie databázy do %1 zlyhalo! Skontrolujte povolenia zápisu.
 Nechávam prenosný režim zapnutý.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1617"/>
+        <location filename="../application.cpp" line="1627"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Kopírovanie súboru štatistík do %1 zlyhalo! Skontrolujte povolenia zápisu.
 Nechávam prenosný režim zapnutý.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2045"/>
-        <location filename="../application.cpp" line="2058"/>
+        <location filename="../application.cpp" line="2066"/>
+        <location filename="../application.cpp" line="2079"/>
         <source>Premium features disabled</source>
         <translation>Premium funkcie vypnuté</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2046"/>
+        <location filename="../application.cpp" line="2067"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Už 96 hodín nebolo možné kontaktovať stránku na verifikovanie premium členstva. Vypli sme premium funkcie. Vráťte sa späť do online režimu na opätovné zapnutie premium funkcií.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2059"/>
+        <location filename="../application.cpp" line="2080"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Vypli sme vám premium funkcie keďže Vaše premium členstvo vypršalo. Môžete si reaktivovať svoje členstvo cez stránku.</translation>
     </message>
@@ -1953,17 +1953,17 @@ Skontrolujte si povolenia na : %2</translation>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="121"/>
+        <location filename="../stats/localstats.cpp" line="111"/>
         <source>Pulse throttled!</source>
         <translation>Pulz obmedzený!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="122"/>
+        <location filename="../stats/localstats.cpp" line="112"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Pulz obmedzený! Váš posledný pulz bol pred %1 sekundami, skúste to prosím neskôr za 10 sekúnd.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="342"/>
+        <location filename="../stats/localstats.cpp" line="316"/>
         <source>Error while pulsing!</source>
         <translation>Chyba pri pulzovaní!</translation>
     </message>
@@ -1998,24 +1998,24 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="192"/>
-        <location filename="../interface/MainWindow.cpp" line="375"/>
         <location filename="../interface/MainWindow.cpp" line="376"/>
+        <location filename="../interface/MainWindow.cpp" line="377"/>
         <source>Account</source>
         <translation>Účet</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="265"/>
+        <location filename="../interface/MainWindow.cpp" line="266"/>
         <source>There&apos;s a new version available!</source>
         <translation>K dispozícii je nová verzia!</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="326"/>
         <location filename="../interface/MainWindow.cpp" line="327"/>
+        <location filename="../interface/MainWindow.cpp" line="328"/>
         <source>Setup</source>
         <translation>Nastavenie</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="388"/>
+        <location filename="../interface/MainWindow.cpp" line="389"/>
         <source>Disabled</source>
         <translation>Vypnuté</translation>
     </message>
@@ -4734,59 +4734,87 @@ Toto resetuje všetky vlastné rozloženia!</translation>
         <translation>Skontrolovať macOS povolenia</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="175"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="174"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="386"/>
+        <source>Use advanced input method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="176"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="388"/>
+        <source>enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="178"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="390"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="191"/>
         <source>&amp;Generate demo data</source>
         <translation>&amp;Vytvoriť demo údaje</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="201"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="217"/>
         <source>Settings saved!</source>
         <translation>Nastavenia uložené!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="225"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="241"/>
         <source> Check for Updates</source>
         <translation> Skontrolovať aktualizácie</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="280"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="296"/>
         <source>Uploading Apps</source>
         <translation>Nahrávanie aplikácií</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="281"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="297"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Aplikácie boli označené na nahranie. Môže to trvať hodinu predtým ako sa objavia na stránke.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="292"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="308"/>
         <source>Time series resync</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="293"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="309"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="315"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="331"/>
         <source>Empty Database</source>
         <translation>Prázdna databáza</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="316"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="332"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Vyčistenie vašej lokálnej databázy vymaže všetky lokálne štatistiky a odhlási váš účet. Toto sa nebude dať obnoviť, chcete pokračovať?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="334"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="350"/>
         <source>Upload Computer Info</source>
         <translation>Odoslanie informácií o počítači</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="335"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="351"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Úspešne sa spustilo nahrávanie profilu počítača. Webová stránka bude aktualizovaná za niekoľko minút.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="394"/>
+        <source>Restart required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="395"/>
+        <source>Before this setting change can take effect, please restart WhatPulse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

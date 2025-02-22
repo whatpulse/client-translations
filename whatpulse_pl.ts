@@ -257,171 +257,171 @@ Znów możesz pulsować.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="222"/>
+        <location filename="../application.cpp" line="228"/>
         <source>No system tray</source>
         <translatorcomment>Trudny przypadek. Jest o tym artykuł tutaj: https://newsblog.pl/czy-wiedziales-windows-nigdy-nie-mial-zasobnika-systemowego/. Jestem o tyle zwolennikiem używania tych nieco niezręcznych określeń jak &quot;tacka systemowa&quot; bądź (bardziej mi się podobające) &quot;zasobnik systemowy&quot;, że w polskim tłumaczeniu konsekwentnie nazywane jest to &quot;obszarem powiadomień&quot;, ale przykładowo Gnome ma już obszar powiadomień i jest on kompletnie innym elementem interfejsu. EDIT: Taaa, widzę, ten artykuł jest przetłumaczony automatycznie. &lt;insert the &quot;How ironic&quot; Palpatine meme here&gt;</translatorcomment>
         <translation>Brak zasobnika systemowego</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="223"/>
+        <location filename="../application.cpp" line="229"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translatorcomment>Vide - &quot;No system tray&quot;.</translatorcomment>
         <translation>Nie znalazłem w tym systemie operacyjnym zasobnika systemowego, a jest mi on potrzebny do działania.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="241"/>
+        <location filename="../application.cpp" line="247"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translatorcomment>W oryginalnym tekście nie jest jasne, co Użytkownik ma zreinstalować (WhatPulse? Czy te biblioteki?) i to samo niedopowiedzenie zostawiam w tłumaczeniu.</translatorcomment>
         <translation>Funkcje AES nie są dostępne. Czy libeay32.dll oraz ssleay32.dll są zainstalowane w tym systemie? Jeżeli nie, spróbój ponownej instalacji!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="245"/>
+        <location filename="../application.cpp" line="251"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Funkcje AES nie są dostępne. Czy biblioteka OpenSSL jest zainstalowana w tym systemie?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="248"/>
+        <location filename="../application.cpp" line="254"/>
         <source>AES failure</source>
         <translation>Błąd szyfrowania AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="877"/>
+        <location filename="../application.cpp" line="914"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Otwórz okno</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="881"/>
+        <location filename="../application.cpp" line="918"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Włącz Geek Window</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="885"/>
+        <location filename="../application.cpp" line="922"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Otwórz ustawienia</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="889"/>
+        <location filename="../application.cpp" line="926"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Sprawdź dostępność aktualizacji</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="893"/>
+        <location filename="../application.cpp" line="930"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsuj!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="896"/>
+        <location filename="../application.cpp" line="933"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Zobacz statystyki na stronie</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="900"/>
+        <location filename="../application.cpp" line="937"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Zamknij WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1020"/>
+        <location filename="../application.cpp" line="1057"/>
         <source>Uptime</source>
         <translation>Czas pracy</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1004"/>
+        <location filename="../application.cpp" line="1041"/>
         <source>Keys</source>
         <translation type="unfinished">Naciśnięcia klawiszy</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1008"/>
+        <location filename="../application.cpp" line="1045"/>
         <source>Clicks</source>
         <translation type="unfinished">Kliknięcia</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1012"/>
+        <location filename="../application.cpp" line="1049"/>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1015"/>
+        <location filename="../application.cpp" line="1052"/>
         <source>Upload</source>
         <translation type="unfinished">Wysłane</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1023"/>
+        <location filename="../application.cpp" line="1060"/>
         <source>Not logged in!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1285"/>
+        <location filename="../application.cpp" line="1327"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsowanie wyłączone!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1286"/>
+        <location filename="../application.cpp" line="1328"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Włączony jest &quot;Tryb offline&quot;. Powoduje to, że aplikacja nie będzie używała internetu, co między innymi oznacza brak pulsowania. Wyłącz ten tryb, aby móc znów pulsować.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1506"/>
+        <location filename="../application.cpp" line="1516"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Włączony został &quot;Tryb przenośny&quot;. Powinno się go używać wyłącznie w przypadku, kiedy WhatPulse zainstalowane jest na nośniku przenośnym, jak na przykład pendrive. Czy chcesz kontynuować?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1510"/>
-        <location filename="../application.cpp" line="1540"/>
-        <location filename="../application.cpp" line="1557"/>
-        <location filename="../application.cpp" line="1574"/>
-        <location filename="../application.cpp" line="1620"/>
-        <location filename="../application.cpp" line="1633"/>
+        <location filename="../application.cpp" line="1520"/>
+        <location filename="../application.cpp" line="1550"/>
+        <location filename="../application.cpp" line="1567"/>
+        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1630"/>
+        <location filename="../application.cpp" line="1643"/>
         <source>Portable Mode</source>
         <translation>Tryb przenośny</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1537"/>
+        <location filename="../application.cpp" line="1547"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Kopiowanie bazy danych do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Wyłączam tryb przenośny.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1564"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Kopiowanie pliku ze statystykami do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Wyłączam tryb przenośny.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1575"/>
-        <location filename="../application.cpp" line="1634"/>
+        <location filename="../application.cpp" line="1585"/>
+        <location filename="../application.cpp" line="1644"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Trochę przeorganizowałem pliki z bazami danych i teraz muszę ponownie się uruchomić. Zaraz wracam!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1601"/>
+        <location filename="../application.cpp" line="1611"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Kopiowanie bazy danych do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Tryb przenośny pozostaje włączony.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1617"/>
+        <location filename="../application.cpp" line="1627"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Kopiowanie pliku ze statystykami do %1 nie powiodło się! Sprawdź uprawnienia do zapisu.
 Tryb przenośny pozostaje włączony.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2045"/>
-        <location filename="../application.cpp" line="2058"/>
+        <location filename="../application.cpp" line="2066"/>
+        <location filename="../application.cpp" line="2079"/>
         <source>Premium features disabled</source>
         <translation>Funkcje premium wyłączone</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2046"/>
+        <location filename="../application.cpp" line="2067"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Od 96 godzin nie udało mi się połączyć ze stroną internetową w celu potwierdzenia aktywności Twojej subskrypcji premium. Połącz się z internetem, aby przywrócić premium.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2059"/>
+        <location filename="../application.cpp" line="2080"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Twoja subskrypcja wygasła, a więc wyłączam funkcje premium. Możesz ponownie aktywować konto premium za pośrednictwem strony internetowej.</translation>
     </message>
@@ -1962,17 +1962,17 @@ Sprawdź swoje uprawnienia do: %2</translation>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="121"/>
+        <location filename="../stats/localstats.cpp" line="111"/>
         <source>Pulse throttled!</source>
         <translation>Pulsowanie wstrzymane!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="122"/>
+        <location filename="../stats/localstats.cpp" line="112"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Pulsowanie wstrzymane! Ostatni pulse miał miejsce %1 sekund temu, spróbuj za 10 sekund.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="342"/>
+        <location filename="../stats/localstats.cpp" line="316"/>
         <source>Error while pulsing!</source>
         <translation>Błąd podczas pulsowania!</translation>
     </message>
@@ -2007,24 +2007,24 @@ Sprawdź swoje uprawnienia do: %2</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="192"/>
-        <location filename="../interface/MainWindow.cpp" line="375"/>
         <location filename="../interface/MainWindow.cpp" line="376"/>
+        <location filename="../interface/MainWindow.cpp" line="377"/>
         <source>Account</source>
         <translation>Konto</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="265"/>
+        <location filename="../interface/MainWindow.cpp" line="266"/>
         <source>There&apos;s a new version available!</source>
         <translation>Dostępna jest nowa wersja!</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="326"/>
         <location filename="../interface/MainWindow.cpp" line="327"/>
+        <location filename="../interface/MainWindow.cpp" line="328"/>
         <source>Setup</source>
         <translation>Ustawienia</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="388"/>
+        <location filename="../interface/MainWindow.cpp" line="389"/>
         <source>Disabled</source>
         <translation>Wyłączone</translation>
     </message>
@@ -4744,59 +4744,87 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>Sprawdź uprawnienia w MacOS</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="175"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="174"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="386"/>
+        <source>Use advanced input method</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="176"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="388"/>
+        <source>enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="178"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="390"/>
+        <source>disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="191"/>
         <source>&amp;Generate demo data</source>
         <translation>&amp;Generuj dane demonstracyjne</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="201"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="217"/>
         <source>Settings saved!</source>
         <translation>Ustawienia zapisane!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="225"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="241"/>
         <source> Check for Updates</source>
         <translation> Sprawdź dostępność aktualizacji</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="280"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="296"/>
         <source>Uploading Apps</source>
         <translation>Wysyłanie aplikacji</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="281"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="297"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Aplikacje zostały przygotowane do wysłania. Zanim będą widoczne na stronie internetowej, może chwila minąć.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="292"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="308"/>
         <source>Time series resync</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="293"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="309"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="315"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="331"/>
         <source>Empty Database</source>
         <translation>Opróżnij bazę danych</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="316"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="332"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Opróżnienie lokalnej bazy danych usunie wszystkie lokalnie zapisane statystyki i wyloguje Cię. Nie można cofnąć tej operacji. Kontynuować?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="334"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="350"/>
         <source>Upload Computer Info</source>
         <translation>Prześlij informacje o komputerze</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="335"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="351"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Pomyślnie rozpoczęto wgrywanie profilu komputera. Strona zostanie zaktualizowana za kilka minut.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="394"/>
+        <source>Restart required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="395"/>
+        <source>Before this setting change can take effect, please restart WhatPulse.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
