@@ -161,7 +161,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="514"/>
-        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>No puedes cambiar su contraseña dentro del cliente. Por favor cierra sesión y abrela con el mismo correo y nombre de ordenador para cambiar su contraseña en este cliente. Las estadísticas no se borrarán si inicias sesión con la misma cuenta.</translation>
     </message>
     <message>
@@ -224,7 +224,7 @@ You can continue pulsing.</source>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="635"/>
-        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
+        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
         <translation>Se ha iniciado con éxito una copia de seguridad. Se ejecutará en segundo plano y tardará unos minutos.</translation>
     </message>
 </context>
@@ -241,7 +241,7 @@ You can continue pulsing.</source>
         <translation>Volver</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="102"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="110"/>
         <source>Welcome to WhatPulse</source>
         <translation>Bienvenido a WhatPulse</translation>
     </message>
@@ -254,169 +254,169 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="228"/>
+        <location filename="../application.cpp" line="229"/>
         <source>No system tray</source>
         <translation>No hay bandeja del sistema</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="229"/>
-        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
+        <location filename="../application.cpp" line="230"/>
+        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation>No se ha detectado la bandeja del sistema, y necesito eso para funcionar.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="247"/>
+        <location filename="../application.cpp" line="248"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>Funciones de AES no disponibles. ¿Están presentes libeay32.dll and ssleay32.dl? Si no, intenta reinstalar!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="251"/>
+        <location filename="../application.cpp" line="252"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Funciones de AES no disponibles. Está la librería OpenSLL presente?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="254"/>
+        <location filename="../application.cpp" line="255"/>
         <source>AES failure</source>
         <translation>Fallo de AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="923"/>
+        <location filename="../application.cpp" line="951"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Abrir Ventana</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="927"/>
+        <location filename="../application.cpp" line="955"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Conmutar la Ventana Geek</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="931"/>
+        <location filename="../application.cpp" line="959"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Abrir Opciones</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="935"/>
+        <location filename="../application.cpp" line="963"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Comprobar actualizaciones</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="939"/>
+        <location filename="../application.cpp" line="967"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsa!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="942"/>
+        <location filename="../application.cpp" line="970"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Ver Estadísticas Online</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="946"/>
+        <location filename="../application.cpp" line="974"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Cerrar WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1066"/>
+        <location filename="../application.cpp" line="1094"/>
         <source>Uptime</source>
         <translation>Tiempo de uso</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1050"/>
+        <location filename="../application.cpp" line="1078"/>
         <source>Keys</source>
         <translation>Teclas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1054"/>
+        <location filename="../application.cpp" line="1082"/>
         <source>Clicks</source>
         <translation>Clicks</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1058"/>
+        <location filename="../application.cpp" line="1086"/>
         <source>Download</source>
         <translation>Descargar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1061"/>
+        <location filename="../application.cpp" line="1089"/>
         <source>Upload</source>
         <translation>Subida</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1069"/>
+        <location filename="../application.cpp" line="1097"/>
         <source>Not logged in!</source>
         <translation>¡No has iniciado sesión!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1337"/>
+        <location filename="../application.cpp" line="1365"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsado Desactivado!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1338"/>
-        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>La opción "Trabajar Offline" está activada. Esto impide que el cliente vaya online, lo que desactiva el pulsado. Desactiva esa opción y podrás pulsar de nuevo.</translation>
+        <location filename="../application.cpp" line="1366"/>
+        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>La opción &quot;Trabajar Offline&quot; está activada. Esto impide que el cliente vaya online, lo que desactiva el pulsado. Desactiva esa opción y podrás pulsar de nuevo.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1526"/>
+        <location filename="../application.cpp" line="1554"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Has activado el Modo Portable. Esto debería solo ser usado cuando vayas a poner WhatPulse en un dispositivo portable, como un USB.
 Deseas continar?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1530"/>
-        <location filename="../application.cpp" line="1560"/>
-        <location filename="../application.cpp" line="1577"/>
-        <location filename="../application.cpp" line="1594"/>
-        <location filename="../application.cpp" line="1640"/>
-        <location filename="../application.cpp" line="1653"/>
+        <location filename="../application.cpp" line="1558"/>
+        <location filename="../application.cpp" line="1588"/>
+        <location filename="../application.cpp" line="1605"/>
+        <location filename="../application.cpp" line="1622"/>
+        <location filename="../application.cpp" line="1668"/>
+        <location filename="../application.cpp" line="1681"/>
         <source>Portable Mode</source>
         <translation>Modo Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1557"/>
+        <location filename="../application.cpp" line="1585"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copia de la base de datos a %1 ha fallado! Comprueba los permisos de escritura.
 Desactivando Modo Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1574"/>
+        <location filename="../application.cpp" line="1602"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copia del archivo de las estadísticas %1 ha fallado! Comprueba los permisos de escritura.
 Desactivando Modo Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1595"/>
-        <location filename="../application.cpp" line="1654"/>
+        <location filename="../application.cpp" line="1623"/>
+        <location filename="../application.cpp" line="1682"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>He reorganizado algunos archivos de la base de datos y necesito reiniciarme, nos vemos en u momento!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1621"/>
+        <location filename="../application.cpp" line="1649"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copia de la base de datos a %1 ha fallado! Comprueba los permisos de escritura.
 Manteniendo Modo Portable activado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1637"/>
+        <location filename="../application.cpp" line="1665"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copia del archivo de las estadísticas %1 ha fallado! Comprueba los permisos de escritura.
 Manteniendo Modo Portable activado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2079"/>
-        <location filename="../application.cpp" line="2092"/>
+        <location filename="../application.cpp" line="2107"/>
+        <location filename="../application.cpp" line="2120"/>
         <source>Premium features disabled</source>
         <translation>Características prémium desactivadas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2080"/>
+        <location filename="../application.cpp" line="2108"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>No he podido contactar la página para verificar tu membresía prémium por 96 horas. He desactivado las características prémium. Vuelve al modo online para activarlas de nuevo.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2093"/>
+        <location filename="../application.cpp" line="2121"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Tu membresía prémium ha cadicado, a si que he desactivado las características premium. Puedes reactivar tu membresía en la página web.</translation>
     </message>
@@ -458,8 +458,8 @@ Manteniendo Modo Portable activado.</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="137"/>
-        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>Cuando seleccionas 'Mandar Base de Datos'' - una copia de tu basse de datos local será mandada a los desarroladores de WhatPulse para facilitar el arreglo.&lt;br /&gt;&lt;br /&gt;Tu base de datos es: </translation>
+        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>Cuando seleccionas &apos;Mandar Base de Datos&apos;&apos; - una copia de tu basse de datos local será mandada a los desarroladores de WhatPulse para facilitar el arreglo.&lt;br /&gt;&lt;br /&gt;Tu base de datos es: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="146"/>
@@ -506,7 +506,7 @@ Manteniendo Modo Portable activado.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="308"/>
-        <source>This computer is archived, and isn't able to connect to your account.</source>
+        <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
         <translation>Este ordenador está archivado y no puede conectarse a su cuenta.</translation>
     </message>
     <message>
@@ -653,14 +653,14 @@ Manteniendo Modo Portable activado.</translation>
 <context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="64"/>
-        <location filename="../util/database.cpp" line="76"/>
-        <location filename="../util/database.cpp" line="479"/>
+        <location filename="../util/database.cpp" line="68"/>
+        <location filename="../util/database.cpp" line="79"/>
+        <location filename="../util/database.cpp" line="477"/>
         <source>Database failure</source>
         <translation>Fallo de la Base de Datos</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="65"/>
+        <location filename="../util/database.cpp" line="69"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
@@ -669,38 +669,38 @@ Please check your permissions on: %2</source>
 Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="77"/>
+        <location filename="../util/database.cpp" line="80"/>
         <source>Unable to setup database: %1</source>
         <translation>No se ha podido configurar la base de datos: %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="480"/>
-        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>La base de datos '%1' es de solo lectura. WhatPulse no puede guardar estadísticas hasta que arregles este problema.</translation>
+        <location filename="../util/database.cpp" line="478"/>
+        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>La base de datos &apos;%1&apos; es de solo lectura. WhatPulse no puede guardar estadísticas hasta que arregles este problema.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="520"/>
-        <location filename="../util/database.cpp" line="548"/>
+        <location filename="../util/database.cpp" line="518"/>
+        <location filename="../util/database.cpp" line="546"/>
         <source>Critical database error!</source>
         <translation>Error crítico en la base de datos!</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="521"/>
+        <location filename="../util/database.cpp" line="519"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest.</source>
         <translation>Algo realmente malo sucedió en la base de datos y la base de datos de respaldo. La única forma de recuperar es crear una nueva base de datos. Esto no afectará tus estadísticas sin pulsar, pero borrará el resto.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="549"/>
+        <location filename="../util/database.cpp" line="547"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Algo fue horriblemente mal en la base de datos y en la base de datos de repuesto. La única manera de recuperarla es crear una nueva base de datos. Esto no afectará a tus estadísticas sin pulsar, pero eliminará el resto. Continuar?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="688"/>
+        <location filename="../util/database.cpp" line="686"/>
         <source>Version</source>
         <translation>Versión</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="689"/>
+        <location filename="../util/database.cpp" line="687"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>Bajar de versión no es compatible con WhatPulse, por favor instala la versión más reciente e intentalo de nuevo.</translation>
     </message>
@@ -727,7 +727,7 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
+        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
         <translation>Hey! De acuerdo con mi registro, han pasado &lt;b&gt;%1&lt;/b&gt; días desde que respaldaste la base de datos online. Por favor hazlo ahora en un momento. Esta ventana se cerrará automaticamente cuando termine.</translation>
     </message>
     <message>
@@ -759,7 +759,7 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="133"/>
-        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
         <translation>Lo sentimos, los respaldos online son de acceso prémium. Hay más información disponible aquí: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -769,7 +769,7 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="144"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
         <translation>Lo sentimos, la página web dio un error preparando tu respaldo. Por favor intentaló de nuevo más tarde. Aquí está el error: %1</translation>
     </message>
     <message>
@@ -805,17 +805,17 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="381"/>
-        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>Has escrito la mayor cantidad en &lt;b&gt;%VAR2:date%&lt;/b&gt; (¡teclas %VAR1:int%!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="396"/>
-        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>¡Has hecho el mayor número de clics dentro de la aplicación &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clics)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="410"/>
-        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>¡Has tecleado lo más dentro de la aplicación &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% claves)</translation>
     </message>
     <message>
@@ -930,7 +930,7 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="777"/>
-        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>Has reiniciado tu ordenador &lt;b&gt;%VAR1:int%&lt;/b&gt; veces.</translation>
     </message>
     <message>
@@ -1105,8 +1105,8 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
-        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
-        <translation>¿Estás seguro de que deseas excluir la aplicación '%1'? Esto también eliminará el historial de esta aplicación.</translation>
+        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
+        <translation>¿Estás seguro de que deseas excluir la aplicación &apos;%1&apos;? Esto también eliminará el historial de esta aplicación.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="351"/>
@@ -1670,8 +1670,8 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="198"/>
-        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
-        <translation>Historial de teclas, clics, scrolls y distancia entre '%1' y '%2' </translation>
+        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Historial de teclas, clics, scrolls y distancia entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="232"/>
@@ -1714,28 +1714,28 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="374"/>
-        <source>Heatmap of keys between '%1' and '%2' </source>
-        <translation>Mapa de calor de teclas entre '%1' y '%2' </translation>
+        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Mapa de calor de teclas entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="440"/>
-        <source>Heatmap of clicks between '%1' and '%2' </source>
-        <translation>Mapa de calor de clicks entre '%1' y '%2' </translation>
+        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Mapa de calor de clicks entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="508"/>
-        <source>Application input between '%1' and '%2' </source>
-        <translation>Entrada de aplicaciones entre '%1' y '%2' </translation>
+        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Entrada de aplicaciones entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="589"/>
-        <source>Key combinations between '%1' and '%2' </source>
-        <translation>Combinaciones de teclas entre "%1" y "%2 </translation>
+        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Combinaciones de teclas entre &quot;%1&quot; y &quot;%2 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="658"/>
-        <source>Key combinations per application between '%1' and '%2' </source>
-        <translation>Combinaciones de teclas por aplicación entre "%1" y "%2 </translation>
+        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Combinaciones de teclas por aplicación entre &quot;%1&quot; y &quot;%2 </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="753"/>
@@ -1873,8 +1873,8 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="409"/>
-        <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>No se han encontrado dispositivos de entrada, ¿están sus &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permisos&lt;/a&gt; configurados correctamente?</translation>
+        <source>No input devices found, are your &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>No se han encontrado dispositivos de entrada, ¿están sus &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permisos&lt;/a&gt; configurados correctamente?</translation>
     </message>
 </context>
 <context>
@@ -2003,7 +2003,7 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="266"/>
-        <source>There's a new version available!</source>
+        <source>There&apos;s a new version available!</source>
         <translation>Hay una nueva versión disponible!</translation>
     </message>
     <message>
@@ -2039,27 +2039,27 @@ Por favor compurebe sus permisos en: %2</translation>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="609"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="664"/>
         <source>Image not created!</source>
         <translation>La imagen no ha sido creada!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="610"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="665"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>No se ha podido generar una imagen del mapa de calor. Por favor intentalo de nuevo o comprueba los permisos en: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="853"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="922"/>
         <source>Image posted online!</source>
         <translation>Imagen subida online!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="854"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="923"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>La imagen del teclado se ha subido correctamente! ¿Quieres verla en tu buscador?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="868"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="937"/>
         <source>Error uploading file!</source>
         <translation>Error subiendo el archivo!</translation>
     </message>
@@ -2147,18 +2147,18 @@ Por favor compurebe sus permisos en: %2</translation>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="96"/>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="222"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="286"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="348"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="416"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="301"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="363"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="431"/>
         <source>Week</source>
         <translation>Semana</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="97"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="230"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="294"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="357"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="426"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="231"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="309"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="372"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="441"/>
         <source>Month</source>
         <translation>Mes</translation>
     </message>
@@ -2189,55 +2189,55 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="199"/>
-        <source>Network interface traffic between '%1' and '%2' </source>
-        <translation>Tráfico de interfaz de red entre '%1' y '%2' </translation>
+        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Tráfico de interfaz de red entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="229"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="293"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="356"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="425"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="230"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="308"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="371"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="440"/>
         <source>grouped by Week </source>
         <translation>agrupado por Semana </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="237"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="301"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="365"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="435"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="239"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="316"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="380"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="450"/>
         <source>grouped by Month </source>
         <translation>agrupado por Mes </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="245"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="310"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="374"/>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="445"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="249"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="325"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="389"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="460"/>
         <source>grouped by Day </source>
         <translation>agrupado por Día </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="264"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="275"/>
         <source>Unknown</source>
         <translation>Desconocido</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="281"/>
-        <source>Network per applications between '%1' and '%2' </source>
-        <translation>Red por aplicación entre '%1' y '%2' </translation>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="296"/>
+        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Red por aplicación entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="343"/>
-        <source>Country network traffic between '%1' and '%2' </source>
-        <translation>Tráfico de red por país entre '%1' y '%2' </translation>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="358"/>
+        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Tráfico de red por país entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="411"/>
-        <source>Network per type between '%1' and '%2' </source>
-        <translation>Red por tipo entre '%1' y '%2' </translation>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="426"/>
+        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Red por tipo entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/networkpage.cpp" line="499"/>
+        <location filename="../interface/ExportWindow/networkpage.cpp" line="514"/>
         <source>You have selected a date range larger than 90 days. Exporting may take a while.</source>
         <translation>Has seleccionado un rango de tiempo mayor a 90 días. La exportación puede que tarde un rato.</translation>
     </message>
@@ -2276,8 +2276,8 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="163"/>
-        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>Su base de datos GeoIP está vacía, las estadísticas por país no funcionarán. Haga clic en &lt;a href="#" style="color: %1"&gt;aquí&lt;/a&gt; para actualizar la base de datos.</translation>
+        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>Su base de datos GeoIP está vacía, las estadísticas por país no funcionarán. Haga clic en &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;aquí&lt;/a&gt; para actualizar la base de datos.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="228"/>
@@ -2407,13 +2407,13 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="447"/>
-        <source>GeoIP Database did not update succesfully, here's the error: </source>
+        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
         <translation>La base de datos GeoIP no se ha actualizado correctamente, este es el error: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="456"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
-        <translation>No se ha encontrado el Npcap, necesario para las estadísticas de red.&lt;br&gt;Descargar en &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</source>
+        <translation>No se ha encontrado el Npcap, necesario para las estadísticas de red.&lt;br&gt;Descargar en &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="462"/>
@@ -2524,8 +2524,8 @@ Por favor compurebe sus permisos en: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="435"/>
-        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
-        <translation>¿Estás seguro de que quieres excluir la aplicación '%1'? Esto también eliminará el historial de esta aplicación.</translation>
+        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
+        <translation>¿Estás seguro de que quieres excluir la aplicación &apos;%1&apos;? Esto también eliminará el historial de esta aplicación.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="183"/>
@@ -3113,8 +3113,8 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="372"/>
-        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>La opción 'Trabajar Offline' está activada, a si que no puedes pulsar. Desactiva esa opción para seguir pulsando.</translation>
+        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>La opción &apos;Trabajar Offline&apos; está activada, a si que no puedes pulsar. Desactiva esa opción para seguir pulsando.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="383"/>
@@ -3123,8 +3123,8 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="384"/>
-        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>La opción "Trabajar Offline" está activada. Esto impide que el cliente vaya online, lo que desactiva el pulsado. Desactiva esa opción y podrás pulsar de nuevo.</translation>
+        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>La opción &quot;Trabajar Offline&quot; está activada. Esto impide que el cliente vaya online, lo que desactiva el pulsado. Desactiva esa opción y podrás pulsar de nuevo.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="394"/>
@@ -3194,7 +3194,7 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
         <translation>WhatPulse necesita permisos para contar tus teclas y clicks. No salgas de WhatPulse cuando seas preguntado.</translation>
     </message>
     <message>
@@ -3204,8 +3204,8 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Así es como debería aparecer: &lt;br/&gt;&lt;br/&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Si la casilla ya está marcada, intenta desmarcarla y marcarla de nuevo. Esto puede ser necesario tras actualizaciones &lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Así es como debería aparecer: &lt;br/&gt;&lt;br/&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Si la casilla ya está marcada, intenta desmarcarla y marcarla de nuevo. Esto puede ser necesario tras actualizaciones &lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3262,7 +3262,7 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="70"/>
-        <source>Don't remind me</source>
+        <source>Don&apos;t remind me</source>
         <translation>No me lo recuerdes</translation>
     </message>
 </context>
@@ -3337,8 +3337,8 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="405"/>
-        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>Versión de Mac OS no compatible; Por favor seleccione "Habilitar acceso para dispositivos de asistencia" en el panel de Acceso Universal en Preferencias del Sistema y reinicia el cliente. El conteo de teclas no funcionará si no lo haces. Un cliente actualizado requiere una rehabilitación.</translation>
+        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>Versión de Mac OS no compatible; Por favor seleccione &quot;Habilitar acceso para dispositivos de asistencia&quot; en el panel de Acceso Universal en Preferencias del Sistema y reinicia el cliente. El conteo de teclas no funcionará si no lo haces. Un cliente actualizado requiere una rehabilitación.</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="31"/>
@@ -3614,68 +3614,68 @@ Carga: desconocido</translation>
 <context>
     <name>SettingsAppearance</name>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="12"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="13"/>
         <source>Blink menu bar icon on activity</source>
         <translation>Parpadear el icono de la barra de menú al haber actividad</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="15"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="16"/>
         <source>Blink tray icon on activity</source>
         <translation>Parpadear el icono de la bandeja al haber actividad</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="53"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="54"/>
         <source>&lt;b&gt;Theme&lt;/b&gt;</source>
         <translation>&lt;b&gt;Tema&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="56"/>
-        <location filename="../interface/settings/settingsappearance.cpp" line="73"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
         <source>Adapt to system</source>
         <translation>Adaptar al sistema</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="58"/>
         <source>Light</source>
         <translation>Claro</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="58"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="59"/>
         <source>Dark</source>
         <translation>Oscuro</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="67"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="68"/>
         <source>&lt;b&gt;Menu bar icon color&lt;/b&gt;</source>
         <translation>&lt;b&gt;Color del icono de la barra de menú&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="69"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="70"/>
         <source>&lt;b&gt;Tray icon color&lt;/b&gt;</source>
         <translation>&lt;b&gt;Color del icono de la bandeja&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="75"/>
         <source>Black</source>
         <translation>Negro</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="75"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="76"/>
         <source>White</source>
         <translation>Blanco</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="89"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="90"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
         <translation>&lt;b&gt;Lenguaje&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="120"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="121"/>
         <source>This change needs a window refresh.</source>
         <translation>Este cambio requiere una actualización de la ventana.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="126"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="127"/>
         <source>Click here to refresh</source>
         <translation>Haz clic aquí para actualizar</translation>
     </message>
@@ -3836,17 +3836,17 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="403"/>
-        <source>you've downloaded </source>
+        <source>you&apos;ve downloaded </source>
         <translation>hayas descargad </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="415"/>
-        <source>you've uploaded </source>
+        <source>you&apos;ve uploaded </source>
         <translation>hayas subido </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="427"/>
-        <source>you've collected </source>
+        <source>you&apos;ve collected </source>
         <translation>hayas recogido </translation>
     </message>
     <message>
@@ -3884,8 +3884,8 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="63"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
-        <translation>La API de cliente es una forma de extraer información en tiempo real del cliente WhatPulse. Puede utilizarla para introducir sus datos en otra aplicación. Obtenga más información en nuestro &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Centro de desarrolladores&lt;/a&gt;</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
+        <translation>La API de cliente es una forma de extraer información en tiempo real del cliente WhatPulse. Puede utilizarla para introducir sus datos en otra aplicación. Obtenga más información en nuestro &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Centro de desarrolladores&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="86"/>
@@ -3927,7 +3927,7 @@ Carga: desconocido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="47"/>
-        <source>Here you can manage applications and network interfaces that you've chosen to exclude from monitoring. Right click an application or interface to manage.</source>
+        <source>Here you can manage applications and network interfaces that you&apos;ve chosen to exclude from monitoring. Right click an application or interface to manage.</source>
         <translation>Aquí puedes administrar las aplicaciones e interfaces de red que has elegido excluir del monitoreo. Haz clic derecho en una aplicación o interfaz para administrarla.</translation>
     </message>
     <message>
@@ -4298,67 +4298,67 @@ Esto borrará todas los diseños personalizados!</translation>
 <context>
     <name>SettingsGeneral</name>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="26"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="28"/>
         <source>Launch when computer starts</source>
         <translation>Iniciar con el ordenador</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="28"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="30"/>
         <source>Open window on startup</source>
         <translation>Abrir ventana al iniciar</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="32"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="34"/>
         <source>Automatically install new versions</source>
         <translation>Instalar nuevas versions automaticamente</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="37"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="39"/>
         <source>Include beta versions updates</source>
         <translation>Incluir actualizaciones de versiones beta</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="41"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="43"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>Pulsar al hacer doble click en la bandeja de entrada</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="46"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="48"/>
         <source>Upload application info</source>
         <translation>Actualizaro información de aplicaciones</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="51"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="53"/>
         <source>Work offline (disables pulsing)</source>
         <translation>Trabajar Offline (Desactiva pulsar)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="55"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="57"/>
         <source>Weekly online backups</source>
         <translation>Respaldos online semanales</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="60"/>
-        <source>Run as Administrator (improves input accuracy)</source>
-        <translation>Ejecutar como administrador (mejora la precisión de entrada)</translation>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
+        <source>Run as Administrator</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="64"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="65"/>
         <source>Pause notifications</source>
         <translation>Pausar notificaciones</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="67"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="68"/>
         <source>Notification on auto pulse</source>
         <translation>Notificación al pulsar automáticamente</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="72"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="73"/>
         <source>Send bug and usage reports</source>
         <translation>Enviar informes de errores y uso</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="88"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="89"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Respaldos online semanales (solo prémium)</translation>
     </message>
@@ -4469,7 +4469,7 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="238"/>
-        <source>Time for coffee, you've made X keys!</source>
+        <source>Time for coffee, you&apos;ve made X keys!</source>
         <translation>Tiempo para un cafelito, has llegado a X teclas!</translation>
     </message>
     <message>
@@ -4581,7 +4581,7 @@ Esto borrará todas los diseños personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingsprofiles.cpp" line="191"/>
         <location filename="../interface/settings/settingsprofiles.cpp" line="270"/>
-        <source>There's already a profile named %1, you cannot have profiles with the same name.</source>
+        <source>There&apos;s already a profile named %1, you cannot have profiles with the same name.</source>
         <translation>Ya existe un perfil llamado %1, no puedes tener perfiles con el mismo nombre.</translation>
     </message>
     <message>
@@ -4606,7 +4606,7 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsprofiles.cpp" line="311"/>
-        <source>You can't edit or delete the general profile.</source>
+        <source>You can&apos;t edit or delete the general profile.</source>
         <translation>No puedes editar o borrar el perfil general.</translation>
     </message>
     <message>
@@ -4853,7 +4853,7 @@ Esto borrará todas los diseños personalizados!</translation>
 <context>
     <name>SideMenuWithScrollableView</name>
     <message>
-        <location filename="../interface/widgets/sidemenuwithscrollableview.cpp" line="97"/>
+        <location filename="../interface/widgets/sidemenuwithscrollableview.cpp" line="98"/>
         <source>Learn more</source>
         <translation>Aprender más</translation>
     </message>
@@ -4861,63 +4861,63 @@ Esto borrará todas los diseños personalizados!</translation>
 <context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="253"/>
-        <location filename="../interface/tasktraypopup.cpp" line="271"/>
+        <location filename="../interface/tasktraypopup.cpp" line="254"/>
+        <location filename="../interface/tasktraypopup.cpp" line="272"/>
         <source>Activate a profile</source>
         <translation>Activar un perfil</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="283"/>
+        <location filename="../interface/tasktraypopup.cpp" line="284"/>
         <source>Pulse</source>
         <translation>Pulsar</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="289"/>
+        <location filename="../interface/tasktraypopup.cpp" line="290"/>
         <source>Open Client</source>
         <translation>Abrir Cliente</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="295"/>
+        <location filename="../interface/tasktraypopup.cpp" line="296"/>
         <source>View Online Stats</source>
         <translation>Ver Estadísticas Online</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="301"/>
+        <location filename="../interface/tasktraypopup.cpp" line="302"/>
         <source>Toggle Geek Window</source>
         <translation>Conmutar Ventana Geek</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="309"/>
+        <location filename="../interface/tasktraypopup.cpp" line="310"/>
         <source>Input</source>
         <translation>Entrada</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="315"/>
+        <location filename="../interface/tasktraypopup.cpp" line="316"/>
         <source>Network</source>
         <translation>Red</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="320"/>
+        <location filename="../interface/tasktraypopup.cpp" line="321"/>
         <source>Uptime</source>
         <translation>Tiempo de Uso</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="328"/>
+        <location filename="../interface/tasktraypopup.cpp" line="329"/>
         <source>Account</source>
         <translation>Cuenta</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="334"/>
+        <location filename="../interface/tasktraypopup.cpp" line="335"/>
         <source>Check for Updates</source>
         <translation>Comprobar Actualizaciones</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="340"/>
+        <location filename="../interface/tasktraypopup.cpp" line="341"/>
         <source>Settings</source>
         <translation>Opciones</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="346"/>
+        <location filename="../interface/tasktraypopup.cpp" line="347"/>
         <source>Exit WhatPulse</source>
         <translation>Salir de WhatPulse</translation>
     </message>
@@ -5008,7 +5008,7 @@ Esto borrará todas los diseños personalizados!</translation>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <source>Select the start and end date of the period you'd like to see statistics from.</source>
+        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
         <translation>Selecciona el comienzo y final del periodo de tiempo de las estadísticas que deseas ver.</translation>
     </message>
     <message>
@@ -5030,52 +5030,52 @@ Esto borrará todas los diseños personalizados!</translation>
 <context>
     <name>TrayMenuItemStats</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="125"/>
+        <location filename="../interface/tasktraypopup.cpp" line="126"/>
         <source>Keys:</source>
         <translation>Teclas:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="126"/>
+        <location filename="../interface/tasktraypopup.cpp" line="127"/>
         <source>Clicks:</source>
         <translation>Clicks:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="127"/>
+        <location filename="../interface/tasktraypopup.cpp" line="128"/>
         <source>Uptime:</source>
         <translation>Tiempo de uso:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="128"/>
+        <location filename="../interface/tasktraypopup.cpp" line="129"/>
         <source>Down:</source>
         <translation>Bajada:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="129"/>
+        <location filename="../interface/tasktraypopup.cpp" line="130"/>
         <source>Up:</source>
         <translation>Subida:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="138"/>
+        <location filename="../interface/tasktraypopup.cpp" line="139"/>
         <source>Keys: %1</source>
         <translation>Teclas: %1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="143"/>
+        <location filename="../interface/tasktraypopup.cpp" line="144"/>
         <source>Clicks: %1</source>
         <translation>Clicks: %1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="149"/>
+        <location filename="../interface/tasktraypopup.cpp" line="150"/>
         <source>Down: %1</source>
         <translation>Bajada: %1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="152"/>
+        <location filename="../interface/tasktraypopup.cpp" line="153"/>
         <source>Up: %1</source>
         <translation>Subida: %1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="159"/>
+        <location filename="../interface/tasktraypopup.cpp" line="160"/>
         <source>Uptime: %3</source>
         <translation>Tiempo de uso Total: %3</translation>
     </message>
@@ -5249,8 +5249,8 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="262"/>
-        <source>Reboot list between '%1' and '%2' </source>
-        <translation>Lista de reinicios entre '%1' y '%2' </translation>
+        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Lista de reinicios entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="292"/>
@@ -5259,8 +5259,8 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="338"/>
-        <source>Active application time between '%1' and '%2' </source>
-        <translation>Tiempo de aplicación activa entre '%1' y '%2' </translation>
+        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
+        <translation>Tiempo de aplicación activa entre &apos;%1&apos; y &apos;%2&apos; </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="346"/>
@@ -5341,25 +5341,25 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="164"/>
-        <location filename="../interface/UptimeTab.cpp" line="584"/>
+        <location filename="../interface/UptimeTab.cpp" line="585"/>
         <source>Export</source>
         <translation>Exportar</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="174"/>
-        <location filename="../interface/UptimeTab.cpp" line="594"/>
+        <location filename="../interface/UptimeTab.cpp" line="595"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportar a .csv</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="179"/>
-        <location filename="../interface/UptimeTab.cpp" line="598"/>
+        <location filename="../interface/UptimeTab.cpp" line="599"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Asistente de Exportación</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="221"/>
-        <location filename="../interface/UptimeTab.cpp" line="422"/>
+        <location filename="../interface/UptimeTab.cpp" line="423"/>
         <source>No data available</source>
         <translation>No hay datos disponibles</translation>
     </message>
@@ -5466,207 +5466,207 @@ Esto borrará todas los diseños personalizados!</translation>
         <translation>horas de funcionamiento</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="440"/>
+        <location filename="../interface/UptimeTab.cpp" line="441"/>
         <source>hours</source>
         <translation>horas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="498"/>
-        <location filename="../interface/UptimeTab.cpp" line="1264"/>
-        <location filename="../interface/UptimeTab.cpp" line="1273"/>
+        <location filename="../interface/UptimeTab.cpp" line="499"/>
+        <location filename="../interface/UptimeTab.cpp" line="1265"/>
+        <location filename="../interface/UptimeTab.cpp" line="1274"/>
         <source>Today</source>
         <translation>Hoy</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="559"/>
+        <location filename="../interface/UptimeTab.cpp" line="560"/>
         <source>Show only recently used applications</source>
         <translation>Mostrar solo aplicaciones recientemente usadas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="566"/>
+        <location filename="../interface/UptimeTab.cpp" line="567"/>
         <source>Show only running applications</source>
         <translation>Mostrar solo aplicaciones activas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="614"/>
+        <location filename="../interface/UptimeTab.cpp" line="615"/>
         <source>Details</source>
         <translation>Detalles</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="619"/>
         <location filename="../interface/UptimeTab.cpp" line="620"/>
         <location filename="../interface/UptimeTab.cpp" line="621"/>
         <location filename="../interface/UptimeTab.cpp" line="622"/>
         <location filename="../interface/UptimeTab.cpp" line="623"/>
         <location filename="../interface/UptimeTab.cpp" line="624"/>
+        <location filename="../interface/UptimeTab.cpp" line="625"/>
         <source>unknown</source>
         <translation>desconocido</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="630"/>
+        <location filename="../interface/UptimeTab.cpp" line="631"/>
         <source>Unpulsed uptime:</source>
         <translation>Tiempo de uso sin pulsar:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="633"/>
+        <location filename="../interface/UptimeTab.cpp" line="634"/>
         <source>Current uptime:</source>
         <translation>Tiempo de uso actual:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="636"/>
+        <location filename="../interface/UptimeTab.cpp" line="637"/>
         <source>Total uptime:</source>
         <translation>Tiempo de uso total:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="639"/>
+        <location filename="../interface/UptimeTab.cpp" line="640"/>
         <source>Longest uptime:</source>
         <translation>Mayor tiempo de uso:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="642"/>
+        <location filename="../interface/UptimeTab.cpp" line="643"/>
         <source>Average uptime:</source>
         <translation>Media del tiempo de uso:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="645"/>
+        <location filename="../interface/UptimeTab.cpp" line="646"/>
         <source>Total reboots:</source>
         <translation>Reinicios totales:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="655"/>
+        <location filename="../interface/UptimeTab.cpp" line="656"/>
         <source>Reboot history for </source>
         <translation>Historial de reinicios para </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="699"/>
+        <location filename="../interface/UptimeTab.cpp" line="700"/>
         <source>No reboots found</source>
         <translation>No se han encontrado reinicios</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="713"/>
+        <location filename="../interface/UptimeTab.cpp" line="714"/>
         <source>Reboot history</source>
         <translation>Historial de reinicios</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="771"/>
+        <location filename="../interface/UptimeTab.cpp" line="772"/>
         <source>Application</source>
         <translation>Aplicación</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="771"/>
+        <location filename="../interface/UptimeTab.cpp" line="772"/>
         <source>Total time</source>
         <translation>Tiempo total</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="772"/>
+        <location filename="../interface/UptimeTab.cpp" line="773"/>
         <source>Total active time</source>
         <translation>Tiempo activo total</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="799"/>
+        <location filename="../interface/UptimeTab.cpp" line="800"/>
         <source>Exclude</source>
         <translation>Excluir</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="805"/>
+        <location filename="../interface/UptimeTab.cpp" line="806"/>
         <source>Open File Location</source>
         <translation>Abrir la Ubicación del Archivo</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="811"/>
+        <location filename="../interface/UptimeTab.cpp" line="812"/>
         <source>Open Online Profile</source>
         <translation>Abrir Perfil Online</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="826"/>
+        <location filename="../interface/UptimeTab.cpp" line="827"/>
         <source>Ignore application?</source>
         <translation>¿Ignorar la aplicación?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="827"/>
-        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
-        <translation>¿Estás seguro de que quieres ignorar la aplicación '%1'? Esto también eliminará el historial de esta aplicación.</translation>
+        <location filename="../interface/UptimeTab.cpp" line="828"/>
+        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
+        <translation>¿Estás seguro de que quieres ignorar la aplicación &apos;%1&apos;? Esto también eliminará el historial de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="878"/>
+        <location filename="../interface/UptimeTab.cpp" line="879"/>
         <source>Not yet</source>
         <translation>Todavía no</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="879"/>
+        <location filename="../interface/UptimeTab.cpp" line="880"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Esta aplicación no se ha subido todavía a la página web, por favor comprueba de nuevo en más o menos una hora.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1266"/>
-        <location filename="../interface/UptimeTab.cpp" line="1275"/>
+        <location filename="../interface/UptimeTab.cpp" line="1267"/>
+        <location filename="../interface/UptimeTab.cpp" line="1276"/>
         <source>Yesterday</source>
         <translation>Ayer</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1281"/>
-        <location filename="../interface/UptimeTab.cpp" line="1286"/>
+        <location filename="../interface/UptimeTab.cpp" line="1282"/>
+        <location filename="../interface/UptimeTab.cpp" line="1287"/>
         <source>%1 %2 to %3 %4</source>
         <translation>%1 %2 a %3 %4</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1428"/>
-        <location filename="../interface/UptimeTab.cpp" line="1434"/>
+        <location filename="../interface/UptimeTab.cpp" line="1429"/>
+        <location filename="../interface/UptimeTab.cpp" line="1435"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>tiempo de uso e información de reinicios (todo excepto por aplicación) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1429"/>
-        <location filename="../interface/UptimeTab.cpp" line="1435"/>
+        <location filename="../interface/UptimeTab.cpp" line="1430"/>
+        <location filename="../interface/UptimeTab.cpp" line="1436"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Reestablecer Tiempo de Uso/Historial de Reinicios</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1439"/>
-        <location filename="../interface/UptimeTab.cpp" line="1444"/>
+        <location filename="../interface/UptimeTab.cpp" line="1440"/>
+        <location filename="../interface/UptimeTab.cpp" line="1445"/>
         <source>application uptime data</source>
         <translation>datos de tiempo de uso de aplicaciones</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1440"/>
-        <location filename="../interface/UptimeTab.cpp" line="1445"/>
+        <location filename="../interface/UptimeTab.cpp" line="1441"/>
+        <location filename="../interface/UptimeTab.cpp" line="1446"/>
         <source>Reset Application History</source>
         <translation>Restablecer Historial de Aplicaciones</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1450"/>
+        <location filename="../interface/UptimeTab.cpp" line="1451"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>¿Quieres reiniciar toda la información de tiempo de uso o solo %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1449"/>
-        <location filename="../interface/UptimeTab.cpp" line="1466"/>
-        <location filename="../interface/UptimeTab.cpp" line="1490"/>
-        <location filename="../interface/UptimeTab.cpp" line="1513"/>
-        <location filename="../interface/UptimeTab.cpp" line="1534"/>
-        <location filename="../interface/UptimeTab.cpp" line="1555"/>
+        <location filename="../interface/UptimeTab.cpp" line="1450"/>
+        <location filename="../interface/UptimeTab.cpp" line="1467"/>
+        <location filename="../interface/UptimeTab.cpp" line="1491"/>
+        <location filename="../interface/UptimeTab.cpp" line="1514"/>
+        <location filename="../interface/UptimeTab.cpp" line="1535"/>
+        <location filename="../interface/UptimeTab.cpp" line="1556"/>
         <source>Delete stats?</source>
         <translation>¿Borrar estadísticas?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1452"/>
+        <location filename="../interface/UptimeTab.cpp" line="1453"/>
         <source>Reset All Stats</source>
         <translation>Restablecer todas las estadísticas</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1467"/>
-        <location filename="../interface/UptimeTab.cpp" line="1491"/>
+        <location filename="../interface/UptimeTab.cpp" line="1468"/>
+        <location filename="../interface/UptimeTab.cpp" line="1492"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres borrar todas (excepto por aplicación) las estadísticas del tiempo de uso? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1514"/>
-        <location filename="../interface/UptimeTab.cpp" line="1535"/>
+        <location filename="../interface/UptimeTab.cpp" line="1515"/>
+        <location filename="../interface/UptimeTab.cpp" line="1536"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres borrar todas las estadísticas del tiempo de uso por aplicación? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1556"/>
+        <location filename="../interface/UptimeTab.cpp" line="1557"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas de tiempo de uso? Este proceso no es reversible.</translation>
     </message>
@@ -5674,331 +5674,331 @@ Esto borrará todas los diseños personalizados!</translation>
 <context>
     <name>Utils</name>
     <message>
-        <location filename="../utils.cpp" line="134"/>
+        <location filename="../utils.cpp" line="142"/>
         <source>&lt;1 min</source>
         <translation>&lt;1 minutos</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="134"/>
+        <location filename="../utils.cpp" line="142"/>
         <source>Less than a minute</source>
         <translation>Menos de un minuto</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="141"/>
+        <location filename="../utils.cpp" line="149"/>
         <source>1 year</source>
         <translation>1 año</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="143"/>
+        <location filename="../utils.cpp" line="151"/>
         <source>%1 years</source>
         <translation>%1 años</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="149"/>
+        <location filename="../utils.cpp" line="157"/>
         <source>1 day</source>
         <translation>1 día</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="151"/>
+        <location filename="../utils.cpp" line="159"/>
         <source>%1 days</source>
         <translation>%1 días</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="157"/>
+        <location filename="../utils.cpp" line="165"/>
         <source>1 hour</source>
         <translation>1 hora</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="159"/>
+        <location filename="../utils.cpp" line="167"/>
         <source>%1 hours</source>
         <translation>%1 horas</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="165"/>
+        <location filename="../utils.cpp" line="173"/>
         <source>1 min</source>
         <translation>1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="167"/>
+        <location filename="../utils.cpp" line="175"/>
         <source>1 minute</source>
         <translation>1 minuto</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="170"/>
+        <location filename="../utils.cpp" line="178"/>
         <source>%1 min</source>
         <translation>%1 minuto</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="172"/>
+        <location filename="../utils.cpp" line="180"/>
         <source>%1 minutes</source>
         <translation>%1 minutos</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="296"/>
-        <location filename="../utils.cpp" line="417"/>
+        <location filename="../utils.cpp" line="304"/>
+        <location filename="../utils.cpp" line="425"/>
         <source>None</source>
         <translation>Ninguno</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="314"/>
+        <location filename="../utils.cpp" line="322"/>
         <source>kilometers</source>
         <translation>kilómetros</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="316"/>
+        <location filename="../utils.cpp" line="324"/>
         <source>kilometer</source>
         <translation>kilómetro</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="334"/>
+        <location filename="../utils.cpp" line="342"/>
         <source>meters</source>
         <translation>metros</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="336"/>
+        <location filename="../utils.cpp" line="344"/>
         <source>meter</source>
         <translation>contador</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="349"/>
+        <location filename="../utils.cpp" line="357"/>
         <source>centimeters</source>
         <translation>centímetros</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="351"/>
+        <location filename="../utils.cpp" line="359"/>
         <source>centimeter</source>
         <translation>centímetro</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="372"/>
+        <location filename="../utils.cpp" line="380"/>
         <source>miles</source>
         <translation>millas</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="374"/>
+        <location filename="../utils.cpp" line="382"/>
         <source>mile</source>
         <translation>milla</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="403"/>
-        <location filename="../utils.cpp" line="409"/>
+        <location filename="../utils.cpp" line="411"/>
+        <location filename="../utils.cpp" line="417"/>
         <source>inch</source>
         <translation>pulgadas</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="571"/>
+        <location filename="../utils.cpp" line="579"/>
         <source>th</source>
         <translation>o</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="574"/>
+        <location filename="../utils.cpp" line="582"/>
         <source>st</source>
         <translation>o</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="576"/>
+        <location filename="../utils.cpp" line="584"/>
         <source>nd</source>
         <translation>o</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="578"/>
+        <location filename="../utils.cpp" line="586"/>
         <source>rd</source>
         <translation>o</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="620"/>
+        <location filename="../utils.cpp" line="628"/>
         <source>Sunday</source>
         <translation>Domingo</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="622"/>
+        <location filename="../utils.cpp" line="630"/>
         <source>Monday</source>
         <translation>Lunes</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="624"/>
+        <location filename="../utils.cpp" line="632"/>
         <source>Tuesday</source>
         <translation>Martes</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="626"/>
+        <location filename="../utils.cpp" line="634"/>
         <source>Wednesday</source>
         <translation>Miércoles</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="628"/>
+        <location filename="../utils.cpp" line="636"/>
         <source>Thursday</source>
         <translation>Jueves</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="630"/>
+        <location filename="../utils.cpp" line="638"/>
         <source>Friday</source>
         <translation>Viernes</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="632"/>
+        <location filename="../utils.cpp" line="640"/>
         <source>Saturday</source>
         <translation>Sábado</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1209"/>
-        <location filename="../utils.cpp" line="1235"/>
+        <location filename="../utils.cpp" line="1217"/>
+        <location filename="../utils.cpp" line="1243"/>
         <source>Save as...</source>
         <translation>Guardar como...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1222"/>
-        <location filename="../utils.cpp" line="1250"/>
+        <location filename="../utils.cpp" line="1230"/>
+        <location filename="../utils.cpp" line="1258"/>
         <source>Export Failed</source>
         <translation>Exportación Fallida</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1223"/>
-        <location filename="../utils.cpp" line="1251"/>
+        <location filename="../utils.cpp" line="1231"/>
+        <location filename="../utils.cpp" line="1259"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Ha fallado la apertura del archivo de exportación! Por favor intentalo de nuevo con otra dirección.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1261"/>
+        <location filename="../utils.cpp" line="1269"/>
         <source>Backspace</source>
         <translation>Retroceso</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1264"/>
+        <location filename="../utils.cpp" line="1272"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1267"/>
+        <location filename="../utils.cpp" line="1275"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1270"/>
+        <location filename="../utils.cpp" line="1278"/>
         <source>Capslock</source>
         <translation>BloqMayus</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1273"/>
+        <location filename="../utils.cpp" line="1281"/>
         <source>Left Shift</source>
         <translation>Shift Izquierdo</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1276"/>
+        <location filename="../utils.cpp" line="1284"/>
         <source>Left Control</source>
         <translation>Control Izquierdo</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1279"/>
+        <location filename="../utils.cpp" line="1287"/>
         <source>Left Alt</source>
         <translation>Alt Izquierdo</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1282"/>
+        <location filename="../utils.cpp" line="1290"/>
         <source>Right Alt</source>
         <translation>Alt Derecho</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1285"/>
+        <location filename="../utils.cpp" line="1293"/>
         <source>Right Control</source>
         <translation>Control Derecho</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1288"/>
+        <location filename="../utils.cpp" line="1296"/>
         <source>Right Shift</source>
         <translation>Shift Derecho</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1291"/>
-        <location filename="../utils.cpp" line="2045"/>
+        <location filename="../utils.cpp" line="1299"/>
+        <location filename="../utils.cpp" line="2054"/>
         <source>Left</source>
         <translation>Izquierda</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1294"/>
+        <location filename="../utils.cpp" line="1302"/>
         <source>Down</source>
         <translation>Abajo</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1297"/>
-        <location filename="../utils.cpp" line="2043"/>
+        <location filename="../utils.cpp" line="1305"/>
+        <location filename="../utils.cpp" line="2052"/>
         <source>Right</source>
         <translation>Derecha</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1300"/>
+        <location filename="../utils.cpp" line="1308"/>
         <source>Up</source>
         <translation>Arriba</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1303"/>
+        <location filename="../utils.cpp" line="1311"/>
         <source>Insert</source>
         <translation>Insertar</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1306"/>
+        <location filename="../utils.cpp" line="1314"/>
         <source>Home</source>
         <translation>Menú Principal</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1309"/>
+        <location filename="../utils.cpp" line="1317"/>
         <source>Page Up</source>
         <translation>Avance Página</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1312"/>
+        <location filename="../utils.cpp" line="1320"/>
         <source>Delete</source>
         <translation>Borrar</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1315"/>
+        <location filename="../utils.cpp" line="1323"/>
         <source>End</source>
         <translation>Fin</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1318"/>
+        <location filename="../utils.cpp" line="1326"/>
         <source>Page Down</source>
         <translation>Retroceso Página</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1321"/>
+        <location filename="../utils.cpp" line="1329"/>
         <source>Escape</source>
         <translation>Escape</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1363"/>
+        <location filename="../utils.cpp" line="1371"/>
         <source>Space</source>
         <translation>Espacio</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1480"/>
+        <location filename="../utils.cpp" line="1488"/>
         <source>Unknown</source>
         <translation>Desconocido</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2003"/>
+        <location filename="../utils.cpp" line="2011"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Actualice a Premium para desbloquear esta función</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2047"/>
+        <location filename="../utils.cpp" line="2056"/>
         <source>Middle</source>
         <translation>Centro</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2049"/>
+        <location filename="../utils.cpp" line="2058"/>
         <source>Other</source>
         <translation>Otro</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2063"/>
+        <location filename="../utils.cpp" line="2072"/>
         <source>Button</source>
         <translation>Botón</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="875"/>
-        <location filename="../utils.cpp" line="1108"/>
-        <location filename="../utils.cpp" line="1598"/>
+        <location filename="../utils.cpp" line="883"/>
+        <location filename="../utils.cpp" line="1116"/>
+        <location filename="../utils.cpp" line="1606"/>
         <source>unknown</source>
         <translation>desconocido</translation>
     </message>
@@ -6025,7 +6025,7 @@ Esto borrará todas los diseños personalizados!</translation>
     <message>
         <location filename="../online/versioncheck.cpp" line="190"/>
         <location filename="../online/versioncheck.cpp" line="243"/>
-        <source>You're running the latest version of WhatPulse.</source>
+        <source>You&apos;re running the latest version of WhatPulse.</source>
         <translation>Estás en la última versión de WhatPulse.</translation>
     </message>
     <message>
@@ -6038,7 +6038,7 @@ Esto borrará todas los diseños personalizados!</translation>
     <name>WindowMessageBanner</name>
     <message>
         <location filename="../interface/widgets/WindowMessageBanner.cpp" line="32"/>
-        <source>What's new?</source>
+        <source>What&apos;s new?</source>
         <translation>¿Qué hay nuevo?</translation>
     </message>
 </context>
@@ -6055,45 +6055,45 @@ Esto borrará todas los diseños personalizados!</translation>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="27"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
         <translation>Has sido redirigido a la página web, por favor sigue las instrucciones allí. Tras terminar el inicio de sesión, el cliente iniciará sesión automaticamente y disfruta de la experiencia!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="44"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="89"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="49"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="94"/>
         <source>Waiting on authorization via website..</source>
         <translation>Esperando la autorización de la página web..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="139"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
-        <translation>Si su navegador no se abrió, intente hacer clic o copiar &lt;a href="%1" style="color: %2"&gt;este enlace&lt;/a&gt;.</translation>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="144"/>
+        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
+        <translation>Si su navegador no se abrió, intente hacer clic o copiar &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;este enlace&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="158"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="163"/>
         <source>Our server is currently in maintenance, please check back in a few minutes. Sorry!</source>
         <translation>Nuestro servidor está en mantenimiento, por favor intentalo de nuevo en unos cuantos minutos. Perdón!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="171"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="184"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="176"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="189"/>
         <source>Our server producing errors, please check back in a few minutes. Sorry!</source>
         <translation>Nuestro servidor está produciendo errores, por favor intentalo de nuevo en unos cuantos minutos. Perdón!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="428"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="445"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="433"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="450"/>
         <source>Restore Database?</source>
         <translation>¿Restaurar la base de datos?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="429"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="446"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="434"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="451"/>
         <source>Good news! I found your previous client database backups, do you want to restore?</source>
         <translation>Buenas noticias! He encontrado tus respaldos anteriores, ¿Quieres restaurarlos?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="488"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="493"/>
         <source>Authorization process has timed out after %1 hours. Please try again.</source>
         <translation>El proceso de autorización ha caducado después de %1 horas. Por favor, inténtelo de nuevo.</translation>
     </message>
@@ -6102,16 +6102,16 @@ Esto borrará todas los diseños personalizados!</translation>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>Bienvenido a WhatPulse, &lt;b&gt;el único&lt;/b&gt; programa de estadísticas que jamás necesitarás. WhatPulse responde a la pregunta '¿Cuánto uso mi ordenador al día?¡&lt;br/&gt;&lt;br/&gt;Vamos a empezar. Si ya tienes una cuenta, haz click en &lt;b&gt;Iniciar Sesión&lt;/b&gt;. Si eres nuevo a WhatPulse, haz click en &lt;b&gt;Registrar&lt;/b&gt;. &lt;br/&gt;&lt;br/&gt;En ambos casos serás redirigido a nuestra página web para completar el inicio de sesión &lt;br/&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>Bienvenido a WhatPulse, &lt;b&gt;el único&lt;/b&gt; programa de estadísticas que jamás necesitarás. WhatPulse responde a la pregunta &apos;¿Cuánto uso mi ordenador al día?¡&lt;br/&gt;&lt;br/&gt;Vamos a empezar. Si ya tienes una cuenta, haz click en &lt;b&gt;Iniciar Sesión&lt;/b&gt;. Si eres nuevo a WhatPulse, haz click en &lt;b&gt;Registrar&lt;/b&gt;. &lt;br/&gt;&lt;br/&gt;En ambos casos serás redirigido a nuestra página web para completar el inicio de sesión &lt;br/&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="25"/>
+        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="30"/>
         <source>Login</source>
         <translation>Iniciar Sesión</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="29"/>
+        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="34"/>
         <source>Register Account</source>
         <translation>Registrar Cuenta</translation>
     </message>
@@ -6120,8 +6120,8 @@ Esto borrará todas los diseños personalizados!</translation>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="132"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation>Bienvenido a WhatPulse, &lt;b&gt;el único&lt;/b&gt; programa de estadísticas que necesitará. WhatPulse responde a la pregunta "¿Cuánto uso mi ordenador en un día?"&lt;br /&gt;&lt;br /&gt; Empecemos introduciendo el &lt;strong&gt;nombre o ID de su organización&lt;/strong&gt;, proporcionado por su administrador de WhatPulse Professional.</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>Bienvenido a WhatPulse, &lt;b&gt;el único&lt;/b&gt; programa de estadísticas que necesitará. WhatPulse responde a la pregunta &quot;¿Cuánto uso mi ordenador en un día?&quot;&lt;br /&gt;&lt;br /&gt; Empecemos introduciendo el &lt;strong&gt;nombre o ID de su organización&lt;/strong&gt;, proporcionado por su administrador de WhatPulse Professional.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="155"/>
@@ -6190,7 +6190,7 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="393"/>
-        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
         <translation>Lo sentimos, los respaldos online son de acceso prémium. Hay más información disponible aquí: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -6200,7 +6200,7 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="399"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
         <translation>Lo sentimos, la página web dio un error preparando tu respaldo. Por favor intentaló de nuevo más tarde. Aquí está el error: %1</translation>
     </message>
     <message>
@@ -6237,59 +6237,59 @@ Esto borrará todas los diseños personalizados!</translation>
         <translation>Ya queda poco! Configura las opciones más importantes aquí. Haz click en una opción para ver más detalles.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="53"/>
-        <source>1. Measure your Keyboard &amp; Mouse</source>
-        <translation>1. Mide tu Teclado y Ratón</translation>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="58"/>
+        <source>1. Measure your keyboard &amp; mouse</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="61"/>
-        <source>When this option is enabled, WhatPulse will count your keystrokes and mouse clicks. It counts the times a specific key of button has been pressed.</source>
-        <translation>Cuando habilitas esta opción, WhatPulse contará tus teclas y clicks del ratón. Cuenta a su vez el número de veces que una específica tecla ha sido presionada.</translation>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="66"/>
+        <source>When this is enabled, WhatPulse will count your keys and clicks. It counts the times a specific key of button has been pressed, not the order in which they&apos;ve been pressed.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="70"/>
-        <source>Also send to the website for use in your Dashboard.</source>
-        <translation>También manda a la página web para uso en tu Panel de Control.</translation>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="76"/>
+        <source>Also send to the website for use in your dashboard.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="81"/>
-        <source>2. Measure Network Traffic</source>
-        <translation>2. Mide Tráfico de Red</translation>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="87"/>
+        <source>2. Measure metwork traffic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="89"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="109"/>
+        <source>3. Measure computer uptime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="129"/>
+        <source>4. Measure application usage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="145"/>
+        <source>Also send online for your dashboard &amp; apps overview.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="160"/>
+        <source>If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="95"/>
         <source>This option has WhatPulse look at your networking traffic and measure the bytes of data going through your computer.</source>
         <translation>Esta opción hace que WhatPulse mire al tráfico de red y mide los bytes de información que van por tu ordenador.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="103"/>
-        <source>3. Measure Computer Uptime</source>
-        <translation>3. Mide Tiempo de Uso del Ordenador</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="111"/>
-        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you're using specific applications.</source>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="117"/>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
         <translation>¿Alguna vez te has preguntado cuánto tiempo tienes tu ordenador encendido? Esta opción te dirá justo eso. A su vez, también te dirá cuánto has usado aplicaciones específicas.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="123"/>
-        <source>4. Measure Application Usage</source>
-        <translation>4. Mide Uso de Aplicaciones</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="131"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="137"/>
         <source>What apps do you use the most? Which apps download the most? This will provide you with insight.</source>
         <translation>¿Cuáles son las aplicaciones que más usas? ¿Qué aplicaciones son las que más han descargado? Esto te proveera con esta información.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="139"/>
-        <source>Also send online for your Dashboard &amp; Apps Overview.</source>
-        <translation>También manda online tu Panel de Control &amp; Resumen de Aplicaciones.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="154"/>
-        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>&lt;small&gt;Si quieres recopilar todas las estadísticas, pero no mostrarlas públicamente, revisa tu &lt;a href="https://whatpulse.org/dashboard/my/privacy" style="color: %1"&gt;configuración de privacidad&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>
