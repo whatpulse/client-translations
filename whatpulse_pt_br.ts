@@ -4787,7 +4787,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="196"/>
         <source>&amp;Generate window message</source>
-        <translation>&amp;Gerar mensagem de janela</translation>
+        <translation>&amp;Gerar janela de mensagem</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="222"/>
@@ -4827,7 +4827,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="337"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
-        <translation>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</translation>
+        <translation>Esvaziar seu banco de dados local destruirá todas as estatísticas locais e desconectará sua conta. Isso é irreversível. Deseja continuar?</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="355"/>
@@ -6267,6 +6267,11 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="111"/>
+        <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
+        <translation>Já se perguntou quanto tempo seu computador fica ligado? Esta opção dirá exatamente isso. Como parte do tempo de atividade, isso também mostrará quanto tempo você está usando aplicativos específicos.</translation>
+    </message>
+    <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="145"/>
         <source>Also send online for your dashboard &amp; apps overview.</source>
         <translation type="unfinished"></translation>
@@ -6285,6 +6290,11 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="117"/>
         <source>Ever wondered how long your computer is turned on? This option will tell you just that. As a part of uptime, this will also tell you how long you&apos;re using specific applications.</source>
         <translation>Já se perguntou quanto tempo seu computador fica ligado? Esta opção dirá exatamente isso. Como parte do tempo de atividade, isso também mostrará quanto tempo você está usando aplicativos específicos.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="154"/>
+        <source>&lt;small&gt;If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>&lt;small&gt;Se você quiser coletar todas as estatísticas, mas não mostrá-las publicamente, confira suas &lt;a href=&quot;https://whatpulse.org/dashboard/my/privacy&quot; style=&quot;color: %1&quot;&gt;configurações de privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="137"/>
