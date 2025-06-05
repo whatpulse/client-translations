@@ -56,6 +56,13 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/edermachado>
+            <img src=https://avatars.githubusercontent.com/u/1864475?v=4 width="100;"  alt=Éder Magalhães Machado/>
+            <br />
+            <sub style="font-size:14px"><b>Éder Magalhães Machado</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/Geno1024>
             <img src=https://avatars.githubusercontent.com/u/6427392?v=4 width="100;"  alt=Y. Z. Chen/>
             <br />
@@ -74,13 +81,6 @@ The logs will also tell you if there's something wrong with the translation file
             <img src=https://avatars.githubusercontent.com/u/47057465?v=4 width="100;"  alt=Urbain/>
             <br />
             <sub style="font-size:14px"><b>Urbain</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/edermachado>
-            <img src=https://avatars.githubusercontent.com/u/1864475?v=4 width="100;"  alt=Éder Magalhães Machado/>
-            <br />
-            <sub style="font-size:14px"><b>Éder Magalhães Machado</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
