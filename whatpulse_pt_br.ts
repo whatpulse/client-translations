@@ -4340,7 +4340,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
         <source>Run as Administrator</source>
-        <translation type="unfinished"></translation>
+        <translation>Executar como Administrador</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="65"/>
@@ -6238,32 +6238,32 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="58"/>
         <source>1. Measure your keyboard &amp; mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Monitore seu teclado e mouse</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="66"/>
         <source>When this is enabled, WhatPulse will count your keys and clicks. It counts the times a specific key of button has been pressed, not the order in which they&apos;ve been pressed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando esta opção estiver ativada, o WhatPulse contará suas teclas pressionadas e cliques. Ele registra quantas vezes uma tecla ou botão específico foi pressionado, e não a ordem em que foram pressionados.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="76"/>
         <source>Also send to the website for use in your dashboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Também envia os dados para o site, para uso no seu painel.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="87"/>
         <source>2. Measure metwork traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Monitore o tráfego de rede</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="109"/>
         <source>3. Measure computer uptime</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Monitore o tempo de atividade do computador</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="129"/>
         <source>4. Measure application usage</source>
-        <translation type="unfinished"></translation>
+        <translation>4. Monitore o uso dos aplicativos</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="111"/>
@@ -6273,12 +6273,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="145"/>
         <source>Also send online for your dashboard &amp; apps overview.</source>
-        <translation type="unfinished"></translation>
+        <translation>Também envia os dados online para o seu painel e visão geral dos aplicativos.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="160"/>
         <source>If you want to collect all stats, but not show them publicly, check out your &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se você quiser coletar todas as estatísticas, mas não exibi-las publicamente, acesse suas &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;configurações de privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="95"/>
