@@ -5293,7 +5293,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="58"/>
         <source>Reboot Calendar</source>
-        <translation>Reiniciar calendário</translation>
+        <translation>Histórico de Reinicializações</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="60"/>
