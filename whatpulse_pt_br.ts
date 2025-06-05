@@ -4787,7 +4787,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="196"/>
         <source>&amp;Generate window message</source>
-        <translation>&amp;Gerar mensagem de janela</translation>
+        <translation>&amp;Gerar janela de mensagem</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="222"/>
@@ -4827,7 +4827,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="337"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
-        <translation>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</translation>
+        <translation>Esvaziar seu banco de dados local destruirá todas as estatísticas locais e desconectará sua conta. Isso é irreversível. Deseja continuar?</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="355"/>
