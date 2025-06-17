@@ -519,12 +519,12 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../online/clientcommunication.cpp" line="334"/>
       <source>WhatPulse Professional organization disabled.</source>
-      <translation type="finished"/>
+      <translation type="finished">WhatPulse Professional organization disabled.</translation>
     </message>
     <message>
       <location filename="../online/clientcommunication.cpp" line="335"/>
       <source>Your organization has been disabled, please contact your administrator.</source>
-      <translation type="finished"/>
+      <translation type="finished">Your organization has been disabled, please contact your administrator.</translation>
     </message>
     <message>
       <location filename="../online/clientcommunication.cpp" line="356"/>
@@ -1394,7 +1394,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="188"/>
       <source>Per-app stats disabled</source>
-      <translation type="finished"/>
+      <translation type="finished">Per-app stats disabled</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
@@ -4350,7 +4350,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/settings/settingsgeneral.cpp" line="58"/>
       <source>Run as Administrator</source>
-      <translation/>
+      <translation>Run as Administrator</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeneral.cpp" line="62"/>
@@ -6065,17 +6065,17 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../online/whttp.cpp" line="543"/>
       <source>Request timed out. Please check your internet connection and try again.</source>
-      <translation type="finished"/>
+      <translation type="finished">Request timed out. Please check your internet connection and try again.</translation>
     </message>
     <message>
       <location filename="../online/whttp.cpp" line="600"/>
       <source>Too many redirects. The server may be misconfigured.</source>
-      <translation type="finished"/>
+      <translation type="finished">Too many redirects. The server may be misconfigured.</translation>
     </message>
     <message>
       <location filename="../online/whttp.cpp" line="613"/>
       <source>Redirect to unauthorized domain blocked for security.</source>
-      <translation type="finished"/>
+      <translation type="finished">Redirect to unauthorized domain blocked for security.</translation>
     </message>
   </context>
   <context>
@@ -6266,42 +6266,42 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="58"/>
       <source>1. Measure your keyboard &amp; mouse</source>
-      <translation/>
+      <translation>1. Measure your keyboard &amp; mouse</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="66"/>
       <source>When this is enabled, WhatPulse will count your keys and clicks. It counts the times a specific key of button has been pressed, not the order in which they've been pressed.</source>
-      <translation/>
+      <translation>When this is enabled, WhatPulse will count your keys and clicks. It counts the times a specific key of button has been pressed, not the order in which they've been pressed.</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="76"/>
       <source>Also send to the website for use in your dashboard.</source>
-      <translation/>
+      <translation>Also send to the website for use in your dashboard.</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="87"/>
       <source>2. Measure metwork traffic</source>
-      <translation/>
+      <translation>2. Measure metwork traffic</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="109"/>
       <source>3. Measure computer uptime</source>
-      <translation/>
+      <translation>3. Measure computer uptime</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="129"/>
       <source>4. Measure application usage</source>
-      <translation/>
+      <translation>4. Measure application usage</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="145"/>
       <source>Also send online for your dashboard &amp; apps overview.</source>
-      <translation/>
+      <translation>Also send online for your dashboard &amp; apps overview.</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="160"/>
       <source>If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
-      <translation/>
+      <translation>If you want to collect all stats, but not show them publicly, check out your &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;privacy settings&lt;/a&gt;.</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="95"/>
