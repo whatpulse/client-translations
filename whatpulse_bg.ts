@@ -120,73 +120,73 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="319"/>
-        <location filename="../interface/AccountTab.cpp" line="327"/>
-        <location filename="../interface/AccountTab.cpp" line="335"/>
-        <location filename="../interface/AccountTab.cpp" line="343"/>
-        <location filename="../interface/AccountTab.cpp" line="351"/>
-        <location filename="../interface/AccountTab.cpp" line="359"/>
-        <location filename="../interface/AccountTab.cpp" line="368"/>
+        <location filename="../interface/AccountTab.cpp" line="328"/>
+        <location filename="../interface/AccountTab.cpp" line="337"/>
+        <location filename="../interface/AccountTab.cpp" line="346"/>
+        <location filename="../interface/AccountTab.cpp" line="355"/>
+        <location filename="../interface/AccountTab.cpp" line="364"/>
+        <location filename="../interface/AccountTab.cpp" line="374"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="374"/>
+        <location filename="../interface/AccountTab.cpp" line="382"/>
         <source>Yes (expires at %1)</source>
         <translation>Да (изтича в %1)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="378"/>
+        <location filename="../interface/AccountTab.cpp" line="386"/>
         <source>No</source>
         <translation>Не</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="489"/>
+        <location filename="../interface/AccountTab.cpp" line="503"/>
         <source>Log Out</source>
         <translation>Излез</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="490"/>
+        <location filename="../interface/AccountTab.cpp" line="504"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Излизането от акаунта ще рестартира твоите не пулсирани статистики ако влезеш с друг акаунт (базата данни се пази) и рестартираш Асистента за Инсталация.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="494"/>
+        <location filename="../interface/AccountTab.cpp" line="508"/>
         <source>Do you want to continue?</source>
         <translation>Искаш ли да продължиш?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="513"/>
+        <location filename="../interface/AccountTab.cpp" line="527"/>
         <source>Change Password</source>
         <translation>Смени парола</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="514"/>
+        <location filename="../interface/AccountTab.cpp" line="528"/>
         <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Не можеш да смениш паролата си в приложението. Моля излез от профила си и влез пак със същия имейл адрес и име на компютъра за да смениш паролата в приложението. Твоите статистики ще се запазят ако използваш същите имена.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="524"/>
-        <location filename="../interface/AccountTab.cpp" line="556"/>
+        <location filename="../interface/AccountTab.cpp" line="538"/>
+        <location filename="../interface/AccountTab.cpp" line="570"/>
         <source>Reset your token</source>
         <translation>Рестартирай твоя ключ</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="525"/>
+        <location filename="../interface/AccountTab.cpp" line="539"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Рестартирането на твоя ключ ще върне локалните статистики и ще ти позволи да пулсираш пак.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="527"/>
+        <location filename="../interface/AccountTab.cpp" line="541"/>
         <source>Are you sure?</source>
         <translation>Сигурен ли си?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="552"/>
+        <location filename="../interface/AccountTab.cpp" line="566"/>
         <source>Token reset!</source>
         <translation>Ключът е рестартиран!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="553"/>
+        <location filename="../interface/AccountTab.cpp" line="567"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -195,37 +195,37 @@ You can continue pulsing.</source>
 Можете да продължите да качвате.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="557"/>
+        <location filename="../interface/AccountTab.cpp" line="571"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>Нещо се обърка докато рестартирахме ключа ти:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="617"/>
+        <location filename="../interface/AccountTab.cpp" line="631"/>
         <source>Premium Membership</source>
         <translation>Премиум членство</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="618"/>
+        <location filename="../interface/AccountTab.cpp" line="632"/>
         <source>Your premium membership has just been activated! Close and re-open the WhatPulse window to activate all features.</source>
         <translation>Вашият премиум абонамент беше активиран! Затворете и отворете отново прозореца на WhatPulse, за да активирате всички функции.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="625"/>
+        <location filename="../interface/AccountTab.cpp" line="639"/>
         <source>Refresh Account Status</source>
         <translation>Обнови статистики за профила</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="626"/>
+        <location filename="../interface/AccountTab.cpp" line="640"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Нещо се обърка докато ти опреснявахме данните на акаунта:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="634"/>
+        <location filename="../interface/AccountTab.cpp" line="648"/>
         <source>Backup Started</source>
         <translation>Започнато архивиране</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="635"/>
+        <location filename="../interface/AccountTab.cpp" line="649"/>
         <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
         <translation>Успешно стартира архивиране. То ще се стартира във фонов режим и ще отнеме няколко минути.</translation>
     </message>
@@ -407,18 +407,18 @@ Keeping Portable Mode enabled.</source>
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2107"/>
-        <location filename="../application.cpp" line="2120"/>
+        <location filename="../application.cpp" line="2108"/>
+        <location filename="../application.cpp" line="2121"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2108"/>
+        <location filename="../application.cpp" line="2109"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2121"/>
+        <location filename="../application.cpp" line="2122"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
@@ -502,123 +502,133 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="268"/>
+        <location filename="../online/clientcommunication.cpp" line="271"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>Уебсайтът не отговаря правилно на вашата заявка, моля пробвайте пак по-късно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="308"/>
+        <location filename="../online/clientcommunication.cpp" line="311"/>
         <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
         <translation>Този компютър е архивиран и не може да се свърже с акаунта ви.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="311"/>
+        <location filename="../online/clientcommunication.cpp" line="314"/>
         <source>Computer Management</source>
         <translation>Управление на компютри</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="328"/>
+        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <source>WhatPulse Professional organization disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="335"/>
+        <source>Your organization has been disabled, please contact your administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="356"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Вашият акаунт не е напълно активиран, моля проверете имейла си и опитайте пак след като го активирате.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="332"/>
-        <location filename="../online/clientcommunication.cpp" line="382"/>
+        <location filename="../online/clientcommunication.cpp" line="360"/>
+        <location filename="../online/clientcommunication.cpp" line="412"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Акаунта или компютъра са непознати! Регистрирали ли сте се?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="335"/>
-        <location filename="../online/clientcommunication.cpp" line="385"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
+        <location filename="../online/clientcommunication.cpp" line="415"/>
         <source>Wrong password! Try again.</source>
         <translation>Грешна парола! Пробвайте пак.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="339"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="368"/>
+        <location filename="../online/clientcommunication.cpp" line="445"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Сървърът ни е офлайн, заради поддръжка. Пробвайте отново по-късно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="342"/>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="371"/>
+        <location filename="../online/clientcommunication.cpp" line="448"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Вътрешна грешка. Моля пробвайте по-късно.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="346"/>
-        <location filename="../online/clientcommunication.cpp" line="422"/>
+        <location filename="../online/clientcommunication.cpp" line="375"/>
+        <location filename="../online/clientcommunication.cpp" line="452"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Сървърна грешка: Липсващ вход! Моля свържете се с разработчиците.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="388"/>
+        <location filename="../online/clientcommunication.cpp" line="418"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Нарушение на входове. Това означава, че вашите клавиши или кликвания в секунда са твърде високи. Изчакайте около час, за да го намалите и опитайте отново.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="394"/>
+        <location filename="../online/clientcommunication.cpp" line="424"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Грешен ключ, ползвали ли сте този профил на друг компютър?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="397"/>
+        <location filename="../online/clientcommunication.cpp" line="427"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Желаното име е вече регистрирано! Моля изберете друго име и пробвайте пак.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="402"/>
+        <location filename="../online/clientcommunication.cpp" line="432"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Пулс спрян! Можете да пулсирате само на вски 60 секунди.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="405"/>
+        <location filename="../online/clientcommunication.cpp" line="435"/>
         <source>Computer login still pending.</source>
         <translation>Входът в компютъра все още не е потвърден.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="408"/>
+        <location filename="../online/clientcommunication.cpp" line="438"/>
         <source>Premium only feature.</source>
         <translation>Тази функция е само за премиум.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="411"/>
+        <location filename="../online/clientcommunication.cpp" line="441"/>
         <source>Organization not found.</source>
         <translation>Организацията не е намерена.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="425"/>
-        <location filename="../online/clientcommunication.cpp" line="938"/>
+        <location filename="../online/clientcommunication.cpp" line="455"/>
+        <location filename="../online/clientcommunication.cpp" line="969"/>
         <source>Success.</source>
         <translation>Успех.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="428"/>
+        <location filename="../online/clientcommunication.cpp" line="458"/>
         <source>Success, your file is now on the website!</source>
         <translation>Успех, вашият файл е в базата данни!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="914"/>
+        <location filename="../online/clientcommunication.cpp" line="945"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Не можахме да отворим GeoIP базата данни (%1), заради отказани позволения.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="926"/>
+        <location filename="../online/clientcommunication.cpp" line="957"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>Новата база данни GeoIP изглежда е твърде малка (%1), спира актуализацията.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="988"/>
+        <location filename="../online/clientcommunication.cpp" line="1019"/>
         <source>Empty reply received</source>
         <translation>Получен е празен отговор</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1009"/>
+        <location filename="../online/clientcommunication.cpp" line="1040"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Не можахме да отворим базата данни с мрежови портове (%1), заради отказани позволения.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1023"/>
+        <location filename="../online/clientcommunication.cpp" line="1054"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Изтегленият файл не изглежда добре: %1</translation>
     </message>
@@ -626,7 +636,7 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>CustomMessageBoxInfo</name>
     <message>
-        <location filename="../interface/widgets/custommessageboxinfo.cpp" line="26"/>
+        <location filename="../interface/widgets/custommessageboxinfo.cpp" line="24"/>
         <source>OK</source>
         <translation>Добре</translation>
     </message>
@@ -655,14 +665,14 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="68"/>
-        <location filename="../util/database.cpp" line="79"/>
-        <location filename="../util/database.cpp" line="477"/>
+        <location filename="../util/database.cpp" line="70"/>
+        <location filename="../util/database.cpp" line="83"/>
+        <location filename="../util/database.cpp" line="484"/>
         <source>Database failure</source>
         <translation>Грешка в базата данни</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="69"/>
+        <location filename="../util/database.cpp" line="71"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
@@ -671,38 +681,38 @@ Please check your permissions on: %2</source>
 Моля проверете достъпа си до: %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="80"/>
+        <location filename="../util/database.cpp" line="84"/>
         <source>Unable to setup database: %1</source>
         <translation>Не може да създаде база данни: %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="478"/>
+        <location filename="../util/database.cpp" line="485"/>
         <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>Базата данни &apos;%1&apos; е само за четене. WhatPulse не може да запази статистиките докато не оправите този проблем.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="518"/>
-        <location filename="../util/database.cpp" line="546"/>
+        <location filename="../util/database.cpp" line="526"/>
+        <location filename="../util/database.cpp" line="555"/>
         <source>Critical database error!</source>
         <translation>Критичен проблем с базата данни!</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="519"/>
+        <location filename="../util/database.cpp" line="527"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest.</source>
         <translation>Нещо наистина лошо се случи с базата данни и резервната база данни. Единственият начин за възстановяване е да се създаде нова база данни. Това няма да засегне вашите непулснати статистики, но ще изтрие останалото.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="547"/>
+        <location filename="../util/database.cpp" line="556"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Нещо наистина се обърка с базата данни и резервната. Единственият начин за оправяне на този проблем е да се създаде нова. Това няма да промени статистиките, които още не са качени, но ще изтрие всички останали. Да продължим ли?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="686"/>
+        <location filename="../util/database.cpp" line="695"/>
         <source>Version</source>
         <translation>Версия</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="687"/>
+        <location filename="../util/database.cpp" line="696"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>Не можете да се върнете на по-стара версия на WhatPulse, моля инсталирайте последната версия и пробвайте пак.</translation>
     </message>
@@ -1374,61 +1384,59 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="188"/>
-        <source>Per-App Stats Disabled</source>
-        <translation>Статистики по приложение забранени</translation>
-    </message>
-    <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="188"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="480"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="481"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="519"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="520"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="489"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="535"/>
         <source>All</source>
         <translation>Винаги</translation>
     </message>
     <message>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="188"/>
+        <source>Per-app stats disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="480"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="481"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="519"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="520"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="489"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="490"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="535"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="536"/>
         <source>Premium Only</source>
         <translation>Само Premium</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="258"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="269"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Днес&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="261"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="272"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Вчера&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="264"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="275"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;Не-пулснати&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="267"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="278"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Цялото време&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="271"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="282"/>
         <source>Show Heat Map</source>
         <translation>Показване на топлинна карта</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="273"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="284"/>
         <source>Show Details</source>
         <translation>Покажи подробности</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="546"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="570"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
@@ -1921,32 +1929,32 @@ Please check your permissions on: %2</source>
 <context>
     <name>KeyboardHeatmap</name>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="428"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="438"/>
         <source>Image not created!</source>
         <translation>Изображението не е създадено!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="429"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="439"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Не може да се създаде изображение на топлинната карта. Моля пробвай пак или провери настройките за достъп на: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="464"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="474"/>
         <source>Pressed</source>
         <translation>Натиснат</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="517"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="527"/>
         <source>Image posted online!</source>
         <translation>Изображението е качено онлайн!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="518"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="528"/>
         <source>Keyboard image succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Топлинната карта на клавиатурата беше успешно качена! Искаш ли да я видиш в браузъра?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="532"/>
+        <location filename="../interface/widgets/KeyboardHeatmap.cpp" line="542"/>
         <source>Error uploading file!</source>
         <translation>Възникна грешка при качването на файла!</translation>
     </message>
@@ -2042,27 +2050,27 @@ Please check your permissions on: %2</source>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="664"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="679"/>
         <source>Image not created!</source>
         <translation>Изображението не е създадено!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="665"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="680"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Не може да се създаде изображение на топлинната карта. Моля пробвай пак или провери настройките за достъп на: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="922"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="937"/>
         <source>Image posted online!</source>
         <translation>Изображението е качено онлайн!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="923"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="938"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Топлинната карта на мишката беше успешно качена! Искаш ли да я видиш в браузъра?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="937"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="952"/>
         <source>Error uploading file!</source>
         <translation>Възникна грешка при качването на файла!</translation>
     </message>
@@ -2991,105 +2999,105 @@ Please check your permissions on: %2</source>
 <context>
     <name>OverviewTab</name>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="39"/>
-        <source>Open Window on Startup</source>
-        <translation>Отвори прозорец при включване на компютъра</translation>
-    </message>
-    <message>
         <location filename="../interface/OverviewTab.cpp" line="43"/>
         <source> Pulse!</source>
         <translation> Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="133"/>
-        <location filename="../interface/OverviewTab.cpp" line="241"/>
+        <location filename="../interface/OverviewTab.cpp" line="134"/>
+        <location filename="../interface/OverviewTab.cpp" line="242"/>
         <source>Total: %1
 Available: %2</source>
         <translation>Общо: %1
 Достъпно: %2</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="289"/>
+        <location filename="../interface/OverviewTab.cpp" line="290"/>
         <source>Scrolls:</source>
         <translation>Свитъци:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="291"/>
+        <location filename="../interface/OverviewTab.cpp" line="292"/>
         <source>Distance:</source>
         <translation>Разстояние:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="294"/>
+        <location filename="../interface/OverviewTab.cpp" line="295"/>
         <source>Click counting is disabled</source>
         <translation>Броенето на кликове е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="318"/>
+        <location filename="../interface/OverviewTab.cpp" line="319"/>
         <source>Key counting is disabled</source>
         <translation>Броенето на клавиши е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="160"/>
-        <location filename="../interface/OverviewTab.cpp" line="170"/>
-        <location filename="../interface/OverviewTab.cpp" line="179"/>
+        <location filename="../interface/OverviewTab.cpp" line="161"/>
+        <location filename="../interface/OverviewTab.cpp" line="171"/>
         <location filename="../interface/OverviewTab.cpp" line="180"/>
-        <location filename="../interface/OverviewTab.cpp" line="321"/>
+        <location filename="../interface/OverviewTab.cpp" line="181"/>
         <location filename="../interface/OverviewTab.cpp" line="322"/>
+        <location filename="../interface/OverviewTab.cpp" line="323"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="160"/>
-        <location filename="../interface/OverviewTab.cpp" line="303"/>
+        <location filename="../interface/OverviewTab.cpp" line="39"/>
+        <source>Open window on startup</source>
+        <translation type="unfinished">Отвори прозореца при стартиране</translation>
+    </message>
+    <message>
+        <location filename="../interface/OverviewTab.cpp" line="161"/>
+        <location filename="../interface/OverviewTab.cpp" line="304"/>
         <source>Keys</source>
         <translation>Клавиши</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="170"/>
+        <location filename="../interface/OverviewTab.cpp" line="171"/>
         <source>Clicks</source>
         <translation>Кликове</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="179"/>
-        <location filename="../interface/OverviewTab.cpp" line="355"/>
+        <location filename="../interface/OverviewTab.cpp" line="180"/>
+        <location filename="../interface/OverviewTab.cpp" line="356"/>
         <source>Download</source>
         <translation>Изтегляне</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="180"/>
-        <location filename="../interface/OverviewTab.cpp" line="356"/>
+        <location filename="../interface/OverviewTab.cpp" line="181"/>
+        <location filename="../interface/OverviewTab.cpp" line="357"/>
         <source>Upload</source>
         <translation>Качване</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="192"/>
+        <location filename="../interface/OverviewTab.cpp" line="193"/>
         <source>Current uptime: unknown.&lt;br /&gt;Unknown reboots.</source>
         <translation>Текущо време на работа: неизвестно.&lt;br /&gt;Неизвестни рестартирания.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="284"/>
+        <location filename="../interface/OverviewTab.cpp" line="285"/>
         <source>Clicks:</source>
         <translation>Кликове:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="286"/>
+        <location filename="../interface/OverviewTab.cpp" line="287"/>
         <source>unpulsed:</source>
         <translation>без импулси:</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="303"/>
-        <location filename="../interface/OverviewTab.cpp" line="355"/>
+        <location filename="../interface/OverviewTab.cpp" line="304"/>
         <location filename="../interface/OverviewTab.cpp" line="356"/>
+        <location filename="../interface/OverviewTab.cpp" line="357"/>
         <source>unpulsed</source>
         <translation>непулсиран</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="313"/>
+        <location filename="../interface/OverviewTab.cpp" line="314"/>
         <source>Key Combinations</source>
         <translation>Клавишни комбинации</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="339"/>
+        <location filename="../interface/OverviewTab.cpp" line="340"/>
         <source>Current uptime: %1
 Unpulsed: %2
 %3 reboots</source>
@@ -3098,49 +3106,49 @@ Unpulsed: %2
 %3 рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="344"/>
+        <location filename="../interface/OverviewTab.cpp" line="345"/>
         <source>Uptime is disabled</source>
         <translation>Следенето на време на работа е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="364"/>
+        <location filename="../interface/OverviewTab.cpp" line="365"/>
         <source>Download: unknown
 Upload: unknown</source>
         <translation>Изтегляне: unknown
 Качване: неизвестно</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="367"/>
+        <location filename="../interface/OverviewTab.cpp" line="368"/>
         <source>Network is disabled</source>
         <translation>Следенето на интернет трафика е изключено</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="372"/>
+        <location filename="../interface/OverviewTab.cpp" line="373"/>
         <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
         <translation>Опцията &apos;Работи офлайн&apos; е включена, и по тази причина не можете да пулсирате. Изключете тази опция за да върнете възможността.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="383"/>
+        <location filename="../interface/OverviewTab.cpp" line="384"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="384"/>
+        <location filename="../interface/OverviewTab.cpp" line="385"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката &apos;Работа офлайн&apos; е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="394"/>
+        <location filename="../interface/OverviewTab.cpp" line="395"/>
         <source>Pulsing..</source>
         <translation>Пулсиране..</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="395"/>
+        <location filename="../interface/OverviewTab.cpp" line="396"/>
         <source>Pulse underway, please wait!</source>
         <translation>Пулсът още се изпълнява, моля изчакай!</translation>
     </message>
     <message>
-        <location filename="../interface/OverviewTab.cpp" line="400"/>
+        <location filename="../interface/OverviewTab.cpp" line="401"/>
         <source>Pulse!</source>
         <translation>Пулсирай!</translation>
     </message>
@@ -4311,57 +4319,57 @@ This will reset any custom layouts!</source>
         <translation>Отвори прозореца при стартиране</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="34"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="32"/>
         <source>Automatically install new versions</source>
         <translation>Инсталирай автоматично нови версии</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="39"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="36"/>
         <source>Include beta versions updates</source>
         <translation>Включи ъпдейти на бета версиите</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="43"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="40"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>Пулсирай при двоен клик на иконката</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="48"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="45"/>
         <source>Upload application info</source>
         <translation>Качвай информация за приложения</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="53"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="50"/>
         <source>Work offline (disables pulsing)</source>
         <translation>Работи офлайн (без пулсиране)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="57"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="54"/>
         <source>Weekly online backups</source>
         <translation>Онлайн резервни копия всяка седмица</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="61"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="58"/>
         <source>Run as Administrator</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="65"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="62"/>
         <source>Pause notifications</source>
         <translation>Приоставяне на известията</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="68"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="65"/>
         <source>Notification on auto pulse</source>
         <translation>Известие при автоматично пулсиране</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="73"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="70"/>
         <source>Send bug and usage reports</source>
         <translation>Отправляйте отчеты об ошибках и использовании</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="89"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="86"/>
         <source>Weekly online backups (premium only)</source>
         <translation>Онлайн резервни копия всяка седмица (само за премиум)</translation>
     </message>
@@ -4864,63 +4872,63 @@ This will reset any custom layouts!</source>
 <context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="254"/>
-        <location filename="../interface/tasktraypopup.cpp" line="272"/>
+        <location filename="../interface/tasktraypopup.cpp" line="261"/>
+        <location filename="../interface/tasktraypopup.cpp" line="279"/>
         <source>Activate a profile</source>
         <translation>Активиране на профил</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="284"/>
+        <location filename="../interface/tasktraypopup.cpp" line="291"/>
         <source>Pulse</source>
         <translation>Качи данни</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="290"/>
+        <location filename="../interface/tasktraypopup.cpp" line="297"/>
         <source>Open Client</source>
         <translation>Отвори приложение</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="296"/>
+        <location filename="../interface/tasktraypopup.cpp" line="303"/>
         <source>View Online Stats</source>
         <translation>Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="302"/>
+        <location filename="../interface/tasktraypopup.cpp" line="309"/>
         <source>Toggle Geek Window</source>
         <translation>Включи програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="310"/>
+        <location filename="../interface/tasktraypopup.cpp" line="317"/>
         <source>Input</source>
         <translation>Вход</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="316"/>
+        <location filename="../interface/tasktraypopup.cpp" line="323"/>
         <source>Network</source>
         <translation>Мрежа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="321"/>
+        <location filename="../interface/tasktraypopup.cpp" line="328"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="329"/>
+        <location filename="../interface/tasktraypopup.cpp" line="336"/>
         <source>Account</source>
         <translation>Акаунт</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="335"/>
+        <location filename="../interface/tasktraypopup.cpp" line="342"/>
         <source>Check for Updates</source>
         <translation>Провери за нова версия на софтуера</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="341"/>
+        <location filename="../interface/tasktraypopup.cpp" line="348"/>
         <source>Settings</source>
         <translation>Настройки</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="347"/>
+        <location filename="../interface/tasktraypopup.cpp" line="354"/>
         <source>Exit WhatPulse</source>
         <translation>Излез от WhatPulse</translation>
     </message>
@@ -5033,52 +5041,52 @@ This will reset any custom layouts!</source>
 <context>
     <name>TrayMenuItemStats</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="126"/>
+        <location filename="../interface/tasktraypopup.cpp" line="133"/>
         <source>Keys:</source>
         <translation>Клавиши:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="127"/>
+        <location filename="../interface/tasktraypopup.cpp" line="134"/>
         <source>Clicks:</source>
         <translation>Кликове:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="128"/>
+        <location filename="../interface/tasktraypopup.cpp" line="135"/>
         <source>Uptime:</source>
         <translation>Време на работа:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="129"/>
+        <location filename="../interface/tasktraypopup.cpp" line="136"/>
         <source>Down:</source>
         <translation>Изтегляне:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="130"/>
+        <location filename="../interface/tasktraypopup.cpp" line="137"/>
         <source>Up:</source>
         <translation>Качване:</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="139"/>
+        <location filename="../interface/tasktraypopup.cpp" line="146"/>
         <source>Keys: %1</source>
         <translation>Клавиши: %1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="144"/>
+        <location filename="../interface/tasktraypopup.cpp" line="151"/>
         <source>Clicks: %1</source>
         <translation>Кликове :%1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="150"/>
+        <location filename="../interface/tasktraypopup.cpp" line="157"/>
         <source>Down: %1</source>
         <translation>Изтегляне :%1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="153"/>
+        <location filename="../interface/tasktraypopup.cpp" line="160"/>
         <source>Up: %1</source>
         <translation>Качване :%1</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="160"/>
+        <location filename="../interface/tasktraypopup.cpp" line="167"/>
         <source>Uptime: %3</source>
         <translation>Време на работа: %3</translation>
     </message>
@@ -5289,387 +5297,387 @@ This will reset any custom layouts!</source>
 <context>
     <name>UptimeTab</name>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="56"/>
+        <location filename="../interface/UptimeTab.cpp" line="57"/>
         <source>Computer Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="58"/>
+        <location filename="../interface/UptimeTab.cpp" line="59"/>
         <source>Reboot Calendar</source>
         <translation>Календар на рестартиранията</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="60"/>
+        <location filename="../interface/UptimeTab.cpp" line="61"/>
         <source>Applications</source>
         <translation>Приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="62"/>
+        <location filename="../interface/UptimeTab.cpp" line="63"/>
         <source>Application Activity</source>
         <translation>Активност на приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="82"/>
+        <location filename="../interface/UptimeTab.cpp" line="83"/>
         <source> Reset</source>
         <translation> Нулирай</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="106"/>
-        <location filename="../interface/UptimeTab.cpp" line="120"/>
+        <location filename="../interface/UptimeTab.cpp" line="107"/>
+        <location filename="../interface/UptimeTab.cpp" line="121"/>
         <source>Uptime - Computer Uptime</source>
         <translation>Време на работа - На компътра</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="108"/>
-        <location filename="../interface/UptimeTab.cpp" line="121"/>
+        <location filename="../interface/UptimeTab.cpp" line="109"/>
+        <location filename="../interface/UptimeTab.cpp" line="122"/>
         <source>Uptime - Reboot Calendar</source>
         <translation>Време на работа - Календар на рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="110"/>
-        <location filename="../interface/UptimeTab.cpp" line="122"/>
+        <location filename="../interface/UptimeTab.cpp" line="111"/>
+        <location filename="../interface/UptimeTab.cpp" line="123"/>
         <source>Uptime - Applications</source>
         <translation>Време на работа - Приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="112"/>
-        <location filename="../interface/UptimeTab.cpp" line="123"/>
+        <location filename="../interface/UptimeTab.cpp" line="113"/>
+        <location filename="../interface/UptimeTab.cpp" line="124"/>
         <source>Uptime - Application Activity</source>
         <translation>Време на работа - Активност на приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="114"/>
+        <location filename="../interface/UptimeTab.cpp" line="115"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="164"/>
-        <location filename="../interface/UptimeTab.cpp" line="585"/>
+        <location filename="../interface/UptimeTab.cpp" line="165"/>
+        <location filename="../interface/UptimeTab.cpp" line="586"/>
         <source>Export</source>
         <translation>Експорт</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="174"/>
-        <location filename="../interface/UptimeTab.cpp" line="595"/>
+        <location filename="../interface/UptimeTab.cpp" line="175"/>
+        <location filename="../interface/UptimeTab.cpp" line="596"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Изтегли данни в .csv формат</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="179"/>
-        <location filename="../interface/UptimeTab.cpp" line="599"/>
+        <location filename="../interface/UptimeTab.cpp" line="180"/>
+        <location filename="../interface/UptimeTab.cpp" line="600"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Съветник за изтегляне на данни</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="221"/>
-        <location filename="../interface/UptimeTab.cpp" line="423"/>
+        <location filename="../interface/UptimeTab.cpp" line="222"/>
+        <location filename="../interface/UptimeTab.cpp" line="424"/>
         <source>No data available</source>
         <translation>Няма налични данни</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="240"/>
+        <location filename="../interface/UptimeTab.cpp" line="241"/>
         <source>Go Premium</source>
         <translation>Поръчай премиум</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="270"/>
+        <location filename="../interface/UptimeTab.cpp" line="271"/>
         <source>&lt;h3&gt;Favorite reboot days&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Любими дни за рестартиране&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="287"/>
-        <location filename="../interface/UptimeTab.cpp" line="355"/>
+        <location filename="../interface/UptimeTab.cpp" line="288"/>
+        <location filename="../interface/UptimeTab.cpp" line="356"/>
         <source>Sun</source>
         <translation>Нед</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="287"/>
-        <location filename="../interface/UptimeTab.cpp" line="356"/>
+        <location filename="../interface/UptimeTab.cpp" line="288"/>
+        <location filename="../interface/UptimeTab.cpp" line="357"/>
         <source>Mon</source>
         <translation>Пон</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="287"/>
-        <location filename="../interface/UptimeTab.cpp" line="357"/>
+        <location filename="../interface/UptimeTab.cpp" line="288"/>
+        <location filename="../interface/UptimeTab.cpp" line="358"/>
         <source>Tue</source>
         <translation>Втор</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="287"/>
-        <location filename="../interface/UptimeTab.cpp" line="358"/>
+        <location filename="../interface/UptimeTab.cpp" line="288"/>
+        <location filename="../interface/UptimeTab.cpp" line="359"/>
         <source>Wed</source>
         <translation>Сря</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="288"/>
-        <location filename="../interface/UptimeTab.cpp" line="359"/>
+        <location filename="../interface/UptimeTab.cpp" line="289"/>
+        <location filename="../interface/UptimeTab.cpp" line="360"/>
         <source>Thu</source>
         <translation>Четв</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="288"/>
-        <location filename="../interface/UptimeTab.cpp" line="360"/>
+        <location filename="../interface/UptimeTab.cpp" line="289"/>
+        <location filename="../interface/UptimeTab.cpp" line="361"/>
         <source>Fri</source>
         <translation>Пет</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="288"/>
-        <location filename="../interface/UptimeTab.cpp" line="361"/>
+        <location filename="../interface/UptimeTab.cpp" line="289"/>
+        <location filename="../interface/UptimeTab.cpp" line="362"/>
         <source>Sat</source>
         <translation>Съб</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="304"/>
+        <location filename="../interface/UptimeTab.cpp" line="305"/>
         <source>No reboots yet.</source>
         <translation>Все още няма рестартиране.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="355"/>
+        <location filename="../interface/UptimeTab.cpp" line="356"/>
         <source>Sunday</source>
         <translation>Неделя</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="356"/>
+        <location filename="../interface/UptimeTab.cpp" line="357"/>
         <source>Monday</source>
         <translation>Понеделник</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="357"/>
+        <location filename="../interface/UptimeTab.cpp" line="358"/>
         <source>Tuesday</source>
         <translation>Вторник</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="358"/>
+        <location filename="../interface/UptimeTab.cpp" line="359"/>
         <source>Wednesday</source>
         <translation>Сряда</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="359"/>
+        <location filename="../interface/UptimeTab.cpp" line="360"/>
         <source>Thursday</source>
         <translation>Четвъртък</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="360"/>
+        <location filename="../interface/UptimeTab.cpp" line="361"/>
         <source>Friday</source>
         <translation>Петък</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="361"/>
+        <location filename="../interface/UptimeTab.cpp" line="362"/>
         <source>Saturday</source>
         <translation>Събота</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="367"/>
+        <location filename="../interface/UptimeTab.cpp" line="368"/>
         <source>reboots on</source>
         <translation>рестартира се при</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="401"/>
+        <location filename="../interface/UptimeTab.cpp" line="402"/>
         <source>hours of uptime</source>
         <translation>часове на непрекъсната работа</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="441"/>
+        <location filename="../interface/UptimeTab.cpp" line="442"/>
         <source>hours</source>
         <translation>часове</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="499"/>
-        <location filename="../interface/UptimeTab.cpp" line="1265"/>
-        <location filename="../interface/UptimeTab.cpp" line="1274"/>
+        <location filename="../interface/UptimeTab.cpp" line="500"/>
+        <location filename="../interface/UptimeTab.cpp" line="1266"/>
+        <location filename="../interface/UptimeTab.cpp" line="1275"/>
         <source>Today</source>
         <translation>Днес</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="560"/>
+        <location filename="../interface/UptimeTab.cpp" line="561"/>
         <source>Show only recently used applications</source>
         <translation>Покажи само скоро използвани приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="567"/>
+        <location filename="../interface/UptimeTab.cpp" line="568"/>
         <source>Show only running applications</source>
         <translation>Покажи само работещи приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="615"/>
+        <location filename="../interface/UptimeTab.cpp" line="616"/>
         <source>Details</source>
         <translation>Подробности</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="620"/>
         <location filename="../interface/UptimeTab.cpp" line="621"/>
         <location filename="../interface/UptimeTab.cpp" line="622"/>
         <location filename="../interface/UptimeTab.cpp" line="623"/>
         <location filename="../interface/UptimeTab.cpp" line="624"/>
         <location filename="../interface/UptimeTab.cpp" line="625"/>
+        <location filename="../interface/UptimeTab.cpp" line="626"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="631"/>
+        <location filename="../interface/UptimeTab.cpp" line="632"/>
         <source>Unpulsed uptime:</source>
         <translation>Не-пулсирано време на работа:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="634"/>
+        <location filename="../interface/UptimeTab.cpp" line="635"/>
         <source>Current uptime:</source>
         <translation>Вмоменташно време на работа:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="637"/>
+        <location filename="../interface/UptimeTab.cpp" line="638"/>
         <source>Total uptime:</source>
         <translation>Общо време на работа:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="640"/>
+        <location filename="../interface/UptimeTab.cpp" line="641"/>
         <source>Longest uptime:</source>
         <translation>Най-дълго време на работа:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="643"/>
+        <location filename="../interface/UptimeTab.cpp" line="644"/>
         <source>Average uptime:</source>
         <translation>Средно време на работа:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="646"/>
+        <location filename="../interface/UptimeTab.cpp" line="647"/>
         <source>Total reboots:</source>
         <translation>Общо рестартирания:</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="656"/>
+        <location filename="../interface/UptimeTab.cpp" line="657"/>
         <source>Reboot history for </source>
         <translation>История на рестартиранията за </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="700"/>
+        <location filename="../interface/UptimeTab.cpp" line="701"/>
         <source>No reboots found</source>
         <translation>Няма намерени рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="714"/>
+        <location filename="../interface/UptimeTab.cpp" line="715"/>
         <source>Reboot history</source>
         <translation>История на рестартиранията</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="772"/>
+        <location filename="../interface/UptimeTab.cpp" line="773"/>
         <source>Application</source>
         <translation>Приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="772"/>
+        <location filename="../interface/UptimeTab.cpp" line="773"/>
         <source>Total time</source>
         <translation>Общо време</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="773"/>
+        <location filename="../interface/UptimeTab.cpp" line="774"/>
         <source>Total active time</source>
         <translation>Общо време на активност</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="800"/>
+        <location filename="../interface/UptimeTab.cpp" line="801"/>
         <source>Exclude</source>
         <translation>Изключване</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="806"/>
+        <location filename="../interface/UptimeTab.cpp" line="807"/>
         <source>Open File Location</source>
         <translation>Отвори файл</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="812"/>
+        <location filename="../interface/UptimeTab.cpp" line="813"/>
         <source>Open Online Profile</source>
         <translation>Отвори онлайн профил</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="827"/>
+        <location filename="../interface/UptimeTab.cpp" line="828"/>
         <source>Ignore application?</source>
         <translation>Игнориране на приложение?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="828"/>
+        <location filename="../interface/UptimeTab.cpp" line="829"/>
         <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
         <translation>Сигурни ли сте, че искате да игнорирате приложението &apos;%1&apos; ? Това също ще премахне историята на това приложение.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="879"/>
+        <location filename="../interface/UptimeTab.cpp" line="880"/>
         <source>Not yet</source>
         <translation>Не още</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="880"/>
+        <location filename="../interface/UptimeTab.cpp" line="881"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Това приложение не е качено в уебсайта още, моля проверете след час отново.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1267"/>
-        <location filename="../interface/UptimeTab.cpp" line="1276"/>
+        <location filename="../interface/UptimeTab.cpp" line="1268"/>
+        <location filename="../interface/UptimeTab.cpp" line="1277"/>
         <source>Yesterday</source>
         <translation>Вчера</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1282"/>
-        <location filename="../interface/UptimeTab.cpp" line="1287"/>
+        <location filename="../interface/UptimeTab.cpp" line="1283"/>
+        <location filename="../interface/UptimeTab.cpp" line="1288"/>
         <source>%1 %2 to %3 %4</source>
         <translation>%1 %2 до %3 %4</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1429"/>
-        <location filename="../interface/UptimeTab.cpp" line="1435"/>
+        <location filename="../interface/UptimeTab.cpp" line="1430"/>
+        <location filename="../interface/UptimeTab.cpp" line="1436"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>време на работа и данни за рестартиране (всички освен за приложения) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1430"/>
-        <location filename="../interface/UptimeTab.cpp" line="1436"/>
+        <location filename="../interface/UptimeTab.cpp" line="1431"/>
+        <location filename="../interface/UptimeTab.cpp" line="1437"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Рестартирай история за време на работа/рестартирания</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1440"/>
-        <location filename="../interface/UptimeTab.cpp" line="1445"/>
+        <location filename="../interface/UptimeTab.cpp" line="1441"/>
+        <location filename="../interface/UptimeTab.cpp" line="1446"/>
         <source>application uptime data</source>
         <translation>данни за време на работа на приложения</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1441"/>
-        <location filename="../interface/UptimeTab.cpp" line="1446"/>
+        <location filename="../interface/UptimeTab.cpp" line="1442"/>
+        <location filename="../interface/UptimeTab.cpp" line="1447"/>
         <source>Reset Application History</source>
         <translation>Рестартирай история за приложенията</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1451"/>
+        <location filename="../interface/UptimeTab.cpp" line="1452"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Искате ли да рестартирате всички данни за работното време или само за %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1450"/>
-        <location filename="../interface/UptimeTab.cpp" line="1467"/>
-        <location filename="../interface/UptimeTab.cpp" line="1491"/>
-        <location filename="../interface/UptimeTab.cpp" line="1514"/>
-        <location filename="../interface/UptimeTab.cpp" line="1535"/>
-        <location filename="../interface/UptimeTab.cpp" line="1556"/>
+        <location filename="../interface/UptimeTab.cpp" line="1451"/>
+        <location filename="../interface/UptimeTab.cpp" line="1468"/>
+        <location filename="../interface/UptimeTab.cpp" line="1492"/>
+        <location filename="../interface/UptimeTab.cpp" line="1515"/>
+        <location filename="../interface/UptimeTab.cpp" line="1536"/>
+        <location filename="../interface/UptimeTab.cpp" line="1557"/>
         <source>Delete stats?</source>
         <translation>Изтрий статистики?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1453"/>
+        <location filename="../interface/UptimeTab.cpp" line="1454"/>
         <source>Reset All Stats</source>
         <translation>Нулиране на всички статистики</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1468"/>
-        <location filename="../interface/UptimeTab.cpp" line="1492"/>
+        <location filename="../interface/UptimeTab.cpp" line="1469"/>
+        <location filename="../interface/UptimeTab.cpp" line="1493"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за записаното време на работа (освен за приложения)? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1515"/>
-        <location filename="../interface/UptimeTab.cpp" line="1536"/>
+        <location filename="../interface/UptimeTab.cpp" line="1516"/>
+        <location filename="../interface/UptimeTab.cpp" line="1537"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни относно работното време на приложенията? Това не може да се върне.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1557"/>
+        <location filename="../interface/UptimeTab.cpp" line="1558"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Сигурни ли сте че искате да изтриете всички данни за работно време? Това не може да се върне.</translation>
     </message>
@@ -5677,331 +5685,331 @@ This will reset any custom layouts!</source>
 <context>
     <name>Utils</name>
     <message>
-        <location filename="../utils.cpp" line="142"/>
+        <location filename="../utils.cpp" line="149"/>
         <source>&lt;1 min</source>
         <translation>&lt;1 мин</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="142"/>
+        <location filename="../utils.cpp" line="149"/>
         <source>Less than a minute</source>
         <translation>По-малко от минута</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="149"/>
+        <location filename="../utils.cpp" line="156"/>
         <source>1 year</source>
         <translation>1 година</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="151"/>
+        <location filename="../utils.cpp" line="158"/>
         <source>%1 years</source>
         <translation>%1 години</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="157"/>
+        <location filename="../utils.cpp" line="164"/>
         <source>1 day</source>
         <translation>1 ден</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="159"/>
+        <location filename="../utils.cpp" line="166"/>
         <source>%1 days</source>
         <translation>%1 дни</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="165"/>
+        <location filename="../utils.cpp" line="172"/>
         <source>1 hour</source>
         <translation>1 час</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="167"/>
+        <location filename="../utils.cpp" line="174"/>
         <source>%1 hours</source>
         <translation>%1 часа</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="173"/>
+        <location filename="../utils.cpp" line="180"/>
         <source>1 min</source>
         <translation>1 мин</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="175"/>
+        <location filename="../utils.cpp" line="182"/>
         <source>1 minute</source>
         <translation>1 минута</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="178"/>
+        <location filename="../utils.cpp" line="185"/>
         <source>%1 min</source>
         <translation>%1 мин</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="180"/>
+        <location filename="../utils.cpp" line="187"/>
         <source>%1 minutes</source>
         <translation>%1 минути</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="304"/>
-        <location filename="../utils.cpp" line="425"/>
+        <location filename="../utils.cpp" line="311"/>
+        <location filename="../utils.cpp" line="432"/>
         <source>None</source>
         <translation>Няма</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="322"/>
+        <location filename="../utils.cpp" line="329"/>
         <source>kilometers</source>
         <translation>километри</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="324"/>
+        <location filename="../utils.cpp" line="331"/>
         <source>kilometer</source>
         <translation>километър</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="342"/>
+        <location filename="../utils.cpp" line="349"/>
         <source>meters</source>
         <translation>метри</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="344"/>
+        <location filename="../utils.cpp" line="351"/>
         <source>meter</source>
         <translation>измервателен уред</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="357"/>
+        <location filename="../utils.cpp" line="364"/>
         <source>centimeters</source>
         <translation>сантиметри</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="359"/>
+        <location filename="../utils.cpp" line="366"/>
         <source>centimeter</source>
         <translation>сантиметър</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="380"/>
+        <location filename="../utils.cpp" line="387"/>
         <source>miles</source>
         <translation>мили</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="382"/>
+        <location filename="../utils.cpp" line="389"/>
         <source>mile</source>
         <translation>миля</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="411"/>
-        <location filename="../utils.cpp" line="417"/>
+        <location filename="../utils.cpp" line="418"/>
+        <location filename="../utils.cpp" line="424"/>
         <source>inch</source>
         <translation>инч</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="579"/>
+        <location filename="../utils.cpp" line="586"/>
         <source>th</source>
         <translation>мата/тата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="582"/>
+        <location filename="../utils.cpp" line="589"/>
         <source>st</source>
         <translation>вата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="584"/>
+        <location filename="../utils.cpp" line="591"/>
         <source>nd</source>
         <translation>рата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="586"/>
+        <location filename="../utils.cpp" line="593"/>
         <source>rd</source>
         <translation>тата</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="628"/>
+        <location filename="../utils.cpp" line="635"/>
         <source>Sunday</source>
         <translation>Неделя</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="630"/>
+        <location filename="../utils.cpp" line="637"/>
         <source>Monday</source>
         <translation>Понеделник</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="632"/>
+        <location filename="../utils.cpp" line="639"/>
         <source>Tuesday</source>
         <translation>Вторник</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="634"/>
+        <location filename="../utils.cpp" line="641"/>
         <source>Wednesday</source>
         <translation>Сряда</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="636"/>
+        <location filename="../utils.cpp" line="643"/>
         <source>Thursday</source>
         <translation>Четвъртък</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="638"/>
+        <location filename="../utils.cpp" line="645"/>
         <source>Friday</source>
         <translation>Петък</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="640"/>
+        <location filename="../utils.cpp" line="647"/>
         <source>Saturday</source>
         <translation>Събота</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1217"/>
-        <location filename="../utils.cpp" line="1243"/>
+        <location filename="../utils.cpp" line="1224"/>
+        <location filename="../utils.cpp" line="1250"/>
         <source>Save as...</source>
         <translation>Запази като...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1230"/>
-        <location filename="../utils.cpp" line="1258"/>
+        <location filename="../utils.cpp" line="1237"/>
+        <location filename="../utils.cpp" line="1265"/>
         <source>Export Failed</source>
         <translation>Експортирането се провали</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1231"/>
-        <location filename="../utils.cpp" line="1259"/>
+        <location filename="../utils.cpp" line="1238"/>
+        <location filename="../utils.cpp" line="1266"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Отварянето на файла за експорт се провали! Моля пробвай пак в друга директория.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1269"/>
+        <location filename="../utils.cpp" line="1276"/>
         <source>Backspace</source>
         <translation>Клавиш за обратен ход</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1272"/>
+        <location filename="../utils.cpp" line="1279"/>
         <source>Enter</source>
         <translation>Ентър</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1275"/>
+        <location filename="../utils.cpp" line="1282"/>
         <source>Tab</source>
         <translation>Таб</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1278"/>
+        <location filename="../utils.cpp" line="1285"/>
         <source>Capslock</source>
         <translation>Капслок</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1281"/>
+        <location filename="../utils.cpp" line="1288"/>
         <source>Left Shift</source>
         <translation>Ляв шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1284"/>
+        <location filename="../utils.cpp" line="1291"/>
         <source>Left Control</source>
         <translation>Ляв контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1287"/>
+        <location filename="../utils.cpp" line="1294"/>
         <source>Left Alt</source>
         <translation>Ляв алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1290"/>
+        <location filename="../utils.cpp" line="1297"/>
         <source>Right Alt</source>
         <translation>Десен алт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1293"/>
+        <location filename="../utils.cpp" line="1300"/>
         <source>Right Control</source>
         <translation>Десен контрол</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1296"/>
+        <location filename="../utils.cpp" line="1303"/>
         <source>Right Shift</source>
         <translation>Десен шифт</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1299"/>
-        <location filename="../utils.cpp" line="2054"/>
+        <location filename="../utils.cpp" line="1306"/>
+        <location filename="../utils.cpp" line="2060"/>
         <source>Left</source>
         <translation>Стрелка наляво</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1302"/>
+        <location filename="../utils.cpp" line="1309"/>
         <source>Down</source>
         <translation>Стрелка надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1305"/>
-        <location filename="../utils.cpp" line="2052"/>
+        <location filename="../utils.cpp" line="1312"/>
+        <location filename="../utils.cpp" line="2058"/>
         <source>Right</source>
         <translation>Стрелка надясно</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1308"/>
+        <location filename="../utils.cpp" line="1315"/>
         <source>Up</source>
         <translation>Стрелка нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1311"/>
+        <location filename="../utils.cpp" line="1318"/>
         <source>Insert</source>
         <translation>Вмъкни</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1314"/>
+        <location filename="../utils.cpp" line="1321"/>
         <source>Home</source>
         <translation>Начало</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1317"/>
+        <location filename="../utils.cpp" line="1324"/>
         <source>Page Up</source>
         <translation>Страница нагоре</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1320"/>
+        <location filename="../utils.cpp" line="1327"/>
         <source>Delete</source>
         <translation>Изтрий</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1323"/>
+        <location filename="../utils.cpp" line="1330"/>
         <source>End</source>
         <translation>Край</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1326"/>
+        <location filename="../utils.cpp" line="1333"/>
         <source>Page Down</source>
         <translation>Страница надолу</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1329"/>
+        <location filename="../utils.cpp" line="1336"/>
         <source>Escape</source>
         <translation>Ескейп</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1371"/>
+        <location filename="../utils.cpp" line="1378"/>
         <source>Space</source>
         <translation>Спейс</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1488"/>
+        <location filename="../utils.cpp" line="1495"/>
         <source>Unknown</source>
         <translation>Непознат</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2011"/>
+        <location filename="../utils.cpp" line="2017"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Надградете до Premium, за да отключите тази функция</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2056"/>
+        <location filename="../utils.cpp" line="2062"/>
         <source>Middle</source>
         <translation>Среден</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2058"/>
+        <location filename="../utils.cpp" line="2064"/>
         <source>Other</source>
         <translation>Друго</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2072"/>
+        <location filename="../utils.cpp" line="2078"/>
         <source>Button</source>
         <translation>Бутон</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="883"/>
-        <location filename="../utils.cpp" line="1116"/>
-        <location filename="../utils.cpp" line="1606"/>
+        <location filename="../utils.cpp" line="890"/>
+        <location filename="../utils.cpp" line="1123"/>
+        <location filename="../utils.cpp" line="1613"/>
         <source>unknown</source>
         <translation>непознат</translation>
     </message>
@@ -6009,30 +6017,32 @@ This will reset any custom layouts!</source>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="156"/>
-        <location filename="../online/versioncheck.cpp" line="265"/>
+        <location filename="../online/versioncheck.cpp" line="184"/>
+        <location filename="../online/versioncheck.cpp" line="297"/>
         <source>Error checking for new versions</source>
         <translation>Грешка при проверката за нови версии</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="157"/>
+        <location filename="../online/versioncheck.cpp" line="185"/>
         <source>There was an error running the WhatPulseMaintenanceTool, which checks for new versions. Please try again or refer to the error below for more information:</source>
         <translation>Възникна грешката при изпълнението на WhatPulseMaintenanceTool, който проверява за нови версии. Моля, опитайте отново или препратете към грешката по-долу за повече информация:</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="189"/>
-        <location filename="../online/versioncheck.cpp" line="242"/>
+        <location filename="../online/versioncheck.cpp" line="217"/>
+        <location filename="../online/versioncheck.cpp" line="274"/>
+        <location filename="../online/versioncheck.cpp" line="323"/>
         <source>Latest version</source>
         <translation>Последна версия</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="190"/>
-        <location filename="../online/versioncheck.cpp" line="243"/>
+        <location filename="../online/versioncheck.cpp" line="218"/>
+        <location filename="../online/versioncheck.cpp" line="275"/>
+        <location filename="../online/versioncheck.cpp" line="324"/>
         <source>You&apos;re running the latest version of WhatPulse.</source>
         <translation>Вие имате последната версия на WhatPulse.</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="266"/>
+        <location filename="../online/versioncheck.cpp" line="298"/>
         <source>There was an error checking for updates. Please try again later.</source>
         <translation>Възникна грешка при проверката за актуализации. Моля опитайте отново по-късно.</translation>
     </message>
@@ -6048,10 +6058,25 @@ This will reset any custom layouts!</source>
 <context>
     <name>wHTTP</name>
     <message>
-        <location filename="../online/whttp.cpp" line="174"/>
-        <location filename="../online/whttp.cpp" line="336"/>
+        <location filename="../online/whttp.cpp" line="192"/>
+        <location filename="../online/whttp.cpp" line="404"/>
         <source>SSL errors, something fishy is going on!</source>
         <translation>SSL проблеми, нещо странно се случва!</translation>
+    </message>
+    <message>
+        <location filename="../online/whttp.cpp" line="543"/>
+        <source>Request timed out. Please check your internet connection and try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../online/whttp.cpp" line="600"/>
+        <source>Too many redirects. The server may be misconfigured.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../online/whttp.cpp" line="613"/>
+        <source>Redirect to unauthorized domain blocked for security.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
