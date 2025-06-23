@@ -86,7 +86,7 @@
     <message>
         <location filename="../interface/AccountTab.cpp" line="151"/>
         <source>Total Mouse Scrolls:</source>
-        <translation>Mausbewegungen insgesamt:</translation>
+        <translation>Mausrad drehungen insgesamt:</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="153"/>
@@ -4302,7 +4302,7 @@ Dies wird alle benutzerdefinierten Layouts zurücksetzen!</translation>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.h" line="35"/>
         <source>Geek Window</source>
-        <translation>Geek Venster</translation>
+        <translation>Geek Fenster</translation>
     </message>
 </context>
 <context>
