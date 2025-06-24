@@ -256,168 +256,168 @@ Vous pouvez continuer de pulser.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="229"/>
+        <location filename="../application.cpp" line="230"/>
         <source>No system tray</source>
         <translation>Aucune barre d'état système</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="230"/>
+        <location filename="../application.cpp" line="231"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Impossible de détecter une barre d'état système, et j'en ai besoin pour fonctionner.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="248"/>
+        <location filename="../application.cpp" line="249"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>Les fonctions de l'AES ne sont pas disponibles. Est-ce que libeay32.dll et ssleay32.dll sont présents ? Si ça n'est pas le cas, essayez de réinstaller !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="252"/>
+        <location filename="../application.cpp" line="253"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Les fonctions de l'AES ne sont pas disponibles. La librarie OpenSSL est-elle présente ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="255"/>
+        <location filename="../application.cpp" line="256"/>
         <source>AES failure</source>
         <translation>Échec de l'AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="951"/>
+        <location filename="../application.cpp" line="955"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Ouvrir la Fenêtre</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="955"/>
+        <location filename="../application.cpp" line="959"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Basculer vers la fenêtre Geek</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="959"/>
+        <location filename="../application.cpp" line="963"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Ouvrir les Paramètres</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="963"/>
+        <location filename="../application.cpp" line="967"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Vérifier les Mises à jour</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="967"/>
+        <location filename="../application.cpp" line="971"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulser !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="970"/>
+        <location filename="../application.cpp" line="974"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Voir ses Statistiques en Ligne</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="974"/>
+        <location filename="../application.cpp" line="978"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Quitter WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1094"/>
+        <location filename="../application.cpp" line="1098"/>
         <source>Uptime</source>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1078"/>
+        <location filename="../application.cpp" line="1082"/>
         <source>Keys</source>
         <translation>Frappes</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1082"/>
+        <location filename="../application.cpp" line="1086"/>
         <source>Clicks</source>
         <translation>Clics</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1086"/>
+        <location filename="../application.cpp" line="1090"/>
         <source>Download</source>
         <translation>Téléchargement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1089"/>
+        <location filename="../application.cpp" line="1093"/>
         <source>Upload</source>
         <translation>Téléversement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1097"/>
+        <location filename="../application.cpp" line="1101"/>
         <source>Not logged in!</source>
         <translation>Non connecté !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1365"/>
+        <location filename="../application.cpp" line="1388"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsage Désactivé !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1366"/>
+        <location filename="../application.cpp" line="1389"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Le paramètre "Fonctionnement hors-connexion" est activé. Cela empêche au client de se connecter, empêchant aussi le pulsage. Désactivez ce paramètre pour pouvoir à nouveau pulser.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1573"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Vous avez activé le Mode Portable. Celui-ci ne devrait être activé que lorsque WhatPulse se situe sur un média portable, tel qu'une clé USB. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1558"/>
-        <location filename="../application.cpp" line="1588"/>
-        <location filename="../application.cpp" line="1605"/>
-        <location filename="../application.cpp" line="1622"/>
-        <location filename="../application.cpp" line="1668"/>
-        <location filename="../application.cpp" line="1681"/>
+        <location filename="../application.cpp" line="1577"/>
+        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1624"/>
+        <location filename="../application.cpp" line="1641"/>
+        <location filename="../application.cpp" line="1687"/>
+        <location filename="../application.cpp" line="1700"/>
         <source>Portable Mode</source>
         <translation>Mode Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1585"/>
+        <location filename="../application.cpp" line="1604"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1621"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1623"/>
-        <location filename="../application.cpp" line="1682"/>
+        <location filename="../application.cpp" line="1642"/>
+        <location filename="../application.cpp" line="1701"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>J'ai réarrangé certains fichiers de base de données et je dois redémarrer, à bientôt !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1649"/>
+        <location filename="../application.cpp" line="1668"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1665"/>
+        <location filename="../application.cpp" line="1684"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2108"/>
-        <location filename="../application.cpp" line="2121"/>
+        <location filename="../application.cpp" line="2127"/>
+        <location filename="../application.cpp" line="2140"/>
         <source>Premium features disabled</source>
         <translation>Fonctionnalités premium désactivées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2109"/>
+        <location filename="../application.cpp" line="2128"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Je n'ai pas pu contacter le site web pour vérifier votre abonnement premium depuis 96 heures. J'ai donc désactivé les fonctionnalités premium. Rétablissez la connexion à internet pour retrouver l'accès à ces fonctionnalités.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2122"/>
+        <location filename="../application.cpp" line="2141"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Votre abonnement premium a expiré, donc j'ai désactivé les fonctionnalités premium. Vous pouvez réactiver votre souscription depuis le site web.</translation>
     </message>
@@ -501,133 +501,133 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="271"/>
+        <location filename="../online/clientcommunication.cpp" line="275"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>Le site web ne renvoie pas une réponse correcte à votre requête, veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="311"/>
+        <location filename="../online/clientcommunication.cpp" line="315"/>
         <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>Cet ordinateur est archivé et ne peut pas se connecter à votre compte.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="314"/>
+        <location filename="../online/clientcommunication.cpp" line="318"/>
         <source>Computer Management</source>
         <translation>Gestion de l'Ordinateur</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <location filename="../online/clientcommunication.cpp" line="338"/>
         <source>WhatPulse Professional organization disabled.</source>
         <translation>Organisation professionnelle WhatPulse désactivée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="335"/>
+        <location filename="../online/clientcommunication.cpp" line="339"/>
         <source>Your organization has been disabled, please contact your administrator.</source>
         <translation>Votre organisation a été désactivée, veuillez contacter votre administrateur.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="356"/>
+        <location filename="../online/clientcommunication.cpp" line="360"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Votre compte est en attente d'activation, veuillez confirmer votre email et réessayer une fois l'activation complétée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="360"/>
-        <location filename="../online/clientcommunication.cpp" line="412"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
+        <location filename="../online/clientcommunication.cpp" line="416"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Compte ou ordinateur non-reconnu ! Vous-êtes vous inscrit ?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="364"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="368"/>
+        <location filename="../online/clientcommunication.cpp" line="419"/>
         <source>Wrong password! Try again.</source>
         <translation>Mot de passe incorrect ! Veuillez réessayer.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="368"/>
-        <location filename="../online/clientcommunication.cpp" line="445"/>
+        <location filename="../online/clientcommunication.cpp" line="372"/>
+        <location filename="../online/clientcommunication.cpp" line="449"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Le serveur est hors-service pour cause de maintenance, veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="371"/>
-        <location filename="../online/clientcommunication.cpp" line="448"/>
+        <location filename="../online/clientcommunication.cpp" line="375"/>
+        <location filename="../online/clientcommunication.cpp" line="452"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Erreur interne au serveur. Veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="375"/>
-        <location filename="../online/clientcommunication.cpp" line="452"/>
+        <location filename="../online/clientcommunication.cpp" line="379"/>
+        <location filename="../online/clientcommunication.cpp" line="456"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Erreur du serveur : Entrée manquante ! Merci de contacter les développeurs.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="422"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Limite d'activité dépassée, cela signifie que votre nombre de frappes ou clics par seconde est trop important. Attendez une heure ou plus pour que celui-ci soit plus bas, puis réessayez.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="424"/>
+        <location filename="../online/clientcommunication.cpp" line="428"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Mauvais token, avez-vous utilisé ce compte sur un autre ordinateur ?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="427"/>
+        <location filename="../online/clientcommunication.cpp" line="431"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Le pseudonyme entré est déjà enregistré ! Choissisez-en un autre, puis réessayer.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="432"/>
+        <location filename="../online/clientcommunication.cpp" line="436"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulsage limité. Vous pouvez seulement pulser toutes les 60 secondes.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="435"/>
+        <location filename="../online/clientcommunication.cpp" line="439"/>
         <source>Computer login still pending.</source>
         <translation>Connexion à l'ordinateur en attente.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="438"/>
+        <location filename="../online/clientcommunication.cpp" line="442"/>
         <source>Premium only feature.</source>
         <translation>Fonctionnalitée réservée aux premiums.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="441"/>
+        <location filename="../online/clientcommunication.cpp" line="445"/>
         <source>Organization not found.</source>
         <translation>Organisation non trouvée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="455"/>
-        <location filename="../online/clientcommunication.cpp" line="969"/>
+        <location filename="../online/clientcommunication.cpp" line="459"/>
+        <location filename="../online/clientcommunication.cpp" line="973"/>
         <source>Success.</source>
         <translation>Succès.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="458"/>
+        <location filename="../online/clientcommunication.cpp" line="462"/>
         <source>Success, your file is now on the website!</source>
         <translation>Succès ! Votre fichier est désormais sur le site web !</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="945"/>
+        <location filename="../online/clientcommunication.cpp" line="949"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Impossible d'ouvrir la base de données GeoIP (%1), permission refusée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="957"/>
+        <location filename="../online/clientcommunication.cpp" line="961"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>La nouvelle base de données GeoIP semble trop petite (%1), arrêt de la mise à jour.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1019"/>
+        <location filename="../online/clientcommunication.cpp" line="1023"/>
         <source>Empty reply received</source>
         <translation>Réponse vide reçue</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1040"/>
+        <location filename="../online/clientcommunication.cpp" line="1044"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Impossible d'ouvrir la base de données de Network Port Description (%1), permission refusée.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1054"/>
+        <location filename="../online/clientcommunication.cpp" line="1058"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Le fichier téléchargé n'a pas bonne mine : %1</translation>
     </message>
@@ -664,54 +664,59 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="70"/>
-        <location filename="../util/database.cpp" line="83"/>
-        <location filename="../util/database.cpp" line="484"/>
+        <location filename="../util/database.cpp" line="64"/>
+        <location filename="../util/database.cpp" line="77"/>
+        <location filename="../util/database.cpp" line="493"/>
         <source>Database failure</source>
         <translation>Échec de la base de données</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="71"/>
+        <location filename="../util/database.cpp" line="65"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
         <translation>Impossible de mettre en place la base de données : %1 Vérifiez vos permissions sur : %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="84"/>
+        <location filename="../util/database.cpp" line="78"/>
         <source>Unable to setup database: %1</source>
         <translation>Impossible de mettre en place la base de données : %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="485"/>
+        <location filename="../util/database.cpp" line="494"/>
         <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>La base de données '%1' est en lecture-seule. WhatPulse ne peut pas stocker de statistiques tant que ce problème n'est pas résolu.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="526"/>
-        <location filename="../util/database.cpp" line="555"/>
+        <location filename="../util/database.cpp" line="537"/>
+        <location filename="../util/database.cpp" line="566"/>
         <source>Critical database error!</source>
         <translation>Erreur critique de la base de données !</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="527"/>
+        <location filename="../util/database.cpp" line="538"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest.</source>
         <translation>Quelque chose de vraiment grave est arrivé à la base de données et à la base de données de sauvegarde. La seule façon de récupérer est de créer une nouvelle base de données. Cela n'affectera pas vos statistiques non pulsées, mais effacera le reste.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="556"/>
+        <location filename="../util/database.cpp" line="567"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Quelque chose de très mauvais s'est produit sur votre base de données et celle de secours. Le seul moyen de récupérer est de créer une nouvelle base de données. Cela n'affectera pas vos statistiques non-pulsées, mais effacera le reste. Poursuivre ?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="695"/>
+        <location filename="../util/database.cpp" line="693"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="696"/>
+        <location filename="../util/database.cpp" line="694"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>Les versions ultérieures de WhatPulse ne sont pas prises en charge, veuillez installer la dernière version puis réessayer.</translation>
+    </message>
+    <message>
+        <location filename="../util/database.cpp" line="906"/>
+        <source>Database Maintenance</source>
+        <translation>Maintenance de la base de données</translation>
     </message>
 </context>
 <context>
@@ -1958,17 +1963,17 @@ Please check your permissions on: %2</source>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="112"/>
+        <location filename="../stats/localstats.cpp" line="115"/>
         <source>Pulse throttled!</source>
         <translation>Pulse limité !</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="113"/>
+        <location filename="../stats/localstats.cpp" line="116"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Pulse limité ! Votre dernier pulse à été effectué il y a %1 secondes, veuillez réessayer dans 10 secondes.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="319"/>
+        <location filename="../stats/localstats.cpp" line="322"/>
         <source>Error while pulsing!</source>
         <translation>Erreur lors du pulsage !</translation>
     </message>
@@ -2003,26 +2008,46 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="192"/>
-        <location filename="../interface/MainWindow.cpp" line="376"/>
-        <location filename="../interface/MainWindow.cpp" line="377"/>
+        <location filename="../interface/MainWindow.cpp" line="477"/>
+        <location filename="../interface/MainWindow.cpp" line="478"/>
         <source>Account</source>
         <translation>Compte</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="266"/>
+        <location filename="../interface/MainWindow.cpp" line="288"/>
+        <source>Database Maintenance</source>
+        <translation>Maintenance de la base de données</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="319"/>
+        <source>Please do not close the application until this operation completes.</source>
+        <translation>Veuillez ne pas fermer l'application avant la fin de cette opération.</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="367"/>
         <source>There's a new version available!</source>
         <translation>Une nouvelle version est disponible !</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="327"/>
-        <location filename="../interface/MainWindow.cpp" line="328"/>
+        <location filename="../interface/MainWindow.cpp" line="428"/>
+        <location filename="../interface/MainWindow.cpp" line="429"/>
         <source>Setup</source>
         <translation>Configuration</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="389"/>
+        <location filename="../interface/MainWindow.cpp" line="490"/>
         <source>Disabled</source>
         <translation>Désactivé</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="662"/>
+        <source>Operation completed successfully.</source>
+        <translation>Opération terminée avec succès.</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="673"/>
+        <source>Operation failed: %1</source>
+        <translation>Échec de l'opération : %1</translation>
     </message>
 </context>
 <context>
@@ -6054,23 +6079,23 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>wHTTP</name>
     <message>
-        <location filename="../online/whttp.cpp" line="192"/>
-        <location filename="../online/whttp.cpp" line="404"/>
+        <location filename="../online/whttp.cpp" line="201"/>
+        <location filename="../online/whttp.cpp" line="405"/>
         <source>SSL errors, something fishy is going on!</source>
         <translation>Erreurs SSL, quelque chose de suspect se trame !</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="543"/>
+        <location filename="../online/whttp.cpp" line="537"/>
         <source>Request timed out. Please check your internet connection and try again.</source>
         <translation>Demande expirée. Veuillez vérifier votre connexion Internet et réessayer.</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="600"/>
+        <location filename="../online/whttp.cpp" line="595"/>
         <source>Too many redirects. The server may be misconfigured.</source>
         <translation>Trop de redirections. Le serveur peut être mal configuré.</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="613"/>
+        <location filename="../online/whttp.cpp" line="608"/>
         <source>Redirect to unauthorized domain blocked for security.</source>
         <translation>Redirection vers un domaine non autorisé bloquée pour des raisons de sécurité.</translation>
     </message>

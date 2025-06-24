@@ -254,169 +254,169 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="229"/>
+        <location filename="../application.cpp" line="230"/>
         <source>No system tray</source>
         <translation>علبة النظام غير موجودة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="230"/>
+        <location filename="../application.cpp" line="231"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>لم أتمكن من رصد أي علبة نظام على هذا الحاسوب، وأحتاج إليها لكي أعمل.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="248"/>
+        <location filename="../application.cpp" line="249"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>وظائف معيار التشفير المتقدم غير متوفرة. هل libeay32.dll وssleay32.dll موجودين؟ إن لم يكونا كذلك، فجرب إعادة التثبيت!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="252"/>
+        <location filename="../application.cpp" line="253"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>وظائف معيار التشفير المتقدم غير متوفرة. هل مكتبة OpenSSL موجودة؟</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="255"/>
+        <location filename="../application.cpp" line="256"/>
         <source>AES failure</source>
         <translation>خلل في معيار التشفير المتقدم</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="951"/>
+        <location filename="../application.cpp" line="955"/>
         <source>&amp;Open Window</source>
         <translation>&amp;فتح النافذة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="955"/>
+        <location filename="../application.cpp" line="959"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;تبديل وضع نافذة الوَلُوع</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="959"/>
+        <location filename="../application.cpp" line="963"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;فتح الإعدادات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="963"/>
+        <location filename="../application.cpp" line="967"/>
         <source>&amp;Check for Updates</source>
         <translation>التحقق من ال&amp;تحديثات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="967"/>
+        <location filename="../application.cpp" line="971"/>
         <source>&amp;Pulse!</source>
         <translation>انب&amp;ض!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="970"/>
+        <location filename="../application.cpp" line="974"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;رؤية الإحصائيات عبر الإنترنت</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="974"/>
+        <location filename="../application.cpp" line="978"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>ال&amp;خروج من وات-بولس</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1094"/>
+        <location filename="../application.cpp" line="1098"/>
         <source>Uptime</source>
         <translation>مدة التشغيل</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1078"/>
+        <location filename="../application.cpp" line="1082"/>
         <source>Keys</source>
         <translation>المفاتيح</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1082"/>
+        <location filename="../application.cpp" line="1086"/>
         <source>Clicks</source>
         <translation>النقرات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1086"/>
+        <location filename="../application.cpp" line="1090"/>
         <source>Download</source>
         <translation>التنزيل</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1089"/>
+        <location filename="../application.cpp" line="1093"/>
         <source>Upload</source>
         <translation>الرفع</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1097"/>
+        <location filename="../application.cpp" line="1101"/>
         <source>Not logged in!</source>
         <translation>لم يتم تسجيل الدخول!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1365"/>
+        <location filename="../application.cpp" line="1388"/>
         <source>Pulsing Disabled!</source>
         <translation>تم إلغاء تفعيل النبض!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1366"/>
+        <location filename="../application.cpp" line="1389"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>إن الإعداد "العمل من دون إنترنت" مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1554"/>
+        <location filename="../application.cpp" line="1573"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>لقد قمت بتفعيل الوضع المحمول. يجب استخدام هذا فقط عند وضع وات-بولس في وسيط محمول، مثل محرك أقراص USB.
 أتود المتابعة؟</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1558"/>
-        <location filename="../application.cpp" line="1588"/>
-        <location filename="../application.cpp" line="1605"/>
-        <location filename="../application.cpp" line="1622"/>
-        <location filename="../application.cpp" line="1668"/>
-        <location filename="../application.cpp" line="1681"/>
+        <location filename="../application.cpp" line="1577"/>
+        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1624"/>
+        <location filename="../application.cpp" line="1641"/>
+        <location filename="../application.cpp" line="1687"/>
+        <location filename="../application.cpp" line="1700"/>
         <source>Portable Mode</source>
         <translation>الوضع المحمول</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1585"/>
+        <location filename="../application.cpp" line="1604"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>فشل نسخ قاعدة البيانات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1602"/>
+        <location filename="../application.cpp" line="1621"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>فشل نسخ ملف الإحصائيات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1623"/>
-        <location filename="../application.cpp" line="1682"/>
+        <location filename="../application.cpp" line="1642"/>
+        <location filename="../application.cpp" line="1701"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>لقد قمت بإعادة ترتيب بعض ملفات قاعدة البيانات وأحتاج إلى إعادة تشغيل نفس، أراك بعد قليل!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1649"/>
+        <location filename="../application.cpp" line="1668"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>فشل نسخ قاعدة البيانات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1665"/>
+        <location filename="../application.cpp" line="1684"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>فشل نسخ ملف الإحصائيات إلى %1! تحقق من أذونات الكتابة.
 سيتم إبقاء الوضع المحمول مفعلاً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2108"/>
-        <location filename="../application.cpp" line="2121"/>
+        <location filename="../application.cpp" line="2127"/>
+        <location filename="../application.cpp" line="2140"/>
         <source>Premium features disabled</source>
         <translation>تم إلغاء تفعيل مزايا العضوية المتميزة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2109"/>
+        <location filename="../application.cpp" line="2128"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>لم أتمكن من التواصل مع الموقع للتحقق من عضويتك المتميزة لـ96 ساعة. لقد قمت بإلغاء مزايا العضوية المتميزة. عاود الاتصال بالإنترنت لتفعيلها مجدداً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2122"/>
+        <location filename="../application.cpp" line="2141"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>لقد انتهت صلاحية عضويتك المتميزة فلذلك قمت بإلغاء تفعيل مزايا النسخة الكاملة. يمكن إعادة تفعيل عضويتك من خلال الموقع.</translation>
     </message>
@@ -500,133 +500,133 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="271"/>
+        <location filename="../online/clientcommunication.cpp" line="275"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>لا يستجيب الموقع بشكل صحيح إلى طلبك، يرجى المحاول مجدداً لاحقاً.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="311"/>
+        <location filename="../online/clientcommunication.cpp" line="315"/>
         <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>تمت أرشفة هذا الكمبيوتر ولا يمكنه الاتصال بحسابك.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="314"/>
+        <location filename="../online/clientcommunication.cpp" line="318"/>
         <source>Computer Management</source>
         <translation>إدارة الكمبيوتر</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="334"/>
+        <location filename="../online/clientcommunication.cpp" line="338"/>
         <source>WhatPulse Professional organization disabled.</source>
         <translation>تم تعطيل منظمة WhatPulse المهنية.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="335"/>
+        <location filename="../online/clientcommunication.cpp" line="339"/>
         <source>Your organization has been disabled, please contact your administrator.</source>
         <translation>تم تعطيل منظمتك، يرجى الاتصال بمسؤول النظام.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="356"/>
+        <location filename="../online/clientcommunication.cpp" line="360"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>إن حسابك قيد التفعيل، يرجى التحقق من بريدك الإكتروني والمحاولة مجدداً بعد التفعيل.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="360"/>
-        <location filename="../online/clientcommunication.cpp" line="412"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
+        <location filename="../online/clientcommunication.cpp" line="416"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>الحساب أو الحاسوب غير معروف! هل قمت بالتسجيل؟</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="364"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="368"/>
+        <location filename="../online/clientcommunication.cpp" line="419"/>
         <source>Wrong password! Try again.</source>
         <translation>كلمة السر خطأ! حاول مجدداً.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="368"/>
-        <location filename="../online/clientcommunication.cpp" line="445"/>
+        <location filename="../online/clientcommunication.cpp" line="372"/>
+        <location filename="../online/clientcommunication.cpp" line="449"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>الخادم متوقف لكونه تحت الصيانة، يرجى المحاولة لاحقاً.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="371"/>
-        <location filename="../online/clientcommunication.cpp" line="448"/>
+        <location filename="../online/clientcommunication.cpp" line="375"/>
+        <location filename="../online/clientcommunication.cpp" line="452"/>
         <source>Internal server error. Please try again later.</source>
         <translation>خطأ داخلي في الخادم. يرجى المحاولة مجدداً لاحقاً.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="375"/>
-        <location filename="../online/clientcommunication.cpp" line="452"/>
+        <location filename="../online/clientcommunication.cpp" line="379"/>
+        <location filename="../online/clientcommunication.cpp" line="456"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>خطأ في الخادم: إدخال مفقود! يرجى التواصل مع المطورين.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="422"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>تم اختراق خنق النشاط، هذا يعني أن المفاتيح أو النقرات في كل ثانية أكبر من اللازم. انتظر ساعة أو ما شابه ذلك لتخفيضها ومن ثم المحاولة مجدداً.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="424"/>
+        <location filename="../online/clientcommunication.cpp" line="428"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>الأمارة خطأ، هل استخدمت هذا الملف الشخصي على حاسوب آخر؟</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="427"/>
+        <location filename="../online/clientcommunication.cpp" line="431"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>اسم المستخدم المطلوب مسجل مسبقاً! قم باختيار اسم مستخدم آخر رجاء وحاول مرة أخرى.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="432"/>
+        <location filename="../online/clientcommunication.cpp" line="436"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>تم خنق النبض. يمكنك النبض فقط كل 60 ثانية.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="435"/>
+        <location filename="../online/clientcommunication.cpp" line="439"/>
         <source>Computer login still pending.</source>
         <translation>تسجيل الدخول للحاسوب قيد المعالجة.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="438"/>
+        <location filename="../online/clientcommunication.cpp" line="442"/>
         <source>Premium only feature.</source>
         <translation>خاصية للعضوية المتميزة فقط.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="441"/>
+        <location filename="../online/clientcommunication.cpp" line="445"/>
         <source>Organization not found.</source>
         <translation>المنظمة غير موجودة.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="455"/>
-        <location filename="../online/clientcommunication.cpp" line="969"/>
+        <location filename="../online/clientcommunication.cpp" line="459"/>
+        <location filename="../online/clientcommunication.cpp" line="973"/>
         <source>Success.</source>
         <translation>تم بنجاح.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="458"/>
+        <location filename="../online/clientcommunication.cpp" line="462"/>
         <source>Success, your file is now on the website!</source>
         <translation>تم بنجاح، ملفك هو الآن على الموقع!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="945"/>
+        <location filename="../online/clientcommunication.cpp" line="949"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>لا يمكن فتح قاعدة بيانات بروتوكول الإنترنت الجغرافي (%1)، الإذن مرفوض.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="957"/>
+        <location filename="../online/clientcommunication.cpp" line="961"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>يبدو أن قاعدة بيانات GeoIP الجديدة صغيرة جدًا(%1) ، حيث يتم إيقاف التحديث.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1019"/>
+        <location filename="../online/clientcommunication.cpp" line="1023"/>
         <source>Empty reply received</source>
         <translation>تم استلام رد فارغ</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1040"/>
+        <location filename="../online/clientcommunication.cpp" line="1044"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>لا يمكن فتح قاعدة بيانات وصف منفذ الشبكة (%1)، الإذن مرفوض.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1054"/>
+        <location filename="../online/clientcommunication.cpp" line="1058"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>الملف المحمل لا يبدو جيداً: %1</translation>
     </message>
@@ -663,54 +663,59 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="70"/>
-        <location filename="../util/database.cpp" line="83"/>
-        <location filename="../util/database.cpp" line="484"/>
+        <location filename="../util/database.cpp" line="64"/>
+        <location filename="../util/database.cpp" line="77"/>
+        <location filename="../util/database.cpp" line="493"/>
         <source>Database failure</source>
         <translation>فشل قاعدة البيانات</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="71"/>
+        <location filename="../util/database.cpp" line="65"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
         <translation>لا يمكن إعداد قاعدة البيانات: %1 يرجى التحقق من أذوناتك على: %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="84"/>
+        <location filename="../util/database.cpp" line="78"/>
         <source>Unable to setup database: %1</source>
         <translation>لا يمكن إعداد قاعدة البيانات: %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="485"/>
+        <location filename="../util/database.cpp" line="494"/>
         <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>قاعدة البيانات '%1' هي للقراءة فقط. وات-بولس لا يستطيع تخزين أية إحصائيات حتى تحل هذه المشكلة.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="526"/>
-        <location filename="../util/database.cpp" line="555"/>
+        <location filename="../util/database.cpp" line="537"/>
+        <location filename="../util/database.cpp" line="566"/>
         <source>Critical database error!</source>
         <translation>خلل جسيم في قاعدة البيانات!</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="527"/>
+        <location filename="../util/database.cpp" line="538"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest.</source>
         <translation>حدث شيء سيء جدًا لقاعدة البيانات ونسخة احتياطية منها. الطريقة الوحيدة للاستعادة هي إنشاء قاعدة بيانات جديدة. لن يؤثر هذا على إحصاءاتك غير المحسوبة، ولكن سيمسح البقية.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="556"/>
+        <location filename="../util/database.cpp" line="567"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>لقد حصل أمر سيئ جداً لقاعدة البيانات وقاعدة بيانات النسخ الاحتياطي. الطريقة الوحيدة للاسترداد هي عبر إنشاء قاعدة بيانات جديدة. هذا لن يؤثر على بياناتك التي لم تنبض، ولكنه سيمحي بقيتها. المتابعة؟</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="695"/>
+        <location filename="../util/database.cpp" line="693"/>
         <source>Version</source>
         <translation>النسخة</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="696"/>
+        <location filename="../util/database.cpp" line="694"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>إن تخفيض نسخة وات-بولس عملية غير مدعومة، يرجى تثبيت آخر نسخة والمحاولة مجدداً.</translation>
+    </message>
+    <message>
+        <location filename="../util/database.cpp" line="906"/>
+        <source>Database Maintenance</source>
+        <translation>صيانة قاعدة البيانات</translation>
     </message>
 </context>
 <context>
@@ -1958,17 +1963,17 @@ Please check your permissions on: %2</source>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="112"/>
+        <location filename="../stats/localstats.cpp" line="115"/>
         <source>Pulse throttled!</source>
         <translation>تم خنق النبض!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="113"/>
+        <location filename="../stats/localstats.cpp" line="116"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>تم خنق النبض! إن آخر نبض لك كان منذ %1 ثانية/ثوان، يرجى المحاولة مجدداً بعد 10 ثوان.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="319"/>
+        <location filename="../stats/localstats.cpp" line="322"/>
         <source>Error while pulsing!</source>
         <translation>حدث خطأ أثناء النبض!</translation>
     </message>
@@ -2003,26 +2008,46 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="192"/>
-        <location filename="../interface/MainWindow.cpp" line="376"/>
-        <location filename="../interface/MainWindow.cpp" line="377"/>
+        <location filename="../interface/MainWindow.cpp" line="477"/>
+        <location filename="../interface/MainWindow.cpp" line="478"/>
         <source>Account</source>
         <translation>الحساب</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="266"/>
+        <location filename="../interface/MainWindow.cpp" line="288"/>
+        <source>Database Maintenance</source>
+        <translation>صيانة قاعدة البيانات</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="319"/>
+        <source>Please do not close the application until this operation completes.</source>
+        <translation>يرجى عدم إغلاق التطبيق حتى اكتمال هذه العملية.</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="367"/>
         <source>There's a new version available!</source>
         <translation>هناك نسخة جديدة متاحة!</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="327"/>
-        <location filename="../interface/MainWindow.cpp" line="328"/>
+        <location filename="../interface/MainWindow.cpp" line="428"/>
+        <location filename="../interface/MainWindow.cpp" line="429"/>
         <source>Setup</source>
         <translation>الإعداد</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="389"/>
+        <location filename="../interface/MainWindow.cpp" line="490"/>
         <source>Disabled</source>
         <translation>تعطيله</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="662"/>
+        <source>Operation completed successfully.</source>
+        <translation>تم اكتمال العملية بنجاح.</translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="673"/>
+        <source>Operation failed: %1</source>
+        <translation>فشلت العملية: %1</translation>
     </message>
 </context>
 <context>
@@ -6051,23 +6076,23 @@ This will reset any custom layouts!</source>
 <context>
     <name>wHTTP</name>
     <message>
-        <location filename="../online/whttp.cpp" line="192"/>
-        <location filename="../online/whttp.cpp" line="404"/>
+        <location filename="../online/whttp.cpp" line="201"/>
+        <location filename="../online/whttp.cpp" line="405"/>
         <source>SSL errors, something fishy is going on!</source>
         <translation>أخطاء في بروتوكول طبقة المنافذ الآمنة، هناك شيء مريب يحدث!</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="543"/>
+        <location filename="../online/whttp.cpp" line="537"/>
         <source>Request timed out. Please check your internet connection and try again.</source>
         <translation>انتهت مهلة الطلب. يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="600"/>
+        <location filename="../online/whttp.cpp" line="595"/>
         <source>Too many redirects. The server may be misconfigured.</source>
         <translation>الكثير من إعادات التوجيه. قد تكون الخادم غير مهيأ بشكل صحيح.</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="613"/>
+        <location filename="../online/whttp.cpp" line="608"/>
         <source>Redirect to unauthorized domain blocked for security.</source>
         <translation>تم حظر إعادة التوجيه إلى النطاق غير المصرح به لأسباب أمنية.</translation>
     </message>
