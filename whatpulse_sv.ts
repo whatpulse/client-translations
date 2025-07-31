@@ -2,191 +2,199 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="sv_SE" sourcelanguage="en_US">
 <context>
+    <name>AccountSetupWindow</name>
+    <message>
+        <location filename="../interface/AccountSetupWindow.cpp" line="64"/>
+        <source>WhatPulse Setup</source>
+        <translation>WhatPulse Installation</translation>
+    </message>
+</context>
+<context>
     <name>AccountTab</name>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="52"/>
+        <location filename="../interface/AccountTab.cpp" line="54"/>
         <source>Username:</source>
         <translation>Användarnamn:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="54"/>
+        <location filename="../interface/AccountTab.cpp" line="56"/>
         <source>UserID:</source>
         <translation>AnvändarID:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="57"/>
+        <location filename="../interface/AccountTab.cpp" line="59"/>
         <source>Computer:</source>
         <translation>Dator:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="59"/>
+        <location filename="../interface/AccountTab.cpp" line="61"/>
         <source>Email:</source>
         <translation>Epost:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="61"/>
+        <location filename="../interface/AccountTab.cpp" line="63"/>
         <source>Premium:</source>
         <translation>Premium:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="62"/>
+        <location filename="../interface/AccountTab.cpp" line="64"/>
         <source>Last Backup:</source>
         <translation>Senaste säkerhetskopian:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="82"/>
+        <location filename="../interface/AccountTab.cpp" line="84"/>
         <source>Upgrade to Premium</source>
         <translation>Uppgradera till Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="87"/>
+        <location filename="../interface/AccountTab.cpp" line="89"/>
         <source>Start Backup</source>
         <translation>Starta Säkerhetskopiering</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="102"/>
+        <location filename="../interface/AccountTab.cpp" line="104"/>
         <source>Today</source>
         <translation>Idag</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="105"/>
+        <location filename="../interface/AccountTab.cpp" line="107"/>
         <source>day ago</source>
         <translation>för en dag sedan</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="108"/>
+        <location filename="../interface/AccountTab.cpp" line="110"/>
         <source>days ago</source>
         <translation>för några dagar sedan</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="141"/>
+        <location filename="../interface/AccountTab.cpp" line="143"/>
         <source>Total Keys:</source>
         <translation>Totala Tangenttryck:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="143"/>
+        <location filename="../interface/AccountTab.cpp" line="145"/>
         <source>Total Clicks:</source>
         <translation>Totala Musklick:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="145"/>
+        <location filename="../interface/AccountTab.cpp" line="147"/>
         <source>Total Download:</source>
         <translation>Total Nedladdning:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="147"/>
+        <location filename="../interface/AccountTab.cpp" line="149"/>
         <source>Total Upload:</source>
         <translation>Total Uppladdning:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="149"/>
+        <location filename="../interface/AccountTab.cpp" line="151"/>
         <source>Total Uptime:</source>
         <translation>Total Drifttid:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="151"/>
+        <location filename="../interface/AccountTab.cpp" line="153"/>
         <source>Total Mouse Scrolls:</source>
         <translation>Totalt antal musrullningar:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="153"/>
+        <location filename="../interface/AccountTab.cpp" line="155"/>
         <source>Total Mouse Distance:</source>
         <translation>Totalt avstånd till musen:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="223"/>
+        <location filename="../interface/AccountTab.cpp" line="227"/>
         <source> &amp;View Online Stats</source>
         <translation> &amp;Se Online Statistik</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="231"/>
+        <location filename="../interface/AccountTab.cpp" line="237"/>
         <source> &amp;Log out</source>
         <translation> &amp;Logga ut</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="238"/>
+        <location filename="../interface/AccountTab.cpp" line="246"/>
         <source> &amp;Reset Token</source>
         <translation> &amp;Återställ Token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="246"/>
+        <location filename="../interface/AccountTab.cpp" line="258"/>
         <source> Change &amp;Password</source>
         <translation> Byt &amp;Lösenord</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="254"/>
+        <location filename="../interface/AccountTab.cpp" line="270"/>
         <source> Refresh &amp;Account</source>
         <translation> Uppdatera &amp;Konto</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="319"/>
-        <location filename="../interface/AccountTab.cpp" line="328"/>
-        <location filename="../interface/AccountTab.cpp" line="337"/>
-        <location filename="../interface/AccountTab.cpp" line="346"/>
-        <location filename="../interface/AccountTab.cpp" line="355"/>
-        <location filename="../interface/AccountTab.cpp" line="364"/>
-        <location filename="../interface/AccountTab.cpp" line="374"/>
+        <location filename="../interface/AccountTab.cpp" line="372"/>
+        <location filename="../interface/AccountTab.cpp" line="381"/>
+        <location filename="../interface/AccountTab.cpp" line="390"/>
+        <location filename="../interface/AccountTab.cpp" line="399"/>
+        <location filename="../interface/AccountTab.cpp" line="408"/>
+        <location filename="../interface/AccountTab.cpp" line="417"/>
+        <location filename="../interface/AccountTab.cpp" line="427"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="382"/>
+        <location filename="../interface/AccountTab.cpp" line="435"/>
         <source>Yes (expires at %1)</source>
         <translation>Ja (går ut vid %1)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="386"/>
+        <location filename="../interface/AccountTab.cpp" line="439"/>
         <source>No</source>
         <translation>Nej</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="503"/>
+        <location filename="../interface/AccountTab.cpp" line="556"/>
         <source>Log Out</source>
         <translation>Logga Ut</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="504"/>
+        <location filename="../interface/AccountTab.cpp" line="557"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Utloggning från ditt konto återställer din opulsade statistik om du loggar in på ett annat konto (databasen bevaras) och startar om inställningsassistenten.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="508"/>
+        <location filename="../interface/AccountTab.cpp" line="561"/>
         <source>Do you want to continue?</source>
         <translation>Vill du fortsätta?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="527"/>
+        <location filename="../interface/AccountTab.cpp" line="586"/>
         <source>Change Password</source>
         <translation>Byt Lösenord</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="528"/>
+        <location filename="../interface/AccountTab.cpp" line="587"/>
         <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Du kan inte ändra ditt lösenord i klienten. Vänligen logga ut och logga in igen med samma e-postadress och datornamn för att ändra ditt lösenord i den här klienten. Din statistik kommer att bevaras om du använder samma uppgifter.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="538"/>
-        <location filename="../interface/AccountTab.cpp" line="570"/>
+        <location filename="../interface/AccountTab.cpp" line="597"/>
+        <location filename="../interface/AccountTab.cpp" line="629"/>
         <source>Reset your token</source>
         <translation>Återställ din token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="539"/>
+        <location filename="../interface/AccountTab.cpp" line="598"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Återställning av din token kommer återställa din lokala statistik och tillåta dig att pulsa igen.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="541"/>
+        <location filename="../interface/AccountTab.cpp" line="600"/>
         <source>Are you sure?</source>
         <translation>Är du säker?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="566"/>
+        <location filename="../interface/AccountTab.cpp" line="625"/>
         <source>Token reset!</source>
         <translation>Token återställd!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="567"/>
+        <location filename="../interface/AccountTab.cpp" line="626"/>
         <source>Token reset!
 
 You can continue pulsing.</source>
@@ -195,37 +203,37 @@ You can continue pulsing.</source>
 Du kan nu fortsätta pulsa.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="571"/>
+        <location filename="../interface/AccountTab.cpp" line="630"/>
         <source>Something went wrong while resetting your token:</source>
         <translation>Något gick fel vid återställning av din token:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="631"/>
+        <location filename="../interface/AccountTab.cpp" line="690"/>
         <source>Premium Membership</source>
         <translation>Premium Medlemskap</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="632"/>
+        <location filename="../interface/AccountTab.cpp" line="691"/>
         <source>Your premium membership has just been activated! Close and re-open the WhatPulse window to activate all features.</source>
         <translation>Ditt premiummedlemskap har precis aktiverats! Stäng och öppna WhatPulse-fönstret på nytt för att aktivera alla funktioner.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="639"/>
+        <location filename="../interface/AccountTab.cpp" line="698"/>
         <source>Refresh Account Status</source>
         <translation>Uppdatera Konto Status</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="640"/>
+        <location filename="../interface/AccountTab.cpp" line="699"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Något gick fel vid uppdatering av konto data:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="648"/>
+        <location filename="../interface/AccountTab.cpp" line="707"/>
         <source>Backup Started</source>
         <translation>Backup påbörjad</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="649"/>
+        <location filename="../interface/AccountTab.cpp" line="708"/>
         <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>En säkerhetskopiering har startats. Den körs i bakgrunden och tar några minuter.</translation>
     </message>
@@ -233,22 +241,25 @@ Du kan nu fortsätta pulsa.</translation>
 <context>
     <name>AccountTabWizard</name>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="37"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="23"/>
         <source>Finish</source>
         <translation>Slutför</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="43"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="29"/>
         <source>Back</source>
         <translation>Tillbaka</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="110"/>
-        <source>Welcome to WhatPulse</source>
-        <translation>Välkommen till WhatPulse</translation>
+        <location filename="../interface/AccountTabWizard.cpp" line="96"/>
+        <source>Welcome to WhatPulse!</source>
+        <translation>Välkommen till WhatPulse!</translation>
     </message>
+</context>
+<context>
+    <name>AccountTabWizardPro</name>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="62"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="57"/>
         <source>Welcome to WhatPulse Professional</source>
         <translation>Välkommen till WhatPulse Professional</translation>
     </message>
@@ -256,169 +267,169 @@ Du kan nu fortsätta pulsa.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="230"/>
+        <location filename="../application.cpp" line="228"/>
         <source>No system tray</source>
         <translation>Inget systemfält</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="231"/>
+        <location filename="../application.cpp" line="229"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Kunde inte upptäcka något systemfält på det här systemet, och jag behöver det för att köra.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="249"/>
+        <location filename="../application.cpp" line="247"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES-funktioner är inte tillgängliga. Finns libeay32.dll och ssleay32.dll närvarande? Om inte, försök att installera om!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="253"/>
+        <location filename="../application.cpp" line="251"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES-funktioner är inte tillgängliga. Finns OpenSSL-biblioteket närvarande?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="256"/>
+        <location filename="../application.cpp" line="254"/>
         <source>AES failure</source>
         <translation>AES-fel</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="955"/>
+        <location filename="../application.cpp" line="995"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Öppna Fönster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="959"/>
+        <location filename="../application.cpp" line="999"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Växla Geek-fönstret</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="963"/>
+        <location filename="../application.cpp" line="1003"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Öppna Inställningar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="967"/>
+        <location filename="../application.cpp" line="1007"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Sök efter Uppdateringar</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="971"/>
+        <location filename="../application.cpp" line="1011"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsa!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="974"/>
+        <location filename="../application.cpp" line="1014"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Se Online Statistik</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="978"/>
+        <location filename="../application.cpp" line="1018"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Avsluta WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1098"/>
+        <location filename="../application.cpp" line="1138"/>
         <source>Uptime</source>
         <translation>Drifttid</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1082"/>
+        <location filename="../application.cpp" line="1122"/>
         <source>Keys</source>
         <translation>Tangenttryck</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1086"/>
+        <location filename="../application.cpp" line="1126"/>
         <source>Clicks</source>
         <translation>Musklick</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1090"/>
+        <location filename="../application.cpp" line="1130"/>
         <source>Download</source>
         <translation>Nedladdning</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1093"/>
+        <location filename="../application.cpp" line="1133"/>
         <source>Upload</source>
         <translation>Uppladdning</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1101"/>
+        <location filename="../application.cpp" line="1141"/>
         <source>Not logged in!</source>
         <translation>Inte inloggad!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1388"/>
+        <location filename="../application.cpp" line="1471"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsering Inaktiverad!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1389"/>
+        <location filename="../application.cpp" line="1472"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Inställningen "Arbeta offline" är aktiverad. Detta förhindrar klienten från att gå online, vilket inkluderar pulsering. Inaktivera den inställningen och du kan pulsa igen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1573"/>
+        <location filename="../application.cpp" line="1660"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Du har aktiverat Portabelt Läge. Detta bör endast användas när du placerar WhatPulse på ett bärbart medium, som en USB-enhet.
 Vill du fotsätta?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1577"/>
-        <location filename="../application.cpp" line="1607"/>
-        <location filename="../application.cpp" line="1624"/>
-        <location filename="../application.cpp" line="1641"/>
-        <location filename="../application.cpp" line="1687"/>
-        <location filename="../application.cpp" line="1700"/>
+        <location filename="../application.cpp" line="1664"/>
+        <location filename="../application.cpp" line="1694"/>
+        <location filename="../application.cpp" line="1711"/>
+        <location filename="../application.cpp" line="1728"/>
+        <location filename="../application.cpp" line="1774"/>
+        <location filename="../application.cpp" line="1787"/>
         <source>Portable Mode</source>
         <translation>Portabelt Läge</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1604"/>
+        <location filename="../application.cpp" line="1691"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Det gick inte att kopiera databasen till %1! Kontrollera skrivbehörigheter.
 Inaktiverar portabelt läge.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1621"/>
+        <location filename="../application.cpp" line="1708"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Det gick inte att kopiera statistik filen till %1! Kontrollera skrivbehörigheter.
 Inaktiverar portabelt läge.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1642"/>
-        <location filename="../application.cpp" line="1701"/>
+        <location filename="../application.cpp" line="1729"/>
+        <location filename="../application.cpp" line="1788"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Jag ordnade om några databasfiler och måste starta om mig själv, vi ses om en stund!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1668"/>
+        <location filename="../application.cpp" line="1755"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Det gick inte att kopiera databasen till %1! Kontrollera skrivbehörigheter.
 Behåller portabelt läge aktiverat.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1684"/>
+        <location filename="../application.cpp" line="1771"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Det gick inte att kopiera statistik filen till %1! Kontrollera skrivbehörigheter.
 Behåller portabelt läge aktiverat.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2127"/>
-        <location filename="../application.cpp" line="2140"/>
+        <location filename="../application.cpp" line="2217"/>
+        <location filename="../application.cpp" line="2230"/>
         <source>Premium features disabled</source>
         <translation>Premiumfunktioner inaktiverade</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2128"/>
+        <location filename="../application.cpp" line="2218"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Jag kunde inte kontakta webbplatsen för att verifiera ditt premiummedlemskap under 96 timmar. Jag har inaktiverat premiumfunktionerna. Gå tillbaka online för att aktivera igen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2141"/>
+        <location filename="../application.cpp" line="2231"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Ditt premiummedlemskap har löpt ut så jag har inaktiverat premiumfunktionerna. Du kan återaktivera ditt medlemskap via hemsidan.</translation>
     </message>
@@ -527,108 +538,108 @@ Behåller portabelt läge aktiverat.</translation>
         <translation>Din organisation har inaktiverats, vänligen kontakta din administratör.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="360"/>
+        <location filename="../online/clientcommunication.cpp" line="358"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Ditt konto väntar på aktivering, kontrollera din e-post och försök igen efter aktivering.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="364"/>
-        <location filename="../online/clientcommunication.cpp" line="416"/>
+        <location filename="../online/clientcommunication.cpp" line="362"/>
+        <location filename="../online/clientcommunication.cpp" line="414"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Konto eller dator okänd! Har du registrerat dig?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="368"/>
-        <location filename="../online/clientcommunication.cpp" line="419"/>
+        <location filename="../online/clientcommunication.cpp" line="366"/>
+        <location filename="../online/clientcommunication.cpp" line="417"/>
         <source>Wrong password! Try again.</source>
         <translation>Fel Lösenord! Försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="372"/>
-        <location filename="../online/clientcommunication.cpp" line="449"/>
+        <location filename="../online/clientcommunication.cpp" line="370"/>
+        <location filename="../online/clientcommunication.cpp" line="447"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>Servern är nere på grund av underhåll, försök igen senare.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="375"/>
-        <location filename="../online/clientcommunication.cpp" line="452"/>
+        <location filename="../online/clientcommunication.cpp" line="373"/>
+        <location filename="../online/clientcommunication.cpp" line="450"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Internt serverfel. Vänligen försök igen senare.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="379"/>
-        <location filename="../online/clientcommunication.cpp" line="456"/>
+        <location filename="../online/clientcommunication.cpp" line="377"/>
+        <location filename="../online/clientcommunication.cpp" line="454"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Serverfel: Indata saknas! Kontakta utvecklarna.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="422"/>
+        <location filename="../online/clientcommunication.cpp" line="420"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Aktivitet strypt, detta betyder att dina tangenttryck eller musklick per sekund är för höga. Vänta ungefär en timme för att sänka den och försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="428"/>
+        <location filename="../online/clientcommunication.cpp" line="426"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Fel token, har du använt denna profil på en annan dator?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="431"/>
+        <location filename="../online/clientcommunication.cpp" line="429"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>Det begärda användarnamnet är redan registrerat! Välj ett annat användarnamn och försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="436"/>
+        <location filename="../online/clientcommunication.cpp" line="434"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulsen strypt. Du kan bara pulsera var 60:e sekund.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="439"/>
+        <location filename="../online/clientcommunication.cpp" line="437"/>
         <source>Computer login still pending.</source>
         <translation>Datorinloggningen är fortfarande väntande.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="442"/>
+        <location filename="../online/clientcommunication.cpp" line="440"/>
         <source>Premium only feature.</source>
         <translation>Endast premium-funktion.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="445"/>
+        <location filename="../online/clientcommunication.cpp" line="443"/>
         <source>Organization not found.</source>
         <translation>Organisationen hittades inte.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="459"/>
-        <location filename="../online/clientcommunication.cpp" line="973"/>
+        <location filename="../online/clientcommunication.cpp" line="457"/>
+        <location filename="../online/clientcommunication.cpp" line="971"/>
         <source>Success.</source>
         <translation>Klart.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="462"/>
+        <location filename="../online/clientcommunication.cpp" line="460"/>
         <source>Success, your file is now on the website!</source>
         <translation>Klart, din fil finns nu på hemsidan!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="949"/>
+        <location filename="../online/clientcommunication.cpp" line="947"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation>Det gick inte att öppna GeoIP-databasen (%1), behörighet nekades.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="961"/>
+        <location filename="../online/clientcommunication.cpp" line="959"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>Ny GeoIP-databas verkar vara för liten (%1), stoppar uppdateringen.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1023"/>
+        <location filename="../online/clientcommunication.cpp" line="1021"/>
         <source>Empty reply received</source>
         <translation>Tomt svar mottaget</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1044"/>
+        <location filename="../online/clientcommunication.cpp" line="1042"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Det gick inte att öppna nätverksportbeskrivningsdatabasen (%1), behörighet nekades.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1058"/>
+        <location filename="../online/clientcommunication.cpp" line="1056"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Den nedladdade fien ser inte bra ut: %1</translation>
     </message>
@@ -665,14 +676,14 @@ Behåller portabelt läge aktiverat.</translation>
 <context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="64"/>
-        <location filename="../util/database.cpp" line="77"/>
-        <location filename="../util/database.cpp" line="493"/>
+        <location filename="../util/database.cpp" line="47"/>
+        <location filename="../util/database.cpp" line="60"/>
+        <location filename="../util/database.cpp" line="476"/>
         <source>Database failure</source>
         <translation>Databas fel</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="65"/>
+        <location filename="../util/database.cpp" line="48"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
@@ -681,43 +692,43 @@ Please check your permissions on: %2</source>
 Kontrollera dina behörigheter på: %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="78"/>
+        <location filename="../util/database.cpp" line="61"/>
         <source>Unable to setup database: %1</source>
         <translation>Det gick inte att ställa in databasen: %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="494"/>
+        <location filename="../util/database.cpp" line="477"/>
         <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>Databasen '%1' är endast läsbar. WhatPulse kan inte spara någon statistik innan du fixar detta problem.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="537"/>
-        <location filename="../util/database.cpp" line="566"/>
+        <location filename="../util/database.cpp" line="520"/>
+        <location filename="../util/database.cpp" line="549"/>
         <source>Critical database error!</source>
         <translation>Kritiskt databas fel!</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="538"/>
+        <location filename="../util/database.cpp" line="521"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest.</source>
         <translation>Något riktigt dåligt har hänt med databasen och säkerhetskopian av databasen. Det enda sättet att återhämta sig är att skapa en ny databas. Detta kommer inte påverka dina osynkade statistik, men kommer att radera resten.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="567"/>
+        <location filename="../util/database.cpp" line="550"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Något riktigt dåligt hände med databasen och backupdatabasen. Det enda sättet att återställa är att skapa en ny databas. Detta kommer inte att påverka din opulsade statistik, men kommer att radera resten. Fortsätta?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="693"/>
+        <location filename="../util/database.cpp" line="676"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="694"/>
+        <location filename="../util/database.cpp" line="677"/>
         <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
         <translation>Det stöds inte att nedgradera WhatPulse-klienten, vänligen installera den senaste versionen och försök igen.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="906"/>
+        <location filename="../util/database.cpp" line="889"/>
         <source>Database Maintenance</source>
         <translation>Databashantering</translation>
     </message>
@@ -725,12 +736,12 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>DatabaseBackupUtility</name>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="224"/>
+        <location filename="../database/databasebackuputility.cpp" line="211"/>
         <source>Zipping database..</source>
         <translation>Zippar databas..</translation>
     </message>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="250"/>
+        <location filename="../database/databasebackuputility.cpp" line="237"/>
         <source>Starting upload..</source>
         <translation>Startar uppladdning..</translation>
     </message>
@@ -1043,10 +1054,10 @@ Kontrollera dina behörigheter på: %2</translation>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="122"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="123"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="124"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="482"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="483"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="484"/>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="485"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="486"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="487"/>
         <source>unknown</source>
         <translation>okänd</translation>
     </message>
@@ -1116,12 +1127,12 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Undanta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="372"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="374"/>
         <source>Exclude application?</source>
         <translation>Undanta applikation?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="373"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="375"/>
         <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
         <translation>Är du säker på att du vill undanta applikationen '%1' ? Detta kommer också att ta bort historiken för denna applikation.</translation>
     </message>
@@ -1131,17 +1142,17 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Öppna Filplats</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="357"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="358"/>
         <source>Open Online Profile</source>
         <translation>Öppna Online Profil</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="426"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="428"/>
         <source>Not yet</source>
         <translation>Inte ännu</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="427"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="429"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Den här ansökan har inte laddats upp på webbplatsen ännu, men du kan återkomma om en timme eller så.</translation>
     </message>
@@ -1338,110 +1349,112 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>InputKeyboardPage</name>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="69"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="71"/>
         <source>Key</source>
         <translation>Tangent</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="69"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="71"/>
         <source>Amount</source>
         <translation>Mängd</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="95"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="97"/>
         <source>Layout:</source>
         <translation>Layout:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="127"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="129"/>
         <source>Enable Heatmap</source>
         <translation>Aktivera Värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="140"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="143"/>
         <source>Export</source>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="160"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="166"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportera till .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="164"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="170"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exportera till .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="168"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="174"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Export Wizard</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="147"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="151"/>
         <source>Share</source>
         <translation>Dela</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="181"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="187"/>
         <source>Application:</source>
         <translation>Applikation:</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="188"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="489"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="535"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="197"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="200"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="500"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="501"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="550"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="551"/>
         <source>All</source>
         <translation>Allt</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="188"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="194"/>
         <source>Per-app stats disabled</source>
         <translation>Statistik per app avstängd</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="191"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="489"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="490"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="535"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="536"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="197"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="500"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="501"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="550"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="551"/>
         <source>Premium Only</source>
         <translation>Endast Premium</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="269"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="277"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Idag&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="272"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="280"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Igår&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="275"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="283"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;Opulserat&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="278"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="286"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Alltid&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="282"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="290"/>
         <source>Show Heat Map</source>
         <translation>Visa värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="284"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="292"/>
         <source>Show Details</source>
         <translation>Visa detaljer</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="570"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="586"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
@@ -1449,129 +1462,129 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>InputMousePage</name>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="76"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="83"/>
         <source>More Details</source>
         <translation>Fler detaljer</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="104"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="112"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Idag&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="107"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="115"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Igår&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="110"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="118"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;Opulserat&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="113"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="121"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Alltid&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="193"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="202"/>
         <source>Enable Heatmap</source>
         <translation>Aktivera Värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="202"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="212"/>
         <source>Prune older than 3 months</source>
         <translation>Rensa äldre än 3 månader</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="229"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="242"/>
         <source>Export</source>
         <translation>Exportera</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="239"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="252"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exportera till .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="243"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="256"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exportera till .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="247"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="260"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Export Wizard</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="217"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="228"/>
         <source>Share</source>
         <translation>Dela</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="117"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="125"/>
         <source>Show Heat Map</source>
         <translation>Visa värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="119"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="127"/>
         <source>Show Details</source>
         <translation>Visa detaljer</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="278"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="291"/>
         <source>Button Clicks</source>
         <translation>Knappklick</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="287"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="300"/>
         <source>Button</source>
         <translation>Knapp</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="287"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="300"/>
         <source>Clicks</source>
         <translation>Musklick</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="642"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="659"/>
         <source>Left</source>
         <translation>Vänster</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="643"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="660"/>
         <source>Right</source>
         <translation>Höger</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="644"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="661"/>
         <source>Middle</source>
         <translation>Mitten</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="302"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="677"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="315"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="694"/>
         <source>Scrolls</source>
         <translation>Rullar</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="310"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="692"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="323"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="709"/>
         <source>Distance</source>
         <translation>Avstånd</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="827"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="815"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="860"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="848"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Rensa Mus Värmekarta</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="861"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="849"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Genom att inte rensa din mus värmekarta kommer din databas att bli ganska stor och möjligen sakta ner WhatPulse applikationen. Sluta rensa?</translation>
     </message>
@@ -1691,39 +1704,39 @@ Kontrollera dina behörigheter på: %2</translation>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="232"/>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="386"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="467"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="522"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="601"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="671"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="469"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="526"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="605"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="675"/>
         <source>grouped by Week </source>
         <translation>Grupperade efter Vecka </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="256"/>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="394"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="532"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="609"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="680"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="536"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="613"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="684"/>
         <source>grouped by Month </source>
         <translation>Grupperade efter Månad </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="284"/>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="404"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="456"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="544"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="619"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="691"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="458"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="548"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="623"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="695"/>
         <source>grouped by Hour </source>
         <translation>Grupperade efter Timme </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="309"/>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="412"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="483"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="554"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="627"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="700"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="485"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="558"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="631"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="704"/>
         <source>grouped by Day </source>
         <translation>Grupperade efter Dag </translation>
     </message>
@@ -1738,22 +1751,22 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Värmekarta av musklick mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="508"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="512"/>
         <source>Application input between '%1' and '%2' </source>
         <translation>Programinmatning mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="589"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="593"/>
         <source>Key combinations between '%1' and '%2' </source>
         <translation>Nyckelkombinationer mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="658"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="662"/>
         <source>Key combinations per application between '%1' and '%2' </source>
         <translation>Nyckelkombinationer per applikation mellan '%1' och '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="753"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="757"/>
         <source>Exporting may take a while for date ranges longer than 90 days.</source>
         <translation>Exporteringen kan ta lite tid för datumintervall längre än 90 dagar.</translation>
     </message>
@@ -1966,17 +1979,17 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>LocalStats</name>
     <message>
-        <location filename="../stats/localstats.cpp" line="115"/>
+        <location filename="../stats/localstats.cpp" line="105"/>
         <source>Pulse throttled!</source>
         <translation>Puls avbryten!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="116"/>
+        <location filename="../stats/localstats.cpp" line="106"/>
         <source>Pulse throttled! Your last pulse was %1 seconds ago, please try again in 10 seconds.</source>
         <translation>Puls avbryten! Din senaste puls var %1 sekunder sedan, vänligen försök igen om 10 sekunder.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="322"/>
+        <location filename="../stats/localstats.cpp" line="313"/>
         <source>Error while pulsing!</source>
         <translation>Error vid puls!</translation>
     </message>
@@ -1984,71 +1997,65 @@ Kontrollera dina behörigheter på: %2</translation>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="180"/>
+        <location filename="../interface/MainWindow.cpp" line="173"/>
         <source>Overview</source>
         <translation>Översikt</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="182"/>
+        <location filename="../interface/MainWindow.cpp" line="175"/>
         <source>Input</source>
         <translation>Inmatning</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="184"/>
+        <location filename="../interface/MainWindow.cpp" line="177"/>
         <source>Network</source>
         <translation>Nätverk</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="186"/>
+        <location filename="../interface/MainWindow.cpp" line="179"/>
         <source>Uptime</source>
         <translation>Drifttid</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="188"/>
-        <location filename="../interface/MainWindow.cpp" line="189"/>
+        <location filename="../interface/MainWindow.cpp" line="181"/>
+        <location filename="../interface/MainWindow.cpp" line="182"/>
         <source>Settings</source>
         <translation>Inställningar</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="192"/>
-        <location filename="../interface/MainWindow.cpp" line="477"/>
-        <location filename="../interface/MainWindow.cpp" line="478"/>
+        <location filename="../interface/MainWindow.cpp" line="185"/>
+        <location filename="../interface/MainWindow.cpp" line="427"/>
+        <location filename="../interface/MainWindow.cpp" line="428"/>
         <source>Account</source>
         <translation>Konto</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="288"/>
+        <location filename="../interface/MainWindow.cpp" line="279"/>
         <source>Database Maintenance</source>
         <translation>Databashantering</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="319"/>
+        <location filename="../interface/MainWindow.cpp" line="310"/>
         <source>Please do not close the application until this operation completes.</source>
         <translation>Var god stäng inte programmet förrän denna operation är slutförd.</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="367"/>
+        <location filename="../interface/MainWindow.cpp" line="358"/>
         <source>There's a new version available!</source>
         <translation>Det finns en ny version tillgänglig!</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="428"/>
-        <location filename="../interface/MainWindow.cpp" line="429"/>
-        <source>Setup</source>
-        <translation>Installation</translation>
-    </message>
-    <message>
-        <location filename="../interface/MainWindow.cpp" line="490"/>
+        <location filename="../interface/MainWindow.cpp" line="440"/>
         <source>Disabled</source>
         <translation>Inaktiverad</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="662"/>
+        <location filename="../interface/MainWindow.cpp" line="612"/>
         <source>Operation completed successfully.</source>
         <translation>Operationen slutfördes framgångsrikt.</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="673"/>
+        <location filename="../interface/MainWindow.cpp" line="623"/>
         <source>Operation failed: %1</source>
         <translation>Operationen misslyckades: %1</translation>
     </message>
@@ -2506,9 +2513,9 @@ Kontrollera dina behörigheter på: %2</translation>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="144"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="153"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="154"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="556"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="557"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="558"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="559"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="560"/>
         <source>unknown</source>
         <translation>okänd</translation>
     </message>
@@ -2553,12 +2560,12 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Exkludera</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="434"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="436"/>
         <source>Exclude application?</source>
         <translation>Exkludera applikation?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="435"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="437"/>
         <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
         <translation>Är du säker på att du vill exkludera applikationen '%1'? Detta kommer också att ta bort applikationens historik.</translation>
     </message>
@@ -2588,17 +2595,17 @@ Kontrollera dina behörigheter på: %2</translation>
         <translation>Öppna Filplats</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="418"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="419"/>
         <source>Open Online Profile</source>
         <translation>Öppna Online Profil</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="487"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="489"/>
         <source>Not yet</source>
         <translation>Inte ännu</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="488"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="490"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Denna applikation har inte laddats upp till webbplatsen ännu, vänligen kom tillbaka om en timme eller så.</translation>
     </message>
@@ -3193,7 +3200,7 @@ Uppladdning: okänt</translation>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="65"/>
         <location filename="../interface/mac/permissionsmanager.cpp" line="229"/>
-        <location filename="../interface/mac/permissionsmanager.cpp" line="249"/>
+        <location filename="../interface/mac/permissionsmanager.cpp" line="250"/>
         <source>Quit WhatPulse</source>
         <translation>Avsluta WhatPulse</translation>
     </message>
@@ -5507,8 +5514,8 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="500"/>
-        <location filename="../interface/UptimeTab.cpp" line="1266"/>
-        <location filename="../interface/UptimeTab.cpp" line="1275"/>
+        <location filename="../interface/UptimeTab.cpp" line="1268"/>
+        <location filename="../interface/UptimeTab.cpp" line="1277"/>
         <source>Today</source>
         <translation>Idag</translation>
     </message>
@@ -5608,100 +5615,100 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <translation>Öppna Filplats</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="813"/>
+        <location filename="../interface/UptimeTab.cpp" line="814"/>
         <source>Open Online Profile</source>
         <translation>Öppna Online Profil</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="828"/>
+        <location filename="../interface/UptimeTab.cpp" line="830"/>
         <source>Ignore application?</source>
         <translation>Ignorera applikationen?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="829"/>
+        <location filename="../interface/UptimeTab.cpp" line="831"/>
         <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
         <translation>Är du säker på att du vill ignorera applikationen '%1'? Detta kommer också att ta bort denna applikations historik.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="880"/>
+        <location filename="../interface/UptimeTab.cpp" line="882"/>
         <source>Not yet</source>
         <translation>Inte ännu</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="881"/>
+        <location filename="../interface/UptimeTab.cpp" line="883"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Den här applikationen har inte laddats upp till webbplatsen ännu, vänligen kom tillbaka om en timme eller så.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1268"/>
-        <location filename="../interface/UptimeTab.cpp" line="1277"/>
+        <location filename="../interface/UptimeTab.cpp" line="1270"/>
+        <location filename="../interface/UptimeTab.cpp" line="1279"/>
         <source>Yesterday</source>
         <translation>Igår</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1283"/>
-        <location filename="../interface/UptimeTab.cpp" line="1288"/>
+        <location filename="../interface/UptimeTab.cpp" line="1285"/>
+        <location filename="../interface/UptimeTab.cpp" line="1290"/>
         <source>%1 %2 to %3 %4</source>
         <translation>%1 %2 till %3 %4</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1430"/>
-        <location filename="../interface/UptimeTab.cpp" line="1436"/>
+        <location filename="../interface/UptimeTab.cpp" line="1432"/>
+        <location filename="../interface/UptimeTab.cpp" line="1438"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>drifttid och omstartsdata (alla utom per applikation) </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1431"/>
-        <location filename="../interface/UptimeTab.cpp" line="1437"/>
+        <location filename="../interface/UptimeTab.cpp" line="1433"/>
+        <location filename="../interface/UptimeTab.cpp" line="1439"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Återställ Drifttid/Omstartshistorik</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1441"/>
-        <location filename="../interface/UptimeTab.cpp" line="1446"/>
+        <location filename="../interface/UptimeTab.cpp" line="1443"/>
+        <location filename="../interface/UptimeTab.cpp" line="1448"/>
         <source>application uptime data</source>
         <translation>applikation drifttids data</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1442"/>
-        <location filename="../interface/UptimeTab.cpp" line="1447"/>
+        <location filename="../interface/UptimeTab.cpp" line="1444"/>
+        <location filename="../interface/UptimeTab.cpp" line="1449"/>
         <source>Reset Application History</source>
         <translation>Återställ Applikationshistorik</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1452"/>
+        <location filename="../interface/UptimeTab.cpp" line="1454"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Vill du återställa all drifttid eller bara %1?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1451"/>
-        <location filename="../interface/UptimeTab.cpp" line="1468"/>
-        <location filename="../interface/UptimeTab.cpp" line="1492"/>
-        <location filename="../interface/UptimeTab.cpp" line="1515"/>
-        <location filename="../interface/UptimeTab.cpp" line="1536"/>
-        <location filename="../interface/UptimeTab.cpp" line="1557"/>
+        <location filename="../interface/UptimeTab.cpp" line="1453"/>
+        <location filename="../interface/UptimeTab.cpp" line="1470"/>
+        <location filename="../interface/UptimeTab.cpp" line="1494"/>
+        <location filename="../interface/UptimeTab.cpp" line="1517"/>
+        <location filename="../interface/UptimeTab.cpp" line="1538"/>
+        <location filename="../interface/UptimeTab.cpp" line="1559"/>
         <source>Delete stats?</source>
         <translation>Radera statistik?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1454"/>
+        <location filename="../interface/UptimeTab.cpp" line="1456"/>
         <source>Reset All Stats</source>
         <translation>Återställ alla statistik</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1469"/>
-        <location filename="../interface/UptimeTab.cpp" line="1493"/>
+        <location filename="../interface/UptimeTab.cpp" line="1471"/>
+        <location filename="../interface/UptimeTab.cpp" line="1495"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all (förutom per applikation) registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1516"/>
-        <location filename="../interface/UptimeTab.cpp" line="1537"/>
+        <location filename="../interface/UptimeTab.cpp" line="1518"/>
+        <location filename="../interface/UptimeTab.cpp" line="1539"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all registrerad upptidsstatistik per applikation? Detta kan inte göras ogjort.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="1558"/>
+        <location filename="../interface/UptimeTab.cpp" line="1560"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Är du säker på att du vill ta bort all registrerad drifttidsstatistik? Detta kan inte göras ogjort.</translation>
     </message>
@@ -5709,331 +5716,331 @@ Detta kommer att återställa alla anpassade layouter!</translation>
 <context>
     <name>Utils</name>
     <message>
-        <location filename="../utils.cpp" line="149"/>
+        <location filename="../utils.cpp" line="152"/>
         <source>&lt;1 min</source>
         <translation>&lt;1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="149"/>
+        <location filename="../utils.cpp" line="152"/>
         <source>Less than a minute</source>
         <translation>Mindre än en minut</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="156"/>
+        <location filename="../utils.cpp" line="159"/>
         <source>1 year</source>
         <translation>1 år</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="158"/>
+        <location filename="../utils.cpp" line="161"/>
         <source>%1 years</source>
         <translation>%1 år</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="164"/>
+        <location filename="../utils.cpp" line="167"/>
         <source>1 day</source>
         <translation>1 dag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="166"/>
+        <location filename="../utils.cpp" line="169"/>
         <source>%1 days</source>
         <translation>%1 dagar</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="172"/>
+        <location filename="../utils.cpp" line="175"/>
         <source>1 hour</source>
         <translation>1 timme</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="174"/>
+        <location filename="../utils.cpp" line="177"/>
         <source>%1 hours</source>
         <translation>%1 timmar</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="180"/>
+        <location filename="../utils.cpp" line="183"/>
         <source>1 min</source>
         <translation>1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="182"/>
+        <location filename="../utils.cpp" line="185"/>
         <source>1 minute</source>
         <translation>1 minut</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="185"/>
+        <location filename="../utils.cpp" line="188"/>
         <source>%1 min</source>
         <translation>%1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="187"/>
+        <location filename="../utils.cpp" line="190"/>
         <source>%1 minutes</source>
         <translation>%1 minuter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="311"/>
-        <location filename="../utils.cpp" line="432"/>
+        <location filename="../utils.cpp" line="314"/>
+        <location filename="../utils.cpp" line="435"/>
         <source>None</source>
         <translation>Ingen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="329"/>
+        <location filename="../utils.cpp" line="332"/>
         <source>kilometers</source>
         <translation>kilometer</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="331"/>
+        <location filename="../utils.cpp" line="334"/>
         <source>kilometer</source>
         <translation>kilometer</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="349"/>
+        <location filename="../utils.cpp" line="352"/>
         <source>meters</source>
         <translation>meter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="351"/>
+        <location filename="../utils.cpp" line="354"/>
         <source>meter</source>
         <translation>mätare</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="364"/>
+        <location filename="../utils.cpp" line="367"/>
         <source>centimeters</source>
         <translation>centimeter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="366"/>
+        <location filename="../utils.cpp" line="369"/>
         <source>centimeter</source>
         <translation>centimeter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="387"/>
+        <location filename="../utils.cpp" line="390"/>
         <source>miles</source>
         <translation>miles</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="389"/>
+        <location filename="../utils.cpp" line="392"/>
         <source>mile</source>
         <translation>mil</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="418"/>
-        <location filename="../utils.cpp" line="424"/>
+        <location filename="../utils.cpp" line="421"/>
+        <location filename="../utils.cpp" line="427"/>
         <source>inch</source>
         <translation>tum</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="586"/>
+        <location filename="../utils.cpp" line="589"/>
         <source>th</source>
         <translation>th</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="589"/>
+        <location filename="../utils.cpp" line="592"/>
         <source>st</source>
         <translation>st</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="591"/>
+        <location filename="../utils.cpp" line="594"/>
         <source>nd</source>
         <translation>nd</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="593"/>
+        <location filename="../utils.cpp" line="596"/>
         <source>rd</source>
         <translation>rd</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="635"/>
+        <location filename="../utils.cpp" line="638"/>
         <source>Sunday</source>
         <translation>Söndag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="637"/>
+        <location filename="../utils.cpp" line="640"/>
         <source>Monday</source>
         <translation>Måndag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="639"/>
+        <location filename="../utils.cpp" line="642"/>
         <source>Tuesday</source>
         <translation>Tisdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="641"/>
+        <location filename="../utils.cpp" line="644"/>
         <source>Wednesday</source>
         <translation>Onsdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="643"/>
+        <location filename="../utils.cpp" line="646"/>
         <source>Thursday</source>
         <translation>Torsdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="645"/>
+        <location filename="../utils.cpp" line="648"/>
         <source>Friday</source>
         <translation>Fredag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="647"/>
+        <location filename="../utils.cpp" line="650"/>
         <source>Saturday</source>
         <translation>Lördag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1224"/>
-        <location filename="../utils.cpp" line="1250"/>
+        <location filename="../utils.cpp" line="1231"/>
+        <location filename="../utils.cpp" line="1257"/>
         <source>Save as...</source>
         <translation>Spara som...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1237"/>
-        <location filename="../utils.cpp" line="1265"/>
+        <location filename="../utils.cpp" line="1244"/>
+        <location filename="../utils.cpp" line="1272"/>
         <source>Export Failed</source>
         <translation>Exportering Misslyckades</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1238"/>
-        <location filename="../utils.cpp" line="1266"/>
+        <location filename="../utils.cpp" line="1245"/>
+        <location filename="../utils.cpp" line="1273"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Det gick inte att öppna exportfilen! Försök igen i en annan katalog.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1276"/>
+        <location filename="../utils.cpp" line="1283"/>
         <source>Backspace</source>
         <translation>Backsteg</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1279"/>
+        <location filename="../utils.cpp" line="1286"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1282"/>
+        <location filename="../utils.cpp" line="1289"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1285"/>
+        <location filename="../utils.cpp" line="1292"/>
         <source>Capslock</source>
         <translation>Caps Lock</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1288"/>
+        <location filename="../utils.cpp" line="1295"/>
         <source>Left Shift</source>
         <translation>Vänster Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1291"/>
+        <location filename="../utils.cpp" line="1298"/>
         <source>Left Control</source>
         <translation>Vänster Kontroll</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1294"/>
+        <location filename="../utils.cpp" line="1301"/>
         <source>Left Alt</source>
         <translation>Vänster Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1297"/>
+        <location filename="../utils.cpp" line="1304"/>
         <source>Right Alt</source>
         <translation>Höger Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1300"/>
+        <location filename="../utils.cpp" line="1307"/>
         <source>Right Control</source>
         <translation>Höger Kontroll</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1303"/>
+        <location filename="../utils.cpp" line="1310"/>
         <source>Right Shift</source>
         <translation>Höger Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1306"/>
-        <location filename="../utils.cpp" line="2060"/>
+        <location filename="../utils.cpp" line="1313"/>
+        <location filename="../utils.cpp" line="2071"/>
         <source>Left</source>
         <translation>Vänster</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1309"/>
+        <location filename="../utils.cpp" line="1316"/>
         <source>Down</source>
         <translation>Ner</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1312"/>
-        <location filename="../utils.cpp" line="2058"/>
+        <location filename="../utils.cpp" line="1319"/>
+        <location filename="../utils.cpp" line="2069"/>
         <source>Right</source>
         <translation>Höger</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1315"/>
+        <location filename="../utils.cpp" line="1322"/>
         <source>Up</source>
         <translation>Upp</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1318"/>
+        <location filename="../utils.cpp" line="1325"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1321"/>
+        <location filename="../utils.cpp" line="1328"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1324"/>
+        <location filename="../utils.cpp" line="1331"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1327"/>
+        <location filename="../utils.cpp" line="1334"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1330"/>
+        <location filename="../utils.cpp" line="1337"/>
         <source>End</source>
         <translation>End</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1333"/>
+        <location filename="../utils.cpp" line="1340"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1336"/>
+        <location filename="../utils.cpp" line="1343"/>
         <source>Escape</source>
         <translation>Escape</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1378"/>
+        <location filename="../utils.cpp" line="1385"/>
         <source>Space</source>
         <translation>Mellanslag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1495"/>
+        <location filename="../utils.cpp" line="1502"/>
         <source>Unknown</source>
         <translation>Okänd</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2017"/>
+        <location filename="../utils.cpp" line="2028"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Uppgradera till Premium för att låsa upp den här funktionen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2062"/>
+        <location filename="../utils.cpp" line="2073"/>
         <source>Middle</source>
         <translation>Mitten</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2064"/>
+        <location filename="../utils.cpp" line="2075"/>
         <source>Other</source>
         <translation>Annat</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2078"/>
+        <location filename="../utils.cpp" line="2089"/>
         <source>Button</source>
         <translation>Knapp</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="890"/>
-        <location filename="../utils.cpp" line="1123"/>
-        <location filename="../utils.cpp" line="1613"/>
+        <location filename="../utils.cpp" line="893"/>
+        <location filename="../utils.cpp" line="1130"/>
+        <location filename="../utils.cpp" line="1620"/>
         <source>unknown</source>
         <translation>okänd</translation>
     </message>
@@ -6083,22 +6090,22 @@ Detta kommer att återställa alla anpassade layouter!</translation>
     <name>wHTTP</name>
     <message>
         <location filename="../online/whttp.cpp" line="201"/>
-        <location filename="../online/whttp.cpp" line="405"/>
+        <location filename="../online/whttp.cpp" line="408"/>
         <source>SSL errors, something fishy is going on!</source>
         <translation>SSL-fel, något skumt är på gång!</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="537"/>
+        <location filename="../online/whttp.cpp" line="546"/>
         <source>Request timed out. Please check your internet connection and try again.</source>
         <translation>Önskan tog för lång tid. Kontrollera din internetanslutning och försök igen.</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="595"/>
+        <location filename="../online/whttp.cpp" line="604"/>
         <source>Too many redirects. The server may be misconfigured.</source>
         <translation>För många omdirigeringar. Servern kan vara felkonfigurerad.</translation>
     </message>
     <message>
-        <location filename="../online/whttp.cpp" line="608"/>
+        <location filename="../online/whttp.cpp" line="617"/>
         <source>Redirect to unauthorized domain blocked for security.</source>
         <translation>Omdirigering till obehörigt domän blockerad av säkerhetsskäl.</translation>
     </message>
@@ -6133,19 +6140,19 @@ Detta kommer att återställa alla anpassade layouter!</translation>
         <translation>Vår server producerar fel, vänligen kom tillbaka om några minuter. Förlåt!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="433"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="450"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="440"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="457"/>
         <source>Restore Database?</source>
         <translation>Återställa databas?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="434"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="451"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="441"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="458"/>
         <source>Good news! I found your previous client database backups, do you want to restore?</source>
         <translation>Goda nyheter! Jag hittade dina tidigare säkerhetskopior av din klientdatabas, vill du återställa?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="493"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="500"/>
         <source>Authorization process has timed out after %1 hours. Please try again.</source>
         <translation>Autentiseringsprocessen har gått ut efter %1 timmar. Försök igen.</translation>
     </message>
@@ -6171,12 +6178,12 @@ Detta kommer att återställa alla anpassade layouter!</translation>
 <context>
     <name>wizardMainPagePro</name>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="132"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="128"/>
         <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
         <translation>Välkommen till WhatPulse, &lt;b&gt;det enda statistikprogram du någonsin kommer att behöva. WhatPulse svarar på frågan "Hur mycket använder jag min dator på en dag?"&lt;br /&gt;&lt;br /&gt;Låt oss börja med att skriva in ditt &lt;strong&gt;organisationsnamn eller ID&lt;/strong&gt;, så som det tillhandahålls av din WhatPulse Professional-administratör.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizardPro.cpp" line="155"/>
+        <location filename="../interface/AccountTabWizardPro.cpp" line="154"/>
         <source>Request Activation</source>
         <translation>Begär aktivering</translation>
     </message>
@@ -6184,99 +6191,99 @@ Detta kommer att återställa alla anpassade layouter!</translation>
 <context>
     <name>wizardRestoreSettingsPage</name>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="68"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="55"/>
         <source>Date</source>
         <translation>Datum</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="68"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="55"/>
         <source>Computer</source>
         <translation>Dator</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="69"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="56"/>
         <source>Backup Size</source>
         <translation>Säkerhetskopieringsstorlek</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="107"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="94"/>
         <source>Almost there! Select a database from the list below and click Finish to download and restore.</source>
         <translation>Nästan där! Välj en databas från listan nedan och klicka på Slutför för att ladda ner och återställa.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="110"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="97"/>
         <source>Download</source>
         <translation>Ladda Ner</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="116"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="103"/>
         <source>Almost there! Click Finish to apply your previous client settings.</source>
         <translation>Nästan där! Klicka på Slutför för att tillämpa dina tidigare klientinställningar.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="168"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="175"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="155"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="162"/>
         <source>Cannot proceed</source>
         <translation>Kan inte fortsätta</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="169"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="176"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="156"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="163"/>
         <source>Please select a database backup file from the list before you proceed.</source>
         <translation>Välj en databassäkerhetskopieringsfil från listan innan du fortsätter.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="192"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="179"/>
         <source>Contacting website..</source>
         <translation>Kontaktar webbplats..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="389"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="377"/>
         <source>Starting download..</source>
         <translation>Startar nedladdning..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="392"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="380"/>
         <source>Premium only</source>
         <translation>Endast Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="393"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="381"/>
         <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Tyvärr, funktionen för säkerhetskopiering online är endast för Premium-medlemmar. Det finns mer information här: https://whatpulse.org/premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="398"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="386"/>
         <source>Error</source>
         <translation>Fel</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="399"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="387"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Tyvärr, webbplatsen gav ett fel vid förberedelse av din säkerhetskopia. Vänligen försök igen senare. Här är felet: %1</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="414"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="402"/>
         <source>Downloading backup..</source>
         <translation>Laddar ner säkerhetskopiering..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="422"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="410"/>
         <source>Download completed!</source>
         <translation>Nedladdning slutförd!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="430"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="418"/>
         <source>Extracting database..</source>
         <translation>Extraherar databas..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="452"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="440"/>
         <source>All done! Please restart the client by clicking Finished.</source>
         <translation>Klart! Starta om klienten genom att klicka på Klar.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="454"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="442"/>
         <source>Finished</source>
         <translation>Klar</translation>
     </message>
