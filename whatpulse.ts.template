@@ -265,165 +265,373 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="245"/>
+        <location filename="../application.cpp" line="247"/>
         <source>No system tray</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="246"/>
+        <location filename="../application.cpp" line="248"/>
         <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="264"/>
+        <location filename="../application.cpp" line="266"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="268"/>
+        <location filename="../application.cpp" line="270"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="271"/>
+        <location filename="../application.cpp" line="273"/>
         <source>AES failure</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1128"/>
+        <location filename="../application.cpp" line="1160"/>
         <source>&amp;Open Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1132"/>
+        <location filename="../application.cpp" line="1164"/>
         <source>&amp;Toggle Geek Window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1136"/>
+        <location filename="../application.cpp" line="1168"/>
         <source>&amp;Open Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1140"/>
+        <location filename="../application.cpp" line="1172"/>
         <source>&amp;Check for Updates</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1144"/>
+        <location filename="../application.cpp" line="1176"/>
         <source>&amp;Pulse!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1147"/>
+        <location filename="../application.cpp" line="1179"/>
         <source>&amp;View Online Stats</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1151"/>
+        <location filename="../application.cpp" line="1183"/>
         <source>&amp;Quit WhatPulse</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1262"/>
+        <location filename="../application.cpp" line="1294"/>
         <source>Uptime</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1246"/>
+        <location filename="../application.cpp" line="1278"/>
         <source>Keys</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1250"/>
+        <location filename="../application.cpp" line="1282"/>
         <source>Clicks</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1254"/>
+        <location filename="../application.cpp" line="1286"/>
         <source>Download</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1257"/>
+        <location filename="../application.cpp" line="1289"/>
         <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1265"/>
+        <location filename="../application.cpp" line="1297"/>
         <source>Not logged in!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1595"/>
+        <location filename="../application.cpp" line="1627"/>
         <source>Pulsing Disabled!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1596"/>
+        <location filename="../application.cpp" line="1628"/>
         <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1789"/>
+        <location filename="../application.cpp" line="1821"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1793"/>
-        <location filename="../application.cpp" line="1823"/>
-        <location filename="../application.cpp" line="1840"/>
-        <location filename="../application.cpp" line="1857"/>
-        <location filename="../application.cpp" line="1903"/>
-        <location filename="../application.cpp" line="1916"/>
+        <location filename="../application.cpp" line="1825"/>
+        <location filename="../application.cpp" line="1855"/>
+        <location filename="../application.cpp" line="1872"/>
+        <location filename="../application.cpp" line="1889"/>
+        <location filename="../application.cpp" line="1935"/>
+        <location filename="../application.cpp" line="1948"/>
         <source>Portable Mode</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1820"/>
+        <location filename="../application.cpp" line="1852"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1837"/>
+        <location filename="../application.cpp" line="1869"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1858"/>
-        <location filename="../application.cpp" line="1917"/>
+        <location filename="../application.cpp" line="1890"/>
+        <location filename="../application.cpp" line="1949"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1884"/>
+        <location filename="../application.cpp" line="1916"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1900"/>
+        <location filename="../application.cpp" line="1932"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2351"/>
-        <location filename="../application.cpp" line="2364"/>
+        <location filename="../application.cpp" line="2385"/>
+        <location filename="../application.cpp" line="2398"/>
         <source>Premium features disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2352"/>
+        <location filename="../application.cpp" line="2386"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2365"/>
+        <location filename="../application.cpp" line="2399"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ApplicationsSyncWindow</name>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="38"/>
+        <source>Applications Sync Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="66"/>
+        <source>These are all applications discovered on your system. Applications are only synchronized to the website when they are actively used. Unused applications will remain local until you use them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="80"/>
+        <source>Search...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="89"/>
+        <source>Show all apps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="92"/>
+        <source>Show all applications instead of only pending ones</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="107"/>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="108"/>
+        <source>Refresh the list of applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="116"/>
+        <source>Copy (CSV)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="117"/>
+        <source>Copy the list to clipboard as CSV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
+        <source>Icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
+        <source>Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="153"/>
+        <source>Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="153"/>
+        <source>Last used</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="154"/>
+        <source>Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="169"/>
+        <source>0 pending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="214"/>
+        <source>Unused: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="217"/>
+        <source>Pending: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="220"/>
+        <source>Synced: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="224"/>
+        <source>No applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="266"/>
+        <source>Synced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="268"/>
+        <source>Pending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="270"/>
+        <source>Unused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="379"/>
+        <source>Unknown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="385"/>
+        <source>Just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="389"/>
+        <source>%1min ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="393"/>
+        <source>%1h ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="396"/>
+        <source>Yesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="399"/>
+        <source>%1 days ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="428"/>
+        <source>Reveal in Finder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="430"/>
+        <source>Reveal in Explorer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="432"/>
+        <source>Open File Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="438"/>
+        <source>Copy Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="446"/>
+        <source>Open Online Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="478"/>
+        <location filename="../interface/applicationssyncwindow.cpp" line="488"/>
+        <location filename="../interface/applicationssyncwindow.cpp" line="497"/>
+        <source>File Not Found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="479"/>
+        <location filename="../interface/applicationssyncwindow.cpp" line="489"/>
+        <location filename="../interface/applicationssyncwindow.cpp" line="498"/>
+        <source>The file does not exist:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="552"/>
+        <source>Not yet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="553"/>
+        <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="598"/>
+        <source>Copied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/applicationssyncwindow.cpp" line="599"/>
+        <source>List copied to clipboard as CSV (%1 rows).</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -506,133 +714,133 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="275"/>
+        <location filename="../online/clientcommunication.cpp" line="276"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="315"/>
+        <location filename="../online/clientcommunication.cpp" line="316"/>
         <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="318"/>
+        <location filename="../online/clientcommunication.cpp" line="319"/>
         <source>Computer Management</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="338"/>
+        <location filename="../online/clientcommunication.cpp" line="339"/>
         <source>WhatPulse Professional organization disabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="339"/>
+        <location filename="../online/clientcommunication.cpp" line="340"/>
         <source>Your organization has been disabled, please contact your administrator.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="358"/>
+        <location filename="../online/clientcommunication.cpp" line="359"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="362"/>
-        <location filename="../online/clientcommunication.cpp" line="414"/>
+        <location filename="../online/clientcommunication.cpp" line="363"/>
+        <location filename="../online/clientcommunication.cpp" line="415"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="366"/>
-        <location filename="../online/clientcommunication.cpp" line="417"/>
+        <location filename="../online/clientcommunication.cpp" line="367"/>
+        <location filename="../online/clientcommunication.cpp" line="418"/>
         <source>Wrong password! Try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="370"/>
-        <location filename="../online/clientcommunication.cpp" line="447"/>
+        <location filename="../online/clientcommunication.cpp" line="371"/>
+        <location filename="../online/clientcommunication.cpp" line="448"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="373"/>
-        <location filename="../online/clientcommunication.cpp" line="450"/>
+        <location filename="../online/clientcommunication.cpp" line="374"/>
+        <location filename="../online/clientcommunication.cpp" line="451"/>
         <source>Internal server error. Please try again later.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="377"/>
-        <location filename="../online/clientcommunication.cpp" line="454"/>
+        <location filename="../online/clientcommunication.cpp" line="378"/>
+        <location filename="../online/clientcommunication.cpp" line="455"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="420"/>
+        <location filename="../online/clientcommunication.cpp" line="421"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="426"/>
+        <location filename="../online/clientcommunication.cpp" line="427"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="429"/>
+        <location filename="../online/clientcommunication.cpp" line="430"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="434"/>
+        <location filename="../online/clientcommunication.cpp" line="435"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="437"/>
+        <location filename="../online/clientcommunication.cpp" line="438"/>
         <source>Computer login still pending.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="440"/>
+        <location filename="../online/clientcommunication.cpp" line="441"/>
         <source>Premium only feature.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="443"/>
+        <location filename="../online/clientcommunication.cpp" line="444"/>
         <source>Organization not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="457"/>
-        <location filename="../online/clientcommunication.cpp" line="971"/>
+        <location filename="../online/clientcommunication.cpp" line="458"/>
+        <location filename="../online/clientcommunication.cpp" line="1005"/>
         <source>Success.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="460"/>
+        <location filename="../online/clientcommunication.cpp" line="461"/>
         <source>Success, your file is now on the website!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="947"/>
+        <location filename="../online/clientcommunication.cpp" line="981"/>
         <source>Unable to open GeoIP database (%1), permission denied.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="959"/>
+        <location filename="../online/clientcommunication.cpp" line="993"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1021"/>
+        <location filename="../online/clientcommunication.cpp" line="1055"/>
         <source>Empty reply received</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1042"/>
+        <location filename="../online/clientcommunication.cpp" line="1076"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1056"/>
+        <location filename="../online/clientcommunication.cpp" line="1090"/>
         <source>Downloaded file does not look good: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -709,17 +917,17 @@ Please check your permissions on: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="676"/>
+        <location filename="../util/database.cpp" line="687"/>
         <source>Version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="677"/>
-        <source>It is not supported to downgrade the WhatPulse client, please install the latest version and try again.</source>
+        <location filename="../util/database.cpp" line="688"/>
+        <source>It is not supported to downgrade the WhatPulse client. This database requires at least WhatPulse version %1. Please install the latest version and try again.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="889"/>
+        <location filename="../util/database.cpp" line="912"/>
         <source>Database Maintenance</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1991,27 +2199,27 @@ Please check your permissions on: %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="346"/>
+        <location filename="../stats/localstats.cpp" line="376"/>
         <source>Error while pulsing!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1168"/>
+        <location filename="../stats/localstats.cpp" line="1198"/>
         <source>Subscribe now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1172"/>
+        <location filename="../stats/localstats.cpp" line="1202"/>
         <source>Your premium has expired, but the premium features remain active for %1 more days.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1177"/>
+        <location filename="../stats/localstats.cpp" line="1207"/>
         <source>Your premium has expired, but the premium features remain active for 1 more day.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1181"/>
+        <location filename="../stats/localstats.cpp" line="1211"/>
         <source>Your premium has expired, but the premium features remain active for today.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2019,70 +2227,70 @@ Please check your permissions on: %2</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="161"/>
-        <location filename="../interface/MainWindow.cpp" line="162"/>
-        <source>Overview</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/MainWindow.cpp" line="163"/>
-        <location filename="../interface/MainWindow.cpp" line="164"/>
-        <source>Input</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/MainWindow.cpp" line="165"/>
-        <location filename="../interface/MainWindow.cpp" line="166"/>
-        <source>Network</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../interface/MainWindow.cpp" line="167"/>
         <location filename="../interface/MainWindow.cpp" line="168"/>
-        <source>Uptime</source>
+        <source>Overview</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="169"/>
         <location filename="../interface/MainWindow.cpp" line="170"/>
-        <source>Settings</source>
+        <source>Input</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="171"/>
+        <location filename="../interface/MainWindow.cpp" line="172"/>
+        <source>Network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="173"/>
         <location filename="../interface/MainWindow.cpp" line="174"/>
-        <location filename="../interface/MainWindow.cpp" line="529"/>
-        <location filename="../interface/MainWindow.cpp" line="530"/>
+        <source>Uptime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="175"/>
+        <location filename="../interface/MainWindow.cpp" line="176"/>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/MainWindow.cpp" line="179"/>
+        <location filename="../interface/MainWindow.cpp" line="180"/>
+        <location filename="../interface/MainWindow.cpp" line="562"/>
+        <location filename="../interface/MainWindow.cpp" line="563"/>
         <source>Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="254"/>
+        <location filename="../interface/MainWindow.cpp" line="272"/>
         <source>Database Maintenance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="285"/>
+        <location filename="../interface/MainWindow.cpp" line="303"/>
         <source>Please do not close the application until this operation completes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="333"/>
+        <location filename="../interface/MainWindow.cpp" line="361"/>
         <source>There&apos;s a new version available!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="542"/>
+        <location filename="../interface/MainWindow.cpp" line="575"/>
         <source>Disabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="753"/>
+        <location filename="../interface/MainWindow.cpp" line="786"/>
         <source>Operation completed successfully.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="764"/>
+        <location filename="../interface/MainWindow.cpp" line="797"/>
         <source>Operation failed: %1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3415,7 +3623,7 @@ Upload: unknown</source>
 <context>
     <name>ProfileManager</name>
     <message>
-        <location filename="../util/profilemanager.cpp" line="75"/>
+        <location filename="../util/profilemanager.cpp" line="81"/>
         <source>General</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3735,68 +3943,73 @@ Upload: unknown</source>
 <context>
     <name>SettingsAppearance</name>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="13"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="14"/>
         <source>Blink menu bar icon on activity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="16"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="17"/>
         <source>Blink tray icon on activity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="54"/>
-        <source>&lt;b&gt;Theme&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="57"/>
-        <location filename="../interface/settings/settingsappearance.cpp" line="74"/>
-        <source>Adapt to system</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="58"/>
-        <source>Light</source>
+        <location filename="../interface/settings/settingsappearance.cpp" line="21"/>
+        <source>Show status bar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="59"/>
+        <source>&lt;b&gt;Theme&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsappearance.cpp" line="62"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="79"/>
+        <source>Adapt to system</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsappearance.cpp" line="63"/>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsappearance.cpp" line="64"/>
         <source>Dark</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="68"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="73"/>
         <source>&lt;b&gt;Menu bar icon color&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="70"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="75"/>
         <source>&lt;b&gt;Tray icon color&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="75"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="80"/>
         <source>Black</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="76"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="81"/>
         <source>White</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="90"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="95"/>
         <source>&lt;b&gt;Language&lt;/b&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="121"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="126"/>
         <source>This change needs a window refresh.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsappearance.cpp" line="127"/>
+        <location filename="../interface/settings/settingsappearance.cpp" line="132"/>
         <source>Click here to refresh</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4883,19 +5096,19 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="175"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="378"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="379"/>
         <source>Use advanced input method</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="177"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="380"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="381"/>
         <source>enabled</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="179"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="382"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="383"/>
         <source>disabled</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4920,52 +5133,52 @@ This will reset any custom layouts!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="289"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="290"/>
         <source>Uploading Apps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="290"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="291"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="301"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="302"/>
         <source>Time series resync</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="302"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="303"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="324"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="325"/>
         <source>Empty Database</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="325"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="326"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="343"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="344"/>
         <source>Upload Computer Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="344"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="345"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="386"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="387"/>
         <source>Restart required</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="387"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="388"/>
         <source>Before this setting change can take effect, please restart WhatPulse.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4975,6 +5188,145 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/widgets/sidemenuwithscrollableview.cpp" line="98"/>
         <source>Learn more</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>StatusBarWidget</name>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="69"/>
+        <source>Collector is stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="76"/>
+        <source>Pending apps: 0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="78"/>
+        <source>Click to view applications pending sync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="89"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="179"/>
+        <source>Last pulse: never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="96"/>
+        <source>v-.-.-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="98"/>
+        <source>WhatPulse client version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="167"/>
+        <source>Synced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="169"/>
+        <source>Pending apps: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="185"/>
+        <source>Last pulse: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="213"/>
+        <source>never</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="219"/>
+        <source>just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="222"/>
+        <source>%1 sec ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="226"/>
+        <source>%1min ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="230"/>
+        <source>%1h ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="233"/>
+        <source>yesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="237"/>
+        <source>%1 days ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="289"/>
+        <source>Collector is running</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="297"/>
+        <source>Collector is not started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="298"/>
+        <source>Collector is paused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="310"/>
+        <source>Pulse Statistics:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="324"/>
+        <source>Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="326"/>
+        <source>Clicks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="328"/>
+        <source>Scrolls</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="331"/>
+        <source>Distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="333"/>
+        <source>Uptime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="335"/>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="337"/>
+        <source>Upload</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
