@@ -439,52 +439,52 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="38"/>
       <source>Applications Sync Status</source>
-      <translation type="finished"/>
+      <translation type="finished">Applications Sync Status</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="66"/>
       <source>These are all applications discovered on your system. Applications are only synchronized to the website when they are actively used. Unused applications will remain local until you use them.</source>
-      <translation type="finished"/>
+      <translation type="finished">These are all applications discovered on your system. Applications are only synchronized to the website when they are actively used. Unused applications will remain local until you use them.</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="80"/>
       <source>Search...</source>
-      <translation type="finished"/>
+      <translation type="finished">Search...</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="89"/>
       <source>Show all apps</source>
-      <translation type="finished"/>
+      <translation type="finished">Show all apps</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="92"/>
       <source>Show all applications instead of only pending ones</source>
-      <translation type="finished"/>
+      <translation type="finished">Show all applications instead of only pending ones</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="107"/>
       <source>Refresh</source>
-      <translation type="finished"/>
+      <translation type="finished">Refresh</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="108"/>
       <source>Refresh the list of applications</source>
-      <translation type="finished"/>
+      <translation type="finished">Refresh the list of applications</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="116"/>
       <source>Copy (CSV)</source>
-      <translation type="finished"/>
+      <translation type="finished">Copy (CSV)</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="117"/>
       <source>Copy the list to clipboard as CSV</source>
-      <translation type="finished"/>
+      <translation type="finished">Copy the list to clipboard as CSV</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
       <source>Icon</source>
-      <translation type="finished"/>
+      <translation type="finished">Icon</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
@@ -499,7 +499,7 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="153"/>
       <source>Path</source>
-      <translation type="finished"/>
+      <translation type="finished">Path</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="153"/>
@@ -509,47 +509,47 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="154"/>
       <source>Status</source>
-      <translation type="finished"/>
+      <translation type="finished">Status</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="169"/>
       <source>0 pending</source>
-      <translation type="finished"/>
+      <translation type="finished">0 pending</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="214"/>
       <source>Unused: %1</source>
-      <translation type="finished"/>
+      <translation type="finished">Unused: %1</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="217"/>
       <source>Pending: %1</source>
-      <translation type="finished"/>
+      <translation type="finished">Pending: %1</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="220"/>
       <source>Synced: %1</source>
-      <translation type="finished"/>
+      <translation type="finished">Synced: %1</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="224"/>
       <source>No applications</source>
-      <translation type="finished"/>
+      <translation type="finished">No applications</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="266"/>
       <source>Synced</source>
-      <translation type="finished"/>
+      <translation type="finished">Synced</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="268"/>
       <source>Pending</source>
-      <translation type="finished"/>
+      <translation type="finished">Pending</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="270"/>
       <source>Unused</source>
-      <translation type="finished"/>
+      <translation type="finished">Unused</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="379"/>
@@ -559,17 +559,17 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="385"/>
       <source>Just now</source>
-      <translation type="finished"/>
+      <translation type="finished">Just now</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="389"/>
       <source>%1min ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1min ago</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="393"/>
       <source>%1h ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1h ago</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="396"/>
@@ -579,17 +579,17 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="399"/>
       <source>%1 days ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1 days ago</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="428"/>
       <source>Reveal in Finder</source>
-      <translation type="finished"/>
+      <translation type="finished">Reveal in Finder</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="430"/>
       <source>Reveal in Explorer</source>
-      <translation type="finished"/>
+      <translation type="finished">Reveal in Explorer</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="432"/>
@@ -599,7 +599,7 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="438"/>
       <source>Copy Path</source>
-      <translation type="finished"/>
+      <translation type="finished">Copy Path</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="446"/>
@@ -611,7 +611,7 @@ Keeping Portable Mode enabled.</translation>
       <location filename="../interface/applicationssyncwindow.cpp" line="488"/>
       <location filename="../interface/applicationssyncwindow.cpp" line="497"/>
       <source>File Not Found</source>
-      <translation type="finished"/>
+      <translation type="finished">File Not Found</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="479"/>
@@ -619,7 +619,8 @@ Keeping Portable Mode enabled.</translation>
       <location filename="../interface/applicationssyncwindow.cpp" line="498"/>
       <source>The file does not exist:
 %1</source>
-      <translation type="finished"/>
+      <translation type="finished">The file does not exist:
+%1</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="552"/>
@@ -634,12 +635,12 @@ Keeping Portable Mode enabled.</translation>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="598"/>
       <source>Copied</source>
-      <translation type="finished"/>
+      <translation type="finished">Copied</translation>
     </message>
     <message>
       <location filename="../interface/applicationssyncwindow.cpp" line="599"/>
       <source>List copied to clipboard as CSV (%1 rows).</source>
-      <translation type="finished"/>
+      <translation type="finished">List copied to clipboard as CSV (%1 rows).</translation>
     </message>
   </context>
   <context>
@@ -933,7 +934,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../util/database.cpp" line="688"/>
       <source>It is not supported to downgrade the WhatPulse client. This database requires at least WhatPulse version %1. Please install the latest version and try again.</source>
-      <translation type="finished"/>
+      <translation type="finished">It is not supported to downgrade the WhatPulse client. This database requires at least WhatPulse version %1. Please install the latest version and try again.</translation>
     </message>
     <message>
       <location filename="../util/database.cpp" line="912"/>
@@ -3969,7 +3970,7 @@ Upload: unknown</translation>
     <message>
       <location filename="../interface/settings/settingsappearance.cpp" line="21"/>
       <source>Show status bar</source>
-      <translation type="finished"/>
+      <translation type="finished">Show status bar</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsappearance.cpp" line="59"/>
@@ -5211,73 +5212,73 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="69"/>
       <source>Collector is stopped</source>
-      <translation type="finished"/>
+      <translation type="finished">Collector is stopped</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="76"/>
       <source>Pending apps: 0</source>
-      <translation type="finished"/>
+      <translation type="finished">Pending apps: 0</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="78"/>
       <source>Click to view applications pending sync</source>
-      <translation type="finished"/>
+      <translation type="finished">Click to view applications pending sync</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="89"/>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="179"/>
       <source>Last pulse: never</source>
-      <translation type="finished"/>
+      <translation type="finished">Last pulse: never</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="96"/>
       <source>v-.-.-</source>
-      <translation type="finished"/>
+      <translation type="finished">v-.-.-</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="98"/>
       <source>WhatPulse client version</source>
-      <translation type="finished"/>
+      <translation type="finished">WhatPulse client version</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="167"/>
       <source>Synced</source>
-      <translation type="finished"/>
+      <translation type="finished">Synced</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="169"/>
       <source>Pending apps: %1</source>
-      <translation type="finished"/>
+      <translation type="finished">Pending apps: %1</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="185"/>
       <source>Last pulse: %1</source>
-      <translation type="finished"/>
+      <translation type="finished">Last pulse: %1</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="213"/>
       <source>never</source>
-      <translation type="finished"/>
+      <translation type="finished">never</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="219"/>
       <source>just now</source>
-      <translation type="finished"/>
+      <translation type="finished">just now</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="222"/>
       <source>%1 sec ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1 sec ago</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="226"/>
       <source>%1min ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1min ago</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="230"/>
       <source>%1h ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1h ago</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="233"/>
@@ -5287,27 +5288,27 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="237"/>
       <source>%1 days ago</source>
-      <translation type="finished"/>
+      <translation type="finished">%1 days ago</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="289"/>
       <source>Collector is running</source>
-      <translation type="finished"/>
+      <translation type="finished">Collector is running</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="297"/>
       <source>Collector is not started</source>
-      <translation type="finished"/>
+      <translation type="finished">Collector is not started</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="298"/>
       <source>Collector is paused</source>
-      <translation type="finished"/>
+      <translation type="finished">Collector is paused</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="310"/>
       <source>Pulse Statistics:</source>
-      <translation type="finished"/>
+      <translation type="finished">Pulse Statistics:</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="324"/>

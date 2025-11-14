@@ -169,7 +169,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="455"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Heslo nemôžete zmeniť v klientovi. Prosím odhláste sa a prihláste naspäť s rovnakou emailovou adresou a menom počítača na zmenenie hesla v tomto klientovi. Vaše štatistiky budú zachované keď použijete rovnaké údaje.</translation>
     </message>
     <message>
@@ -234,7 +234,7 @@ Môžete pokračovať v pulzovaní.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="576"/>
-        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
+        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>Zálohovanie úspešne spustené. Bude prebiehať na pozadí a potrvá niekoľko minút.</translation>
     </message>
 </context>
@@ -273,7 +273,7 @@ Môžete pokračovať v pulzovaní.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="248"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Nepodarilo sa zistiť žiadny systémový tray na tomto systéme.</translation>
     </message>
     <message>
@@ -363,8 +363,8 @@ Môžete pokračovať v pulzovaní.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1628"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi na online pripojenie, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>Možnosť 'Fungovať v Offline režime' je zapnutá. Toto prekáža klientovi na online pripojenie, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1821"/>
@@ -439,179 +439,179 @@ Nechávam prenosný režim zapnutý.</translation>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="38"/>
         <source>Applications Sync Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav synchronizácie aplikácií</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="66"/>
         <source>These are all applications discovered on your system. Applications are only synchronized to the website when they are actively used. Unused applications will remain local until you use them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toto sú všetky aplikácie zistené vo vašom systéme. Aplikácie sú synchronizované na webovú stránku iba vtedy, keď sú aktívne používané. Nepoužité aplikácie zostanú lokálne, pokým ich nepoužijete.</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="80"/>
         <source>Search...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hľadať...</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="89"/>
         <source>Show all apps</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť všetky aplikácie</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="92"/>
         <source>Show all applications instead of only pending ones</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť všetky aplikácie namiesto iba čakajúcich</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="107"/>
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="108"/>
         <source>Refresh the list of applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Obnoviť zoznam aplikácií</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="116"/>
         <source>Copy (CSV)</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať (CSV)</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="117"/>
         <source>Copy the list to clipboard as CSV</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať zoznam do schránky ako CSV</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
         <source>Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikona</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
         <source>Name</source>
-        <translation type="unfinished">Meno</translation>
+        <translation>Meno</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="152"/>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="153"/>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Cesta</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="153"/>
         <source>Last used</source>
-        <translation type="unfinished">Naposledy použitý</translation>
+        <translation>Naposledy použitý</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="154"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stav</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="169"/>
         <source>0 pending</source>
-        <translation type="unfinished"></translation>
+        <translation>0 čakajúcich</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="214"/>
         <source>Unused: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoužité: %1</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="217"/>
         <source>Pending: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Čakajúce: %1</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="220"/>
         <source>Synced: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronizované: %1</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="224"/>
         <source>No applications</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadne aplikácie</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="266"/>
         <source>Synced</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronizované</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="268"/>
         <source>Pending</source>
-        <translation type="unfinished"></translation>
+        <translation>Čakajúce</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="270"/>
         <source>Unused</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepoužité</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="379"/>
         <source>Unknown</source>
-        <translation type="unfinished">Neznámy</translation>
+        <translation>Neznámy</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="385"/>
         <source>Just now</source>
-        <translation type="unfinished"></translation>
+        <translation>Práve teraz</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="389"/>
         <source>%1min ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 min</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="393"/>
         <source>%1h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 h</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="396"/>
         <source>Yesterday</source>
-        <translation type="unfinished">Včera</translation>
+        <translation>Včera</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="399"/>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 dňami</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="428"/>
         <source>Reveal in Finder</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť v Finderi</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="430"/>
         <source>Reveal in Explorer</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť v Prieskumníkovi</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="432"/>
         <source>Open File Location</source>
-        <translation type="unfinished">Otvoriť umiestnenie súboru</translation>
+        <translation>Otvoriť umiestnenie súboru</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="438"/>
         <source>Copy Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopírovať cestu</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="446"/>
         <source>Open Online Profile</source>
-        <translation type="unfinished">Otvoriť online profil</translation>
+        <translation>Otvoriť online profil</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="478"/>
         <location filename="../interface/applicationssyncwindow.cpp" line="488"/>
         <location filename="../interface/applicationssyncwindow.cpp" line="497"/>
         <source>File Not Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor nebol nájdený</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="479"/>
@@ -619,27 +619,28 @@ Nechávam prenosný režim zapnutý.</translation>
         <location filename="../interface/applicationssyncwindow.cpp" line="498"/>
         <source>The file does not exist:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Súbor neexistuje:
+%1</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="552"/>
         <source>Not yet</source>
-        <translation type="unfinished">Ešte nie</translation>
+        <translation>Ešte nie</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="553"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
-        <translation type="unfinished"></translation>
+        <translation>Táto aplikácia ešte nebola nahraná na webovú stránku, prosím skontrolujte znova o hodinu alebo tak nejako.</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="598"/>
         <source>Copied</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopírované</translation>
     </message>
     <message>
         <location filename="../interface/applicationssyncwindow.cpp" line="599"/>
         <source>List copied to clipboard as CSV (%1 rows).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoznam bol skopírovaný do schránky ako CSV (%1 riadkov).</translation>
     </message>
 </context>
 <context>
@@ -679,8 +680,8 @@ Nechávam prenosný režim zapnutý.</translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="137"/>
-        <source>When you select &apos;Send Database&apos; - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
-        <translation>Keď vyberiete &apos;Poslať databázu&apos; - kópia vašej lokálnej databázy bude odoslaná WhatPulse vývojárom aby mohli jednoduchšie zreprodukovať závadu.&lt;br /&gt;&lt;br /&gt;Vaša databáza je: </translation>
+        <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
+        <translation>Keď vyberiete 'Poslať databázu' - kópia vašej lokálnej databázy bude odoslaná WhatPulse vývojárom aby mohli jednoduchšie zreprodukovať závadu.&lt;br /&gt;&lt;br /&gt;Vaša databáza je: </translation>
     </message>
     <message>
         <location filename="../interface/BugReportWindow.cpp" line="146"/>
@@ -727,7 +728,7 @@ Nechávam prenosný režim zapnutý.</translation>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="316"/>
-        <source>This computer is archived, and isn&apos;t able to connect to your account.</source>
+        <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>Tento počítač je archivovaný a nemôže sa pripojiť k vášmu účtu.</translation>
     </message>
     <message>
@@ -906,8 +907,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="477"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>Databáza &apos;%1&apos; je iba na čítanie. WhatPulse nemôže ukladať žiadne štatistiky dokedy neopravíte tento problém.</translation>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>Databáza '%1' je iba na čítanie. WhatPulse nemôže ukladať žiadne štatistiky dokedy neopravíte tento problém.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="520"/>
@@ -933,7 +934,7 @@ Skontrolujte si povolenia na : %2</translation>
     <message>
         <location filename="../util/database.cpp" line="688"/>
         <source>It is not supported to downgrade the WhatPulse client. This database requires at least WhatPulse version %1. Please install the latest version and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie je podporované zníženie verzie klienta WhatPulse. Táto databáza vyžaduje aspoň verziu WhatPulse %1. Nainštalujte prosím najnovšiu verziu a skúste to znova.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="912"/>
@@ -963,7 +964,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>Vitajte! Prešlo &lt;b&gt;%1&lt;/b&gt; dní od vašej poslednej zálohy databáz. Prosím obetujte čas a spravte to teraz. Toto okno sa automaticky zatvorí keď bude všetko hotové.</translation>
     </message>
     <message>
@@ -995,7 +996,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="133"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Prepáčte, funkcia online záloh je iba pre premium členov. Viacej informácií nájdete na: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -1005,7 +1006,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/DatabaseBackupWindow.cpp" line="144"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Prepáčte, stránka dala chybu počas prípravy pre vašu zálohu. Prosím skúste to neskôr. Chyba: %1</translation>
     </message>
     <message>
@@ -1041,17 +1042,17 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="381"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>Najviac ste napísali v &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% kláves!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="396"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>Najviac ste klikali v aplikácií &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kliknutí)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="410"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>Najviac ste napísali v aplikácií &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% kláves)</translation>
     </message>
     <message>
@@ -1166,7 +1167,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="777"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>Počítač ste reštartovali &lt;b&gt;%VAR1:int%&lt;/b&gt; krát.</translation>
     </message>
     <message>
@@ -1341,8 +1342,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="388"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Ste si istý, že chcete vylúčiť aplikáciu &apos;%1&apos; ? Týmto sa taktiež odstráni história tejto aplikácie.</translation>
+        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
+        <translation>Ste si istý, že chcete vylúčiť aplikáciu '%1' ? Týmto sa taktiež odstráni história tejto aplikácie.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="364"/>
@@ -1922,8 +1923,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="206"/>
-        <source>History of keys, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>História kláves, kliknutí, scrollnutí a vzdialeností medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>History of keys, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>História kláves, kliknutí, scrollnutí a vzdialeností medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="240"/>
@@ -1966,28 +1967,28 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="382"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heatmapa kláves medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Heatmap of keys between '%1' and '%2' </source>
+        <translation>Heatmapa kláves medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="448"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Heatmapa kliknutí medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
+        <translation>Heatmapa kliknutí medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="520"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Vstup aplikácií medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Application input between '%1' and '%2' </source>
+        <translation>Vstup aplikácií medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="601"/>
-        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Klávesové skratky medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>Klávesové skratky medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="670"/>
-        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Klávesové skratky podľa aplikácie medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>Klávesové skratky podľa aplikácie medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="765"/>
@@ -2125,8 +2126,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="470"/>
-        <source>No input devices found, are your &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>Nenašli sa žiadne vstupné zariadenia, sú vaše &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;povolenia&lt;/a&gt; nastavené správne?</translation>
+        <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>Nenašli sa žiadne vstupné zariadenia, sú vaše &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;povolenia&lt;/a&gt; nastavené správne?</translation>
     </message>
 </context>
 <context>
@@ -2285,7 +2286,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="361"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>K dispozícii je nová verzia!</translation>
     </message>
     <message>
@@ -2480,8 +2481,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="207"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Prenosy sieťových rozhraní medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Network interface traffic between '%1' and '%2' </source>
+        <translation>Prenosy sieťových rozhraní medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="238"/>
@@ -2514,18 +2515,18 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="304"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Sieť podľa aplikácií medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Network per applications between '%1' and '%2' </source>
+        <translation>Sieť podľa aplikácií medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="366"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Prenosy siete podľa krajín medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Country network traffic between '%1' and '%2' </source>
+        <translation>Prenosy siete podľa krajín medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="434"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Sieť podľa typu medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Network per type between '%1' and '%2' </source>
+        <translation>Sieť podľa typu medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="522"/>
@@ -2567,8 +2568,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="370"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>Vaša databáza GeoIP je prázdna, štatistiky za jednotlivé krajiny nebudú fungovať. Kliknutím na &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;tu&lt;/a&gt; obnovíte databázu.</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>Vaša databáza GeoIP je prázdna, štatistiky za jednotlivé krajiny nebudú fungovať. Kliknutím na &lt;a href="#" style="color: %1"&gt;tu&lt;/a&gt; obnovíte databázu.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="424"/>
@@ -2637,8 +2638,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="688"/>
-        <source>External PCap service not connected. Set up &lt;a href=&quot;https://whatpulse.org/go/linux-network-setup&quot; style=&quot;color: %1&quot;&gt;the external PCap service&lt;/a&gt; for network stats.</source>
-        <translation>Externá PCap služba nie je pripojená. Nastavte &lt;a href=&quot;https://whatpulse.org/go/linux-network-setup&quot; style=&quot;color: %1&quot;&gt;externú PCap službu&lt;/a&gt; pre štatistiky siete.</translation>
+        <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
+        <translation>Externá PCap služba nie je pripojená. Nastavte &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;externú PCap službu&lt;/a&gt; pre štatistiky siete.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="470"/>
@@ -2703,13 +2704,13 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="654"/>
-        <source>GeoIP Database did not update succesfully, here&apos;s the error: </source>
+        <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>GeoIP Databáza sa neaktualizovala úspešne, tu je chyba: </translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="664"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>Npcap nebol nájdený, čo je potrebné pre sieťové štatistiky.&lt;br&gt;Stiahnite si na &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>Npcap nebol nájdený, čo je potrebné pre sieťové štatistiky.&lt;br&gt;Stiahnite si na &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="671"/>
@@ -2815,8 +2816,8 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="458"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Ste si istý, že chcete vylúčiť aplikáciu &apos;%1&apos; ? Týmto sa odstráni aj história tejto aplikácie.</translation>
+        <source>Are you sure you want to exclude application '%1' ? This will also remove this applications history.</source>
+        <translation>Ste si istý, že chcete vylúčiť aplikáciu '%1' ? Týmto sa odstráni aj história tejto aplikácie.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="207"/>
@@ -2845,7 +2846,7 @@ Skontrolujte si povolenia na : %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="103"/>
-        <source>Per-application network stats isn&apos;t currently supported on Linux, sorry.</source>
+        <source>Per-application network stats isn't currently supported on Linux, sorry.</source>
         <translation>Štatistiky siete pre jednotlivé aplikácie momentálne nie sú podporované na Linuxe, ospravedlňujeme sa.</translation>
     </message>
     <message>
@@ -3426,8 +3427,8 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="408"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>Možnosť &apos;Fungovať v offline režime&apos; je zapnutá takže nemôžete pulzovať. Vypnite ju aby ste mohli pokračovať v pulzovaní.</translation>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>Možnosť 'Fungovať v offline režime' je zapnutá takže nemôžete pulzovať. Vypnite ju aby ste mohli pokračovať v pulzovaní.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="419"/>
@@ -3436,8 +3437,8 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="420"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>Možnosť &apos;Fungovať v Offline režime&apos; je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>Možnosť 'Fungovať v Offline režime' je zapnutá. Toto prekáža klientovi aby sa mohol pripojiť online, čo zahŕňa pulzovanie. Vypnite túto možnosť aby ste mohli znovu pulzovať.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="430"/>
@@ -3507,7 +3508,7 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="175"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>WhatPulse potrebuje povolanie na rátanie vašich kláves a kliknutí.  Nezatvárajte WhatPulse keď budete vyzvaní.</translation>
     </message>
     <message>
@@ -3517,8 +3518,8 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="212"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Malo by to vyzerať takto: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Keď je začiarkavacie políčko už označené,  skúste ho odznačiť a označiť znovu.  Toto môže byť vyžadované po aktualizáciach.&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked,  try unchecking and checking it again.  This can be needed after upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Malo by to vyzerať takto: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Keď je začiarkavacie políčko už označené,  skúste ho odznačiť a označiť znovu.  Toto môže byť vyžadované po aktualizáciach.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="218"/>
@@ -3575,7 +3576,7 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="70"/>
-        <source>Don&apos;t remind me</source>
+        <source>Don't remind me</source>
         <translation>Nepripomínať</translation>
     </message>
 </context>
@@ -3674,8 +3675,8 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="405"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>Verzia systému macOS nie je podporovaná; Prosím označte &quot;Zapnúť prístup k pomocným zariadeniam&quot; v sekcií Prístupnosť v Systémových nastaveniach a reštartujte klienta. Rátanie kláves ináč nebude fungovať. Aktualizovaný klient potrebuje znovu zapnutie.</translation>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>Verzia systému macOS nie je podporovaná; Prosím označte "Zapnúť prístup k pomocným zariadeniam" v sekcií Prístupnosť v Systémových nastaveniach a reštartujte klienta. Rátanie kláves ináč nebude fungovať. Aktualizovaný klient potrebuje znovu zapnutie.</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="31"/>
@@ -3969,7 +3970,7 @@ Nahrané: neznáme</translation>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="21"/>
         <source>Show status bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zobraziť stavový riadok</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="59"/>
@@ -4184,17 +4185,17 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="403"/>
-        <source>you&apos;ve downloaded </source>
+        <source>you've downloaded </source>
         <translation>ste stiahli </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="415"/>
-        <source>you&apos;ve uploaded </source>
+        <source>you've uploaded </source>
         <translation>ste nahrali </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="427"/>
-        <source>you&apos;ve collected </source>
+        <source>you've collected </source>
         <translation>ste nazbierali </translation>
     </message>
     <message>
@@ -4232,8 +4233,8 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="63"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>API klienta vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase. Môžete ho použiť na využitie štatistík v inej aplikácií. Zistite viac na našom &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;vývojárskom centre&lt;/a&gt;</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>API klienta vám dáva možnosť extrahovať informácie z WhatPulse klienta v reálnom čase. Môžete ho použiť na využitie štatistík v inej aplikácií. Zistite viac na našom &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;vývojárskom centre&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="86"/>
@@ -4275,7 +4276,7 @@ Nahrané: neznáme</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="48"/>
-        <source>Here you can manage applications and network interfaces that you&apos;ve chosen to exclude from monitoring. Right click an application or interface to manage.</source>
+        <source>Here you can manage applications and network interfaces that you've chosen to exclude from monitoring. Right click an application or interface to manage.</source>
         <translation>Tu môžete spravovať aplikácie a sieťové rozhrania, ktoré ste si vybrali pre vylúčenie z monitorovania. Kliknite pravým tlačidlom na aplikáciu alebo rozhranie pre úpravy.</translation>
     </message>
     <message>
@@ -4817,7 +4818,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="238"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
+        <source>Time for coffee, you've made X keys!</source>
         <translation>Čas na kávu, spravili ste X kláves!</translation>
     </message>
     <message>
@@ -4929,7 +4930,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/settings/settingsprofiles.cpp" line="191"/>
         <location filename="../interface/settings/settingsprofiles.cpp" line="270"/>
-        <source>There&apos;s already a profile named %1, you cannot have profiles with the same name.</source>
+        <source>There's already a profile named %1, you cannot have profiles with the same name.</source>
         <translation>Profil s názvom %1 už existuje, nemôžete mať profily s rovnakým názvom.</translation>
     </message>
     <message>
@@ -4954,7 +4955,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsprofiles.cpp" line="311"/>
-        <source>You can&apos;t edit or delete the general profile.</source>
+        <source>You can't edit or delete the general profile.</source>
         <translation>Nemôžete upravovať ani mazať všeobecný profil.</translation>
     </message>
     <message>
@@ -5211,138 +5212,138 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="69"/>
         <source>Collector is stopped</source>
-        <translation type="unfinished"></translation>
+        <translation>Zberač je zastavený</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="76"/>
         <source>Pending apps: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Čakajúce aplikácie: 0</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="78"/>
         <source>Click to view applications pending sync</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknite na zobrazenie aplikácií čakajúcich na synchronizáciu</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="89"/>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="179"/>
         <source>Last pulse: never</source>
-        <translation type="unfinished"></translation>
+        <translation>Posledný pulz: nikdy</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="96"/>
         <source>v-.-.-</source>
-        <translation type="unfinished"></translation>
+        <translation>v-.-.-</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="98"/>
         <source>WhatPulse client version</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzia klienta WhatPulse</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="167"/>
         <source>Synced</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronizované</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="169"/>
         <source>Pending apps: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Čakajúce aplikácie: %1</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="185"/>
         <source>Last pulse: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Posledný pulz: %1</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="213"/>
         <source>never</source>
-        <translation type="unfinished"></translation>
+        <translation>nikdy</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="219"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>práve teraz</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="222"/>
         <source>%1 sec ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 sek</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="226"/>
         <source>%1min ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 min</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="230"/>
         <source>%1h ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 h</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="233"/>
         <source>yesterday</source>
-        <translation type="unfinished">včera</translation>
+        <translation>včera</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="237"/>
         <source>%1 days ago</source>
-        <translation type="unfinished"></translation>
+        <translation>pred %1 dňami</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="289"/>
         <source>Collector is running</source>
-        <translation type="unfinished"></translation>
+        <translation>Zberač je spustený</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="297"/>
         <source>Collector is not started</source>
-        <translation type="unfinished"></translation>
+        <translation>Zberač nie je spustený</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="298"/>
         <source>Collector is paused</source>
-        <translation type="unfinished"></translation>
+        <translation>Zberač je pozastavený</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="310"/>
         <source>Pulse Statistics:</source>
-        <translation type="unfinished"></translation>
+        <translation>Štatistiky pulzu:</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="324"/>
         <source>Keys</source>
-        <translation type="unfinished">Klávesy</translation>
+        <translation>Klávesy</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="326"/>
         <source>Clicks</source>
-        <translation type="unfinished">Kliknutia</translation>
+        <translation>Kliknutia</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="328"/>
         <source>Scrolls</source>
-        <translation type="unfinished">Scrollnutia</translation>
+        <translation>Scrollnutia</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="331"/>
         <source>Distance</source>
-        <translation type="unfinished">Vzdialenosť</translation>
+        <translation>Vzdialenosť</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="333"/>
         <source>Uptime</source>
-        <translation type="unfinished">Uptime</translation>
+        <translation>Uptime</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="335"/>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiahnuť</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="337"/>
         <source>Upload</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrať</translation>
     </message>
 </context>
 <context>
@@ -5522,7 +5523,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="534"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>Vyberte začiatočný a konečný dátum obdobia z ktorého chcete vidieť štatistiky.</translation>
     </message>
     <message>
@@ -5759,8 +5760,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="169"/>
-        <source>Are you sure you want to ignore application &apos;%1&apos; ? This will also remove this applications history.</source>
-        <translation>Ste si istý, že chcete ignórovať aplikáciu &apos;%1&apos;? Tým sa odstráni aj históriu tejto aplikácie.</translation>
+        <source>Are you sure you want to ignore application '%1' ? This will also remove this applications history.</source>
+        <translation>Ste si istý, že chcete ignórovať aplikáciu '%1'? Tým sa odstráni aj históriu tejto aplikácie.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="216"/>
@@ -6059,8 +6060,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="270"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Zoznam reštartov medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Reboot list between '%1' and '%2' </source>
+        <translation>Zoznam reštartov medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="300"/>
@@ -6069,8 +6070,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="346"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Aktívny čas aplikácie medzi &apos;%1&apos; a &apos;%2&apos; </translation>
+        <source>Active application time between '%1' and '%2' </source>
+        <translation>Aktívny čas aplikácie medzi '%1' a '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="354"/>
@@ -6600,7 +6601,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
         <location filename="../online/versioncheck.cpp" line="212"/>
         <location filename="../online/versioncheck.cpp" line="294"/>
         <location filename="../online/versioncheck.cpp" line="344"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>Používate najnovšiu verziu WhatPulse.</translation>
     </message>
     <message>
@@ -6613,7 +6614,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>WindowMessageBanner</name>
     <message>
         <location filename="../interface/widgets/WindowMessageBanner.cpp" line="32"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>Čo je nové?</translation>
     </message>
 </context>
@@ -6645,7 +6646,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="27"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>Boli ste presmerovaní na stránku, prosím postupujte podľa inštrukcií. Potom ako dokončíte prihlasovanie, klient sa automagicky prihlási a idete na preteky!</translation>
     </message>
     <message>
@@ -6656,8 +6657,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="144"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>Ak sa vám prehliadač neotvoril, skúste kliknúť alebo skopírovať &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;tento odkaz&lt;/a&gt;.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
+        <translation>Ak sa vám prehliadač neotvoril, skúste kliknúť alebo skopírovať &lt;a href="%1" style="color: %2"&gt;tento odkaz&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="163"/>
@@ -6692,8 +6693,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="11"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>Vitajte vo WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe ktorý kedy budete potrebovať. WhatPulse odpovedá na otázku &apos;Ako moc používam môj počítač za deň?&apos;&lt;br /&gt;&lt;br /&gt;Poďme začať. Keď už máte účet, prosím kliknite na &lt;b&gt;Prihlásiť&lt;/b&gt;. Ak ste noví vo WhatPulse, prosím kliknite na &lt;b&gt;Registrovať&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;V obidvoch prípadoch budete presmerovaní na našu stránku na dokončenie prihlásenia.&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>Vitajte vo WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe ktorý kedy budete potrebovať. WhatPulse odpovedá na otázku 'Ako moc používam môj počítač za deň?'&lt;br /&gt;&lt;br /&gt;Poďme začať. Keď už máte účet, prosím kliknite na &lt;b&gt;Prihlásiť&lt;/b&gt;. Ak ste noví vo WhatPulse, prosím kliknite na &lt;b&gt;Registrovať&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;V obidvoch prípadoch budete presmerovaní na našu stránku na dokončenie prihlásenia.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="30"/>
@@ -6710,8 +6711,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="128"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation>Vitajte v programe WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe, ktorý budete potrebovať. Program WhatPulse odpovedá na otázku &quot;Koľko používam svoj počítač za jeden deň?&quot;&lt;br /&gt;&lt;br /&gt;Začnime zadaním &lt;strong&gt;názvu alebo ID organizácie&lt;/strong&gt;, ktoré vám poskytol správca programu WhatPulse Professional.</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>Vitajte v programe WhatPulse, &lt;b&gt;jedinom&lt;/b&gt; štatistickom programe, ktorý budete potrebovať. Program WhatPulse odpovedá na otázku "Koľko používam svoj počítač za jeden deň?"&lt;br /&gt;&lt;br /&gt;Začnime zadaním &lt;strong&gt;názvu alebo ID organizácie&lt;/strong&gt;, ktoré vám poskytol správca programu WhatPulse Professional.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="154"/>
@@ -6780,7 +6781,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="383"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Prepáčte, funkcia online zálohy je iba pre Premium členov. Viacej informácií nájdete na: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -6790,7 +6791,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="389"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Prepáčte, stránka dala chybu počas prípravy vašej zálohy. Prosím skúste to znova neskôr. Tu je chyba: %1</translation>
     </message>
     <message>
@@ -6823,7 +6824,7 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     <name>wizardSettingsPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="22"/>
-        <source>You&apos;re almost ready to go. &lt;br /&gt;&lt;br /&gt;Choose what you&apos;d like WhatPulse to measure on this computer. You can change these anytime in your settings.</source>
+        <source>You're almost ready to go. &lt;br /&gt;&lt;br /&gt;Choose what you'd like WhatPulse to measure on this computer. You can change these anytime in your settings.</source>
         <translation>Ste takmer pripravení. &lt;br /&gt;&lt;br /&gt;Vyberte, čo by ste chceli, aby WhatPulse meral na tomto počítači. Tieto nastavenia môžete kedykoľvek zmeniť vo vašich nastaveniach.</translation>
     </message>
     <message>
@@ -6848,8 +6849,8 @@ Toto resetuje všetky vlastné rozloženia!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="139"/>
-        <source>Want to keep stats private but still collect them? Adjust your &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>Chcete uchovať štatistiky súkromné, ale stále ich zbierať? Upraviť vaše &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;nastavenia súkromia&lt;/a&gt;.</translation>
+        <source>Want to keep stats private but still collect them? Adjust your &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>Chcete uchovať štatistiky súkromné, ale stále ich zbierať? Upraviť vaše &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;nastavenia súkromia&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>
