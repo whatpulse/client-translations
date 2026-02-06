@@ -107,7 +107,7 @@ The logs will also tell you if there's something wrong with the translation file
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Radotornado>
+        <a href=https://github.com/EndToEndDisciple>
             <img src=https://avatars.githubusercontent.com/u/16245632?v=4 width="100;"  alt=Radoslav Mandev/>
             <br />
             <sub style="font-size:14px"><b>Radoslav Mandev</b></sub>
