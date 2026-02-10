@@ -295,154 +295,164 @@ You can continue pulsing.</source>
         <translation>AES 失败</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1453"/>
+        <location filename="../application.cpp" line="1480"/>
         <source>&amp;Open Window</source>
         <translation>打开窗口(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1457"/>
+        <location filename="../application.cpp" line="1484"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>显示 / 隐藏悬浮窗(&amp;T)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1461"/>
+        <location filename="../application.cpp" line="1488"/>
         <source>&amp;Open Settings</source>
         <translation>打开设置(&amp;O)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1465"/>
+        <location filename="../application.cpp" line="1492"/>
         <source>&amp;Check for Updates</source>
         <translation>检查更新(&amp;C)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1469"/>
+        <location filename="../application.cpp" line="1496"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1472"/>
+        <location filename="../application.cpp" line="1499"/>
         <source>&amp;View Online Stats</source>
         <translation>查看线上统计(&amp;V)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1476"/>
+        <location filename="../application.cpp" line="1503"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>退出 WhatPulse(&amp;Q)</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1592"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>Uptime</source>
         <translation>在线时长</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1576"/>
+        <location filename="../application.cpp" line="1603"/>
         <source>Keys</source>
         <translation>按键</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1580"/>
+        <location filename="../application.cpp" line="955"/>
+        <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
+        <translation>新功能：使用网络洞察跟踪您的浏览活动！安装浏览器扩展程序以开始使用。</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="957"/>
+        <source>Get extension</source>
+        <translation>获取扩展程序</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1607"/>
         <source>Clicks</source>
         <translation>点击</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1611"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1614"/>
         <source>Upload</source>
         <translation>上传</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1595"/>
+        <location filename="../application.cpp" line="1622"/>
         <source>Not logged in!</source>
         <translation>未登录！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1961"/>
+        <location filename="../application.cpp" line="1988"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1962"/>
+        <location filename="../application.cpp" line="1989"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2180"/>
+        <location filename="../application.cpp" line="2203"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开便携模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携储存设备的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2184"/>
-        <location filename="../application.cpp" line="2216"/>
-        <location filename="../application.cpp" line="2234"/>
-        <location filename="../application.cpp" line="2252"/>
-        <location filename="../application.cpp" line="2299"/>
-        <location filename="../application.cpp" line="2313"/>
+        <location filename="../application.cpp" line="2207"/>
+        <location filename="../application.cpp" line="2239"/>
+        <location filename="../application.cpp" line="2257"/>
+        <location filename="../application.cpp" line="2275"/>
+        <location filename="../application.cpp" line="2322"/>
+        <location filename="../application.cpp" line="2336"/>
         <source>Portable Mode</source>
         <translation>便携模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2213"/>
+        <location filename="../application.cpp" line="2236"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2231"/>
+        <location filename="../application.cpp" line="2254"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2253"/>
-        <location filename="../application.cpp" line="2314"/>
+        <location filename="../application.cpp" line="2276"/>
+        <location filename="../application.cpp" line="2337"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2279"/>
+        <location filename="../application.cpp" line="2302"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2296"/>
+        <location filename="../application.cpp" line="2319"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2756"/>
-        <location filename="../application.cpp" line="2769"/>
+        <location filename="../application.cpp" line="2779"/>
+        <location filename="../application.cpp" line="2792"/>
         <source>Premium features disabled</source>
         <translation>高级会员功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2757"/>
+        <location filename="../application.cpp" line="2780"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的高级会员资格了。我已经禁用了你的高级会员功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2770"/>
+        <location filename="../application.cpp" line="2793"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的高级会员已经过期，所以我已经禁用了你的高级会员功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4536"/>
+        <location filename="../application.cpp" line="4559"/>
         <source>Browser extension connection</source>
         <translation>浏览器扩展连接</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4538"/>
+        <location filename="../application.cpp" line="4561"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>%1 浏览器扩展请求连接。</translation>
     </message>
@@ -4325,37 +4335,32 @@ Upload: unknown</source>
         <translation>通过我们的浏览器扩展测量在网站上花费的时间和精力。请从&lt;a href="https://whatpulse.org/in/download-browser-extensions" style="color: %2"&gt;下载页面&lt;/a&gt;安装适用于您的浏览器的扩展。</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="127"/>
-        <source>&lt;i&gt;This premium feature is available to all users during the beta period.&lt;/i&gt;</source>
-        <translation>&lt;i&gt;在测试期间，这一高级功能对所有用户开放。&lt;/i&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="135"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="126"/>
         <source>&lt;b&gt;Upgrade to WhatPulse Premium&lt;/b&gt; to unlock Web Insights and track time spent on websites.</source>
         <translation>&lt;b&gt;升级到 WhatPulse 高级版&lt;/b&gt;以解锁网页洞察并跟踪在网站上花费的时间。</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="141"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="132"/>
         <source>Upgrade to Premium</source>
         <translation>升级为高级会员</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="140"/>
         <source>Upload to online dashboard</source>
         <translation>上传到在线仪表板</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="158"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
         <source>Open website data</source>
         <translation>打开网站数据</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="188"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="179"/>
         <source>External Network Service</source>
         <translation>外部网络服务</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="194"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="185"/>
         <source>Allow the &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;external pcap service&lt;/a&gt; to send network traffic. This is required for network statistics on Linux when running as AppImage or without root privileges.</source>
         <translation>允许&lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;外部 pcap 服务&lt;/a&gt;发送网络流量。在作为 AppImage 运行或没有 root 权限的情况下，这对于 Linux 的网络统计是必须的。</translation>
     </message>

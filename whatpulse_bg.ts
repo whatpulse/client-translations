@@ -292,154 +292,164 @@ You can continue pulsing.</source>
         <translation>провал на AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1453"/>
+        <location filename="../application.cpp" line="1480"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Отвори прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1457"/>
+        <location filename="../application.cpp" line="1484"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Отвори програмистки прозорец</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1461"/>
+        <location filename="../application.cpp" line="1488"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Отвори настройки</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1465"/>
+        <location filename="../application.cpp" line="1492"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Провери за нови версии</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1469"/>
+        <location filename="../application.cpp" line="1496"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Пулсирай!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1472"/>
+        <location filename="../application.cpp" line="1499"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Виж онлайн статистики</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1476"/>
+        <location filename="../application.cpp" line="1503"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Излез от WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1592"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>Uptime</source>
         <translation>Време на работа</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1576"/>
+        <location filename="../application.cpp" line="1603"/>
         <source>Keys</source>
         <translation>Клавиши</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1580"/>
+        <location filename="../application.cpp" line="955"/>
+        <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
+        <translation>Ново: Проследявайте дейността си в интернет с Web Insights! Инсталирайте разширението за браузър, за да започнете.</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="957"/>
+        <source>Get extension</source>
+        <translation>Вземете разширение</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1607"/>
         <source>Clicks</source>
         <translation>Кликове</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1611"/>
         <source>Download</source>
         <translation>Изтегли</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1614"/>
         <source>Upload</source>
         <translation>Качване</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1595"/>
+        <location filename="../application.cpp" line="1622"/>
         <source>Not logged in!</source>
         <translation>Не сте влезли в акаунта си!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1961"/>
+        <location filename="../application.cpp" line="1988"/>
         <source>Pulsing Disabled!</source>
         <translation>Пулсирането е забранено!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1962"/>
+        <location filename="../application.cpp" line="1989"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Настройката 'Работа офлайн' е активирана. Това не позволява на приложението да влезе онлайн, което включва пулсиране. Деактивирайте тази настройка и можете да пулсирате отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2180"/>
+        <location filename="../application.cpp" line="2203"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Вие сте активирали преносим режим. Това трябва да се използва само при поставяне на WhatPulse на преносим носител, като USB устройство.
 Искате ли да продължите?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2184"/>
-        <location filename="../application.cpp" line="2216"/>
-        <location filename="../application.cpp" line="2234"/>
-        <location filename="../application.cpp" line="2252"/>
-        <location filename="../application.cpp" line="2299"/>
-        <location filename="../application.cpp" line="2313"/>
+        <location filename="../application.cpp" line="2207"/>
+        <location filename="../application.cpp" line="2239"/>
+        <location filename="../application.cpp" line="2257"/>
+        <location filename="../application.cpp" line="2275"/>
+        <location filename="../application.cpp" line="2322"/>
+        <location filename="../application.cpp" line="2336"/>
         <source>Portable Mode</source>
         <translation>Преносим режим</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2213"/>
+        <location filename="../application.cpp" line="2236"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2231"/>
+        <location filename="../application.cpp" line="2254"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2253"/>
-        <location filename="../application.cpp" line="2314"/>
+        <location filename="../application.cpp" line="2276"/>
+        <location filename="../application.cpp" line="2337"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Преместих някои файлове с базите данни и трябва да се рестартирам, ще се видим скоро!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2279"/>
+        <location filename="../application.cpp" line="2302"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на базата данни в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2296"/>
+        <location filename="../application.cpp" line="2319"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Копирането на статистиките в %1 не бе успешно! Проверете разрешенията за запис.
 Деактивиране на преносим режим.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2756"/>
-        <location filename="../application.cpp" line="2769"/>
+        <location filename="../application.cpp" line="2779"/>
+        <location filename="../application.cpp" line="2792"/>
         <source>Premium features disabled</source>
         <translation>Премиум опциите изключени</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2757"/>
+        <location filename="../application.cpp" line="2780"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Не можах да се свържа с уебсайта за да потвърдя вашето премиум членство за 96 часа. Изключвам премиум опциите. Трябва да си онлайн за да ги включим отново.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2770"/>
+        <location filename="../application.cpp" line="2793"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Вашето премиум членство е изтекло, така че деактивирах премиум функциите. Можете да активирате отново членството си чрез уебсайта.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4536"/>
+        <location filename="../application.cpp" line="4559"/>
         <source>Browser extension connection</source>
         <translation>Връзка с разширението на браузъра</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4538"/>
+        <location filename="../application.cpp" line="4561"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>Разширението на браузъра %1 иска да се свърже.</translation>
     </message>
@@ -4319,37 +4329,32 @@ Upload: unknown</source>
         <translation>Измервайте времето и усилията, прекарани в сайтове чрез нашето разширение за браузър. Инсталирайте разширението за вашия браузър от &lt;a href="https://whatpulse.org/in/download-browser-extensions" style="color: %2"&gt;страницата за изтегляне&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="127"/>
-        <source>&lt;i&gt;This premium feature is available to all users during the beta period.&lt;/i&gt;</source>
-        <translation>&lt;i&gt;Тази премиум характеристика е налична за всички потребители по време на бета периода.&lt;/i&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="135"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="126"/>
         <source>&lt;b&gt;Upgrade to WhatPulse Premium&lt;/b&gt; to unlock Web Insights and track time spent on websites.</source>
         <translation>&lt;b&gt;Актуализирайте до WhatPulse Premium&lt;/b&gt;, за да отключите Уеб Инсайтс и да следите времето, прекарано на уебсайтове.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="141"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="132"/>
         <source>Upgrade to Premium</source>
         <translation>Надграждане до Premium</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="140"/>
         <source>Upload to online dashboard</source>
         <translation>Качване в онлайн табло</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="158"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
         <source>Open website data</source>
         <translation>Отваряне на данни за уебсайта</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="188"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="179"/>
         <source>External Network Service</source>
         <translation>Външна мрежова услуга</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="194"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="185"/>
         <source>Allow the &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;external pcap service&lt;/a&gt; to send network traffic. This is required for network statistics on Linux when running as AppImage or without root privileges.</source>
         <translation>Позволете на &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;външната pcap услуга&lt;/a&gt; да изпраща мрежов трафик. Това е необходимо за мрежова статистика на Linux, когато се изпълнява като AppImage или без root привилегии.</translation>
     </message>

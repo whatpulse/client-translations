@@ -292,117 +292,127 @@ Você pode continuar pulsando.</translation>
         <translation>Falha AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1453"/>
+        <location filename="../application.cpp" line="1480"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Abrir Janela</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1457"/>
+        <location filename="../application.cpp" line="1484"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>Exibir/Ocul&amp;tar Janela para Nerds</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1461"/>
+        <location filename="../application.cpp" line="1488"/>
         <source>&amp;Open Settings</source>
         <translation>Abrir C&amp;onfigurações</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1465"/>
+        <location filename="../application.cpp" line="1492"/>
         <source>&amp;Check for Updates</source>
         <translation>Verifi&amp;car Atualizações</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1469"/>
+        <location filename="../application.cpp" line="1496"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulsar!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1472"/>
+        <location filename="../application.cpp" line="1499"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Visualizar Estatísticas on-line</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1476"/>
+        <location filename="../application.cpp" line="1503"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Encerrar WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1592"/>
+        <location filename="../application.cpp" line="1619"/>
         <source>Uptime</source>
         <translation>Tempo em atividade</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1576"/>
+        <location filename="../application.cpp" line="1603"/>
         <source>Keys</source>
         <translation>Teclas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1580"/>
+        <location filename="../application.cpp" line="955"/>
+        <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
+        <translation>Novo: Acompanhe sua atividade de navegação com o Web Insights! Instale a extensão do navegador para começar.</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="957"/>
+        <source>Get extension</source>
+        <translation>Obter extensão</translation>
+    </message>
+    <message>
+        <location filename="../application.cpp" line="1607"/>
         <source>Clicks</source>
         <translation>Cliques</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1584"/>
+        <location filename="../application.cpp" line="1611"/>
         <source>Download</source>
         <translation>Baixado</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1587"/>
+        <location filename="../application.cpp" line="1614"/>
         <source>Upload</source>
         <translation>Enviado</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1595"/>
+        <location filename="../application.cpp" line="1622"/>
         <source>Not logged in!</source>
         <translation>Não Logado!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1961"/>
+        <location filename="../application.cpp" line="1988"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsação Desativada!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1962"/>
+        <location filename="../application.cpp" line="1989"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>A configuração "Trabalhar Offline" está ativada. Isso impede que o cliente fique online, incluindo o envio de dados. Desative essa configuração e você poderá enviar dados novamente.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2180"/>
+        <location filename="../application.cpp" line="2203"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Você habilitou o modo portátil. Isso só deve ser usado ao colocar o WhatPulse em uma mídia portátil, como uma unidade USB.
 Você deseja continuar?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2184"/>
-        <location filename="../application.cpp" line="2216"/>
-        <location filename="../application.cpp" line="2234"/>
-        <location filename="../application.cpp" line="2252"/>
-        <location filename="../application.cpp" line="2299"/>
-        <location filename="../application.cpp" line="2313"/>
+        <location filename="../application.cpp" line="2207"/>
+        <location filename="../application.cpp" line="2239"/>
+        <location filename="../application.cpp" line="2257"/>
+        <location filename="../application.cpp" line="2275"/>
+        <location filename="../application.cpp" line="2322"/>
+        <location filename="../application.cpp" line="2336"/>
         <source>Portable Mode</source>
         <translation>Modo Portátil</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2213"/>
+        <location filename="../application.cpp" line="2236"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>A cópia do banco de dados para %1 falhou! Verifique as permissões de gravação. Desativando o Modo Portátil.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2231"/>
+        <location filename="../application.cpp" line="2254"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>A cópia do arquivo de estatísticas para %1 falhou! Verifique as permissões de gravação. Desativando o Modo Portátil.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2253"/>
-        <location filename="../application.cpp" line="2314"/>
+        <location filename="../application.cpp" line="2276"/>
+        <location filename="../application.cpp" line="2337"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Eu reorganizei alguns arquivos de banco de dados e preciso reiniciar, nos vemos em breve!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2279"/>
+        <location filename="../application.cpp" line="2302"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>breve!
@@ -410,34 +420,34 @@ Keeping Portable Mode enabled.</source>
 A cópia do banco de dados para %1 falhou! Verifique as permissões de gravação. Mantendo o Modo Portátil ativado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2296"/>
+        <location filename="../application.cpp" line="2319"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>A cópia do arquivo de estatísticas para %1 falhou! Verifique as permissões de gravação. Mantendo o Modo Portátil ativado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2756"/>
-        <location filename="../application.cpp" line="2769"/>
+        <location filename="../application.cpp" line="2779"/>
+        <location filename="../application.cpp" line="2792"/>
         <source>Premium features disabled</source>
         <translation>Funcionalidades Premium desativadas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2757"/>
+        <location filename="../application.cpp" line="2780"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Não consegui entrar em contato com o site para verificar sua associação premium por 96 horas. Desativei os recursos premium. Volte online para ativar novamente.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2770"/>
+        <location filename="../application.cpp" line="2793"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Sua associação premium expirou, então desativei os recursos premium. Você pode reativar sua associação pelo site.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4536"/>
+        <location filename="../application.cpp" line="4559"/>
         <source>Browser extension connection</source>
         <translation>Conexão de extensão do navegador</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4538"/>
+        <location filename="../application.cpp" line="4561"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>A extensão do navegador %1 deseja se conectar.</translation>
     </message>
@@ -4316,37 +4326,32 @@ Enviado: desconhecido</translation>
         <translation>Meça o tempo e esforço gasto em sites através da nossa extensão para navegador. Instale a extensão para o seu navegador a partir da &lt;a href="https://whatpulse.org/in/download-browser-extensions" style="color: %2"&gt;página de downloads&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="127"/>
-        <source>&lt;i&gt;This premium feature is available to all users during the beta period.&lt;/i&gt;</source>
-        <translation>&lt;i&gt;Este recurso premium está disponível para todos os usuários durante o período beta.&lt;/i&gt;</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="135"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="126"/>
         <source>&lt;b&gt;Upgrade to WhatPulse Premium&lt;/b&gt; to unlock Web Insights and track time spent on websites.</source>
         <translation>&lt;b&gt;Faça upgrade para o WhatPulse Premium&lt;/b&gt; para desbloquear os Insights da Web e rastrear o tempo gasto em sites.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="141"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="132"/>
         <source>Upgrade to Premium</source>
         <translation>Atualizar para o Premium</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="140"/>
         <source>Upload to online dashboard</source>
         <translation>Enviar para o painel online</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="158"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
         <source>Open website data</source>
         <translation>Abrir dados do site</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="188"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="179"/>
         <source>External Network Service</source>
         <translation>Serviço de Rede Externo</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="194"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="185"/>
         <source>Allow the &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;external pcap service&lt;/a&gt; to send network traffic. This is required for network statistics on Linux when running as AppImage or without root privileges.</source>
         <translation>Permita que o &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;serviço pcap externo&lt;/a&gt; envie tráfego de rede. Isso é necessário para estatísticas de rede no Linux ao executar como AppImage ou sem privilégios de root.</translation>
     </message>
