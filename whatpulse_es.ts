@@ -365,89 +365,89 @@ You can continue pulsing.</source>
         <translation>¡No has iniciado sesión!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1988"/>
+        <location filename="../application.cpp" line="1996"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsado Desactivado!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1989"/>
+        <location filename="../application.cpp" line="1997"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>La opción "Trabajar Offline" está activada. Esto impide que el cliente vaya online, lo que desactiva el pulsado. Desactiva esa opción y podrás pulsar de nuevo.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2203"/>
+        <location filename="../application.cpp" line="2218"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Has activado el Modo Portable. Esto debería solo ser usado cuando vayas a poner WhatPulse en un dispositivo portable, como un USB.
 Deseas continar?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2207"/>
-        <location filename="../application.cpp" line="2239"/>
-        <location filename="../application.cpp" line="2257"/>
-        <location filename="../application.cpp" line="2275"/>
-        <location filename="../application.cpp" line="2322"/>
-        <location filename="../application.cpp" line="2336"/>
+        <location filename="../application.cpp" line="2222"/>
+        <location filename="../application.cpp" line="2254"/>
+        <location filename="../application.cpp" line="2272"/>
+        <location filename="../application.cpp" line="2290"/>
+        <location filename="../application.cpp" line="2337"/>
+        <location filename="../application.cpp" line="2351"/>
         <source>Portable Mode</source>
         <translation>Modo Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2236"/>
+        <location filename="../application.cpp" line="2251"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copia de la base de datos a %1 ha fallado! Comprueba los permisos de escritura.
 Desactivando Modo Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2254"/>
+        <location filename="../application.cpp" line="2269"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copia del archivo de las estadísticas %1 ha fallado! Comprueba los permisos de escritura.
 Desactivando Modo Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2276"/>
-        <location filename="../application.cpp" line="2337"/>
+        <location filename="../application.cpp" line="2291"/>
+        <location filename="../application.cpp" line="2352"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>He reorganizado algunos archivos de la base de datos y necesito reiniciarme, nos vemos en u momento!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2302"/>
+        <location filename="../application.cpp" line="2317"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copia de la base de datos a %1 ha fallado! Comprueba los permisos de escritura.
 Manteniendo Modo Portable activado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2319"/>
+        <location filename="../application.cpp" line="2334"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copia del archivo de las estadísticas %1 ha fallado! Comprueba los permisos de escritura.
 Manteniendo Modo Portable activado.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2779"/>
-        <location filename="../application.cpp" line="2792"/>
+        <location filename="../application.cpp" line="2796"/>
+        <location filename="../application.cpp" line="2809"/>
         <source>Premium features disabled</source>
         <translation>Características prémium desactivadas</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2780"/>
+        <location filename="../application.cpp" line="2797"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>No he podido contactar la página para verificar tu membresía prémium por 96 horas. He desactivado las características prémium. Vuelve al modo online para activarlas de nuevo.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2793"/>
+        <location filename="../application.cpp" line="2810"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Tu membresía prémium ha cadicado, a si que he desactivado las características premium. Puedes reactivar tu membresía en la página web.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4559"/>
+        <location filename="../application.cpp" line="4592"/>
         <source>Browser extension connection</source>
         <translation>Conexión de la extensión del navegador</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4561"/>
+        <location filename="../application.cpp" line="4594"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>La extensión del navegador %1 quiere conectarse.</translation>
     </message>
@@ -819,133 +819,143 @@ Manteniendo Modo Portable activado.</translation>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="276"/>
+        <location filename="../online/clientcommunication.cpp" line="277"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>La página web no está responiendo correctamente a su solicitud, por favor inténtelo de nuevo más tarde.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="316"/>
+        <location filename="../online/clientcommunication.cpp" line="317"/>
         <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>Este ordenador está archivado y no puede conectarse a su cuenta.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="319"/>
+        <location filename="../online/clientcommunication.cpp" line="320"/>
         <source>Computer Management</source>
         <translation>Gestión informática</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="339"/>
+        <location filename="../online/clientcommunication.cpp" line="340"/>
         <source>WhatPulse Professional organization disabled.</source>
         <translation>Organización Profesional de WhatPulse desactivada.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="340"/>
+        <location filename="../online/clientcommunication.cpp" line="341"/>
         <source>Your organization has been disabled, please contact your administrator.</source>
         <translation>Su organización ha sido desactivada, por favor contacte a su administrador.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="359"/>
+        <location filename="../online/clientcommunication.cpp" line="360"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>Su cuenta está pendiente de ser activada, por favor comprueba su correo e inténtalo de nuevo tras activarla.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="363"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
+        <location filename="../online/clientcommunication.cpp" line="416"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>Cuenta u ordenador desconocido! ¿Te has registrado?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="367"/>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="368"/>
+        <location filename="../online/clientcommunication.cpp" line="419"/>
         <source>Wrong password! Try again.</source>
         <translation>Contraseña incorrecta! Inténtalo de nuevo.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="371"/>
-        <location filename="../online/clientcommunication.cpp" line="448"/>
+        <location filename="../online/clientcommunication.cpp" line="372"/>
+        <location filename="../online/clientcommunication.cpp" line="449"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>El servidor está desactivado por mantenimiento, por favor inténtelo de nuevo más tarde.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="374"/>
-        <location filename="../online/clientcommunication.cpp" line="451"/>
+        <location filename="../online/clientcommunication.cpp" line="375"/>
+        <location filename="../online/clientcommunication.cpp" line="452"/>
         <source>Internal server error. Please try again later.</source>
         <translation>Fallo interno del servidor. Por favor inténtalo de nuevo más tarde.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="378"/>
-        <location filename="../online/clientcommunication.cpp" line="455"/>
+        <location filename="../online/clientcommunication.cpp" line="379"/>
+        <location filename="../online/clientcommunication.cpp" line="456"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>Error del servidor: Falta una entrada! Por favor contacta a los desarroladores.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="421"/>
+        <location filename="../online/clientcommunication.cpp" line="422"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>Rapidez de actividad violada, esto significa que tus teclas o clicks por segundo son demasiados altos. Espera más o menos una hora e inténtalo de nuevo.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="427"/>
+        <location filename="../online/clientcommunication.cpp" line="428"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>Token incorrecto, ¿has usado este perfil en otro ordenador?</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="430"/>
+        <location filename="../online/clientcommunication.cpp" line="431"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>El nombre de usuario ya está registrado! Por favor eliga otro nombre de usuario e inténtalo de nuevo.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="435"/>
+        <location filename="../online/clientcommunication.cpp" line="436"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulsación denegada. Solo puedes pulsar cada 60 segundos.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="438"/>
+        <location filename="../online/clientcommunication.cpp" line="439"/>
         <source>Computer login still pending.</source>
         <translation>Inicio de sesión en el equipo aún pendiente.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="441"/>
+        <location filename="../online/clientcommunication.cpp" line="442"/>
         <source>Premium only feature.</source>
         <translation>Característica prémium.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="444"/>
+        <location filename="../online/clientcommunication.cpp" line="445"/>
         <source>Organization not found.</source>
         <translation>Organización no encontrada.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="458"/>
-        <location filename="../online/clientcommunication.cpp" line="1051"/>
+        <location filename="../online/clientcommunication.cpp" line="459"/>
+        <location filename="../online/clientcommunication.cpp" line="1089"/>
         <source>Success.</source>
         <translation>Éxito.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="461"/>
+        <location filename="../online/clientcommunication.cpp" line="462"/>
         <source>Success, your file is now on the website!</source>
         <translation>Éxito, su archivo ahora está en la página web!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1027"/>
-        <source>Unable to open GeoIP database (%1), permission denied.</source>
-        <translation>Incapaz de abrir la base de datos de GeopIP (%1), permiso denegado.</translation>
+        <location filename="../online/clientcommunication.cpp" line="1032"/>
+        <source>Unable to write temporary GeoIP update file (%1), permission denied.</source>
+        <translation>No se puede escribir el archivo de actualización temporal de GeoIP (%1), permiso denegado.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1039"/>
+        <location filename="../online/clientcommunication.cpp" line="1045"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>La nueva base de datos GeoIP parece ser demasiado pequeña (%1), deteniendo la actualización.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1101"/>
+        <location filename="../online/clientcommunication.cpp" line="1064"/>
+        <source>Error: Failed to write GeoIP database file.</source>
+        <translation>Error: No se pudo escribir el archivo de base de datos de GeoIP.</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="1085"/>
+        <source>Error: Failed to replace GeoIP database file.</source>
+        <translation>Error: No se pudo reemplazar el archivo de base de datos de GeoIP.</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="1139"/>
         <source>Empty reply received</source>
         <translation>Respuesta vacía recibida</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1122"/>
+        <location filename="../online/clientcommunication.cpp" line="1160"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>Incapaz de abrir la Descripción de los Puertos de Red de GeopIP (%1), permiso denegado.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1136"/>
+        <location filename="../online/clientcommunication.cpp" line="1174"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>Archivo descargado no parece que esté bien: %1</translation>
     </message>
@@ -2629,12 +2639,12 @@ Por favor compurebe sus permisos en: %2</translation>
         <translation>Desactivado</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="793"/>
+        <location filename="../interface/MainWindow.cpp" line="795"/>
         <source>Operation completed successfully.</source>
         <translation>Operación completada exitosamente.</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="804"/>
+        <location filename="../interface/MainWindow.cpp" line="806"/>
         <source>Operation failed: %1</source>
         <translation>Operación fallida: %1</translation>
     </message>
@@ -2971,7 +2981,7 @@ Por favor compurebe sus permisos en: %2</translation>
         <translation>Quieres reiniciar toda la información de red o solo %1?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="688"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="690"/>
         <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
         <translation>El servicio PCap externo no está conectado. Configure &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;el servicio PCap externo&lt;/a&gt; para las estadísticas de red.</translation>
     </message>
@@ -3016,38 +3026,38 @@ Por favor compurebe sus permisos en: %2</translation>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas de red? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
         <source>Success!</source>
         <translation>Éxito!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
         <source>GeoIP Database updated succesfully!</source>
         <translation>Base de datos de GeoIP actualizada correctamente!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="648"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="653"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="650"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="655"/>
         <source>Something went wrong!</source>
         <translation>Algo fue mal!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="649"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="651"/>
         <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
         <translation>La base de datos GeoIP no se ha actualizado correctamente, error desconocido. Por favor inténtalo de nuevo más tarde.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="654"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="656"/>
         <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>La base de datos GeoIP no se ha actualizado correctamente, este es el error: </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="664"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="666"/>
         <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
         <translation>No se ha encontrado el Npcap, necesario para las estadísticas de red.&lt;br&gt;Descargar en &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="671"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="673"/>
         <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
         <translation>LibPcap no ha sido encontrada, que es necesaria para estadísticas de red. &lt;br&gt;Por favor descarga el paquete.</translation>
     </message>
@@ -5705,7 +5715,7 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="93"/>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="192"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="200"/>
         <source>Last pulse: never</source>
         <translation>Último pulso: nunca</translation>
     </message>
@@ -5720,107 +5730,107 @@ Esto borrará todas los diseños personalizados!</translation>
         <translation>Versión del cliente WhatPulse</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="184"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="192"/>
         <source>Synced</source>
         <translation>Sincronizado</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="186"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="194"/>
         <source>Pending apps: %1</source>
         <translation>Aplicaciones pendientes: %1</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="198"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="206"/>
         <source>Last pulse: %1</source>
         <translation>Último pulso: %1</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="229"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="237"/>
         <source>never</source>
         <translation>nunca</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="235"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="243"/>
         <source>just now</source>
         <translation>justo ahora</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="238"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="246"/>
         <source>%1 sec ago</source>
         <translation>hace %1 segundos</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="242"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="250"/>
         <source>%1min ago</source>
         <translation>hace %1 minutos</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="246"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="254"/>
         <source>%1h ago</source>
         <translation>hace %1 horas</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="249"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="257"/>
         <source>yesterday</source>
         <translation>ayer</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="253"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="261"/>
         <source>%1 days ago</source>
         <translation>hace %1 días</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="305"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="313"/>
         <source>Collector is running</source>
         <translation>El recolector está en funcionamiento</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="313"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="321"/>
         <source>Collector is not started</source>
         <translation>El recolector no está iniciado</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="314"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="322"/>
         <source>Collector is paused</source>
         <translation>El recolector está pausado</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="326"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="334"/>
         <source>Pulse Statistics:</source>
         <translation>Estadísticas de pulsos:</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="340"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="348"/>
         <source>Keys</source>
         <translation>Teclas</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="342"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="350"/>
         <source>Clicks</source>
         <translation>Clicks</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="344"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="352"/>
         <source>Scrolls</source>
         <translation>Scrolls</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="347"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="355"/>
         <source>Distance</source>
         <translation>Distancia</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="349"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="357"/>
         <source>Uptime</source>
         <translation>Tiempo de actividad</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="351"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="359"/>
         <source>Download</source>
         <translation>Descarga</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="353"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="361"/>
         <source>Upload</source>
         <translation>Subida</translation>
     </message>
@@ -6716,10 +6726,10 @@ Esto borrará todas los diseños personalizados!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="254"/>
         <location filename="../interface/UptimeTab.cpp" line="271"/>
-        <location filename="../interface/UptimeTab.cpp" line="297"/>
-        <location filename="../interface/UptimeTab.cpp" line="320"/>
-        <location filename="../interface/UptimeTab.cpp" line="342"/>
-        <location filename="../interface/UptimeTab.cpp" line="364"/>
+        <location filename="../interface/UptimeTab.cpp" line="299"/>
+        <location filename="../interface/UptimeTab.cpp" line="324"/>
+        <location filename="../interface/UptimeTab.cpp" line="346"/>
+        <location filename="../interface/UptimeTab.cpp" line="368"/>
         <source>Delete stats?</source>
         <translation>¿Borrar estadísticas?</translation>
     </message>
@@ -6730,18 +6740,18 @@ Esto borrará todas los diseños personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="272"/>
-        <location filename="../interface/UptimeTab.cpp" line="298"/>
+        <location filename="../interface/UptimeTab.cpp" line="300"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres borrar todas (excepto por aplicación) las estadísticas del tiempo de uso? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="321"/>
-        <location filename="../interface/UptimeTab.cpp" line="343"/>
+        <location filename="../interface/UptimeTab.cpp" line="325"/>
+        <location filename="../interface/UptimeTab.cpp" line="347"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres borrar todas las estadísticas del tiempo de uso por aplicación? Este proceso no es reversible.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="365"/>
+        <location filename="../interface/UptimeTab.cpp" line="369"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>¿Estás seguro que quieres eliminar todas las estadísticas de tiempo de uso? Este proceso no es reversible.</translation>
     </message>

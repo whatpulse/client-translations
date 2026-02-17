@@ -370,89 +370,89 @@ You can continue pulsing.</source>
         <translation>未登录！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1988"/>
+        <location filename="../application.cpp" line="1996"/>
         <source>Pulsing Disabled!</source>
         <translation>已禁用 Pulse！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1989"/>
+        <location filename="../application.cpp" line="1997"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>“脱机工作”已开启。已阻止包括 Pulse 在内的全部在线操作。如果需要重新 Pulse 的话请关闭该设置。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2203"/>
+        <location filename="../application.cpp" line="2218"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>你已打开便携模式。只有在你准备将 WhatPulse 移动到一个类似于 U 盘之类的便携储存设备的时候才应当使用这个模式。
 是否继续？</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2207"/>
-        <location filename="../application.cpp" line="2239"/>
-        <location filename="../application.cpp" line="2257"/>
-        <location filename="../application.cpp" line="2275"/>
-        <location filename="../application.cpp" line="2322"/>
-        <location filename="../application.cpp" line="2336"/>
+        <location filename="../application.cpp" line="2222"/>
+        <location filename="../application.cpp" line="2254"/>
+        <location filename="../application.cpp" line="2272"/>
+        <location filename="../application.cpp" line="2290"/>
+        <location filename="../application.cpp" line="2337"/>
+        <location filename="../application.cpp" line="2351"/>
         <source>Portable Mode</source>
         <translation>便携模式</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2236"/>
+        <location filename="../application.cpp" line="2251"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制数据库到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2254"/>
+        <location filename="../application.cpp" line="2269"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>复制统计文件到 %1 时失败！请检查写权限。
 正在禁用便携模式。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2276"/>
-        <location filename="../application.cpp" line="2337"/>
+        <location filename="../application.cpp" line="2291"/>
+        <location filename="../application.cpp" line="2352"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>我重新安排了一些数据库文件，然后需要重启自己。一会见！</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2302"/>
+        <location filename="../application.cpp" line="2317"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制数据库到 %1 失败！请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2319"/>
+        <location filename="../application.cpp" line="2334"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>复制统计文件到 %1 失败。请检查写权限。
 便携模式依然启用。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2779"/>
-        <location filename="../application.cpp" line="2792"/>
+        <location filename="../application.cpp" line="2796"/>
+        <location filename="../application.cpp" line="2809"/>
         <source>Premium features disabled</source>
         <translation>高级会员功能已禁用</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2780"/>
+        <location filename="../application.cpp" line="2797"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>我已经有 96 小时无法联网检查你的高级会员资格了。我已经禁用了你的高级会员功能。联网再重试。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2793"/>
+        <location filename="../application.cpp" line="2810"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>你的高级会员已经过期，所以我已经禁用了你的高级会员功能。你可以通过这个网页重新激活你的资格。</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4559"/>
+        <location filename="../application.cpp" line="4592"/>
         <source>Browser extension connection</source>
         <translation>浏览器扩展连接</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4561"/>
+        <location filename="../application.cpp" line="4594"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>%1 浏览器扩展请求连接。</translation>
     </message>
@@ -824,133 +824,143 @@ Keeping Portable Mode enabled.</source>
 <context>
     <name>ClientCommunication</name>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="276"/>
+        <location filename="../online/clientcommunication.cpp" line="277"/>
         <source>The website is not responding correctly to your request, please try again later.</source>
         <translation>网站未正确响应你的请求，请稍后再试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="316"/>
+        <location filename="../online/clientcommunication.cpp" line="317"/>
         <source>This computer is archived, and isn't able to connect to your account.</source>
         <translation>这台电脑已存档，无法连接到您的账户。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="319"/>
+        <location filename="../online/clientcommunication.cpp" line="320"/>
         <source>Computer Management</source>
         <translation>计算机管理</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="339"/>
+        <location filename="../online/clientcommunication.cpp" line="340"/>
         <source>WhatPulse Professional organization disabled.</source>
         <translation>WhatPulse专业组织已禁用。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="340"/>
+        <location filename="../online/clientcommunication.cpp" line="341"/>
         <source>Your organization has been disabled, please contact your administrator.</source>
         <translation>您的组织已被禁用，请联系管理员。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="359"/>
+        <location filename="../online/clientcommunication.cpp" line="360"/>
         <source>Your account is pending activation, please check your email and try again after activating.</source>
         <translation>你的帐户未激活，请检查邮箱进行激活后再试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="363"/>
-        <location filename="../online/clientcommunication.cpp" line="415"/>
+        <location filename="../online/clientcommunication.cpp" line="364"/>
+        <location filename="../online/clientcommunication.cpp" line="416"/>
         <source>Account or computer unknown! Did you register?</source>
         <translation>未知的帐户或计算机名！你注册了吗？</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="367"/>
-        <location filename="../online/clientcommunication.cpp" line="418"/>
+        <location filename="../online/clientcommunication.cpp" line="368"/>
+        <location filename="../online/clientcommunication.cpp" line="419"/>
         <source>Wrong password! Try again.</source>
         <translation>密码错误！请重试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="371"/>
-        <location filename="../online/clientcommunication.cpp" line="448"/>
+        <location filename="../online/clientcommunication.cpp" line="372"/>
+        <location filename="../online/clientcommunication.cpp" line="449"/>
         <source>Server is down due to maintenance, please try again later.</source>
         <translation>服务器维护中，请稍后再试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="374"/>
-        <location filename="../online/clientcommunication.cpp" line="451"/>
+        <location filename="../online/clientcommunication.cpp" line="375"/>
+        <location filename="../online/clientcommunication.cpp" line="452"/>
         <source>Internal server error. Please try again later.</source>
         <translation>服务器内部错误。请稍后再试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="378"/>
-        <location filename="../online/clientcommunication.cpp" line="455"/>
+        <location filename="../online/clientcommunication.cpp" line="379"/>
+        <location filename="../online/clientcommunication.cpp" line="456"/>
         <source>Server error: Missing input! Please contact the developers.</source>
         <translation>服务器错误：没有输入！请联系开发者。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="421"/>
+        <location filename="../online/clientcommunication.cpp" line="422"/>
         <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
         <translation>活动超过了限制，这意味着你的每秒按键或每秒点击过高了。等待一小时左右以降低它，然后再重试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="427"/>
+        <location filename="../online/clientcommunication.cpp" line="428"/>
         <source>Wrong token, did you use this profile on another computer?</source>
         <translation>错误的令牌，你是否在别的计算机上使用了相同的信息？</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="430"/>
+        <location filename="../online/clientcommunication.cpp" line="431"/>
         <source>Requested username is already registered! Please choose another username and try again.</source>
         <translation>用户名已被占用！请使用别的用户名重试。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="435"/>
+        <location filename="../online/clientcommunication.cpp" line="436"/>
         <source>Pulse throttled. You can only pulse every 60 seconds.</source>
         <translation>Pulse 限制。每 60 秒只允许 Pulse 一次。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="438"/>
+        <location filename="../online/clientcommunication.cpp" line="439"/>
         <source>Computer login still pending.</source>
         <translation>计算机登录仍在等待中。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="441"/>
+        <location filename="../online/clientcommunication.cpp" line="442"/>
         <source>Premium only feature.</source>
         <translation>高级会员特权。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="444"/>
+        <location filename="../online/clientcommunication.cpp" line="445"/>
         <source>Organization not found.</source>
         <translation>没有找到组织。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="458"/>
-        <location filename="../online/clientcommunication.cpp" line="1051"/>
+        <location filename="../online/clientcommunication.cpp" line="459"/>
+        <location filename="../online/clientcommunication.cpp" line="1089"/>
         <source>Success.</source>
         <translation>成功。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="461"/>
+        <location filename="../online/clientcommunication.cpp" line="462"/>
         <source>Success, your file is now on the website!</source>
         <translation>成功，你的信息已经在网页上了！</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1027"/>
-        <source>Unable to open GeoIP database (%1), permission denied.</source>
-        <translation>无法打开地理 IP 数据库（%1），拒绝访问。</translation>
+        <location filename="../online/clientcommunication.cpp" line="1032"/>
+        <source>Unable to write temporary GeoIP update file (%1), permission denied.</source>
+        <translation>无法写入临时 GeoIP 更新文件 (%1)，权限被拒绝。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1039"/>
+        <location filename="../online/clientcommunication.cpp" line="1045"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>新的 GeoIP 数据库似乎太小 (%1)，正在停止更新。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1101"/>
+        <location filename="../online/clientcommunication.cpp" line="1064"/>
+        <source>Error: Failed to write GeoIP database file.</source>
+        <translation>错误：写入 GeoIP 数据库文件失败。</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="1085"/>
+        <source>Error: Failed to replace GeoIP database file.</source>
+        <translation>错误：替换 GeoIP 数据库文件失败。</translation>
+    </message>
+    <message>
+        <location filename="../online/clientcommunication.cpp" line="1139"/>
         <source>Empty reply received</source>
         <translation>收到空响应</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1122"/>
+        <location filename="../online/clientcommunication.cpp" line="1160"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>无法打开网络端口描述数据库（%1），拒绝访问。</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1136"/>
+        <location filename="../online/clientcommunication.cpp" line="1174"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>下载的文件不大对劲： %1</translation>
     </message>
@@ -2637,12 +2647,12 @@ Please check your permissions on: %2</source>
         <translation>已禁用</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="793"/>
+        <location filename="../interface/MainWindow.cpp" line="795"/>
         <source>Operation completed successfully.</source>
         <translation>操作成功完成。</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="804"/>
+        <location filename="../interface/MainWindow.cpp" line="806"/>
         <source>Operation failed: %1</source>
         <translation>操作失败：%1</translation>
     </message>
@@ -2979,7 +2989,7 @@ Please check your permissions on: %2</source>
         <translation>你是准备重置全部网络数据还是说只是%1？</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="688"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="690"/>
         <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
         <translation>外部PCap服务未连接。请设置&lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;外部PCap服务&lt;/a&gt;以获取网络统计信息。</translation>
     </message>
@@ -3024,38 +3034,38 @@ Please check your permissions on: %2</source>
         <translation>确定删除全部网络统计记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
         <source>Success!</source>
         <translation>成功！</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
         <source>GeoIP Database updated succesfully!</source>
         <translation>地理 IP 数据库更新成功！</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="648"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="653"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="650"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="655"/>
         <source>Something went wrong!</source>
         <translation>出错了！</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="649"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="651"/>
         <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
         <translation>地理 IP 数据库更新失败，未知错误。请稍后再试。</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="654"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="656"/>
         <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>地理 IP 数据库更新失败，错误是： </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="664"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="666"/>
         <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
         <translation>未找到网络统计所需的 Npcap。&lt;br&gt;下载地址为 &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="671"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="673"/>
         <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
         <translation>未找到用于网络统计的 LibPcap。&lt;br&gt;请安装软件包。</translation>
     </message>
@@ -5714,7 +5724,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="93"/>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="192"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="200"/>
         <source>Last pulse: never</source>
         <translation>最后一次脉冲：从未</translation>
     </message>
@@ -5729,107 +5739,107 @@ This will reset any custom layouts!</source>
         <translation>WhatPulse客户端版本</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="184"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="192"/>
         <source>Synced</source>
         <translation>已同步</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="186"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="194"/>
         <source>Pending apps: %1</source>
         <translation>待处理应用：%1</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="198"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="206"/>
         <source>Last pulse: %1</source>
         <translation>最后一次脉冲：%1</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="229"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="237"/>
         <source>never</source>
         <translation>从未</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="235"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="243"/>
         <source>just now</source>
         <translation>刚刚</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="238"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="246"/>
         <source>%1 sec ago</source>
         <translation>%1秒前</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="242"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="250"/>
         <source>%1min ago</source>
         <translation>%1分钟前</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="246"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="254"/>
         <source>%1h ago</source>
         <translation>%1小时前</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="249"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="257"/>
         <source>yesterday</source>
         <translation>昨天</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="253"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="261"/>
         <source>%1 days ago</source>
         <translation>%1天前</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="305"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="313"/>
         <source>Collector is running</source>
         <translation>收集器正在运行</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="313"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="321"/>
         <source>Collector is not started</source>
         <translation>收集器未启动</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="314"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="322"/>
         <source>Collector is paused</source>
         <translation>收集器已暂停</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="326"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="334"/>
         <source>Pulse Statistics:</source>
         <translation>脉冲统计：</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="340"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="348"/>
         <source>Keys</source>
         <translation>按键</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="342"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="350"/>
         <source>Clicks</source>
         <translation>点击</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="344"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="352"/>
         <source>Scrolls</source>
         <translation>滑轮</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="347"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="355"/>
         <source>Distance</source>
         <translation>距离</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="349"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="357"/>
         <source>Uptime</source>
         <translation>在线时长</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="351"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="359"/>
         <source>Download</source>
         <translation>下载</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/statusbarwidget.cpp" line="353"/>
+        <location filename="../interface/widgets/statusbarwidget.cpp" line="361"/>
         <source>Upload</source>
         <translation>上传</translation>
     </message>
@@ -6725,10 +6735,10 @@ This will reset any custom layouts!</source>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="254"/>
         <location filename="../interface/UptimeTab.cpp" line="271"/>
-        <location filename="../interface/UptimeTab.cpp" line="297"/>
-        <location filename="../interface/UptimeTab.cpp" line="320"/>
-        <location filename="../interface/UptimeTab.cpp" line="342"/>
-        <location filename="../interface/UptimeTab.cpp" line="364"/>
+        <location filename="../interface/UptimeTab.cpp" line="299"/>
+        <location filename="../interface/UptimeTab.cpp" line="324"/>
+        <location filename="../interface/UptimeTab.cpp" line="346"/>
+        <location filename="../interface/UptimeTab.cpp" line="368"/>
         <source>Delete stats?</source>
         <translation>删除统计？</translation>
     </message>
@@ -6739,18 +6749,18 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="272"/>
-        <location filename="../interface/UptimeTab.cpp" line="298"/>
+        <location filename="../interface/UptimeTab.cpp" line="300"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部在线时长数据记录（除分应用之外）？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="321"/>
-        <location filename="../interface/UptimeTab.cpp" line="343"/>
+        <location filename="../interface/UptimeTab.cpp" line="325"/>
+        <location filename="../interface/UptimeTab.cpp" line="347"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部分应用在线时长数据记录？该操作无法撤销。</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="365"/>
+        <location filename="../interface/UptimeTab.cpp" line="369"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>确定删除全部在线时长统计记录？该操作无法撤销。</translation>
     </message>

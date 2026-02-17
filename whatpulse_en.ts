@@ -339,12 +339,12 @@ You can continue pulsing.</translation>
     <message>
       <location filename="../application.cpp" line="955"/>
       <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
-      <translation type="finished">New: Track your browsing activity with Web Insights! Install the browser extension to get started.</translation>
+      <translation>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</translation>
     </message>
     <message>
       <location filename="../application.cpp" line="957"/>
       <source>Get extension</source>
-      <translation type="finished">Get extension</translation>
+      <translation>Get extension</translation>
     </message>
     <message>
       <location filename="../application.cpp" line="1607"/>
@@ -367,89 +367,89 @@ You can continue pulsing.</translation>
       <translation>Not logged in!</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="1988"/>
+      <location filename="../application.cpp" line="1996"/>
       <source>Pulsing Disabled!</source>
       <translation>Pulsing Disabled!</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="1989"/>
+      <location filename="../application.cpp" line="1997"/>
       <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
       <translation>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2203"/>
+      <location filename="../application.cpp" line="2218"/>
       <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
       <translation>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2207"/>
-      <location filename="../application.cpp" line="2239"/>
-      <location filename="../application.cpp" line="2257"/>
-      <location filename="../application.cpp" line="2275"/>
-      <location filename="../application.cpp" line="2322"/>
-      <location filename="../application.cpp" line="2336"/>
+      <location filename="../application.cpp" line="2222"/>
+      <location filename="../application.cpp" line="2254"/>
+      <location filename="../application.cpp" line="2272"/>
+      <location filename="../application.cpp" line="2290"/>
+      <location filename="../application.cpp" line="2337"/>
+      <location filename="../application.cpp" line="2351"/>
       <source>Portable Mode</source>
       <translation>Portable Mode</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2236"/>
+      <location filename="../application.cpp" line="2251"/>
       <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
       <translation>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2254"/>
+      <location filename="../application.cpp" line="2269"/>
       <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
       <translation>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2276"/>
-      <location filename="../application.cpp" line="2337"/>
+      <location filename="../application.cpp" line="2291"/>
+      <location filename="../application.cpp" line="2352"/>
       <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
       <translation>I rearranged some database files and need to restart myself, see you in a bit!</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2302"/>
+      <location filename="../application.cpp" line="2317"/>
       <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
       <translation>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2319"/>
+      <location filename="../application.cpp" line="2334"/>
       <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
       <translation>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2779"/>
-      <location filename="../application.cpp" line="2792"/>
+      <location filename="../application.cpp" line="2796"/>
+      <location filename="../application.cpp" line="2809"/>
       <source>Premium features disabled</source>
       <translation>Premium features disabled</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2780"/>
+      <location filename="../application.cpp" line="2797"/>
       <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
       <translation>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="2793"/>
+      <location filename="../application.cpp" line="2810"/>
       <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
       <translation>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="4559"/>
+      <location filename="../application.cpp" line="4592"/>
       <source>Browser extension connection</source>
       <translation>Browser extension connection</translation>
     </message>
     <message>
-      <location filename="../application.cpp" line="4561"/>
+      <location filename="../application.cpp" line="4594"/>
       <source>%1 browser extension wants to connect.</source>
       <translation>%1 browser extension wants to connect.</translation>
     </message>
@@ -821,133 +821,143 @@ Keeping Portable Mode enabled.</translation>
   <context>
     <name>ClientCommunication</name>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="276"/>
+      <location filename="../online/clientcommunication.cpp" line="277"/>
       <source>The website is not responding correctly to your request, please try again later.</source>
       <translation>The website is not responding correctly to your request, please try again later.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="316"/>
+      <location filename="../online/clientcommunication.cpp" line="317"/>
       <source>This computer is archived, and isn't able to connect to your account.</source>
       <translation>This computer is archived, and isn't able to connect to your account.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="319"/>
+      <location filename="../online/clientcommunication.cpp" line="320"/>
       <source>Computer Management</source>
       <translation>Computer Management</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="339"/>
+      <location filename="../online/clientcommunication.cpp" line="340"/>
       <source>WhatPulse Professional organization disabled.</source>
       <translation>WhatPulse Professional organization disabled.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="340"/>
+      <location filename="../online/clientcommunication.cpp" line="341"/>
       <source>Your organization has been disabled, please contact your administrator.</source>
       <translation>Your organization has been disabled, please contact your administrator.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="359"/>
+      <location filename="../online/clientcommunication.cpp" line="360"/>
       <source>Your account is pending activation, please check your email and try again after activating.</source>
       <translation>Your account is pending activation, please check your email and try again after activating.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="363"/>
-      <location filename="../online/clientcommunication.cpp" line="415"/>
+      <location filename="../online/clientcommunication.cpp" line="364"/>
+      <location filename="../online/clientcommunication.cpp" line="416"/>
       <source>Account or computer unknown! Did you register?</source>
       <translation>Account or computer unknown! Did you register?</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="367"/>
-      <location filename="../online/clientcommunication.cpp" line="418"/>
+      <location filename="../online/clientcommunication.cpp" line="368"/>
+      <location filename="../online/clientcommunication.cpp" line="419"/>
       <source>Wrong password! Try again.</source>
       <translation>Wrong password! Try again.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="371"/>
-      <location filename="../online/clientcommunication.cpp" line="448"/>
+      <location filename="../online/clientcommunication.cpp" line="372"/>
+      <location filename="../online/clientcommunication.cpp" line="449"/>
       <source>Server is down due to maintenance, please try again later.</source>
       <translation>Server is down due to maintenance, please try again later.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="374"/>
-      <location filename="../online/clientcommunication.cpp" line="451"/>
+      <location filename="../online/clientcommunication.cpp" line="375"/>
+      <location filename="../online/clientcommunication.cpp" line="452"/>
       <source>Internal server error. Please try again later.</source>
       <translation>Internal server error. Please try again later.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="378"/>
-      <location filename="../online/clientcommunication.cpp" line="455"/>
+      <location filename="../online/clientcommunication.cpp" line="379"/>
+      <location filename="../online/clientcommunication.cpp" line="456"/>
       <source>Server error: Missing input! Please contact the developers.</source>
       <translation>Server error: Missing input! Please contact the developers.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="421"/>
+      <location filename="../online/clientcommunication.cpp" line="422"/>
       <source>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</source>
       <translation>Activity throttled breached, this means your keys or clicks per second is too high. Wait an hour or so to lower it and try again.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="427"/>
+      <location filename="../online/clientcommunication.cpp" line="428"/>
       <source>Wrong token, did you use this profile on another computer?</source>
       <translation>Wrong token, did you use this profile on another computer?</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="430"/>
+      <location filename="../online/clientcommunication.cpp" line="431"/>
       <source>Requested username is already registered! Please choose another username and try again.</source>
       <translation>Requested username is already registered! Please choose another username and try again.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="435"/>
+      <location filename="../online/clientcommunication.cpp" line="436"/>
       <source>Pulse throttled. You can only pulse every 60 seconds.</source>
       <translation>Pulse throttled. You can only pulse every 60 seconds.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="438"/>
+      <location filename="../online/clientcommunication.cpp" line="439"/>
       <source>Computer login still pending.</source>
       <translation>Computer login still pending.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="441"/>
+      <location filename="../online/clientcommunication.cpp" line="442"/>
       <source>Premium only feature.</source>
       <translation>Premium only feature.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="444"/>
+      <location filename="../online/clientcommunication.cpp" line="445"/>
       <source>Organization not found.</source>
       <translation>Organization not found.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="458"/>
-      <location filename="../online/clientcommunication.cpp" line="1051"/>
+      <location filename="../online/clientcommunication.cpp" line="459"/>
+      <location filename="../online/clientcommunication.cpp" line="1089"/>
       <source>Success.</source>
       <translation>Success.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="461"/>
+      <location filename="../online/clientcommunication.cpp" line="462"/>
       <source>Success, your file is now on the website!</source>
       <translation>Success, your file is now on the website!</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="1027"/>
-      <source>Unable to open GeoIP database (%1), permission denied.</source>
-      <translation>Unable to open GeoIP database (%1), permission denied.</translation>
+      <location filename="../online/clientcommunication.cpp" line="1032"/>
+      <source>Unable to write temporary GeoIP update file (%1), permission denied.</source>
+      <translation type="finished">Unable to write temporary GeoIP update file (%1), permission denied.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="1039"/>
+      <location filename="../online/clientcommunication.cpp" line="1045"/>
       <source>New GeoIP database seems to be too small (%1), stopping update.</source>
       <translation>New GeoIP database seems to be too small (%1), stopping update.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="1101"/>
+      <location filename="../online/clientcommunication.cpp" line="1064"/>
+      <source>Error: Failed to write GeoIP database file.</source>
+      <translation type="finished">Error: Failed to write GeoIP database file.</translation>
+    </message>
+    <message>
+      <location filename="../online/clientcommunication.cpp" line="1085"/>
+      <source>Error: Failed to replace GeoIP database file.</source>
+      <translation type="finished">Error: Failed to replace GeoIP database file.</translation>
+    </message>
+    <message>
+      <location filename="../online/clientcommunication.cpp" line="1139"/>
       <source>Empty reply received</source>
       <translation>Empty reply received</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="1122"/>
+      <location filename="../online/clientcommunication.cpp" line="1160"/>
       <source>Unable to open Network Port Description database (%1), permission denied.</source>
       <translation>Unable to open Network Port Description database (%1), permission denied.</translation>
     </message>
     <message>
-      <location filename="../online/clientcommunication.cpp" line="1136"/>
+      <location filename="../online/clientcommunication.cpp" line="1174"/>
       <source>Downloaded file does not look good: %1</source>
       <translation>Downloaded file does not look good: %1</translation>
     </message>
@@ -2631,12 +2641,12 @@ Please check your permissions on: %2</translation>
       <translation>Disabled</translation>
     </message>
     <message>
-      <location filename="../interface/MainWindow.cpp" line="793"/>
+      <location filename="../interface/MainWindow.cpp" line="795"/>
       <source>Operation completed successfully.</source>
       <translation>Operation completed successfully.</translation>
     </message>
     <message>
-      <location filename="../interface/MainWindow.cpp" line="804"/>
+      <location filename="../interface/MainWindow.cpp" line="806"/>
       <source>Operation failed: %1</source>
       <translation>Operation failed: %1</translation>
     </message>
@@ -3013,43 +3023,43 @@ Please check your permissions on: %2</translation>
       <translation>Are you sure you want to delete all recorded network statistics? This cannot be undone.</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
       <source>Success!</source>
       <translation>Success!</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
       <source>GeoIP Database updated succesfully!</source>
       <translation>GeoIP Database updated succesfully!</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="648"/>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="653"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="650"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="655"/>
       <source>Something went wrong!</source>
       <translation>Something went wrong!</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="649"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="651"/>
       <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
       <translation>GeoIP Database did not update succesfully, unknown error. Please try again later.</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="654"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="656"/>
       <source>GeoIP Database did not update succesfully, here's the error: </source>
       <translation>GeoIP Database did not update succesfully, here's the error: </translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="664"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="666"/>
       <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
       <translation>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="671"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="673"/>
       <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
       <translation>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</translation>
     </message>
     <message>
-      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="688"/>
+      <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="690"/>
       <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
       <translation>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</translation>
     </message>
@@ -5707,7 +5717,7 @@ This will reset any custom layouts!</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="93"/>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="192"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="200"/>
       <source>Last pulse: never</source>
       <translation>Last pulse: never</translation>
     </message>
@@ -5722,107 +5732,107 @@ This will reset any custom layouts!</translation>
       <translation>WhatPulse client version</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="184"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="192"/>
       <source>Synced</source>
       <translation>Synced</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="186"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="194"/>
       <source>Pending apps: %1</source>
       <translation>Pending apps: %1</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="198"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="206"/>
       <source>Last pulse: %1</source>
       <translation>Last pulse: %1</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="229"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="237"/>
       <source>never</source>
       <translation>never</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="235"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="243"/>
       <source>just now</source>
       <translation>just now</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="238"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="246"/>
       <source>%1 sec ago</source>
       <translation>%1 sec ago</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="242"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="250"/>
       <source>%1min ago</source>
       <translation>%1min ago</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="246"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="254"/>
       <source>%1h ago</source>
       <translation>%1h ago</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="249"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="257"/>
       <source>yesterday</source>
       <translation>yesterday</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="253"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="261"/>
       <source>%1 days ago</source>
       <translation>%1 days ago</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="305"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="313"/>
       <source>Collector is running</source>
       <translation>Collector is running</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="313"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="321"/>
       <source>Collector is not started</source>
       <translation>Collector is not started</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="314"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="322"/>
       <source>Collector is paused</source>
       <translation>Collector is paused</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="326"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="334"/>
       <source>Pulse Statistics:</source>
       <translation>Pulse Statistics:</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="340"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="348"/>
       <source>Keys</source>
       <translation>Keys</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="342"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="350"/>
       <source>Clicks</source>
       <translation>Clicks</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="344"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="352"/>
       <source>Scrolls</source>
       <translation>Scrolls</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="347"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="355"/>
       <source>Distance</source>
       <translation>Distance</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="349"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="357"/>
       <source>Uptime</source>
       <translation>Uptime</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="351"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="359"/>
       <source>Download</source>
       <translation>Download</translation>
     </message>
     <message>
-      <location filename="../interface/widgets/statusbarwidget.cpp" line="353"/>
+      <location filename="../interface/widgets/statusbarwidget.cpp" line="361"/>
       <source>Upload</source>
       <translation>Upload</translation>
     </message>
@@ -6713,10 +6723,10 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/UptimeTab.cpp" line="254"/>
       <location filename="../interface/UptimeTab.cpp" line="271"/>
-      <location filename="../interface/UptimeTab.cpp" line="297"/>
-      <location filename="../interface/UptimeTab.cpp" line="320"/>
-      <location filename="../interface/UptimeTab.cpp" line="342"/>
-      <location filename="../interface/UptimeTab.cpp" line="364"/>
+      <location filename="../interface/UptimeTab.cpp" line="299"/>
+      <location filename="../interface/UptimeTab.cpp" line="324"/>
+      <location filename="../interface/UptimeTab.cpp" line="346"/>
+      <location filename="../interface/UptimeTab.cpp" line="368"/>
       <source>Delete stats?</source>
       <translation>Delete stats?</translation>
     </message>
@@ -6732,18 +6742,18 @@ This will reset any custom layouts!</translation>
     </message>
     <message>
       <location filename="../interface/UptimeTab.cpp" line="272"/>
-      <location filename="../interface/UptimeTab.cpp" line="298"/>
+      <location filename="../interface/UptimeTab.cpp" line="300"/>
       <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
       <translation>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</translation>
     </message>
     <message>
-      <location filename="../interface/UptimeTab.cpp" line="321"/>
-      <location filename="../interface/UptimeTab.cpp" line="343"/>
+      <location filename="../interface/UptimeTab.cpp" line="325"/>
+      <location filename="../interface/UptimeTab.cpp" line="347"/>
       <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
       <translation>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</translation>
     </message>
     <message>
-      <location filename="../interface/UptimeTab.cpp" line="365"/>
+      <location filename="../interface/UptimeTab.cpp" line="369"/>
       <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
       <translation>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</translation>
     </message>
