@@ -265,189 +265,189 @@ You can continue pulsing.</source>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="296"/>
+        <location filename="../application.cpp" line="310"/>
         <source>No system tray</source>
         <translation>علبة النظام غير موجودة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="297"/>
+        <location filename="../application.cpp" line="311"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>لم أتمكن من رصد أي علبة نظام على هذا الحاسوب، وأحتاج إليها لكي أعمل.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="315"/>
+        <location filename="../application.cpp" line="329"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>وظائف معيار التشفير المتقدم غير متوفرة. هل libeay32.dll وssleay32.dll موجودين؟ إن لم يكونا كذلك، فجرب إعادة التثبيت!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="319"/>
+        <location filename="../application.cpp" line="333"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>وظائف معيار التشفير المتقدم غير متوفرة. هل مكتبة OpenSSL موجودة؟</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="322"/>
+        <location filename="../application.cpp" line="336"/>
         <source>AES failure</source>
         <translation>خلل في معيار التشفير المتقدم</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1480"/>
+        <location filename="../application.cpp" line="1410"/>
         <source>&amp;Open Window</source>
         <translation>&amp;فتح النافذة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1484"/>
+        <location filename="../application.cpp" line="1414"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;تبديل وضع نافذة الوَلُوع</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1488"/>
+        <location filename="../application.cpp" line="1418"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;فتح الإعدادات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1492"/>
+        <location filename="../application.cpp" line="1422"/>
         <source>&amp;Check for Updates</source>
         <translation>التحقق من ال&amp;تحديثات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1496"/>
+        <location filename="../application.cpp" line="1426"/>
         <source>&amp;Pulse!</source>
         <translation>انب&amp;ض!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1499"/>
+        <location filename="../application.cpp" line="1429"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;رؤية الإحصائيات عبر الإنترنت</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1503"/>
+        <location filename="../application.cpp" line="1433"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>ال&amp;خروج من وات-بولس</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1619"/>
+        <location filename="../application.cpp" line="1549"/>
         <source>Uptime</source>
         <translation>مدة التشغيل</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1603"/>
+        <location filename="../application.cpp" line="1533"/>
         <source>Keys</source>
         <translation>المفاتيح</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="955"/>
+        <location filename="../application.cpp" line="970"/>
         <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
         <translation>جديد: تتبع نشاط التصفح الخاص بك باستخدام الرؤى عبر الويب! قم بتثبيت إضافة المتصفح للبدء.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="957"/>
+        <location filename="../application.cpp" line="972"/>
         <source>Get extension</source>
         <translation>احصل على الإضافة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1607"/>
+        <location filename="../application.cpp" line="1537"/>
         <source>Clicks</source>
         <translation>النقرات</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1611"/>
+        <location filename="../application.cpp" line="1541"/>
         <source>Download</source>
         <translation>التنزيل</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1614"/>
+        <location filename="../application.cpp" line="1544"/>
         <source>Upload</source>
         <translation>الرفع</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1622"/>
+        <location filename="../application.cpp" line="1552"/>
         <source>Not logged in!</source>
         <translation>لم يتم تسجيل الدخول!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1996"/>
+        <location filename="../application.cpp" line="1926"/>
         <source>Pulsing Disabled!</source>
         <translation>تم إلغاء تفعيل النبض!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1997"/>
+        <location filename="../application.cpp" line="1927"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>إن الإعداد "العمل من دون إنترنت" مفعل. هذا يمنع الموكل من الإتصال بالإنترنت، والذي يتضمن النبض. ألغي تفعيل ذلك الإعداد ومن ثم يمكنك النبض مجدداً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2218"/>
+        <location filename="../application.cpp" line="2147"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>لقد قمت بتفعيل الوضع المحمول. يجب استخدام هذا فقط عند وضع وات-بولس في وسيط محمول، مثل محرك أقراص USB.
 أتود المتابعة؟</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2222"/>
-        <location filename="../application.cpp" line="2254"/>
-        <location filename="../application.cpp" line="2272"/>
-        <location filename="../application.cpp" line="2290"/>
-        <location filename="../application.cpp" line="2337"/>
-        <location filename="../application.cpp" line="2351"/>
+        <location filename="../application.cpp" line="2151"/>
+        <location filename="../application.cpp" line="2183"/>
+        <location filename="../application.cpp" line="2201"/>
+        <location filename="../application.cpp" line="2219"/>
+        <location filename="../application.cpp" line="2266"/>
+        <location filename="../application.cpp" line="2280"/>
         <source>Portable Mode</source>
         <translation>الوضع المحمول</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2251"/>
+        <location filename="../application.cpp" line="2180"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>فشل نسخ قاعدة البيانات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2269"/>
+        <location filename="../application.cpp" line="2198"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>فشل نسخ ملف الإحصائيات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2291"/>
-        <location filename="../application.cpp" line="2352"/>
+        <location filename="../application.cpp" line="2220"/>
+        <location filename="../application.cpp" line="2281"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>لقد قمت بإعادة ترتيب بعض ملفات قاعدة البيانات وأحتاج إلى إعادة تشغيل نفس، أراك بعد قليل!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2317"/>
+        <location filename="../application.cpp" line="2246"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>فشل نسخ قاعدة البيانات إلى %1! تحقق من أذونات الكتابة.
 سيتم إلغاء تفعيل الوضع المحمول.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2334"/>
+        <location filename="../application.cpp" line="2263"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>فشل نسخ ملف الإحصائيات إلى %1! تحقق من أذونات الكتابة.
 سيتم إبقاء الوضع المحمول مفعلاً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2796"/>
-        <location filename="../application.cpp" line="2809"/>
+        <location filename="../application.cpp" line="2725"/>
+        <location filename="../application.cpp" line="2738"/>
         <source>Premium features disabled</source>
         <translation>تم إلغاء تفعيل مزايا العضوية المتميزة</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2797"/>
+        <location filename="../application.cpp" line="2726"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>لم أتمكن من التواصل مع الموقع للتحقق من عضويتك المتميزة لـ96 ساعة. لقد قمت بإلغاء مزايا العضوية المتميزة. عاود الاتصال بالإنترنت لتفعيلها مجدداً.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2810"/>
+        <location filename="../application.cpp" line="2739"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>لقد انتهت صلاحية عضويتك المتميزة فلذلك قمت بإلغاء تفعيل مزايا النسخة الكاملة. يمكن إعادة تفعيل عضويتك من خلال الموقع.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4592"/>
+        <location filename="../application.cpp" line="4549"/>
         <source>Browser extension connection</source>
         <translation>اتصال امتداد المتصفح</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4594"/>
+        <location filename="../application.cpp" line="4551"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>امتداد المتصفح %1 يريد الاتصال.</translation>
     </message>
@@ -915,7 +915,7 @@ Keeping Portable Mode enabled.</source>
     </message>
     <message>
         <location filename="../online/clientcommunication.cpp" line="459"/>
-        <location filename="../online/clientcommunication.cpp" line="1089"/>
+        <location filename="../online/clientcommunication.cpp" line="1092"/>
         <source>Success.</source>
         <translation>تم بنجاح.</translation>
     </message>
@@ -925,37 +925,37 @@ Keeping Portable Mode enabled.</source>
         <translation>تم بنجاح، ملفك هو الآن على الموقع!</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1032"/>
+        <location filename="../online/clientcommunication.cpp" line="1035"/>
         <source>Unable to write temporary GeoIP update file (%1), permission denied.</source>
         <translation>غير قادر على كتابة ملف تحديث GeoIP المؤقت (%1)، إذن مرفوض.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1045"/>
+        <location filename="../online/clientcommunication.cpp" line="1048"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
         <translation>يبدو أن قاعدة بيانات GeoIP الجديدة صغيرة جدًا(%1) ، حيث يتم إيقاف التحديث.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1064"/>
+        <location filename="../online/clientcommunication.cpp" line="1067"/>
         <source>Error: Failed to write GeoIP database file.</source>
         <translation>خطأ: فشل في كتابة ملف قاعدة بيانات GeoIP.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1085"/>
+        <location filename="../online/clientcommunication.cpp" line="1088"/>
         <source>Error: Failed to replace GeoIP database file.</source>
         <translation>خطأ: فشل في استبدال ملف قاعدة بيانات GeoIP.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1139"/>
+        <location filename="../online/clientcommunication.cpp" line="1142"/>
         <source>Empty reply received</source>
         <translation>تم استلام رد فارغ</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1160"/>
+        <location filename="../online/clientcommunication.cpp" line="1163"/>
         <source>Unable to open Network Port Description database (%1), permission denied.</source>
         <translation>لا يمكن فتح قاعدة بيانات وصف منفذ الشبكة (%1)، الإذن مرفوض.</translation>
     </message>
     <message>
-        <location filename="../online/clientcommunication.cpp" line="1174"/>
+        <location filename="../online/clientcommunication.cpp" line="1177"/>
         <source>Downloaded file does not look good: %1</source>
         <translation>الملف المحمل لا يبدو جيداً: %1</translation>
     </message>
@@ -4329,37 +4329,37 @@ Upload: unknown</source>
         <translation>تحليلات الويب</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="112"/>
-        <source>Measure time and effort spent on websites via our browser extension. Install the extension for your browser from the &lt;a href="https://whatpulse.org/in/download-browser-extensions" style="color: %2"&gt;downloads page&lt;/a&gt;.</source>
-        <translation>قم بقياس الوقت والجهد المبذول على المواقع الإلكترونية عبر امتداد المتصفح الخاص بنا. قم بتثبيت الامتداد لمتصفحك من &lt;a href="https://whatpulse.org/in/download-browser-extensions" style="color: %2"&gt;صفحة التنزيلات&lt;/a&gt;.</translation>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="116"/>
+        <source>Measure time and effort spent on websites via our browser extension. Install the extension for your browser from the &lt;a href="%1" style="color: %2"&gt;downloads page&lt;/a&gt;.</source>
+        <translation>قم بقياس الوقت والجهد المبذول على المواقع الإلكترونية عبر امتداد المتصفح الخاص بنا. قم بتثبيت الامتداد لمتصفحك من &lt;a href="%1" style="color: %2"&gt;صفحة التنزيلات&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="126"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="130"/>
         <source>&lt;b&gt;Upgrade to WhatPulse Premium&lt;/b&gt; to unlock Web Insights and track time spent on websites.</source>
         <translation>&lt;b&gt;قم بالترقية إلى WhatPulse Premium&lt;/b&gt; لفتح ميزات تحليلات الويب وتتبع الوقت المستغرق على المواقع الإلكترونية.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="132"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="136"/>
         <source>Upgrade to Premium</source>
         <translation>الترقية إلى المميزة</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="140"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="144"/>
         <source>Upload to online dashboard</source>
         <translation>رفع إلى لوحة التحكم على الإنترنت</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="149"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="153"/>
         <source>Open website data</source>
         <translation>فتح بيانات الموقع الإلكتروني</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="179"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="183"/>
         <source>External Network Service</source>
         <translation>خدمة الشبكة الخارجية</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsactivestats.cpp" line="185"/>
+        <location filename="../interface/settings/settingsactivestats.cpp" line="189"/>
         <source>Allow the &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;external pcap service&lt;/a&gt; to send network traffic. This is required for network statistics on Linux when running as AppImage or without root privileges.</source>
         <translation>السماح لـ &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;خدمة pcap الخارجية&lt;/a&gt; بإرسال حركة المرور على الشبكة. هذا مطلوب لإحصائيات الشبكة على نظام Linux عند التشغيل كـ AppImage أو دون صلاحيات الجذر.</translation>
     </message>
@@ -4633,7 +4633,7 @@ Upload: unknown</source>
         <translation>كل ساعة عند </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsautopulse.h" line="38"/>
+        <location filename="../interface/settings/settingsautopulse.h" line="39"/>
         <source>Auto Pulse</source>
         <translation>نبض تلقائي</translation>
     </message>
@@ -4646,27 +4646,27 @@ Upload: unknown</source>
         <translation>تفعيل واجهة التطبيق البرمجية للعميل</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsclientapi.cpp" line="63"/>
+        <location filename="../interface/settings/settingsclientapi.cpp" line="64"/>
         <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
         <translation>تعد واجهة برمجة تطبيقات العميل طريقة لاستخراج المعلومات في الوقت الفعلي من عميل WhatPulse. يمكنك استخدام هذا لتغذية البيانات الخاصة بك في تطبيق آخر. اكتشف المزيد في &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;مركز المطورين&lt;/a&gt; لدينا</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsclientapi.cpp" line="86"/>
+        <location filename="../interface/settings/settingsclientapi.cpp" line="87"/>
         <source>Listen on port:</source>
         <translation>الاستماع إلى المنفذ:</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsclientapi.cpp" line="89"/>
+        <location filename="../interface/settings/settingsclientapi.cpp" line="90"/>
         <source>WebSocket port:</source>
         <translation>منفذ WebSocket:</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsclientapi.cpp" line="95"/>
+        <location filename="../interface/settings/settingsclientapi.cpp" line="96"/>
         <source>Enter a value between 1024 and 65535</source>
         <translation>أدخل قيمة بين 1024 و65535</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsclientapi.cpp" line="111"/>
+        <location filename="../interface/settings/settingsclientapi.cpp" line="112"/>
         <source>IPs that are allowed to connect. One per line, empty to allow everything:</source>
         <translation>عناوين IP المسموحة بالاتصال. واحدة في كل سطر، فارغة للسماح بكل شيء:</translation>
     </message>
@@ -5113,67 +5113,67 @@ This will reset any custom layouts!</source>
 <context>
     <name>SettingsGeneral</name>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="69"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="74"/>
         <source>Launch when computer starts</source>
         <translation>البدء عند بدء الحاسوب</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="72"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="77"/>
         <source>Open window on startup</source>
         <translation>فتح النافذة عند بدء التشغيل</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="74"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="79"/>
         <source>Automatically install new versions</source>
         <translation>تثبيت النسخ الجديدة تلقائياً</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="78"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="83"/>
         <source>Include beta versions updates</source>
         <translation>شمل تحديثات النسخ التجريبية</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="82"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="87"/>
         <source>Pulse on doubleclick trayicon</source>
         <translation>النبض عند الضغط المزدوج على رمز الأيقونة</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="87"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="92"/>
         <source>Upload application info</source>
         <translation>رفع معلومات التطبيق</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="92"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="97"/>
         <source>Work offline (disables pulsing)</source>
         <translation>العمل من دون الإتصال بالإنترنت (يلغي تفعيل النبض)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="96"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="101"/>
         <source>Weekly online backups</source>
         <translation>خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="101"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="113"/>
         <source>Run as Administrator</source>
         <translation>تشغيل كمسؤول</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="106"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="119"/>
         <source>Pause notifications</source>
         <translation>إيقاف الإشعارات</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="109"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="122"/>
         <source>Notification on auto pulse</source>
         <translation>الإشعار عند النبض التلقائي</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="114"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="127"/>
         <source>Send bug and usage reports</source>
         <translation>إرسال تقارير الاستخدام والأعطال</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeneral.cpp" line="130"/>
+        <location filename="../interface/settings/settingsgeneral.cpp" line="143"/>
         <source>Weekly online backups (premium only)</source>
         <translation>خدمات النسخ الاحتياطي عبر الإنترنت الأسبوعية (العضوية المتميزة فقط)</translation>
     </message>
