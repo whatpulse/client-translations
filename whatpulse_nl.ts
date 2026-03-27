@@ -241,19 +241,31 @@ Je kan nu weer pulsen.</translation>
 <context>
     <name>AccountTabWizard</name>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="23"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="27"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="150"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="244"/>
         <source>Finish setup</source>
         <translation>Voltooi installatie</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="29"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="33"/>
         <source>Back</source>
         <translation>Terug</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard.cpp" line="92"/>
+        <location filename="../interface/AccountTabWizard.cpp" line="74"/>
+        <source>Restart</source>
+        <translation>Herstarten</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard.cpp" line="119"/>
         <source>Welcome to WhatPulse!</source>
         <translation>Welkom bij WhatPulse!</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard.cpp" line="237"/>
+        <source>Next</source>
+        <translation>Volgende</translation>
     </message>
 </context>
 <context>
@@ -267,189 +279,189 @@ Je kan nu weer pulsen.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="310"/>
+        <location filename="../application.cpp" line="311"/>
         <source>No system tray</source>
         <translation>Geen system tray</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="311"/>
+        <location filename="../application.cpp" line="312"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Ik kon geen system tray ontdekken op dit systeem, en ik heb dat nodig om te draaien.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="329"/>
+        <location filename="../application.cpp" line="330"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>AES functies niet beschikbaar. Zijn libeay32.dll en ssleay32.dll aanwezig? Zo niet, probeer om te herinstalleren!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="333"/>
+        <location filename="../application.cpp" line="334"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>AES functies niet beschikbaar. Is the OpenSSL library aanwezig?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="336"/>
+        <location filename="../application.cpp" line="337"/>
         <source>AES failure</source>
         <translation>AES probleem</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1410"/>
+        <location filename="../application.cpp" line="1413"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Open Venster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1414"/>
+        <location filename="../application.cpp" line="1417"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Schakel Geek Venster</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1418"/>
+        <location filename="../application.cpp" line="1421"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Open Instellingen</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1422"/>
+        <location filename="../application.cpp" line="1425"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Controleer op Updates</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1426"/>
+        <location filename="../application.cpp" line="1429"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulse!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1429"/>
+        <location filename="../application.cpp" line="1432"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Bekijk Online Statistieken</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1433"/>
+        <location filename="../application.cpp" line="1436"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Stop WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1549"/>
+        <location filename="../application.cpp" line="1552"/>
         <source>Uptime</source>
         <translation>Uptime</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1533"/>
+        <location filename="../application.cpp" line="1536"/>
         <source>Keys</source>
         <translation>Toetsen</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="970"/>
+        <location filename="../application.cpp" line="973"/>
         <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
         <translation>Nieuw: Volg je browseactiviteit met Web Insights! Installeer de browserextensie om te beginnen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="972"/>
+        <location filename="../application.cpp" line="975"/>
         <source>Get extension</source>
         <translation>Extensie ophalen</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1537"/>
+        <location filename="../application.cpp" line="1540"/>
         <source>Clicks</source>
         <translation>Kliks</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1541"/>
+        <location filename="../application.cpp" line="1544"/>
         <source>Download</source>
         <translation>Download</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1544"/>
+        <location filename="../application.cpp" line="1547"/>
         <source>Upload</source>
         <translation>Upload</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1552"/>
+        <location filename="../application.cpp" line="1555"/>
         <source>Not logged in!</source>
         <translation>Niet ingelogd!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1926"/>
+        <location filename="../application.cpp" line="1949"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsing Uitgeschakeld!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1927"/>
+        <location filename="../application.cpp" line="1950"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>De instelling "Offline werken" is ingeschakeld. Dit voorkomt dat de client online gaat, wat pulsen inhoudt. Zet die instelling uit en je kunt weer pulsen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2147"/>
+        <location filename="../application.cpp" line="2184"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Je hebt de draagbare modus ingeschakeld. Deze moet alleen worden gebruikt wanneer WhatPulse op een draagbaar medium wordt geplaatst, zoals een USB-stick.
 Wilt u doorgaan?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2151"/>
-        <location filename="../application.cpp" line="2183"/>
-        <location filename="../application.cpp" line="2201"/>
-        <location filename="../application.cpp" line="2219"/>
-        <location filename="../application.cpp" line="2266"/>
-        <location filename="../application.cpp" line="2280"/>
+        <location filename="../application.cpp" line="2188"/>
+        <location filename="../application.cpp" line="2220"/>
+        <location filename="../application.cpp" line="2238"/>
+        <location filename="../application.cpp" line="2256"/>
+        <location filename="../application.cpp" line="2303"/>
+        <location filename="../application.cpp" line="2317"/>
         <source>Portable Mode</source>
         <translation>Draagbare Modus</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2180"/>
+        <location filename="../application.cpp" line="2217"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Het kopiëren van de database naar %1 is mislukt! Controleer de schrijfrechten.
 Schakel draagbare modus uit.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2198"/>
+        <location filename="../application.cpp" line="2235"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>Het kopiëren van het statistiekbestand naar %1 is mislukt! Controleer de schrijfrechten.
 Schakel draagbare modus uit.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2220"/>
-        <location filename="../application.cpp" line="2281"/>
+        <location filename="../application.cpp" line="2257"/>
+        <location filename="../application.cpp" line="2318"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>Ik heb wat databasebestanden verhuist en moet mezelf opnieuw opstarten, ik zie je zo!</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2246"/>
+        <location filename="../application.cpp" line="2283"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Het kopiëren van de database naar %1 is mislukt! Controleer de schrijfrechten.
 Draagbare modus blijft ingeschakeld.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2263"/>
+        <location filename="../application.cpp" line="2300"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>Het kopiëren van het statistiekbestand naar %1 is mislukt! Controleer de schrijfrechten.
 Draagbare modus blijft ingeschakeld.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2725"/>
-        <location filename="../application.cpp" line="2738"/>
+        <location filename="../application.cpp" line="2767"/>
+        <location filename="../application.cpp" line="2780"/>
         <source>Premium features disabled</source>
         <translation>Premium functies uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2726"/>
+        <location filename="../application.cpp" line="2768"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Ik was niet in staat om contact op te nemen met de website om uw premium lidmaatschap te verifiëren in de laatste 96 uur. Ik heb de premium functies uitgeschakeld. Ga terug online om opnieuw in te schakelen.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2739"/>
+        <location filename="../application.cpp" line="2781"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Uw premium lidmaatschap is verlopen, dus ik heb de premium functies uitgeschakeld. U kunt uw lidmaatschap heractiveren via de website.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4549"/>
+        <location filename="../application.cpp" line="4600"/>
         <source>Browser extension connection</source>
         <translation>Browserextensieverbinding</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4551"/>
+        <location filename="../application.cpp" line="4602"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>%1 browserextensie wil verbinden.</translation>
     </message>
@@ -1650,59 +1662,59 @@ Controleer uw permissies op: %2</translation>
         <translation>Geen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="516"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="536"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="530"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="550"/>
         <source>Exclude</source>
         <translation>Uitsluiten</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="542"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="556"/>
         <source>Open in Browser</source>
         <translation>Open in browser</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="557"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="571"/>
         <source>Exclude application?</source>
         <translation>Applicatie uitsluiten?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="632"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="646"/>
         <source>Exclude website?</source>
         <translation>Website uitsluiten?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="633"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="647"/>
         <source>Are you sure you want to exclude website '%1' from tracking?</source>
         <translation>Weet je zeker dat je de website '%1' wilt uitsluiten van tracking?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="522"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="536"/>
         <source>Open File Location</source>
         <translation>Bestandslocatie openen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="529"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="543"/>
         <source>Open Online Profile</source>
         <translation>Online Profiel Openen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="558"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="572"/>
         <source>Are you sure you want to exclude application '%1'?</source>
         <translation>Weet je zeker dat je de applicatie '%1' wilt uitsluiten?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="560"/>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="636"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="574"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="650"/>
         <source>Also delete all stored data</source>
         <translation>Verwijder ook alle opgeslagen gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="610"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="624"/>
         <source>Not yet</source>
         <translation>Nog niet</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="611"/>
+        <location filename="../interface/InputTab/inputapplicationspage.cpp" line="625"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Deze applicatie is nog niet geupload naar de website, kom over een uur nog eens terug.</translation>
     </message>
@@ -1952,10 +1964,10 @@ Controleer uw permissies op: %2</translation>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="231"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="234"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="237"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="565"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="566"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="615"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="616"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="571"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="572"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="621"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="622"/>
         <source>All</source>
         <translation>Alle</translation>
     </message>
@@ -1966,10 +1978,10 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="234"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="565"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="566"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="615"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="616"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="571"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="572"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="621"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="622"/>
         <source>Premium Only</source>
         <translation>Alleen Premium</translation>
     </message>
@@ -2015,7 +2027,7 @@ Controleer uw permissies op: %2</translation>
         <translation>Details tonen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="651"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="657"/>
         <source>Unknown</source>
         <translation>Onbekend</translation>
     </message>
@@ -2672,27 +2684,27 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>MouseHeatmap</name>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="718"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="721"/>
         <source>Image not created!</source>
         <translation>Afbeelding niet gemaakt!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="719"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="722"/>
         <source>Unable to generate heatmap image. Please try again or check permissions on: </source>
         <translation>Kan geen heatmap-afbeelding genereren. Probeer het opnieuw of controleer de rechten op: </translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="979"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="982"/>
         <source>Image posted online!</source>
         <translation>Afbeelding online geplaatst!</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="980"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="983"/>
         <source>Mouse heatmap succesfully uploaded! Do you want to view it in your browser?</source>
         <translation>Muis heat map succesvol geupload! Wil je hem in je browser bekijken?</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/MouseHeatmap.cpp" line="994"/>
+        <location filename="../interface/widgets/MouseHeatmap.cpp" line="997"/>
         <source>Error uploading file!</source>
         <translation>Fout bij uploaden bestand!</translation>
     </message>
@@ -2913,153 +2925,153 @@ Controleer uw permissies op: %2</translation>
         <translation> Reset</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="370"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="364"/>
         <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
         <translation>Je GeoIP-database is leeg, statistieken per land werken niet. Klik &lt;a href="#" style="color: %1"&gt;hier&lt;/a&gt; om de database te verversen.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="424"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="418"/>
         <source>Yes</source>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="426"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="420"/>
         <source>Yes, with IP </source>
         <translation>Ja, met IP </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="429"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="423"/>
         <source>Testing..</source>
         <translation>Testen..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="431"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="425"/>
         <source>No</source>
         <translation>Nee</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="450"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="444"/>
         <source>interface historical data</source>
         <translation>interface historische gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="451"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="445"/>
         <source>Reset Interface History</source>
         <translation>Reset Interface Geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="455"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="449"/>
         <source>per application history data</source>
         <translation>per applicatie historische gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="456"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="450"/>
         <source>Reset Application History</source>
         <translation>Reset Applicatiegeschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="460"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="454"/>
         <source>per country history data</source>
         <translation>per land historische gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="461"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="455"/>
         <source>Reset Country History</source>
         <translation>Reset Land Geschiedenis</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="465"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="459"/>
         <source>per traffic type data</source>
         <translation>per verkeerstype gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="466"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="460"/>
         <source>Reset Traffic Types History</source>
         <translation>Verkeerssoorten geschiedenis resetten</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="471"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="465"/>
         <source>Do you want to reset all network data or just the %1?</source>
         <translation>Wilt u alle netwerkgegevens resetten of alleen de %1?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="690"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="684"/>
         <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
         <translation>Externe PCap-service niet verbonden. Stel &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;de externe PCap-service&lt;/a&gt; in voor netwerkstatistieken.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="470"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="488"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="509"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="530"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="551"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="573"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="464"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="482"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="503"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="524"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="545"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="567"/>
         <source>Delete stats?</source>
         <translation>Statistieken wissen?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="473"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="467"/>
         <source>Reset All Stats</source>
         <translation>Alle statistieken resetten</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="489"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="483"/>
         <source>Are you sure you want to delete all recorded network interface statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen netwerk interface statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="510"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="504"/>
         <source>Are you sure you want to delete all recorded per application network statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen netwerkstatistieken per applicatie wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="531"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="525"/>
         <source>Are you sure you want to delete all recorded per country network statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgeslagen netwerkstatistieken per land wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="552"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="546"/>
         <source>Are you sure you want to delete all recorded per traffic type network statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle geregistreerde netwerkstatistieken per verkeerstype wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="574"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="568"/>
         <source>Are you sure you want to delete all recorded network statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen netwerkstatistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="641"/>
         <source>Success!</source>
         <translation>Succes!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="647"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="641"/>
         <source>GeoIP Database updated succesfully!</source>
         <translation>GeoIP Database succesvol bijgewerkt!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="650"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="655"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="644"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="649"/>
         <source>Something went wrong!</source>
         <translation>Er is iets fout gegaan!</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="651"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="645"/>
         <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
         <translation>GeoIP Database is niet succesvol bijgewerkt, onbekende fout. Probeer het later opnieuw.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="656"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="650"/>
         <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>GeoIP Database is niet succesvol bijgewerkt, hier is de fout: </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="666"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="660"/>
         <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
         <translation>Npcap niet gevonden, wat nodig is voor netwerkstatistieken.&lt;br&gt;Downloaden op &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="673"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="667"/>
         <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
         <translation>LibPcap niet gevonden, nodig voor netwerkstatistieken. &lt;br&gt;Installeer pakket a.u.b.</translation>
     </message>
@@ -3109,9 +3121,9 @@ Controleer uw permissies op: %2</translation>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="163"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="172"/>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="173"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="627"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="628"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="629"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="623"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="624"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="625"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
@@ -3146,17 +3158,17 @@ Controleer uw permissies op: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="283"/>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="368"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="364"/>
         <source>Summary of </source>
         <translation>Samenvatting van </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="427"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="423"/>
         <source>Exclude</source>
         <translation>Uitsluiten</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="456"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="452"/>
         <source>Exclude application?</source>
         <translation>Applicatie uitsluiten?</translation>
     </message>
@@ -3191,32 +3203,32 @@ Controleer uw permissies op: %2</translation>
         <translation>Netwerkstatistieken per applicatie worden momenteel niet ondersteund op Linux, sorry.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="433"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="429"/>
         <source>Open File Location</source>
         <translation>Bestandslocatie openen</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="440"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="436"/>
         <source>Open Online Profile</source>
         <translation>Online Profiel Openen</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="457"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="453"/>
         <source>Are you sure you want to exclude application '%1'?</source>
         <translation>Weet u zeker dat u de applicatie '%1' wilt uitsluiten?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="459"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="455"/>
         <source>Also delete all stored data</source>
         <translation>Verwijder ook alle opgeslagen gegevens</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="508"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="504"/>
         <source>Not yet</source>
         <translation>Nog niet</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="509"/>
+        <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="505"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Deze applicatie is nog niet geupload naar de website, kom over een uur nog eens terug.</translation>
     </message>
@@ -3292,86 +3304,86 @@ Controleer uw permissies op: %2</translation>
 <context>
     <name>NetworkTabGraph</name>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="139"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="111"/>
         <source>Testing..</source>
         <translation>Testen..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="143"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="115"/>
         <source>Internet:</source>
         <translation>Internet:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="147"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="119"/>
         <source>Show:</source>
         <translation>Laat zien:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="149"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="121"/>
         <source>5 mins</source>
         <translation>5 minuten</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="150"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="122"/>
         <source>15 mins</source>
         <translation>15 minuten</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="151"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="123"/>
         <source>30 mins</source>
         <translation>30 minuten</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="152"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="124"/>
         <source>1 hour</source>
         <translation>1 uur</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="161"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="133"/>
         <source>in bytes</source>
         <translation>in bytes</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="162"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="134"/>
         <source>in bits</source>
         <translation>in bits</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="191"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="192"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="201"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="202"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="211"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="212"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="163"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="164"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="173"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="174"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="183"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="184"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="196"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="168"/>
         <source>&lt;b&gt;Current&lt;/b&gt;</source>
         <translation>&lt;b&gt;Huidig&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="197"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="207"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="217"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="169"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="179"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="189"/>
         <source>Download:</source>
         <translation>Download:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="198"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="208"/>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="218"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="170"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="180"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="190"/>
         <source>Upload:</source>
         <translation>Upload:</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="206"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="178"/>
         <source>&lt;b&gt;Average&lt;/b&gt;</source>
         <translation>&lt;b&gt;Gemiddeld&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="216"/>
+        <location filename="../interface/NetworkTab/NetworkGraph.cpp" line="188"/>
         <source>&lt;b&gt;Maximum&lt;/b&gt;</source>
         <translation>&lt;b&gt;Maximum&lt;/b&gt;</translation>
     </message>
@@ -4166,8 +4178,8 @@ Uploaden: onbekend</translation>
         <translation>Generic</translation>
     </message>
     <message>
-        <location filename="../types/StatsTreeItem.cpp" line="82"/>
-        <location filename="../types/StatsTreeItem.cpp" line="84"/>
+        <location filename="../types/StatsTreeItem.cpp" line="89"/>
+        <location filename="../types/StatsTreeItem.cpp" line="91"/>
         <location filename="../types/UptimeTreeItem.cpp" line="44"/>
         <location filename="../types/UptimeTreeItem.cpp" line="50"/>
         <source>Never</source>
@@ -4246,14 +4258,14 @@ Uploaden: onbekend</translation>
 <context>
     <name>RealtimeNetworkChart</name>
     <message>
-        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="51"/>
-        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="71"/>
+        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="49"/>
+        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="69"/>
         <source>Download</source>
         <translation>Download</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="55"/>
-        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="74"/>
+        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="53"/>
+        <location filename="../interface/widgets/realtimenetworkchart.cpp" line="72"/>
         <source>Upload</source>
         <translation>Upload</translation>
     </message>
@@ -5594,109 +5606,124 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="229"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="442"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="463"/>
         <source>Use advanced input method</source>
         <translation>Geavanceerde invoermethode gebruiken</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="231"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="444"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="246"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="465"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="485"/>
         <source>enabled</source>
         <translation>ingeschakeld</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="233"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="446"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="248"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="467"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="487"/>
         <source>disabled</source>
         <translation>uitgeschakeld</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="242"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="244"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="483"/>
+        <source>Focus events timeline</source>
+        <translation>Focus gebeurtenissen tijdlijn</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="257"/>
         <source>Show &amp;hardware info</source>
         <translation>Toon &amp;hardware info</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="249"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="264"/>
         <source>&amp;Generate demo data</source>
         <translation>&amp;Genereer demogegevens</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="255"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="270"/>
         <source>&amp;Generate window message</source>
         <translation>&amp;Genereer vensterbericht</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="261"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="276"/>
         <source>Re-upload &amp;website domain metadata</source>
         <translation>Website domeinmetadata opnieuw &amp;uploaden</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="287"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="282"/>
+        <source>Open &amp;login simulator</source>
+        <translation>Open &amp;login-simulator</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="308"/>
         <source>Settings saved!</source>
         <translation>Instellingen opgeslagen!</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="310"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="331"/>
         <source> Check for Updates</source>
         <translation> Controleren op Updates</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="353"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="374"/>
         <source>Uploading Apps</source>
         <translation>Apps uploaden</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="354"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="375"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>De applicaties zijn gemarkeerd om te worden geüpload. Het kan een uur duren voordat ze op de website verschijnen.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="365"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="386"/>
         <source>Time series resync</source>
         <translation>Tijdreeks resynchroniseren</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="366"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="387"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
         <translation>De volgende keer dat je pulst, worden de tijdreeksgegevens van de laatste 2 weken opnieuw gesynchroniseerd met de website.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="388"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="409"/>
         <source>Empty Database</source>
         <translation>Leeg database</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="389"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="410"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Het legen van je lokale database zal alle lokale statistieken vernietigen en je account uitloggen. Er is geen herstel voor dit, ga verder?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="407"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="428"/>
         <source>Upload Computer Info</source>
         <translation>Computergegevens uploaden</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="408"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="429"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Succesvol gestart met de computer profiel upload. De website zal over een paar minuten worden bijgewerkt.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="450"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="471"/>
         <source>Restart required</source>
         <translation>Herstart vereist</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="451"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="472"/>
         <source>Before this setting change can take effect, please restart WhatPulse.</source>
         <translation>Voordat deze instellingswijziging van kracht kan worden, herstart WhatPulse alstublieft.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="515"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="559"/>
         <source>Re-uploading Website Domains</source>
         <translation>Opnieuw uploaden van website domeinen</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="516"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="560"/>
         <source>%1 website domains have been marked for metadata re-upload. They will be uploaded shortly.</source>
         <translation>%1 website domeinen zijn gemarkeerd voor opnieuw uploaden van metadata. Ze worden binnenkort geüpload.</translation>
     </message>
@@ -6100,7 +6127,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>UpdateChecker</name>
     <message>
-        <location filename="../online/updatechecker.cpp" line="79"/>
+        <location filename="../online/updatechecker.cpp" line="88"/>
         <source>Unable to parse update information.</source>
         <translation>Niet in staat om update informatie te verwerken.</translation>
     </message>
@@ -6739,10 +6766,10 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="254"/>
         <location filename="../interface/UptimeTab.cpp" line="271"/>
-        <location filename="../interface/UptimeTab.cpp" line="299"/>
-        <location filename="../interface/UptimeTab.cpp" line="324"/>
-        <location filename="../interface/UptimeTab.cpp" line="346"/>
-        <location filename="../interface/UptimeTab.cpp" line="368"/>
+        <location filename="../interface/UptimeTab.cpp" line="301"/>
+        <location filename="../interface/UptimeTab.cpp" line="328"/>
+        <location filename="../interface/UptimeTab.cpp" line="350"/>
+        <location filename="../interface/UptimeTab.cpp" line="372"/>
         <source>Delete stats?</source>
         <translation>Statistieken wissen?</translation>
     </message>
@@ -6753,18 +6780,18 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="272"/>
-        <location filename="../interface/UptimeTab.cpp" line="300"/>
+        <location filename="../interface/UptimeTab.cpp" line="302"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle (behalve per applicatie) opgenomen uptime statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="325"/>
-        <location filename="../interface/UptimeTab.cpp" line="347"/>
+        <location filename="../interface/UptimeTab.cpp" line="329"/>
+        <location filename="../interface/UptimeTab.cpp" line="351"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle opgenomen uptime-statistieken per applicatie wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="369"/>
+        <location filename="../interface/UptimeTab.cpp" line="373"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Weet u zeker dat u alle geregistreerde uptime statistieken wilt verwijderen? Dit kan niet ongedaan worden gemaakt.</translation>
     </message>
@@ -7362,6 +7389,193 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
 </context>
 <context>
+    <name>WizardLoginSimulator</name>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="17"/>
+        <source>&lt;b&gt;Login simulator&lt;/b&gt; (debug builds only)</source>
+        <translation>&lt;b&gt;Inlog simulator&lt;/b&gt; (alleen debug builds)</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="25"/>
+        <source>Simulate a login scenario to test the wizard flow without connecting to the website.</source>
+        <translation>Simuleer een inlogscenario om de wizardstroom te testen zonder verbinding te maken met de website.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="34"/>
+        <source>Clean account (no backups, no settings)</source>
+        <translation>Schoon account (geen back-ups, geen instellingen)</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="36"/>
+        <source>Client settings only</source>
+        <translation>Alleen clientinstellingen</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="37"/>
+        <source>Database backups (Premium user)</source>
+        <translation>Database back-ups (Premium gebruiker)</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="39"/>
+        <source>Database backups (non-Premium user)</source>
+        <translation>Database back-ups (niet-Premium gebruiker)</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="41"/>
+        <source>Backups + settings (Premium user)</source>
+        <translation>Back-ups + instellingen (Premium gebruiker)</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="43"/>
+        <source>Re-login same account (with backups)</source>
+        <translation>Opnieuw inloggen op hetzelfde account (met back-ups)</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardLoginSimulator.cpp" line="50"/>
+        <source>Simulate Login</source>
+        <translation>Simuleer Inloggen</translation>
+    </message>
+</context>
+<context>
+    <name>WizardRestoreChoicePage</name>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="52"/>
+        <source>We found data from your previous installation. Choose how you'd like to proceed:</source>
+        <translation>We hebben gegevens van uw vorige installatie gevonden. Kies hoe u verder wilt gaan:</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="73"/>
+        <source>Restore a database backup</source>
+        <translation>Herstel een databaseback-up</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="75"/>
+        <source>Download and restore your stats and settings from a backup.</source>
+        <translation>Download en herstel uw statistieken en instellingen vanuit een back-up.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="108"/>
+        <source>Date</source>
+        <translation>Datum</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="108"/>
+        <source>Computer</source>
+        <translation>Computer</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="109"/>
+        <source>Backup Size</source>
+        <translation>Back-up Grootte</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="141"/>
+        <source>Restore previous settings</source>
+        <translation>Herstel vorige instellingen</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="143"/>
+        <source>Applies your previous preferences (pulse interval, appearance, ignored apps, etc.) without restoring stats.</source>
+        <translation>Past uw vorige voorkeuren toe (pulse-interval, uiterlijk, genegeerde apps, enz.) zonder statistieken te herstellen.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="166"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="271"/>
+        <source>Start fresh</source>
+        <translation>Begin opnieuw</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="245"/>
+        <source>No database backups found for this account.</source>
+        <translation>Geen databaseback-ups gevonden voor dit account.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="256"/>
+        <source>No previous settings found for this account.</source>
+        <translation>Geen vorige instellingen gevonden voor dit account.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="269"/>
+        <source>Continue with current data</source>
+        <translation>Doorgaan met de huidige gegevens</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="348"/>
+        <source>Cannot proceed</source>
+        <translation>Kan niet doorgaan</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="349"/>
+        <source>Please select a database backup file from the list before you proceed.</source>
+        <translation>Selecteer een database backup bestand uit de lijst voordat u verder gaat.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="370"/>
+        <source>Contacting website..</source>
+        <translation>Contact opnemen met de website..</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="617"/>
+        <source>Starting download..</source>
+        <translation>Beginnende download..</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="620"/>
+        <source>Premium only</source>
+        <translation>Alleen Premium</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="621"/>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
+        <translation>Sorry, de online backup functie is alleen voor Premium leden. Meer informatie vindt u hier: https://whatpulse.org/premium</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="626"/>
+        <source>Error</source>
+        <translation>Fout</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="627"/>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
+        <translation>Sorry, de website gaf een fout bij het voorbereiden van uw back-up. Probeer het later nog eens. Hier is de fout: %1</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="639"/>
+        <source>Downloading backup..</source>
+        <translation>Het downloaden van back-up..</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="646"/>
+        <source>Download completed!</source>
+        <translation>Download voltooid!</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="649"/>
+        <source>Download failed</source>
+        <translation>Download mislukt</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="655"/>
+        <source>Extracting database..</source>
+        <translation>Uitpakken database..</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="669"/>
+        <source>Extraction failed</source>
+        <translation>Extractie mislukt</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="670"/>
+        <source>Failed to extract the database backup. Please try again.</source>
+        <translation>Het extracteren van de databaseback-up is mislukt. Probeer het opnieuw.</translation>
+    </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="678"/>
+        <source>All done! Click Finish to restart and activate the restored database.</source>
+        <translation>Alles klaar! Klik op Voltooien om opnieuw op te starten en de herstelde database te activeren.</translation>
+    </message>
+</context>
+<context>
     <name>wHTTP</name>
     <message>
         <location filename="../online/whttp.cpp" line="201"/>
@@ -7388,46 +7602,34 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>wizardAuthorizationPage</name>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="27"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="26"/>
         <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>U bent doorverwezen naar de website, volg daar de instructies. Nadat u de inlogprocedure heeft voltooid, zal de client automatisch inloggen en kunt u aan de slag!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="45"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="90"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="44"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="89"/>
         <source>Waiting on authorization via website..</source>
         <translation>Ik wacht op toestemming via de website..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="140"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="139"/>
         <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
         <translation>Als uw browser niet wordt geopend, probeer dan &lt;a href="%1" style="color: %2"&gt;deze link&lt;/a&gt; te klikken of te kopiëren.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="159"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="158"/>
         <source>Our server is currently in maintenance, please check back in a few minutes. Sorry!</source>
         <translation>Onze server is momenteel in onderhoud, gelieve terug te komen in een paar minuten. Sorry!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="172"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="185"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="171"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="184"/>
         <source>Our server producing errors, please check back in a few minutes. Sorry!</source>
         <translation>Onze server heeft fouten, kom alstublieft over een paar minuten terug. Sorry!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="436"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="453"/>
-        <source>Restore Database?</source>
-        <translation>Database herstellen?</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="437"/>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="454"/>
-        <source>Good news! I found your previous client database backups, do you want to restore?</source>
-        <translation>Goed nieuws! Ik vond uw vorige database back-ups, wilt u herstellen?</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="496"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="471"/>
         <source>Authorization process has timed out after %1 hours. Please try again.</source>
         <translation>Authorisatieproces is verlopen na %1 uur. Probeer het opnieuw.</translation>
     </message>
@@ -7449,6 +7651,11 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <source>Register Account</source>
         <translation>Account registreren</translation>
     </message>
+    <message>
+        <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="43"/>
+        <source>Open Login Simulator (Debug)</source>
+        <translation>Open Login Simulator (Debuggen)</translation>
+    </message>
 </context>
 <context>
     <name>wizardMainPagePro</name>
@@ -7464,106 +7671,6 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
     </message>
 </context>
 <context>
-    <name>wizardRestoreSettingsPage</name>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="57"/>
-        <source>Date</source>
-        <translation>Datum</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="57"/>
-        <source>Computer</source>
-        <translation>Computer</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="58"/>
-        <source>Backup Size</source>
-        <translation>Back-up Grootte</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="96"/>
-        <source>Almost there! Select a database from the list below and click Finish to download and restore.</source>
-        <translation>U bent er bijna! Selecteer een database uit de lijst hieronder en klik op Voltooien om de database te downloaden en te herstellen.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="99"/>
-        <source>Download</source>
-        <translation>Download</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="105"/>
-        <source>Almost there! Click Finish to apply your previous client settings.</source>
-        <translation>We zijn er bijna! Klik op Voltooien om uw vorige instellingen toe te passen.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="157"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="164"/>
-        <source>Cannot proceed</source>
-        <translation>Kan niet doorgaan</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="158"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="165"/>
-        <source>Please select a database backup file from the list before you proceed.</source>
-        <translation>Selecteer een database backup bestand uit de lijst voordat u verder gaat.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="181"/>
-        <source>Contacting website..</source>
-        <translation>Contact opnemen met de website..</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="379"/>
-        <source>Starting download..</source>
-        <translation>Beginnende download..</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="382"/>
-        <source>Premium only</source>
-        <translation>Alleen Premium</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="383"/>
-        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
-        <translation>Sorry, de online backup functie is alleen voor Premium leden. Meer informatie vindt u hier: https://whatpulse.org/premium</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="388"/>
-        <source>Error</source>
-        <translation>Fout</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="389"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
-        <translation>Sorry, de website gaf een fout bij het voorbereiden van uw back-up. Probeer het later nog eens. Hier is de fout: %1</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="404"/>
-        <source>Downloading backup..</source>
-        <translation>Het downloaden van back-up..</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="412"/>
-        <source>Download completed!</source>
-        <translation>Download voltooid!</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="420"/>
-        <source>Extracting database..</source>
-        <translation>Uitpakken database..</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="442"/>
-        <source>All done! Please restart the client by clicking Finished.</source>
-        <translation>Klaar! Start de client opnieuw op door op Voltooid te klikken.</translation>
-    </message>
-    <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreSettingsPage.cpp" line="444"/>
-        <source>Finished</source>
-        <translation>Voltooid</translation>
-    </message>
-</context>
-<context>
     <name>wizardSettingsPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="22"/>
@@ -7571,32 +7678,32 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>Kies wat je door WhatPulse wilt laten bijhouden. Je kunt dit op elk moment in de instellingen wijzigen.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="54"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="57"/>
         <source>Keyboard and mouse activity</source>
         <translation>Toetsenbord- en muisactiviteit</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="75"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="81"/>
         <source>Network usage</source>
         <translation>Netwerkgebruik</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="96"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="105"/>
         <source>Computer uptime</source>
         <translation>Computer uptime</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="117"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="129"/>
         <source>Application usage</source>
         <translation>Applicatiegebruik</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="133"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="145"/>
         <source>WhatPulse lets you control what's public and what's private in your &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
         <translation>WhatPulse laat je bepalen wat openbaar en wat privé is in je &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;privacy-instellingen&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="146"/>
+        <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="158"/>
         <source>Want website tracking? Install the &lt;a href="https://whatpulse.org/go/client-download-browser-extensions" style="color: %1"&gt;browser extension&lt;/a&gt;.</source>
         <translation>Wil je website-tracking? Installeer de &lt;a href="https://whatpulse.org/go/client-download-browser-extensions" style="color: %1"&gt;browserextensie&lt;/a&gt;.</translation>
     </message>
