@@ -1579,7 +1579,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="36"/>
       <source>Words</source>
-      <translation type="finished"/>
+      <translation type="finished">Words</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="86"/>
@@ -1617,7 +1617,7 @@ Please check your permissions on: %2</translation>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="112"/>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="128"/>
       <source>Words:</source>
-      <translation type="finished"/>
+      <translation type="finished">Words:</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="97"/>
@@ -1739,7 +1739,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="149"/>
       <source>Unable to generate chart image. Please check permissions on:</source>
-      <translation type="finished"/>
+      <translation type="finished">Unable to generate chart image. Please check permissions on:</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="225"/>
@@ -1764,7 +1764,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="229"/>
       <source>Year</source>
-      <translation type="finished"/>
+      <translation type="finished">Year</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="234"/>
@@ -1774,12 +1774,12 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="239"/>
       <source>Chart</source>
-      <translation type="finished"/>
+      <translation type="finished">Chart</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="242"/>
       <source>Data</source>
-      <translation type="finished"/>
+      <translation type="finished">Data</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="267"/>
@@ -1811,7 +1811,7 @@ Please check your permissions on: %2</translation>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="722"/>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="802"/>
       <source>Words</source>
-      <translation type="finished"/>
+      <translation type="finished">Words</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputhistorypage.cpp" line="268"/>
@@ -1912,12 +1912,12 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="269"/>
       <source>Heat map</source>
-      <translation type="finished"/>
+      <translation type="finished">Heat map</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="272"/>
       <source>Data</source>
-      <translation type="finished"/>
+      <translation type="finished">Data</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="816"/>
@@ -2067,12 +2067,12 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputmousepage.cpp" line="140"/>
       <source>Heat map</source>
-      <translation type="finished"/>
+      <translation type="finished">Heat map</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputmousepage.cpp" line="143"/>
       <source>Data</source>
-      <translation type="finished"/>
+      <translation type="finished">Data</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputmousepage.cpp" line="299"/>
@@ -2157,12 +2157,12 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/ExportWindow/inputpage.cpp" line="23"/>
       <source>History of Keys, Words, Clicks, Scrolls, and Distance</source>
-      <translation type="finished"/>
+      <translation type="finished">History of Keys, Words, Clicks, Scrolls, and Distance</translation>
     </message>
     <message>
       <location filename="../interface/ExportWindow/inputpage.cpp" line="27"/>
       <source>Application Keys, Words, Clicks, Scrolls, and Distance</source>
-      <translation type="finished"/>
+      <translation type="finished">Application Keys, Words, Clicks, Scrolls, and Distance</translation>
     </message>
     <message>
       <location filename="../interface/ExportWindow/inputpage.cpp" line="29"/>
@@ -2242,7 +2242,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/ExportWindow/inputpage.cpp" line="206"/>
       <source>History of keys, words, clicks, scrolls, and distance between '%1' and '%2' </source>
-      <translation type="finished"/>
+      <translation type="finished">History of keys, words, clicks, scrolls, and distance between '%1' and '%2' </translation>
     </message>
     <message>
       <location filename="../interface/ExportWindow/inputpage.cpp" line="246"/>
@@ -3188,12 +3188,12 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="34"/>
       <source>Map</source>
-      <translation type="finished"/>
+      <translation type="finished">Map</translation>
     </message>
     <message>
       <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="36"/>
       <source>Data</source>
-      <translation type="finished"/>
+      <translation type="finished">Data</translation>
     </message>
     <message>
       <location filename="../interface/NetworkTab/NetworkCountry.cpp" line="54"/>
@@ -3683,7 +3683,7 @@ Available: %2</translation>
     <message>
       <location filename="../interface/OverviewTab.cpp" line="331"/>
       <source>Words</source>
-      <translation type="finished"/>
+      <translation type="finished">Words</translation>
     </message>
     <message>
       <location filename="../interface/OverviewTab.cpp" line="336"/>
@@ -3754,12 +3754,12 @@ Upload: unknown</translation>
     <message>
       <location filename="../interface/widgets/PausedBanner.cpp" line="36"/>
       <source>WhatPulse is paused. No keyboard, mouse, network, or uptime activity is being recorded right now.</source>
-      <translation type="finished"/>
+      <translation type="finished">WhatPulse is paused. No keyboard, mouse, network, or uptime activity is being recorded right now.</translation>
     </message>
     <message>
       <location filename="../interface/widgets/PausedBanner.cpp" line="42"/>
       <source>Resume collecting</source>
-      <translation type="finished"/>
+      <translation type="finished">Resume collecting</translation>
     </message>
   </context>
   <context>
@@ -3977,12 +3977,12 @@ Upload: unknown</translation>
     <message>
       <location filename="../interface/settings/proxyconfigdialog.cpp" line="7"/>
       <source>Proxy settings</source>
-      <translation type="finished"/>
+      <translation type="finished">Proxy settings</translation>
     </message>
     <message>
       <location filename="../interface/settings/proxyconfigdialog.cpp" line="17"/>
       <source>Configure a proxy if your network requires one to reach the WhatPulse servers. Changes apply immediately.</source>
-      <translation type="finished"/>
+      <translation type="finished">Configure a proxy if your network requires one to reach the WhatPulse servers. Changes apply immediately.</translation>
     </message>
     <message>
       <location filename="../interface/settings/proxyconfigdialog.cpp" line="28"/>
@@ -5431,27 +5431,27 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="30"/>
       <source>No proxy (direct connection)</source>
-      <translation type="finished"/>
+      <translation type="finished">No proxy (direct connection)</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="31"/>
       <source>Manual proxy configuration</source>
-      <translation type="finished"/>
+      <translation type="finished">Manual proxy configuration</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="32"/>
       <source>Use system proxy settings</source>
-      <translation type="finished"/>
+      <translation type="finished">Use system proxy settings</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="38"/>
       <source>HTTP</source>
-      <translation type="finished"/>
+      <translation type="finished">HTTP</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="39"/>
       <source>SOCKS5</source>
-      <translation type="finished"/>
+      <translation type="finished">SOCKS5</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="42"/>
@@ -5467,17 +5467,17 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="55"/>
       <source>proxy.example.com</source>
-      <translation type="finished"/>
+      <translation type="finished">proxy.example.com</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="56"/>
       <source>8080</source>
-      <translation type="finished"/>
+      <translation type="finished">8080</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="114"/>
       <source>Type:</source>
-      <translation type="finished"/>
+      <translation type="finished">Type:</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="116"/>
@@ -5507,7 +5507,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="319"/>
       <source>Please fill out both the proxy hostname and a valid port number before testing.</source>
-      <translation type="finished"/>
+      <translation type="finished">Please fill out both the proxy hostname and a valid port number before testing.</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsproxy.cpp" line="325"/>
@@ -5776,17 +5776,17 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="119"/>
       <source>Export data from the current page or open the Export Wizard</source>
-      <translation type="finished"/>
+      <translation type="finished">Export data from the current page or open the Export Wizard</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="128"/>
       <source>Reset</source>
-      <translation type="finished"/>
+      <translation type="finished">Reset</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="131"/>
       <source>Reset data on the current page</source>
-      <translation type="finished"/>
+      <translation type="finished">Reset data on the current page</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="223"/>
@@ -5846,7 +5846,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="368"/>
       <source>Collection paused — no activity is being recorded</source>
-      <translation type="finished"/>
+      <translation type="finished">Collection paused — no activity is being recorded</translation>
     </message>
     <message>
       <location filename="../interface/widgets/statusbarwidget.cpp" line="374"/>
@@ -5910,7 +5910,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/tasktraypopup.cpp" line="396"/>
       <source>Open WhatPulse</source>
-      <translation type="finished"/>
+      <translation type="finished">Open WhatPulse</translation>
     </message>
     <message>
       <location filename="../interface/tasktraypopup.cpp" line="402"/>
@@ -6095,12 +6095,12 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/tasktraypopup.cpp" line="255"/>
       <source>Paused</source>
-      <translation type="finished"/>
+      <translation type="finished">Paused</translation>
     </message>
     <message>
       <location filename="../interface/tasktraypopup.cpp" line="255"/>
       <source>Tracking</source>
-      <translation type="finished"/>
+      <translation type="finished">Tracking</translation>
     </message>
   </context>
   <context>
@@ -7379,7 +7379,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/WebsiteStatsWindow.cpp" line="49"/>
       <source>Words</source>
-      <translation type="finished"/>
+      <translation type="finished">Words</translation>
     </message>
     <message>
       <location filename="../interface/WebsiteStatsWindow.cpp" line="77"/>
@@ -7676,7 +7676,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="44"/>
       <source>Configure proxy...</source>
-      <translation type="finished"/>
+      <translation type="finished">Configure proxy...</translation>
     </message>
     <message>
       <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="58"/>
@@ -7699,7 +7699,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/AccountTabWizardPro.cpp" line="161"/>
       <source>Configure proxy...</source>
-      <translation type="finished"/>
+      <translation type="finished">Configure proxy...</translation>
     </message>
   </context>
   <context>
