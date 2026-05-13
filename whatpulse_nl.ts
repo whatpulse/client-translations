@@ -208,32 +208,32 @@ Je kan nu weer pulsen.</translation>
         <translation>Er ging iets verkeer tijdens de token reset:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="574"/>
+        <location filename="../interface/AccountTab.cpp" line="575"/>
         <source>Premium Membership</source>
         <translation>Premium Lidmaatschap</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="575"/>
+        <location filename="../interface/AccountTab.cpp" line="576"/>
         <source>Your premium membership has just been activated! Close and re-open the WhatPulse window to activate all features.</source>
         <translation>Uw premium lidmaatschap is zojuist geactiveerd! Sluit en heropen het WhatPulse-venster om alle functies te activeren.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="582"/>
+        <location filename="../interface/AccountTab.cpp" line="583"/>
         <source>Refresh Account Status</source>
         <translation>Ververs Account Info</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="583"/>
+        <location filename="../interface/AccountTab.cpp" line="584"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Er ging iets verkeer tijdens de account ververs:</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="591"/>
+        <location filename="../interface/AccountTab.cpp" line="592"/>
         <source>Backup Started</source>
         <translation>Back-up gestart</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="592"/>
+        <location filename="../interface/AccountTab.cpp" line="593"/>
         <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>Er is met succes een back-up gestart. Deze wordt op de achtergrond uitgevoerd en zal een paar minuten duren.</translation>
     </message>
@@ -1329,6 +1329,224 @@ Controleer uw permissies op: %2</translation>
     </message>
 </context>
 <context>
+    <name>GeekStatTranslator</name>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="331"/>
+        <source>Active Profile Name</source>
+        <translation>Actieve Profielnaam</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="335"/>
+        <source>Unpulsed Keys</source>
+        <translation>Ongepulsed toetsen</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="337"/>
+        <source>Unpulsed Clicks</source>
+        <translation>Ongepulsed kliks</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="340"/>
+        <source>Unpulsed Download</source>
+        <translation>Ongepulseerd Download</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="348"/>
+        <source>Unpulsed Mouse Distance</source>
+        <translation>Ongepulseerde muisafstand</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="350"/>
+        <source>Unpulsed Mouse Scrolls</source>
+        <translation>Ongepulseerde muisbewegingen</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="353"/>
+        <source>Unpulsed Upload</source>
+        <translation>Ongepulseerd Upload</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="361"/>
+        <source>Unpulsed Uptime</source>
+        <translation>Ongepulseerd Uptime</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="363"/>
+        <source>Unpulsed Click Rate</source>
+        <translation>Ongepulseerd klik percentage</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="365"/>
+        <source>Unpulsed Key Rate</source>
+        <translation>Ongepulseerd toetsen-percentage</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="368"/>
+        <source>Unpulsed Download Rate</source>
+        <translation>Ongepulseerd download ratio</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="371"/>
+        <source>Unpulsed Upload Rate</source>
+        <translation>Ongepulseerd upload ratio</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="383"/>
+        <source>Current Click Rate</source>
+        <translation>Huidige Klikfrequentie</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="391"/>
+        <source>Current Key Rate</source>
+        <translation>Huidig Toetsfrequentie</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="400"/>
+        <source>Current Download Rate</source>
+        <translation>Huidige Downloads ratio</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="409"/>
+        <source>Current Upload Rate</source>
+        <translation>Huidige Upload ratio</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="411"/>
+        <source>Current Uptime</source>
+        <translation>Huidige Uptime</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="415"/>
+        <source>Total Keys</source>
+        <translation>Totaal Toetsen</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="417"/>
+        <source>Total Clicks</source>
+        <translation>Totaal Kliks</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="419"/>
+        <source>Total Download</source>
+        <translation>Totaal Download</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="421"/>
+        <source>Total Upload</source>
+        <translation>Totaal Upload</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="423"/>
+        <source>Total Uptime</source>
+        <translation>Totale Uptime</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="426"/>
+        <source>Total Mouse Distance</source>
+        <translation>Totale afstand van de muis</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="428"/>
+        <source>Total Mouse Scrolls</source>
+        <translation>Totaal aantal muisbewegingen</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="431"/>
+        <source>Total Click Rate</source>
+        <translation>Totaal Klikfrequentie</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="433"/>
+        <source>Total Key Rate</source>
+        <translation>Totaal Toetsfrequentie</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="437"/>
+        <source>Total Download Rate</source>
+        <translation>Totaal Download ratio</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="441"/>
+        <source>Total Upload Rate</source>
+        <translation>Totaal Upload ratio</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="443"/>
+        <source>Total Words</source>
+        <translation>Totaal Aantal Woorden</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="447"/>
+        <source>Rank Keys</source>
+        <translation>Rang Toetsen</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="449"/>
+        <source>Rank Clicks</source>
+        <translation>Rang Kliks</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="451"/>
+        <source>Rank Download</source>
+        <translation>Rang Download</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="453"/>
+        <source>Rank Mouse Distance</source>
+        <translation>Rangschikking Muisafstand</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="455"/>
+        <source>Rank Mouse Scrolls</source>
+        <translation>Rank Mouse Scrolls</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="457"/>
+        <source>Rank Upload</source>
+        <translation>Rang Upload</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="459"/>
+        <source>Rank Uptime</source>
+        <translation>Rang Uptime</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="463"/>
+        <source>Today Keys</source>
+        <translation>Toetsen van vandaag</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="465"/>
+        <source>Today Clicks</source>
+        <translation>Vandaag Klikken</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="467"/>
+        <source>Today Download</source>
+        <translation>Vandaag Download</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="469"/>
+        <source>Today Upload</source>
+        <translation>Vandaag Upload</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="471"/>
+        <source>Today Mouse Distance</source>
+        <translation>Vandaag Muisafstand</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="473"/>
+        <source>Today Mouse Scrolls</source>
+        <translation>Vandaag scrolt de muis</translation>
+    </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="475"/>
+        <source>Today Words</source>
+        <translation>Vandaag Woorden</translation>
+    </message>
+</context>
+<context>
     <name>GeekWindowLayout</name>
     <message>
         <location filename="../interface/widgets/geekwindowlayout.cpp" line="170"/>
@@ -2050,17 +2268,17 @@ Controleer uw permissies op: %2</translation>
         <translation>Verwijder ouder dan 3 maanden</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="912"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="958"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exporteren naar .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="917"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="963"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exporteren naar .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="922"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="968"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;Export Wizard</translation>
     </message>
@@ -2085,44 +2303,44 @@ Controleer uw permissies op: %2</translation>
         <translation>Kliks</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="644"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="658"/>
         <source>Left</source>
         <translation>Links</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="645"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="659"/>
         <source>Right</source>
         <translation>Rechts</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="646"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="660"/>
         <source>Middle</source>
         <translation>Midden</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="314"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="679"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="693"/>
         <source>Scrolls</source>
         <translation>Rollen</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputmousepage.cpp" line="322"/>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="694"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="708"/>
         <source>Distance</source>
         <translation>Afstand</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="801"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="840"/>
         <source>None</source>
         <translation>Geen</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="838"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="879"/>
         <source>Prune Mouse Heatmap</source>
         <translation>Opruimen Muis Heatmap</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputmousepage.cpp" line="839"/>
+        <location filename="../interface/InputTab/inputmousepage.cpp" line="880"/>
         <source>By not pruning your mouse heatmap, your database will get pretty large and possibly slow WhatPulse down. Stop pruning?</source>
         <translation>Door je muis heatmap niet te opruimen zal je database behoorlijk groot worden en WhatPulse mogelijk vertragen. Stoppen met opruimen?</translation>
     </message>
@@ -2527,27 +2745,27 @@ Controleer uw permissies op: %2</translation>
         <translation>Pulse afgeslagen! Uw laatste pulse was %1 seconden geleden, probeer opnieuw over 10 seconden.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="386"/>
+        <location filename="../stats/localstats.cpp" line="387"/>
         <source>Error while pulsing!</source>
         <translation>Fout bij pulsen!</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1252"/>
+        <location filename="../stats/localstats.cpp" line="1254"/>
         <source>Subscribe now</source>
         <translation>Abonneer nu</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1256"/>
+        <location filename="../stats/localstats.cpp" line="1258"/>
         <source>Your premium has expired, but the premium features remain active for %1 more days.</source>
         <translation>Je premium is verlopen, maar de premiumfuncties blijven nog %1 dagen actief.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1261"/>
+        <location filename="../stats/localstats.cpp" line="1263"/>
         <source>Your premium has expired, but the premium features remain active for 1 more day.</source>
         <translation>Je premium is verlopen, maar de premiumfuncties blijven nog 1 dag actief.</translation>
     </message>
     <message>
-        <location filename="../stats/localstats.cpp" line="1265"/>
+        <location filename="../stats/localstats.cpp" line="1267"/>
         <source>Your premium has expired, but the premium features remain active for today.</source>
         <translation>Je premium is verlopen, maar de premiumfuncties blijven vandaag actief.</translation>
     </message>
@@ -4171,6 +4389,12 @@ Uploaden: onbekend</translation>
         <source>This pattern is very broad and may exclude many websites.</source>
         <translation>Dit patroon is zeer breed en kan veel websites uitsluiten.</translation>
     </message>
+    <message>
+        <location filename="../util/geekstattranslator.cpp" line="155"/>
+        <location filename="../util/geekstattranslator.cpp" line="302"/>
+        <source>unknown</source>
+        <translation>onbekend</translation>
+    </message>
 </context>
 <context>
     <name>QuaGzipFile</name>
@@ -4762,339 +4986,92 @@ Uploaden: onbekend</translation>
 <context>
     <name>SettingsGeekWindow</name>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="81"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="82"/>
         <source>Add label</source>
         <translation>Label toevoegen</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="93"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="518"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="535"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="94"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="416"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
         <source>Select label to edit..</source>
         <translation>Selecteer label om te bewerken..</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="105"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
         <source>Insert statistic:</source>
         <translation>Voeg statistiek in:</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="106"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="403"/>
-        <source>Active Profile Name</source>
-        <translation>Actieve Profielnaam</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="107"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="405"/>
-        <source>Unpulsed Keys</source>
-        <translation>Ongepulsed toetsen</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="108"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="407"/>
-        <source>Unpulsed Clicks</source>
-        <translation>Ongepulsed kliks</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="109"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="409"/>
-        <source>Unpulsed Download</source>
-        <translation>Ongepulseerd Download</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="110"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="411"/>
-        <source>Unpulsed Mouse Distance</source>
-        <translation>Ongepulseerde muisafstand</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="111"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
-        <source>Unpulsed Mouse Scrolls</source>
-        <translation>Ongepulseerde muisbewegingen</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="112"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="415"/>
-        <source>Unpulsed Upload</source>
-        <translation>Ongepulseerd Upload</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="113"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="417"/>
-        <source>Unpulsed Uptime</source>
-        <translation>Ongepulseerd Uptime</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="114"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="419"/>
-        <source>Unpulsed Click Rate</source>
-        <translation>Ongepulseerd klik percentage</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="115"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="421"/>
-        <source>Unpulsed Key Rate</source>
-        <translation>Ongepulseerd toetsen-percentage</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="116"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
-        <source>Unpulsed Download Rate</source>
-        <translation>Ongepulseerd download ratio</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="117"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="425"/>
-        <source>Unpulsed Upload Rate</source>
-        <translation>Ongepulseerd upload ratio</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="118"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="427"/>
-        <source>Current Click Rate</source>
-        <translation>Huidige Klikfrequentie</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="119"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="429"/>
-        <source>Current Key Rate</source>
-        <translation>Huidig Toetsfrequentie</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="120"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="431"/>
-        <source>Current Download Rate</source>
-        <translation>Huidige Downloads ratio</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="121"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="433"/>
-        <source>Current Upload Rate</source>
-        <translation>Huidige Upload ratio</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="122"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="435"/>
-        <source>Current Uptime</source>
-        <translation>Huidige Uptime</translation>
-    </message>
-    <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="123"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="437"/>
-        <source>Total Keys</source>
-        <translation>Totaal Toetsen</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="124"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="439"/>
-        <source>Total Clicks</source>
-        <translation>Totaal Kliks</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="125"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="441"/>
-        <source>Total Download</source>
-        <translation>Totaal Download</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="126"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="443"/>
-        <source>Total Upload</source>
-        <translation>Totaal Upload</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="127"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="445"/>
-        <source>Total Uptime</source>
-        <translation>Totale Uptime</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="128"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="455"/>
-        <source>Total Mouse Distance</source>
-        <translation>Totale afstand van de muis</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="129"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="457"/>
-        <source>Total Mouse Scrolls</source>
-        <translation>Totaal aantal muisbewegingen</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="130"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="447"/>
-        <source>Total Click Rate</source>
-        <translation>Totaal Klikfrequentie</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="131"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="449"/>
-        <source>Total Key Rate</source>
-        <translation>Totaal Toetsfrequentie</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="132"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="451"/>
-        <source>Total Download Rate</source>
-        <translation>Totaal Download ratio</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="133"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="453"/>
-        <source>Total Upload Rate</source>
-        <translation>Totaal Upload ratio</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="459"/>
-        <source>Rank Keys</source>
-        <translation>Rang Toetsen</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="136"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="461"/>
-        <source>Rank Clicks</source>
-        <translation>Rang Kliks</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="137"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="463"/>
-        <source>Rank Download</source>
-        <translation>Rang Download</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="138"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="465"/>
-        <source>Rank Mouse Distance</source>
-        <translation>Rangschikking Muisafstand</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="139"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="467"/>
-        <source>Rank Mouse Scrolls</source>
-        <translation>Rank Mouse Scrolls</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="140"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="469"/>
-        <source>Rank Upload</source>
-        <translation>Rang Upload</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="141"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="471"/>
-        <source>Rank Uptime</source>
-        <translation>Rang Uptime</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="143"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="473"/>
-        <source>Today Keys</source>
-        <translation>Toetsen van vandaag</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="144"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="475"/>
-        <source>Today Clicks</source>
-        <translation>Vandaag Klikken</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="145"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="477"/>
-        <source>Today Download</source>
-        <translation>Vandaag Download</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="146"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="479"/>
-        <source>Today Upload</source>
-        <translation>Vandaag Upload</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="147"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="481"/>
-        <source>Today Mouse Distance</source>
-        <translation>Vandaag Muisafstand</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="148"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="483"/>
-        <source>Today Mouse Scrolls</source>
-        <translation>Vandaag scrolt de muis</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="149"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="485"/>
         <source>Insert formula</source>
         <translation>Formule invoegen</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="160"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="135"/>
         <source>Help &amp; formula syntax</source>
         <translation>Help &amp; formulesyntaxis</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="168"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="172"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="143"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="147"/>
         <source>Delete label</source>
         <translation>Label verwijderen</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="206"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="214"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="303"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="181"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="189"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="278"/>
         <source>Reset to default</source>
         <translation>Terugzetten naar standaard</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="218"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="193"/>
         <source>Background color: </source>
         <translation>Achtergrond kleur: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="222"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="197"/>
         <source>Font color: </source>
         <translation>Kleur van het lettertype: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="234"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="209"/>
         <source>Font size: </source>
         <translation>Lettergrootte: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="242"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="217"/>
         <source>Close on double click</source>
         <translation>Sluiten bij dubbelklikken</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="248"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="223"/>
         <source>Put on top of all windows</source>
         <translation>Zet boven op alle vensters</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="257"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="232"/>
         <source>Snap to grid</source>
         <translation>Op raster vastklikken</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="281"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="256"/>
         <source>Transparency: </source>
         <translation>Doorzichtigheid: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="291"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="266"/>
         <source>Call to Center</source>
         <translation>Oproep naar Midden</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="623"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="521"/>
         <source>Reset to default?</source>
         <translation>Terugzetten naar standaard?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="624"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="522"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>Wil je het Geek Venster terugzetten naar standaard?
@@ -5974,81 +5951,81 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <location filename="../interface/widgets/timeperiod.cpp" line="206"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="217"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="324"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="428"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="456"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="435"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="463"/>
         <source>real-time</source>
         <translation>real-time</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="101"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="154"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="430"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="450"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="458"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="437"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="457"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="465"/>
         <source>today</source>
         <translation>vandaag</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="106"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="158"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="432"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="460"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="439"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="467"/>
         <source>yesterday</source>
         <translation>gisteren</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="111"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="162"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="434"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="462"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="441"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="469"/>
         <source>week</source>
         <translation>week</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="116"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="166"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="436"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="464"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="443"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="471"/>
         <source>2 weeks</source>
         <translation>2 weken</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="121"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="170"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="438"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="466"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="445"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="473"/>
         <source>month</source>
         <translation>maand</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="126"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="174"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="440"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="468"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="447"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="475"/>
         <source>3 months</source>
         <translation>3 maanden</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="130"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="178"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="442"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="470"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="449"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="477"/>
         <source>6 months</source>
         <translation>6 maanden</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="134"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="182"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="444"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="472"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="451"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="479"/>
         <source>year</source>
         <translation>jaar</translation>
     </message>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="138"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="186"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="446"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="474"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="453"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="481"/>
         <source>all</source>
         <translation>alles</translation>
     </message>
@@ -6056,8 +6033,8 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <location filename="../interface/widgets/timeperiod.cpp" line="143"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="189"/>
         <location filename="../interface/widgets/timeperiod.cpp" line="333"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="448"/>
-        <location filename="../interface/widgets/timeperiod.cpp" line="476"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="455"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="483"/>
         <source>custom</source>
         <translation>anders</translation>
     </message>
@@ -6070,22 +6047,22 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="541"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="548"/>
         <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>Selecteer de begin- en einddatum van de periode waarvan u de statistieken wilt zien.</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="543"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="550"/>
         <source>Save</source>
         <translation>Opslaan</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="547"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="554"/>
         <source>From:</source>
         <translation>Van:</translation>
     </message>
     <message>
-        <location filename="../interface/widgets/timeperiod.cpp" line="559"/>
+        <location filename="../interface/widgets/timeperiod.cpp" line="566"/>
         <source>To:</source>
         <translation>Naar:</translation>
     </message>
@@ -6816,331 +6793,330 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
 <context>
     <name>Utils</name>
     <message>
-        <location filename="../utils.cpp" line="160"/>
+        <location filename="../utils.cpp" line="150"/>
         <source>&lt;1 min</source>
         <translation>&lt;1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="160"/>
+        <location filename="../utils.cpp" line="150"/>
         <source>Less than a minute</source>
         <translation>Minder dan een minuut</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="167"/>
+        <location filename="../utils.cpp" line="157"/>
         <source>1 year</source>
         <translation>1 jaar</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="169"/>
+        <location filename="../utils.cpp" line="159"/>
         <source>%1 years</source>
         <translation>%1 jaar</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="175"/>
+        <location filename="../utils.cpp" line="165"/>
         <source>1 day</source>
         <translation>1 dag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="177"/>
+        <location filename="../utils.cpp" line="167"/>
         <source>%1 days</source>
         <translation>%1 dagen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="183"/>
+        <location filename="../utils.cpp" line="173"/>
         <source>1 hour</source>
         <translation>1 uur</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="185"/>
+        <location filename="../utils.cpp" line="175"/>
         <source>%1 hours</source>
         <translation>%1 uur</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="191"/>
+        <location filename="../utils.cpp" line="181"/>
         <source>1 min</source>
         <translation>1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="193"/>
+        <location filename="../utils.cpp" line="183"/>
         <source>1 minute</source>
         <translation>1 minuut</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="196"/>
+        <location filename="../utils.cpp" line="186"/>
         <source>%1 min</source>
         <translation>%1 min</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="198"/>
+        <location filename="../utils.cpp" line="188"/>
         <source>%1 minutes</source>
         <translation>%1 minuten</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="322"/>
-        <location filename="../utils.cpp" line="443"/>
+        <location filename="../utils.cpp" line="312"/>
+        <location filename="../utils.cpp" line="433"/>
         <source>None</source>
         <translation>Geen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="340"/>
+        <location filename="../utils.cpp" line="330"/>
         <source>kilometers</source>
         <translation>kilometers</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="342"/>
+        <location filename="../utils.cpp" line="332"/>
         <source>kilometer</source>
         <translation>kilometer</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="360"/>
+        <location filename="../utils.cpp" line="350"/>
         <source>meters</source>
         <translation>meters</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="362"/>
+        <location filename="../utils.cpp" line="352"/>
         <source>meter</source>
         <translation>meter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="375"/>
+        <location filename="../utils.cpp" line="365"/>
         <source>centimeters</source>
         <translation>centimeters</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="377"/>
+        <location filename="../utils.cpp" line="367"/>
         <source>centimeter</source>
         <translation>centimeter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="398"/>
+        <location filename="../utils.cpp" line="388"/>
         <source>miles</source>
         <translation>mijlen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="400"/>
+        <location filename="../utils.cpp" line="390"/>
         <source>mile</source>
         <translation>mijl</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="429"/>
-        <location filename="../utils.cpp" line="435"/>
+        <location filename="../utils.cpp" line="419"/>
+        <location filename="../utils.cpp" line="425"/>
         <source>inch</source>
         <translation>inch</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="651"/>
+        <location filename="../utils.cpp" line="652"/>
         <source>th</source>
         <translation>de</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="654"/>
+        <location filename="../utils.cpp" line="655"/>
         <source>st</source>
         <translation>ste</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="656"/>
+        <location filename="../utils.cpp" line="657"/>
         <source>nd</source>
         <translation>de</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="658"/>
+        <location filename="../utils.cpp" line="659"/>
         <source>rd</source>
         <translation>de</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="700"/>
+        <location filename="../utils.cpp" line="701"/>
         <source>Sunday</source>
         <translation>Zondag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="702"/>
+        <location filename="../utils.cpp" line="703"/>
         <source>Monday</source>
         <translation>Maandag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="704"/>
+        <location filename="../utils.cpp" line="705"/>
         <source>Tuesday</source>
         <translation>Dinsdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="706"/>
+        <location filename="../utils.cpp" line="707"/>
         <source>Wednesday</source>
         <translation>Woensdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="708"/>
+        <location filename="../utils.cpp" line="709"/>
         <source>Thursday</source>
         <translation>Donderdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="710"/>
+        <location filename="../utils.cpp" line="711"/>
         <source>Friday</source>
         <translation>Vrijdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="712"/>
+        <location filename="../utils.cpp" line="713"/>
         <source>Saturday</source>
         <translation>Zaterdag</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1577"/>
-        <location filename="../utils.cpp" line="1603"/>
+        <location filename="../utils.cpp" line="847"/>
+        <location filename="../utils.cpp" line="874"/>
         <source>Save as...</source>
         <translation>Opslaan als...</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1590"/>
-        <location filename="../utils.cpp" line="1618"/>
+        <location filename="../utils.cpp" line="862"/>
+        <location filename="../utils.cpp" line="891"/>
         <source>Export Failed</source>
         <translation>Export mislukt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1591"/>
-        <location filename="../utils.cpp" line="1619"/>
+        <location filename="../utils.cpp" line="863"/>
+        <location filename="../utils.cpp" line="892"/>
         <source>Opening export file failed! Please try again in another directory.</source>
         <translation>Exportbestand openen mislukt! Probeer het opnieuw in een andere map.</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1629"/>
+        <location filename="../utils.cpp" line="901"/>
         <source>Backspace</source>
         <translation>Backspace</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1632"/>
+        <location filename="../utils.cpp" line="904"/>
         <source>Enter</source>
         <translation>Enter</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1635"/>
+        <location filename="../utils.cpp" line="907"/>
         <source>Tab</source>
         <translation>Tab</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1638"/>
+        <location filename="../utils.cpp" line="910"/>
         <source>Capslock</source>
         <translation>Capslock</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1641"/>
+        <location filename="../utils.cpp" line="913"/>
         <source>Left Shift</source>
         <translation>Linker Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1644"/>
+        <location filename="../utils.cpp" line="916"/>
         <source>Left Control</source>
         <translation>Links Controle</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1647"/>
+        <location filename="../utils.cpp" line="919"/>
         <source>Left Alt</source>
         <translation>Links Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1650"/>
+        <location filename="../utils.cpp" line="922"/>
         <source>Right Alt</source>
         <translation>Rechts Alt</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1653"/>
+        <location filename="../utils.cpp" line="925"/>
         <source>Right Control</source>
         <translation>Rechter Controle</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1656"/>
+        <location filename="../utils.cpp" line="928"/>
         <source>Right Shift</source>
         <translation>Rechter Shift</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1659"/>
-        <location filename="../utils.cpp" line="2432"/>
+        <location filename="../utils.cpp" line="931"/>
+        <location filename="../utils.cpp" line="1710"/>
         <source>Left</source>
         <translation>Links</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1662"/>
+        <location filename="../utils.cpp" line="934"/>
         <source>Down</source>
         <translation>Beneden</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1665"/>
-        <location filename="../utils.cpp" line="2430"/>
+        <location filename="../utils.cpp" line="937"/>
+        <location filename="../utils.cpp" line="1708"/>
         <source>Right</source>
         <translation>Rechts</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1668"/>
+        <location filename="../utils.cpp" line="940"/>
         <source>Up</source>
         <translation>Omhoog</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1671"/>
+        <location filename="../utils.cpp" line="943"/>
         <source>Insert</source>
         <translation>Insert</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1674"/>
+        <location filename="../utils.cpp" line="946"/>
         <source>Home</source>
         <translation>Home</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1677"/>
+        <location filename="../utils.cpp" line="949"/>
         <source>Page Up</source>
         <translation>Page Up</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1680"/>
+        <location filename="../utils.cpp" line="952"/>
         <source>Delete</source>
         <translation>Delete</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1683"/>
+        <location filename="../utils.cpp" line="955"/>
         <source>End</source>
         <translation>End</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1686"/>
+        <location filename="../utils.cpp" line="958"/>
         <source>Page Down</source>
         <translation>Page Down</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1689"/>
+        <location filename="../utils.cpp" line="961"/>
         <source>Escape</source>
         <translation>Escape</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1731"/>
+        <location filename="../utils.cpp" line="1003"/>
         <source>Space</source>
         <translation>Space</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1848"/>
+        <location filename="../utils.cpp" line="1122"/>
         <source>Unknown</source>
         <translation>Onbekend</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2389"/>
+        <location filename="../utils.cpp" line="1667"/>
         <source>Upgrade to Premium to unlock this feature</source>
         <translation>Upgrade naar Premium om deze functie te ontgrendelen</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2434"/>
+        <location filename="../utils.cpp" line="1712"/>
         <source>Middle</source>
         <translation>Midden</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2436"/>
+        <location filename="../utils.cpp" line="1714"/>
+        <location filename="../utils.cpp" line="1716"/>
         <source>Other</source>
         <translation>Anders</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="2450"/>
+        <location filename="../utils.cpp" line="1730"/>
         <source>Button</source>
         <translation>Knop</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1213"/>
-        <location filename="../utils.cpp" line="1476"/>
-        <location filename="../utils.cpp" line="1966"/>
+        <location filename="../utils.cpp" line="1243"/>
         <source>unknown</source>
         <translation>onbekend</translation>
     </message>
@@ -7651,7 +7627,7 @@ Dit zal alle aangepaste lay-outs resetten!</translation>
         <translation>Onze server heeft fouten, kom alstublieft over een paar minuten terug. Sorry!</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="471"/>
+        <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="472"/>
         <source>Authorization process has timed out after %1 hours. Please try again.</source>
         <translation>Authorisatieproces is verlopen na %1 uur. Probeer het opnieuw.</translation>
     </message>
