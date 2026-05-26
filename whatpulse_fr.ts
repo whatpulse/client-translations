@@ -4,7 +4,7 @@
 <context>
     <name>AccountSetupWindow</name>
     <message>
-        <location filename="../interface/AccountSetupWindow.cpp" line="64"/>
+        <location filename="../interface/AccountSetupWindow.cpp" line="63"/>
         <source>WhatPulse Setup</source>
         <translation>Configuration de WhatPulse</translation>
     </message>
@@ -12,179 +12,179 @@
 <context>
     <name>AccountTab</name>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="54"/>
+        <location filename="../interface/AccountTab.cpp" line="53"/>
         <source>Username:</source>
         <translation>Pseudonyme :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="57"/>
+        <location filename="../interface/AccountTab.cpp" line="56"/>
         <source>UserID:</source>
         <translation>ID utilisateur :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="60"/>
+        <location filename="../interface/AccountTab.cpp" line="59"/>
         <source>Computer:</source>
         <translation>Ordinateur :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="63"/>
+        <location filename="../interface/AccountTab.cpp" line="62"/>
         <source>Email:</source>
         <translation>Email :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="68"/>
+        <location filename="../interface/AccountTab.cpp" line="67"/>
         <source>Premium:</source>
         <translation>Premium :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="106"/>
+        <location filename="../interface/AccountTab.cpp" line="105"/>
         <source>Last Backup:</source>
         <translation>Dernière sauvegarde :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="74"/>
+        <location filename="../interface/AccountTab.cpp" line="73"/>
         <source>Upgrade to Premium</source>
         <translation>Passer à la version Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="81"/>
+        <location filename="../interface/AccountTab.cpp" line="80"/>
         <source>Start Backup</source>
         <translation>Lancer une Backup</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="98"/>
+        <location filename="../interface/AccountTab.cpp" line="97"/>
         <source>Today</source>
         <translation>Aujourd'hui</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="101"/>
+        <location filename="../interface/AccountTab.cpp" line="100"/>
         <source>day ago</source>
         <translation>il y a un jour</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="104"/>
+        <location filename="../interface/AccountTab.cpp" line="103"/>
         <source>days ago</source>
         <translation>il y a quelques jours</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="149"/>
+        <location filename="../interface/AccountTab.cpp" line="148"/>
         <source>Total Keys:</source>
         <translation>Frappes Totales :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="153"/>
+        <location filename="../interface/AccountTab.cpp" line="152"/>
         <source>Total Clicks:</source>
         <translation>Clicks totaux :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="157"/>
+        <location filename="../interface/AccountTab.cpp" line="156"/>
         <source>Total Download:</source>
         <translation>Descendant au Total :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="161"/>
+        <location filename="../interface/AccountTab.cpp" line="160"/>
         <source>Total Upload:</source>
         <translation>Ascendant Total :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="165"/>
+        <location filename="../interface/AccountTab.cpp" line="164"/>
         <source>Total Uptime:</source>
         <translation>Temps de fonctionnement cumulé :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="169"/>
+        <location filename="../interface/AccountTab.cpp" line="168"/>
         <source>Total Mouse Scrolls:</source>
         <translation>Total des défilements de la souris :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="174"/>
+        <location filename="../interface/AccountTab.cpp" line="173"/>
         <source>Total Mouse Distance:</source>
         <translation>Distance totale de la souris :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="209"/>
+        <location filename="../interface/AccountTab.cpp" line="208"/>
         <source> &amp;View Online Stats</source>
         <translation> &amp;Voir ses Statistiques en Ligne</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="221"/>
+        <location filename="../interface/AccountTab.cpp" line="220"/>
         <source> &amp;Log out</source>
         <translation> &amp;Se déconnecter</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="233"/>
+        <location filename="../interface/AccountTab.cpp" line="232"/>
         <source> &amp;Reset Token</source>
         <translation> &amp;Réinitialiser le Token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="246"/>
+        <location filename="../interface/AccountTab.cpp" line="245"/>
         <source> Change &amp;Password</source>
         <translation> Modifier votre &amp;Mot de Passe</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="258"/>
+        <location filename="../interface/AccountTab.cpp" line="257"/>
         <source> Refresh &amp;Account</source>
         <translation> Actualisez votre &amp;Compte</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="364"/>
-        <location filename="../interface/AccountTab.cpp" line="373"/>
-        <location filename="../interface/AccountTab.cpp" line="382"/>
-        <location filename="../interface/AccountTab.cpp" line="391"/>
-        <location filename="../interface/AccountTab.cpp" line="400"/>
-        <location filename="../interface/AccountTab.cpp" line="409"/>
-        <location filename="../interface/AccountTab.cpp" line="419"/>
+        <location filename="../interface/AccountTab.cpp" line="363"/>
+        <location filename="../interface/AccountTab.cpp" line="372"/>
+        <location filename="../interface/AccountTab.cpp" line="381"/>
+        <location filename="../interface/AccountTab.cpp" line="390"/>
+        <location filename="../interface/AccountTab.cpp" line="399"/>
+        <location filename="../interface/AccountTab.cpp" line="408"/>
+        <location filename="../interface/AccountTab.cpp" line="418"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="426"/>
+        <location filename="../interface/AccountTab.cpp" line="425"/>
         <source>Yes (expires at %1)</source>
         <translation>Oui (expire à %1)</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="430"/>
+        <location filename="../interface/AccountTab.cpp" line="429"/>
         <source>No</source>
         <translation>Non</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="440"/>
+        <location filename="../interface/AccountTab.cpp" line="439"/>
         <source>Log Out</source>
         <translation>Se déconnecter</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="441"/>
+        <location filename="../interface/AccountTab.cpp" line="440"/>
         <source>Logging out of your account will reset your unpulsed statistics if you login to a different account (database is preserved) and restart the Setup Assistant.</source>
         <translation>Se déconnecter entraînera la réinitialisation de vos statistiques non-pulsées si vous vous reconnectez depuis un autre compte (la base de données est préservée) et réinitiez l'Assistant d'Installation.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="445"/>
+        <location filename="../interface/AccountTab.cpp" line="444"/>
         <source>Do you want to continue?</source>
         <translation>Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="470"/>
+        <location filename="../interface/AccountTab.cpp" line="469"/>
         <source>Change Password</source>
         <translation>Modifier votre Mot de passe</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="471"/>
+        <location filename="../interface/AccountTab.cpp" line="470"/>
         <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Vous ne pouvez pas modifier votre mot de passe à l'intérieur du client. Déconnectez-vous, puis reconnectez-vous avec la même adresse email et nom de machine pour pouvoir modifier votre mot de passe dans ce client. Vos stats seront conservées si vous utilisez les mêmes informations de connexion.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="481"/>
+        <location filename="../interface/AccountTab.cpp" line="480"/>
         <location filename="../interface/AccountTab.cpp" line="513"/>
         <source>Reset your token</source>
         <translation>Réinitialisez votre Token</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="482"/>
+        <location filename="../interface/AccountTab.cpp" line="481"/>
         <source>Resetting your token will reset your local statistics and allow you to pulse again.</source>
         <translation>Réinitialiser votre token va réinitialiser toutes vos statistiques locales et vous autorisera à pulser de nouveau.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="484"/>
+        <location filename="../interface/AccountTab.cpp" line="483"/>
         <source>Are you sure?</source>
         <translation>Êtes-vous sûr(e) ?</translation>
     </message>
@@ -208,32 +208,32 @@ Vous pouvez continuer de pulser.</translation>
         <translation>Une erreur est survenue lors de la réinitialisation de votre token :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="575"/>
+        <location filename="../interface/AccountTab.cpp" line="576"/>
         <source>Premium Membership</source>
         <translation>Abonnement Premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="576"/>
+        <location filename="../interface/AccountTab.cpp" line="577"/>
         <source>Your premium membership has just been activated! Close and re-open the WhatPulse window to activate all features.</source>
         <translation>Votre adhésion premium vient d'être activée ! Fermez et rouvrez la fenêtre WhatPulse pour activer toutes les fonctionnalités.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="583"/>
+        <location filename="../interface/AccountTab.cpp" line="584"/>
         <source>Refresh Account Status</source>
         <translation>Actualiser le statut de votre Compte</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="584"/>
+        <location filename="../interface/AccountTab.cpp" line="585"/>
         <source>Something went wrong while refreshing your account data:</source>
         <translation>Un problème est survenu lors de l'actualisation des données de votre compte :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="592"/>
+        <location filename="../interface/AccountTab.cpp" line="593"/>
         <source>Backup Started</source>
         <translation>Sauvegarde démarrée</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTab.cpp" line="593"/>
+        <location filename="../interface/AccountTab.cpp" line="594"/>
         <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>La sauvegarde a été lancée avec succès. Elle s'exécutera en arrière-plan et prendra quelques minutes.</translation>
     </message>
@@ -279,188 +279,188 @@ Vous pouvez continuer de pulser.</translation>
 <context>
     <name>Application</name>
     <message>
-        <location filename="../application.cpp" line="312"/>
+        <location filename="../application.cpp" line="319"/>
         <source>No system tray</source>
         <translation>Aucune barre d'état système</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="313"/>
+        <location filename="../application.cpp" line="320"/>
         <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Impossible de détecter une barre d'état système, et j'en ai besoin pour fonctionner.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="331"/>
+        <location filename="../application.cpp" line="338"/>
         <source>AES functions not available. Are libeay32.dll and ssleay32.dll present? If not, try reinstalling!</source>
         <translation>Les fonctions de l'AES ne sont pas disponibles. Est-ce que libeay32.dll et ssleay32.dll sont présents ? Si ça n'est pas le cas, essayez de réinstaller !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="335"/>
+        <location filename="../application.cpp" line="342"/>
         <source>AES functions not available. Is OpenSSL library present?</source>
         <translation>Les fonctions de l'AES ne sont pas disponibles. La librarie OpenSSL est-elle présente ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="338"/>
+        <location filename="../application.cpp" line="345"/>
         <source>AES failure</source>
         <translation>Échec de l'AES</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1425"/>
+        <location filename="../application.cpp" line="1440"/>
         <source>&amp;Open Window</source>
         <translation>&amp;Ouvrir la Fenêtre</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1429"/>
+        <location filename="../application.cpp" line="1444"/>
         <source>&amp;Toggle Geek Window</source>
         <translation>&amp;Basculer vers la fenêtre Geek</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1433"/>
+        <location filename="../application.cpp" line="1448"/>
         <source>&amp;Open Settings</source>
         <translation>&amp;Ouvrir les Paramètres</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1437"/>
+        <location filename="../application.cpp" line="1452"/>
         <source>&amp;Check for Updates</source>
         <translation>&amp;Vérifier les Mises à jour</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1441"/>
+        <location filename="../application.cpp" line="1456"/>
         <source>&amp;Pulse!</source>
         <translation>&amp;Pulser !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1444"/>
+        <location filename="../application.cpp" line="1459"/>
         <source>&amp;View Online Stats</source>
         <translation>&amp;Voir ses Statistiques en Ligne</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1448"/>
+        <location filename="../application.cpp" line="1463"/>
         <source>&amp;Quit WhatPulse</source>
         <translation>&amp;Quitter WhatPulse</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1564"/>
+        <location filename="../application.cpp" line="1579"/>
         <source>Uptime</source>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1548"/>
+        <location filename="../application.cpp" line="1563"/>
         <source>Keys</source>
         <translation>Frappes</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="985"/>
+        <location filename="../application.cpp" line="1000"/>
         <source>New: Track your browsing activity with Web Insights! Install the browser extension to get started.</source>
         <translation>Nouveau : Suivez votre activité de navigation avec Web Insights ! Installez l'extension du navigateur pour commencer.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="987"/>
+        <location filename="../application.cpp" line="1002"/>
         <source>Get extension</source>
         <translation>Obtenir l'extension</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1552"/>
+        <location filename="../application.cpp" line="1567"/>
         <source>Clicks</source>
         <translation>Clics</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1556"/>
+        <location filename="../application.cpp" line="1571"/>
         <source>Download</source>
         <translation>Téléchargement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1559"/>
+        <location filename="../application.cpp" line="1574"/>
         <source>Upload</source>
         <translation>Téléversement</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1567"/>
+        <location filename="../application.cpp" line="1582"/>
         <source>Not logged in!</source>
         <translation>Non connecté !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1961"/>
+        <location filename="../application.cpp" line="1997"/>
         <source>Pulsing Disabled!</source>
         <translation>Pulsage Désactivé !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="1962"/>
+        <location filename="../application.cpp" line="1998"/>
         <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
         <translation>Le paramètre "Fonctionnement hors-connexion" est activé. Cela empêche au client de se connecter, empêchant aussi le pulsage. Désactivez ce paramètre pour pouvoir à nouveau pulser.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2323"/>
+        <location filename="../application.cpp" line="2360"/>
         <source>You have enabled Portable Mode. This should only be used when placing WhatPulse on a portable media, like an USB drive.
 Do you want to continue?</source>
         <translation>Vous avez activé le Mode Portable. Celui-ci ne devrait être activé que lorsque WhatPulse se situe sur un média portable, tel qu'une clé USB. Voulez-vous continuer ?</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2327"/>
-        <location filename="../application.cpp" line="2359"/>
-        <location filename="../application.cpp" line="2377"/>
-        <location filename="../application.cpp" line="2395"/>
-        <location filename="../application.cpp" line="2442"/>
-        <location filename="../application.cpp" line="2456"/>
+        <location filename="../application.cpp" line="2364"/>
+        <location filename="../application.cpp" line="2396"/>
+        <location filename="../application.cpp" line="2414"/>
+        <location filename="../application.cpp" line="2432"/>
+        <location filename="../application.cpp" line="2479"/>
+        <location filename="../application.cpp" line="2493"/>
         <source>Portable Mode</source>
         <translation>Mode Portable</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2356"/>
+        <location filename="../application.cpp" line="2393"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2374"/>
+        <location filename="../application.cpp" line="2411"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Disabling Portable Mode.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Désactivation du Mode Portable.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2396"/>
-        <location filename="../application.cpp" line="2457"/>
+        <location filename="../application.cpp" line="2433"/>
+        <location filename="../application.cpp" line="2494"/>
         <source>I rearranged some database files and need to restart myself, see you in a bit!</source>
         <translation>J'ai réarrangé certains fichiers de base de données et je dois redémarrer, à bientôt !</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2422"/>
+        <location filename="../application.cpp" line="2459"/>
         <source>Copying the database to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie de la base de données vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2439"/>
+        <location filename="../application.cpp" line="2476"/>
         <source>Copying the statistics file to %1 failed! Check write permissions.
 Keeping Portable Mode enabled.</source>
         <translation>La copie des fichiers statistiques vers %1 à échouée ! Veillez à ce que je détienne la permission d'écriture.
 Maintien du Mode Portable activé.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2903"/>
-        <location filename="../application.cpp" line="2916"/>
+        <location filename="../application.cpp" line="2940"/>
+        <location filename="../application.cpp" line="2953"/>
         <source>Premium features disabled</source>
         <translation>Fonctionnalités premium désactivées</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2904"/>
+        <location filename="../application.cpp" line="2941"/>
         <source>I was not able to contact the website to verify your premium membership for 96 hours. I have disabled the premium features. Go back online to enable again.</source>
         <translation>Je n'ai pas pu contacter le site web pour vérifier votre abonnement premium depuis 96 heures. J'ai donc désactivé les fonctionnalités premium. Rétablissez la connexion à internet pour retrouver l'accès à ces fonctionnalités.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="2917"/>
+        <location filename="../application.cpp" line="2954"/>
         <source>Your premium membership has expired so I have disabled the premium features. You can reactivate your membership via the website.</source>
         <translation>Votre abonnement premium a expiré, donc j'ai désactivé les fonctionnalités premium. Vous pouvez réactiver votre souscription depuis le site web.</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4742"/>
+        <location filename="../application.cpp" line="4809"/>
         <source>Browser extension connection</source>
         <translation>Connexion de l'extension du navigateur</translation>
     </message>
     <message>
-        <location filename="../application.cpp" line="4744"/>
+        <location filename="../application.cpp" line="4811"/>
         <source>%1 browser extension wants to connect.</source>
         <translation>L'extension du navigateur %1 souhaite se connecter.</translation>
     </message>
@@ -468,259 +468,259 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>ApplicationsSyncWindow</name>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="43"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="43"/>
         <source>Applications Sync Status</source>
         <translation>Statut de la synchronisation des applications</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="75"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="75"/>
         <source>These are all applications discovered on your system. Applications are only synchronized to the website when they are actively used. Unused applications will remain local until you use them.</source>
         <translation>Voici toutes les applications découvertes sur votre système. Les applications ne sont synchronisées sur le site que lorsqu'elles sont activement utilisées. Les applications non utilisées resteront locales jusqu'à ce que vous les utilisiez.</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="89"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="89"/>
         <source>Search...</source>
         <translation>Recherche...</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="135"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="135"/>
         <source>Refresh</source>
         <translation>Rafraîchir</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="136"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="136"/>
         <source>Refresh the list of applications</source>
         <translation>Rafraîchir la liste des applications</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="144"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="144"/>
         <source>Copy (CSV)</source>
         <translation>Copier (CSV)</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="145"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="145"/>
         <source>Copy the list to clipboard as CSV</source>
         <translation>Copier la liste dans le presse-papiers en tant que CSV</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="181"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="181"/>
         <source>Icon</source>
         <translation>Icône</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="181"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="181"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="181"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="181"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="181"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="181"/>
         <source>Path</source>
         <translation>Chemin</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="181"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="181"/>
         <source>Last used</source>
         <translation>Dernière utilisation</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="182"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="182"/>
         <source>Status</source>
         <translation>Statut</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="225"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="225"/>
         <source>0 pending</source>
         <translation>0 en attente</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="108"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="347"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="349"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="108"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="347"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="349"/>
         <source>Synced</source>
         <translation>Synchronisé</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="99"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="353"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="99"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="353"/>
         <source>Pending</source>
         <translation>En attente</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="101"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="101"/>
         <source>Show apps waiting to be synced</source>
         <translation>Afficher les applications en attente de synchronisation</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="110"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="110"/>
         <source>Show apps already synced to server</source>
         <translation>Afficher les applications déjà synchronisées avec le serveur</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="117"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="356"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="117"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="356"/>
         <source>Unused</source>
         <translation>Non utilisé</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="120"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="120"/>
         <source>Show apps not yet used (no pending stats)</source>
         <translation>Afficher les applications non encore utilisées (aucune statistique en attente)</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="182"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="182"/>
         <source>Category</source>
         <translation>Catégorie</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="182"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="182"/>
         <source>Tags</source>
         <translation>Étiquettes</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="207"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="207"/>
         <source>Sync Log (newest first)</source>
         <translation>Journal de synchronisation (le plus récent en premier)</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="231"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="774"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="231"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="774"/>
         <source>Show Sync Log</source>
         <translation>Afficher le journal de synchronisation</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="279"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="279"/>
         <source>Pending: %1 | Synced: %2 | Unused: %3</source>
         <translation>En attente : %1 | Synchronisé : %2 | Inutilisé : %3</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="326"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="335"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="326"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="335"/>
         <source>Not enriched yet</source>
         <translation>Pas encore enrichi</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="360"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="360"/>
         <source>Synced and enriched with server data</source>
         <translation>Synchronisé et enrichi avec les données du serveur</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="472"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="472"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="478"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="478"/>
         <source>Just now</source>
         <translation>À l'instant</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="482"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="482"/>
         <source>%1min ago</source>
         <translation>il y a %1 min</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="486"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="486"/>
         <source>%1h ago</source>
         <translation>il y a %1h</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="489"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="489"/>
         <source>Yesterday</source>
         <translation>Hier</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="492"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="492"/>
         <source>%1 days ago</source>
         <translation>il y a %1 jours</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="521"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="521"/>
         <source>Reveal in Finder</source>
         <translation>Afficher dans le Finder</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="523"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="523"/>
         <source>Reveal in Explorer</source>
         <translation>Afficher dans l'Explorateur</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="525"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="525"/>
         <source>Open File Location</source>
         <translation>Ouvrir l'Emplacement du Fichier</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="531"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="531"/>
         <source>Copy Path</source>
         <translation>Copier le chemin</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="543"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="543"/>
         <source>Mark for Re-upload</source>
         <translation>Marquer pour re-téléchargement</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="545"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="545"/>
         <source>Reset sync status so this app will be uploaded again</source>
         <translation>Réinitialiser le statut de synchronisation pour que cette application soit à nouveau téléchargée</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="551"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="551"/>
         <source>Open Online Profile</source>
         <translation>Ouvrir le Profil en Ligne</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="583"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="593"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="602"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="583"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="593"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="602"/>
         <source>File Not Found</source>
         <translation>Fichier introuvable</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="584"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="594"/>
-        <location filename="../interface/applicationssyncwindow.cpp" line="603"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="584"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="594"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="603"/>
         <source>The file does not exist:
 %1</source>
         <translation>Le fichier n'existe pas :
 %1</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="657"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="657"/>
         <source>Not yet</source>
         <translation>Pas encore</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="658"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="658"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Cette application n'est pas encore enregistrée sur le site web, revenez dans environ une heure.</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="703"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="703"/>
         <source>Copied</source>
         <translation>Copié</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="704"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="704"/>
         <source>List copied to clipboard as CSV (%1 rows).</source>
         <translation>Liste copiée dans le presse-papiers en tant que CSV (%1 lignes).</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="769"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="769"/>
         <source>Hide Sync Log</source>
         <translation>Masquer le journal de synchronisation</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="825"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="825"/>
         <source>Marked for Re-upload</source>
         <translation>Marqué pour re-téléchargement</translation>
     </message>
     <message>
-        <location filename="../interface/applicationssyncwindow.cpp" line="826"/>
+        <location filename="../interface/windows/applicationssyncwindow.cpp" line="826"/>
         <source>'%1' has been marked for re-upload. It can take up to 15 minutes for the application to be synced again.</source>
         <translation>'%1' a été marqué pour re-téléchargement. Cela peut prendre jusqu'à 15 minutes pour que l'application soit à nouveau synchronisée.</translation>
     </message>
@@ -728,27 +728,27 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>BrowserPairingDialog</name>
     <message>
-        <location filename="../interface/BrowserPairingDialog.cpp" line="19"/>
+        <location filename="../interface/windows/BrowserPairingDialog.cpp" line="19"/>
         <source>WhatPulse - Browser extension connection</source>
         <translation>WhatPulse - Connexion de l'extension du navigateur</translation>
     </message>
     <message>
-        <location filename="../interface/BrowserPairingDialog.cpp" line="51"/>
+        <location filename="../interface/windows/BrowserPairingDialog.cpp" line="51"/>
         <source>Browser extension connection</source>
         <translation>Connexion de l'extension du navigateur</translation>
     </message>
     <message>
-        <location filename="../interface/BrowserPairingDialog.cpp" line="67"/>
+        <location filename="../interface/windows/BrowserPairingDialog.cpp" line="67"/>
         <source>The WhatPulse browser extension in &lt;b&gt;%1&lt;/b&gt; wants to connect and send your website insights.&lt;br&gt;&lt;br&gt;Do you want to allow this connection?</source>
         <translation>L'extension de navigateur WhatPulse dans &lt;b&gt;%1&lt;/b&gt; souhaite se connecter et envoyer vos analyses de site web.&lt;br&gt;&lt;br&gt;Souhaitez-vous autoriser cette connexion ?</translation>
     </message>
     <message>
-        <location filename="../interface/BrowserPairingDialog.cpp" line="85"/>
+        <location filename="../interface/windows/BrowserPairingDialog.cpp" line="85"/>
         <source>Deny</source>
         <translation>Refuser</translation>
     </message>
     <message>
-        <location filename="../interface/BrowserPairingDialog.cpp" line="93"/>
+        <location filename="../interface/windows/BrowserPairingDialog.cpp" line="93"/>
         <source>Allow</source>
         <translation>Autoriser</translation>
     </message>
@@ -756,7 +756,7 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>BugReportWindow</name>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="65"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="65"/>
         <source>Report a Bug</source>
         <translation>Signaler un Bug</translation>
     </message>
@@ -764,67 +764,67 @@ Maintien du Mode Portable activé.</translation>
 <context>
     <name>BugReportWindowTab</name>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="98"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="98"/>
         <source>Send Report</source>
         <translation>Envoyer le signalement</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="107"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="107"/>
         <source>Page</source>
         <translation>Page</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="111"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="111"/>
         <source>Send Database?</source>
         <translation>Envoyer la Base de Données ?</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="118"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="118"/>
         <source>Description:</source>
         <translation>Description :</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="136"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="136"/>
         <source>Send Database</source>
         <translation>Envoyer la Base de Données</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="137"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="137"/>
         <source>When you select 'Send Database' - a copy of your local database will be sent to the WhatPulse developers so they can more easily reproduce issues.&lt;br /&gt;&lt;br /&gt;Your database is: </source>
         <translation>Lorsque vous choissisez d'envoyer la Base de Données, une copie de votre base de données locale sera envoyée aux développeurs de WhatPulse pour que ceux-ci puissent reproduire plus aisément le problème.&lt;br /&gt;&lt;br /&gt;Votre base de données est : </translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="146"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="146"/>
         <source>No Description</source>
         <translation>Aucune Description</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="147"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="147"/>
         <source>Please enter a description of the issue you are running into.</source>
         <translation>Merci d'entrer une description du problème rencontré.</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="192"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="192"/>
         <source>Thanks!</source>
         <translation>Merci !</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="193"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="193"/>
         <source>Bug Report successfully sent, thanks for reporting!</source>
         <translation>Rapport de bug envoyé avec succès. Merci pour le signalement !</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="198"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="198"/>
         <source>Uh oh</source>
         <translation>Oh non</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="199"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="199"/>
         <source>Something went wrong while reporting your bug. Please try again!&lt;br /&gt;&lt;br /&gt;</source>
         <translation>Une erreur est survenue lors de l'envoi de votre rapport. Merci de réessayer !&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/BugReportWindow.cpp" line="213"/>
+        <location filename="../interface/windows/BugReportWindow.cpp" line="213"/>
         <source>Other</source>
         <translation>Autre</translation>
     </message>
@@ -1016,59 +1016,68 @@ Maintien du Mode Portable activé.</translation>
     </message>
 </context>
 <context>
+    <name>DataTable</name>
+    <message>
+        <location filename="../interface/widgets/datatable.cpp" line="274"/>
+        <location filename="../interface/widgets/datatable.cpp" line="275"/>
+        <source>Remove</source>
+        <translation>Supprimer</translation>
+    </message>
+</context>
+<context>
     <name>Database</name>
     <message>
-        <location filename="../util/database.cpp" line="47"/>
-        <location filename="../util/database.cpp" line="60"/>
-        <location filename="../util/database.cpp" line="476"/>
+        <location filename="../util/database.cpp" line="48"/>
+        <location filename="../util/database.cpp" line="61"/>
+        <location filename="../util/database.cpp" line="477"/>
         <source>Database failure</source>
         <translation>Échec de la base de données</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="48"/>
+        <location filename="../util/database.cpp" line="49"/>
         <source>Unable to setup database: %1
 
 Please check your permissions on: %2</source>
         <translation>Impossible de mettre en place la base de données : %1 Vérifiez vos permissions sur : %2</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="61"/>
+        <location filename="../util/database.cpp" line="62"/>
         <source>Unable to setup database: %1</source>
         <translation>Impossible de mettre en place la base de données : %1</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="477"/>
+        <location filename="../util/database.cpp" line="478"/>
         <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
         <translation>La base de données '%1' est en lecture-seule. WhatPulse ne peut pas stocker de statistiques tant que ce problème n'est pas résolu.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="520"/>
-        <location filename="../util/database.cpp" line="549"/>
+        <location filename="../util/database.cpp" line="521"/>
+        <location filename="../util/database.cpp" line="550"/>
         <source>Critical database error!</source>
         <translation>Erreur critique de la base de données !</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="521"/>
+        <location filename="../util/database.cpp" line="522"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest.</source>
         <translation>Quelque chose de vraiment grave est arrivé à la base de données et à la base de données de sauvegarde. La seule façon de récupérer est de créer une nouvelle base de données. Cela n'affectera pas vos statistiques non pulsées, mais effacera le reste.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="550"/>
+        <location filename="../util/database.cpp" line="551"/>
         <source>Something really bad happened to the database and the backup database. The only way to recover is to create a new database. This will not effect your unpulsed stats, but will wipe the rest. Continue?</source>
         <translation>Quelque chose de très mauvais s'est produit sur votre base de données et celle de secours. Le seul moyen de récupérer est de créer une nouvelle base de données. Cela n'affectera pas vos statistiques non-pulsées, mais effacera le reste. Poursuivre ?</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="687"/>
+        <location filename="../util/database.cpp" line="690"/>
         <source>Version</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="688"/>
+        <location filename="../util/database.cpp" line="691"/>
         <source>It is not supported to downgrade the WhatPulse client. This database requires at least WhatPulse version %1. Please install the latest version and try again.</source>
         <translation>Il n'est pas possible de rétrograder le client WhatPulse. Cette base de données nécessite au moins la version %1 de WhatPulse. Veuillez installer la dernière version et réessayer.</translation>
     </message>
     <message>
-        <location filename="../util/database.cpp" line="912"/>
+        <location filename="../util/database.cpp" line="927"/>
         <source>Database Maintenance</source>
         <translation>Maintenance de la base de données</translation>
     </message>
@@ -1076,12 +1085,12 @@ Please check your permissions on: %2</source>
 <context>
     <name>DatabaseBackupUtility</name>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="211"/>
+        <location filename="../database/databasebackuputility.cpp" line="229"/>
         <source>Zipping database..</source>
         <translation>Archivage de la base de données..</translation>
     </message>
     <message>
-        <location filename="../database/databasebackuputility.cpp" line="237"/>
+        <location filename="../database/databasebackuputility.cpp" line="255"/>
         <source>Starting upload..</source>
         <translation>Envoi en cours..</translation>
     </message>
@@ -1089,67 +1098,75 @@ Please check your permissions on: %2</source>
 <context>
     <name>DatabaseBackupWindow</name>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="27"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="27"/>
         <source>WhatPulse Database Backup</source>
         <translation>Backup de la base de données WhatPulse</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="40"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="40"/>
         <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>Bonjour par ici ! D'après mes archives, cela fait &lt;b&gt;%1&lt;/b&gt; jours depuis la dernière sauvegarde de votre base de données. Veuillez prendre une minute pour remédier à cela. Cette fenêtre se fermera automatiquement une fois que j'aurai terminé.</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="53"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="53"/>
         <source>Your database is &lt;b&gt;%1&lt;/b&gt;, which should take around &lt;b&gt;%2&lt;/b&gt; to upload.</source>
         <translation>Votre base de données est &lt;b&gt;%1&lt;/b&gt;, ce qui devrait prendre environ &lt;b&gt;%2&lt;/b&gt; à s'envoyer.</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="75"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="75"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="83"/>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="100"/>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="114"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="83"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="100"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="114"/>
         <source>Start Backup</source>
         <translation>Lancer une Backup</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="118"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="118"/>
         <source>Checking with website..</source>
         <translation>Vérification avec le site web..</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="132"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="132"/>
         <source>Premium only</source>
         <translation>Réservé aux premiums</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="133"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="133"/>
         <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Désolé, les sauvegardes en ligne sont réservées aux membres Premium. Plus d'informations : https://whatpulse.org/premium</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="143"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="143"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="144"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="144"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Désolé, le site web a retourné une erreur lors de la préparation de votre sauvegarde. Réessayez plus tard. Détails de l'erreur : %1</translation>
     </message>
     <message>
-        <location filename="../interface/DatabaseBackupWindow.cpp" line="158"/>
+        <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="158"/>
         <source>All done!</source>
         <translation>C'est tout bon !</translation>
     </message>
 </context>
 <context>
+    <name>EditableLabel</name>
+    <message>
+        <location filename="../interface/widgets/labels/editablelabel.cpp" line="35"/>
+        <source>Rename</source>
+        <translation>Renommer</translation>
+    </message>
+</context>
+<context>
     <name>ExportWindow</name>
     <message>
-        <location filename="../interface/ExportWindow.cpp" line="19"/>
+        <location filename="../interface/ExportWindow/ExportWindow.cpp" line="19"/>
         <source>WhatPulse Export Wizard</source>
         <translation>Assistant d'Exportation WhatPulse</translation>
     </message>
@@ -1315,12 +1332,12 @@ Please check your permissions on: %2</source>
 <context>
     <name>FactsWindow</name>
     <message>
-        <location filename="../interface/FactsWindow.cpp" line="16"/>
+        <location filename="../interface/windows/FactsWindow.cpp" line="16"/>
         <source>Facts</source>
         <translation>Faits</translation>
     </message>
     <message>
-        <location filename="../interface/FactsWindow.cpp" line="84"/>
+        <location filename="../interface/windows/FactsWindow.cpp" line="85"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
@@ -1554,196 +1571,196 @@ Please check your permissions on: %2</source>
 <context>
     <name>HardwareInfoWindow</name>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="20"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="20"/>
         <source>Hardware &amp; System Information</source>
         <translation>Informations sur le matériel et le système</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="34"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="34"/>
         <source>Hardware &amp; system information</source>
         <translation>Informations sur le matériel et le système</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="40"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="40"/>
         <source>Property</source>
         <translation>Propriété</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="40"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="40"/>
         <source>Value</source>
         <translation>Valeur</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="50"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="50"/>
         <source>Refresh</source>
         <translation>Rafraîchir</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="56"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="56"/>
         <source>Copy to Clipboard</source>
         <translation>Copier dans le presse-papiers</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="86"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="86"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="87"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="87"/>
         <source>Hostname</source>
         <translation>Nom d'hôte</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="88"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="88"/>
         <source>Operating system</source>
         <translation>Système d'exploitation</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="89"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="89"/>
         <source>Platform</source>
         <translation>Plateforme</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="90"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="90"/>
         <source>Computer model</source>
         <translation>Modèle de l'ordinateur</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="91"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="91"/>
         <source>Boot time</source>
         <translation>Temps de démarrage</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="95"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="95"/>
         <source>Processor</source>
         <translation>Processeur</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="96"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="96"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="99"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="99"/>
         <source>Memory</source>
         <translation>Mémoire</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="101"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="101"/>
         <source>Total</source>
         <translation>Total</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="102"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="102"/>
         <source>Available</source>
         <translation>Disponible</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="105"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="105"/>
         <source>Graphics</source>
         <translation>Graphiques</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="106"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="106"/>
         <source>Video card</source>
         <translation>Carte vidéo</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="109"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="109"/>
         <source>Displays</source>
         <translation>Affichages</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="114"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="114"/>
         <source>Display %1</source>
         <translation>Affichage %1</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="122"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="122"/>
         <source>Geometry</source>
         <translation>Géométrie</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="128"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="128"/>
         <source>Primary</source>
         <translation>Principal</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="129"/>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="161"/>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="163"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="129"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="161"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="163"/>
         <source>Yes</source>
         <translation>Oui</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="129"/>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="161"/>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="163"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="129"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="161"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="163"/>
         <source>No</source>
         <translation>Non</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="130"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="130"/>
         <source>Scale factor</source>
         <translation>Facteur d'échelle</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="135"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="135"/>
         <source>Network</source>
         <translation>Réseau</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="136"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="136"/>
         <source>Public IP</source>
         <translation>IP publique</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="138"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="138"/>
         <source>TCP connections</source>
         <translation>Connexions TCP</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="149"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="149"/>
         <source>Interface %1</source>
         <translation>Interface %1</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="158"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="158"/>
         <source>Description</source>
         <translation>Description</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="159"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="159"/>
         <source>MAC</source>
         <translation>MAC</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="160"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="160"/>
         <source>IPs</source>
         <translation>IPs</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="161"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="161"/>
         <source>WiFi</source>
         <translation>WiFi</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="162"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="162"/>
         <source>Connected</source>
         <translation>Connecté</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="167"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="167"/>
         <source>Keyboard</source>
         <translation>Clavier</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="176"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="176"/>
         <source>Mouse</source>
         <translation>Souris</translation>
     </message>
     <message>
-        <location filename="../interface/HardwareInfoWindow.cpp" line="185"/>
+        <location filename="../interface/windows/HardwareInfoWindow.cpp" line="185"/>
         <source>Trackpad</source>
         <translation>Trackpad</translation>
     </message>
@@ -2100,119 +2117,119 @@ Please check your permissions on: %2</source>
 <context>
     <name>InputKeyboardPage</name>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="97"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="95"/>
         <source>Key</source>
         <translation>Frappes</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="97"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="95"/>
         <source>Amount</source>
         <translation>Montant</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="130"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="128"/>
         <source>Layout:</source>
         <translation>Affichage :</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="166"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="165"/>
         <source>Enable Heatmap</source>
         <translation>Activer la carte thermique</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="816"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="821"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exporter au format .csv</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="821"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="826"/>
         <source>&amp;Export to .png</source>
         <translation>&amp;Exporter au format .png</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="826"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="831"/>
         <source>&amp;Export Wizard</source>
         <translation>&amp;assistant d'exportation</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="180"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="179"/>
         <source>Share</source>
         <translation>Partager</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="198"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="197"/>
         <source>Application:</source>
         <translation>Application :</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="204"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="207"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="210"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="213"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="545"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="546"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="595"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="596"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="203"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="206"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="209"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="212"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="549"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="550"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="599"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="600"/>
         <source>All</source>
         <translation>Tout</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="207"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="206"/>
         <source>Per-app stats disabled</source>
         <translation>Statistiques par application désactivées</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="210"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="545"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="546"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="595"/>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="596"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="209"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="549"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="550"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="599"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="600"/>
         <source>Premium Only</source>
         <translation>Réservé aux premiums</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="216"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="215"/>
         <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="380"/>
         <source>Loading applications...</source>
         <translation>Chargement des applications...</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="217"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="216"/>
         <source>Loading</source>
         <translation>Chargement</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="255"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="254"/>
         <source>&lt;b&gt;Today&lt;/b&gt;</source>
         <translation>&lt;b&gt;Aujourd'hui&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="258"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="257"/>
         <source>&lt;b&gt;Yesterday&lt;/b&gt;</source>
         <translation>&lt;b&gt;Hier&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="261"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="260"/>
         <source>&lt;b&gt;Unpulsed&lt;/b&gt;</source>
         <translation>&lt;b&gt;Non-pulsé&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="264"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="263"/>
         <source>&lt;b&gt;All time&lt;/b&gt;</source>
         <translation>&lt;b&gt;Tous les temps&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="269"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="268"/>
         <source>Heat map</source>
         <translation>Carte thermique</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="272"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="271"/>
         <source>Data</source>
         <translation>Données</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="631"/>
+        <location filename="../interface/InputTab/inputkeyboardpage.cpp" line="634"/>
         <source>Unknown</source>
         <translation>Inconnu</translation>
     </message>
@@ -2345,62 +2362,62 @@ Please check your permissions on: %2</source>
 <context>
     <name>InputPage</name>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="7"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="8"/>
         <source>Exporting Input</source>
         <translation>Exportation des Saisies</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="8"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="9"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="14"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="15"/>
         <source>Please make your exporting selection below. Select what data you want, then the timespan and whether you want to group it per day, week or month and press Export to export as CSV.</source>
         <translation>Veuillez sélectionner les éléments à exporter ci-dessous. Sélectionnez quelles données vous souhaitez, puis le laps de temps et si vous souhaitez ou non les grouper par jour, semaine ou mois. Enfin, appuyez sur Sauvegarder pour l'exporter en tant que CSV.</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="23"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="24"/>
         <source>History of Keys, Words, Clicks, Scrolls, and Distance</source>
         <translation>Historique des touches, mots, clics, défilements et distances</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="24"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="25"/>
         <source>Heatmap of Keys</source>
         <translation>Carte thermique des Frappes</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="25"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="26"/>
         <source>Heatmap of Clicks</source>
         <translation>Carte thermique des Clics</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="27"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="28"/>
         <source>Application Keys, Words, Clicks, Scrolls, and Distance</source>
         <translation>Toutes clés, mots, clics, défilements et distances</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="29"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="30"/>
         <source>History of Key Combinations</source>
         <translation>Historique des Combinaisons de Touches</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="31"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="32"/>
         <source>History of Key Combinations per Application</source>
         <translation>Historique des Combinaisons de Touches par Application</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="48"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="49"/>
         <source>Export from:</source>
         <translation>Exporté depuis :</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="67"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="68"/>
         <source>to:</source>
         <translation>pour :</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="92"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="93"/>
         <source>Group by:</source>
         <translation>Grouper par :</translation>
     </message>
@@ -2445,12 +2462,12 @@ Please check your permissions on: %2</source>
         <translation>Travail en cours..</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="159"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="158"/>
         <source>Click to save data to CSV</source>
         <translation>Cliquez pour enregistrer les données en CSV</translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="162"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="161"/>
         <source>Premium only</source>
         <translation>Réservé aux premiums</translation>
     </message>
@@ -2461,70 +2478,70 @@ Please check your permissions on: %2</source>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="246"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="427"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="510"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="568"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="650"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="720"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="432"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="515"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="573"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="656"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="726"/>
         <source>grouped by Week </source>
         <translation>groupé par Semaine </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="275"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="435"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="579"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="658"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="729"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="440"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="584"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="664"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="735"/>
         <source>grouped by Month </source>
         <translation>groupé par Mois </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="309"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="445"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="499"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="591"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="668"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="740"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="450"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="504"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="597"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="674"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="746"/>
         <source>grouped by Hour </source>
         <translation>groupé par Heure </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="339"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="453"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="526"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="601"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="676"/>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="749"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="458"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="531"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="607"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="682"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="755"/>
         <source>grouped by Day </source>
         <translation>groupé par Jour </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="415"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="420"/>
         <source>Heatmap of keys between '%1' and '%2' </source>
         <translation>Carte thermique des frappes entre '%1' et '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="481"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="486"/>
         <source>Heatmap of clicks between '%1' and '%2' </source>
         <translation>Carte thermique des clics entre '%1' et '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="553"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="558"/>
         <source>Application input between '%1' and '%2' </source>
         <translation>Saisies dans les applications entre '%1' et '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="638"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="644"/>
         <source>Key combinations between '%1' and '%2' </source>
         <translation>Combinaisons de touches entre '%1' et '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="707"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="713"/>
         <source>Key combinations per application between '%1' and '%2' </source>
         <translation>Combinaisons de touches par application entre '%1' et '%2' </translation>
     </message>
     <message>
-        <location filename="../interface/ExportWindow/inputpage.cpp" line="802"/>
+        <location filename="../interface/ExportWindow/inputpage.cpp" line="810"/>
         <source>Exporting may take a while for date ranges longer than 90 days.</source>
         <translation>L'exportation peut prendre du temps pour des plages de dates supérieures à 90 jours.</translation>
     </message>
@@ -2557,103 +2574,103 @@ Please check your permissions on: %2</source>
         <translation>Souris</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="266"/>
+        <location filename="../interface/InputTab.cpp" line="278"/>
         <source>keyboard historical data</source>
         <translation>historique des données du clavier</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="272"/>
+        <location filename="../interface/InputTab.cpp" line="284"/>
         <source>mouse historical data</source>
         <translation>historique des données de la souris</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="273"/>
+        <location filename="../interface/InputTab.cpp" line="285"/>
         <source>Reset Mouse History</source>
         <translation>Réinitialiser l'historique de la Souris</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="278"/>
+        <location filename="../interface/InputTab.cpp" line="290"/>
         <source>application historical data</source>
         <translation>données historiques de l'application</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="279"/>
+        <location filename="../interface/InputTab.cpp" line="291"/>
         <source>Reset Application History</source>
         <translation>Réinitialiser l'historique de l'Application</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="284"/>
+        <location filename="../interface/InputTab.cpp" line="296"/>
         <source>keyboard and mouse historical data</source>
         <translation>historique des données du clavier et de la souris</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="285"/>
+        <location filename="../interface/InputTab.cpp" line="297"/>
         <source>Reset Keyboard and Mouse History</source>
         <translation>Réinitialiser l'historique du clavier et de la souris</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="290"/>
+        <location filename="../interface/InputTab.cpp" line="302"/>
         <source>key combination historical data</source>
         <translation>historique des combinaisons de touches</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="291"/>
+        <location filename="../interface/InputTab.cpp" line="303"/>
         <source>Reset Key Combinations History</source>
         <translation>Réintiialiser l'historique de combinaisons de touches</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="300"/>
+        <location filename="../interface/InputTab.cpp" line="312"/>
         <source>Do you want to reset all input data or just the </source>
         <translation>Voulez vous supprimer toutes les données de saisies ou seulement le </translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="299"/>
-        <location filename="../interface/InputTab.cpp" line="316"/>
-        <location filename="../interface/InputTab.cpp" line="339"/>
-        <location filename="../interface/InputTab.cpp" line="363"/>
-        <location filename="../interface/InputTab.cpp" line="381"/>
-        <location filename="../interface/InputTab.cpp" line="410"/>
-        <location filename="../interface/InputTab.cpp" line="431"/>
+        <location filename="../interface/InputTab.cpp" line="311"/>
+        <location filename="../interface/InputTab.cpp" line="328"/>
+        <location filename="../interface/InputTab.cpp" line="351"/>
+        <location filename="../interface/InputTab.cpp" line="375"/>
+        <location filename="../interface/InputTab.cpp" line="393"/>
+        <location filename="../interface/InputTab.cpp" line="422"/>
+        <location filename="../interface/InputTab.cpp" line="443"/>
         <source>Delete stats?</source>
         <translation>Supprimer les stats ?</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="302"/>
+        <location filename="../interface/InputTab.cpp" line="314"/>
         <source>Reset All Stats</source>
         <translation>Réinitialiser toutes les statistiques</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="317"/>
+        <location filename="../interface/InputTab.cpp" line="329"/>
         <source>Are you sure you want to delete all recorded keyboard statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques du clavier ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="340"/>
+        <location filename="../interface/InputTab.cpp" line="352"/>
         <source>Are you sure you want to delete all recorded mouse statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de la souris ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="364"/>
+        <location filename="../interface/InputTab.cpp" line="376"/>
         <source>Are you sure you want to delete all recorded per application input statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de saisies par application ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="382"/>
+        <location filename="../interface/InputTab.cpp" line="394"/>
         <source>Are you sure you want to delete all recorded keyboard and mouse statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de clavier et souris ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="411"/>
+        <location filename="../interface/InputTab.cpp" line="423"/>
         <source>Are you sure you want to delete all recorded key combination statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de combinaison de touches ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="432"/>
+        <location filename="../interface/InputTab.cpp" line="444"/>
         <source>Are you sure you want to delete all recorded input statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de saisie ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/InputTab.cpp" line="462"/>
+        <location filename="../interface/InputTab.cpp" line="474"/>
         <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
         <translation>Aucun périphérique d'entrée trouvé, vos &lt;a href="https://whatpulse.org/in/linux-install" style="color : %1"&gt;permissions&lt;/a&gt; sont-elles correctement configurées ?</translation>
     </message>
@@ -2828,12 +2845,12 @@ Please check your permissions on: %2</source>
         <translation>Désactivé</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="809"/>
+        <location filename="../interface/MainWindow.cpp" line="796"/>
         <source>Operation completed successfully.</source>
         <translation>Opération terminée avec succès.</translation>
     </message>
     <message>
-        <location filename="../interface/MainWindow.cpp" line="820"/>
+        <location filename="../interface/MainWindow.cpp" line="807"/>
         <source>Operation failed: %1</source>
         <translation>Échec de l'opération : %1</translation>
     </message>
@@ -2882,6 +2899,64 @@ Please check your permissions on: %2</source>
         <location filename="../interface/widgets/MouseHeatmap.cpp" line="997"/>
         <source>Error uploading file!</source>
         <translation>Erreur lors du téléchargement du fichier !</translation>
+    </message>
+</context>
+<context>
+    <name>NetworkInterfacesPickerDialog</name>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="33"/>
+        <source>Select network interfaces</source>
+        <translation>Sélectionnez les interfaces réseau</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="44"/>
+        <source>Pick one or more network interfaces to exclude from traffic counting. Items already in the exclusion list appear disabled.</source>
+        <translation>Sélectionnez une ou plusieurs interfaces réseau à exclure du comptage du trafic. Les éléments déjà dans la liste d'exclusion apparaissent désactivés.</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="50"/>
+        <source>Search interfaces…</source>
+        <translation>Chercher des interfaces…</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="61"/>
+        <source>Refresh</source>
+        <translation>Rafraîchir</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="65"/>
+        <source>Add selected</source>
+        <translation>Ajouter la sélection</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="67"/>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="101"/>
+        <source>Loading network interfaces…</source>
+        <translation>Chargement des interfaces réseau…</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="154"/>
+        <source>No network interfaces detected.</source>
+        <translation>Aucune interface réseau détectée.</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="218"/>
+        <source>disconnected</source>
+        <translation>déconnecté</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="225"/>
+        <source>already excluded</source>
+        <translation>déjà exclu</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/networkinterfacespickerdialog.cpp" line="235"/>
+        <source>%1 network interfaces</source>
+        <translation>%1 interfaces réseau</translation>
     </message>
 </context>
 <context>
@@ -3095,153 +3170,153 @@ Please check your permissions on: %2</source>
         <translation>Types de Ports</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="357"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="369"/>
         <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
         <translation>Votre base de données GeoIP est vide, les statistiques par pays ne fonctionneront pas. Cliquez sur &lt;a href="#" style="color : %1"&gt;ici&lt;/a&gt; pour rafraîchir la base de données.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="411"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="423"/>
         <source>Yes</source>
         <translation>Oui</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="413"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="425"/>
         <source>Yes, with IP </source>
         <translation>Oui, avec l'IP </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="416"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="428"/>
         <source>Testing..</source>
         <translation>Test en cours..</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="418"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="430"/>
         <source>No</source>
         <translation>non</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="437"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="449"/>
         <source>interface historical data</source>
         <translation>historique de données de l'interface</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="438"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="450"/>
         <source>Reset Interface History</source>
         <translation>Réintiialiser l'Historique de l'Interface</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="442"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="454"/>
         <source>per application history data</source>
         <translation>historique de données par application</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="443"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="455"/>
         <source>Reset Application History</source>
         <translation>Réintialiser l'Historique de l'Application</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="447"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="459"/>
         <source>per country history data</source>
         <translation>historique de données par pays</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="448"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="460"/>
         <source>Reset Country History</source>
         <translation>Réinitialiser l'Historique de Pays</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="452"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="464"/>
         <source>per traffic type data</source>
         <translation>historique de données par type de trafic</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="453"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="465"/>
         <source>Reset Traffic Types History</source>
         <translation>Réinitialiser l'Historique des Types de Trafic</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="458"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="470"/>
         <source>Do you want to reset all network data or just the %1?</source>
         <translation>Voulez-vous supprimer toutes les données de réseau ou juste le %1 ?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="702"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="714"/>
         <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
         <translation>Le service PCap externe n'est pas connecté. Configurez &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;le service PCap externe&lt;/a&gt; pour obtenir des statistiques réseau.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="457"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="475"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="496"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="517"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="538"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="560"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="469"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="487"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="508"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="529"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="550"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="572"/>
         <source>Delete stats?</source>
         <translation>Supprimer les stats ?</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="460"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="472"/>
         <source>Reset All Stats</source>
         <translation>Réinitialiser toutes les statistiques</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="476"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="488"/>
         <source>Are you sure you want to delete all recorded network interface statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de l'interface réseau ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="497"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="509"/>
         <source>Are you sure you want to delete all recorded per application network statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de réseau par application ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="518"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="530"/>
         <source>Are you sure you want to delete all recorded per country network statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de réseau par pays ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="539"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="551"/>
         <source>Are you sure you want to delete all recorded per traffic type network statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de types de réseaux ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="561"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="573"/>
         <source>Are you sure you want to delete all recorded network statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques de réseau ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="659"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="671"/>
         <source>Success!</source>
         <translation>Succès !</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="659"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="671"/>
         <source>GeoIP Database updated succesfully!</source>
         <translation>Mise à jour de la base de données GeoIP effectuée avec succès !</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="662"/>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="667"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="674"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="679"/>
         <source>Something went wrong!</source>
         <translation>Quelque chose de très mauvais est arrivé !</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="663"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="675"/>
         <source>GeoIP Database did not update succesfully, unknown error. Please try again later.</source>
         <translation>La base de données GeoIP ne s'est pas mise à jour correctement, erreur inconnue. Veuillez réessayer plus tard.</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="668"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="680"/>
         <source>GeoIP Database did not update succesfully, here's the error: </source>
         <translation>La base de données GeoIP ne s'est pas mise à jour correctement, voici l'erreur : </translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="678"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="690"/>
         <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
         <translation>Npcap n'a pas été trouvé, mais est nécessaire pour les statistiques de réseau.&lt;br&gt;À télécharger sur &lt;a href="https://nmap.org/npcap/" style="color : %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="685"/>
+        <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="697"/>
         <source>LibPcap not found, which is needed for network statistics.&lt;br&gt;Please install package.</source>
         <translation>LibPcap introuvable, mais est nécessaire pour les statistiques de réseau.&lt;br&gt;Veuillez installer le paquet.</translation>
     </message>
@@ -4159,7 +4234,7 @@ Ascendant : inconnu</translation>
 <context>
     <name>ProfileManager</name>
     <message>
-        <location filename="../util/profilemanager.cpp" line="82"/>
+        <location filename="../util/profilemanager.cpp" line="85"/>
         <source>General</source>
         <translation>Général</translation>
     </message>
@@ -4208,12 +4283,12 @@ Ascendant : inconnu</translation>
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="404"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="434"/>
         <source>Access for assistive devices</source>
         <translation>Accès aux appareils d'assistance</translation>
     </message>
     <message>
-        <location filename="../system/mac/macnativehelpers.mm" line="405"/>
+        <location filename="../system/mac/macnativehelpers.mm" line="435"/>
         <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
         <translation>Version Mac OS non prise en charge; Veuillez cocher "Activer l'accès aux appareils d'assistance" dans le panneau d'accès Universel dans les Préférences Système, puis redémarrez le client. La comptabilisation du nombre de frappes ne fonctionnera pas autrement. Un client mis à jour nécessite une réactivation.</translation>
     </message>
@@ -4354,22 +4429,12 @@ Ascendant : inconnu</translation>
         <translation>Générique</translation>
     </message>
     <message>
-        <location filename="../types/StatsTreeItem.cpp" line="93"/>
-        <location filename="../types/StatsTreeItem.cpp" line="95"/>
+        <location filename="../types/StatsTreeItem.cpp" line="105"/>
+        <location filename="../types/StatsTreeItem.cpp" line="107"/>
         <location filename="../types/UptimeTreeItem.cpp" line="44"/>
         <location filename="../types/UptimeTreeItem.cpp" line="50"/>
         <source>Never</source>
         <translation>Jamais</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="319"/>
-        <source>Wildcard</source>
-        <translation>Joker</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="319"/>
-        <source>Exact</source>
-        <translation>Exact</translation>
     </message>
     <message>
         <location filename="../util/domainexclusionfilter.cpp" line="168"/>
@@ -4450,6 +4515,69 @@ Ascendant : inconnu</translation>
         <location filename="../interface/widgets/realtimenetworkchart.cpp" line="72"/>
         <source>Upload</source>
         <translation>Ascendant</translation>
+    </message>
+</context>
+<context>
+    <name>RunningAppsPickerDialog</name>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="46"/>
+        <source>Select applications</source>
+        <translation>Sélectionner les applications</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="57"/>
+        <source>Pick one or more running applications to add. Items already in the list appear disabled.</source>
+        <translation>Sélectionnez une ou plusieurs applications en cours d'exécution à ajouter. Les éléments déjà dans la liste apparaissent désactivés.</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="62"/>
+        <source>Search applications…</source>
+        <translation>Rechercher des applications…</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="73"/>
+        <source>Refresh</source>
+        <translation>Rafraîchir</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="77"/>
+        <source>Add selected</source>
+        <translation>Ajouter le(s) sélectionné(s)</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="79"/>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="84"/>
+        <source>Exclude all stats</source>
+        <translation>Exclure toutes les statistiques</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="87"/>
+        <source>Exclude titles only</source>
+        <translation>Exclure les titres uniquement</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="124"/>
+        <source>Loading running applications…</source>
+        <translation>Chargement des applications en cours…</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="188"/>
+        <source>No running applications detected.</source>
+        <translation>Aucune application en cours d'exécution détectée.</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="233"/>
+        <source>already excluded</source>
+        <translation>déjà exclu</translation>
+    </message>
+    <message>
+        <location filename="../interface/windows/runningappspickerdialog.cpp" line="242"/>
+        <source>%1 running applications</source>
+        <translation>%1 applications en cours d'exécution</translation>
     </message>
 </context>
 <context>
@@ -4885,97 +5013,232 @@ Ascendant : inconnu</translation>
 <context>
     <name>SettingsExclusions</name>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="17"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="33"/>
         <source>Application</source>
         <translation>Application</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="33"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="46"/>
         <source>Network interface</source>
         <translation>Interface Réseau</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="51"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="58"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="111"/>
         <source>Pattern</source>
         <translation>Modèle</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="51"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="59"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="112"/>
         <source>Type</source>
         <translation>Type</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="60"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="62"/>
         <source>No domains excluded</source>
         <translation>Aucun domaine exclu</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="74"/>
-        <source>Here you can manage applications and network interfaces that you've chosen to exclude from monitoring. Hover over an item to see the delete option.</source>
-        <translation>Ici, vous pouvez gérer les applications et interfaces réseau que vous avez choisi d'exclure de la surveillance. Passez la souris sur un élément pour voir l'option de suppression.</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="87"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="151"/>
         <source>Web Insights exclusions</source>
         <translation>Exclusions de Web Insights</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="93"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="156"/>
         <source>Exclude websites from tracking. Supports wildcards (*). For example: facebook.com, *facebook.com, dev.*</source>
         <translation>Exclure les sites web de la surveillance. Prend en charge les caractères génériques (*). Par exemple : facebook.com, *facebook.com, dev.*</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="101"/>
-        <source>Add</source>
-        <translation>Ajouter</translation>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="80"/>
+        <source>Application exclusions</source>
+        <translation>Exclusions d'applications</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="194"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="84"/>
+        <source>Excluded applications. Each tag is one active exclusion. Click a tag to remove it, or + to add one. 'All stats' drops the app from every stat entirely; 'Window titles' keeps uptime but redacts titles.</source>
+        <translation>Applications exclues. Chaque étiquette est une exclusion active. Cliquez sur une étiquette pour la supprimer, ou sur + pour en ajouter une. 'Toutes les statistiques' retire l'application de toutes les statistiques entièrement ; 'Titres des fenêtres' conserve le temps de fonctionnement mais masque les titres.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="94"/>
+        <source>Add applications</source>
+        <translation>Ajouter des applications</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="115"/>
+        <source>No patterns configured</source>
+        <translation>Aucun motif configuré</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="123"/>
+        <source>Window title content filtering</source>
+        <translation>Filtrage du contenu des titres de fenêtre</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="128"/>
+        <source>Filter window titles containing sensitive content. Matching titles are replaced with [Filtered]. Built-in presets are disabled by default - tick the checkbox to enable them.</source>
+        <translation>Filtrer les titres de fenêtres contenant du contenu sensible. Les titres correspondants sont remplacés par [Filtré]. Les préréglages intégrés sont désactivés par défaut - cochez la case pour les activer.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="137"/>
+        <source>Add pattern</source>
+        <translation>Ajouter un motif</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="164"/>
+        <source>Add domain</source>
+        <translation>Ajouter un domaine</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="178"/>
+        <source>Network interface exclusions</source>
+        <translation>Exclusions d'interfaces réseau</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="182"/>
+        <source>Excluded network interfaces. WhatPulse skips upload and download traffic on these - useful for VPNs, virtual adapters, or NICs you don't want counted.</source>
+        <translation>Interfaces réseau exclues. WhatPulse omet le trafic montant et descendant sur celles-ci - utile pour les VPN, les adaptateurs virtuels ou les NIC que vous ne voulez pas compter.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="191"/>
+        <source>Add network interfaces</source>
+        <translation>Ajouter des interfaces réseau</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="289"/>
+        <source>Wildcard</source>
+        <translation>Joker</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="290"/>
+        <source>Exact</source>
+        <translation>Exact</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="356"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="397"/>
+        <source>All stats</source>
+        <translation>Toutes les statistiques</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="364"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="390"/>
+        <source>Window titles</source>
+        <translation>Titres des fenêtres</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="369"/>
+        <source>Overridden by 'All stats' - remove that tag to make this active.</source>
+        <translation>Remplacé par 'Toutes les statistiques' - retirez cette étiquette pour l'activer.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="410"/>
+        <source>Add exclusion</source>
+        <translation>Ajouter une exclusion</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="606"/>
         <source>Add domain pattern</source>
         <translation>Ajouter un modèle de domaine</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="195"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="607"/>
         <source>Enter a domain or pattern to exclude.</source>
         <translation>Entrez un domaine ou un modèle à exclure.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="196"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="608"/>
         <source>Examples: facebook.com (exact match), *.facebook.com (includes subdomains), dev.* (any domain with subdomain 'dev')</source>
         <translation>Exemples : facebook.com (correspondance exacte), *.facebook.com (inclut les sous-domaines), dev.* (tout domaine avec le sous-domaine 'dev')</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="214"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="625"/>
         <source>Broad pattern warning</source>
         <translation>Avertissement de modèle large</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="216"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="627"/>
         <source>Are you sure you want to add this pattern?</source>
         <translation>Êtes-vous sûr de vouloir ajouter ce modèle ?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="238"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="649"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="799"/>
         <source>Pattern exists</source>
         <translation>Modèle existant</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="239"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="650"/>
         <source>This pattern already exists in the exclusion list.</source>
         <translation>Ce modèle existe déjà dans la liste d'exclusion.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="24"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="729"/>
+        <source>Built-in</source>
+        <translation>Intégré</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="731"/>
+        <source>Regex</source>
+        <translation>Regex</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="731"/>
+        <source>Text</source>
+        <translation>Texte</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="750"/>
+        <source>Pick applications to exclude. Choose whether to exclude window titles only or all stats for the selected applications.</source>
+        <translation>Choisissez les applications à exclure. Choisissez d'exclure uniquement les titres des fenêtres ou toutes les statistiques pour les applications sélectionnées.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="770"/>
+        <source>Add title pattern</source>
+        <translation>Ajouter un motif de titre</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="771"/>
+        <source>Enter a regular expression (PCRE) to match against window titles. Matching titles will be replaced with [Filtered] before storage.</source>
+        <translation>Entrez une expression régulière (PCRE) pour correspondre aux titres des fenêtres. Les titres correspondants seront remplacés par [Filtré] avant d'être enregistrés.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="774"/>
+        <source>Examples: &lt;code&gt;[\w.+-]+@[\w-]+\.[\w.-]+&lt;/code&gt; (emails), &lt;code&gt;confidential&lt;/code&gt; (contains 'confidential').</source>
+        <translation>Exemples : &lt;code&gt;[\w.+-]+@[\w-]+\.[\w.-]+&lt;/code&gt; (emails), &lt;code&gt;confidential&lt;/code&gt; (contient 'confidential').</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="786"/>
+        <source>Invalid pattern</source>
+        <translation>Motif invalide</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="787"/>
+        <source>The pattern could not be compiled as a regular expression:
+
+%1</source>
+        <translation>Le motif n'a pas pu être compilé en tant qu'expression régulière :
+
+%1</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="800"/>
+        <source>This pattern already exists or could not be added.</source>
+        <translation>Ce motif existe déjà ou n'a pas pu être ajouté.</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="37"/>
         <source>No applications excluded</source>
         <translation>Aucune application exclue</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.cpp" line="42"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="50"/>
         <source>No network interfaces excluded</source>
         <translation>Aucune interface réseau exclue</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsexclusions.h" line="23"/>
+        <location filename="../interface/settings/settingsexclusions.cpp" line="34"/>
+        <location filename="../interface/settings/settingsexclusions.h" line="54"/>
         <source>Exclusions</source>
         <translation>Exclusions</translation>
     </message>
@@ -5156,246 +5419,255 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>SettingsMilestones</name>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="13"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="14"/>
         <source>Milestones let you create notifications when you cross certain statistics. Double-click on a Milestone to edit.</source>
         <translation>Les jalons vous permettent de créer des notifications lorsque vous franchissez certaines statistiques. Double-cliquez sur un jalon pour le modifier.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="18"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="19"/>
         <source>Add</source>
         <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="305"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="39"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="59"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="40"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="69"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="306"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="60"/>
         <source>Statistic</source>
         <translation>Statistiques</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="41"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="69"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="306"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="61"/>
         <source>Amount</source>
         <translation>Montant</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="41"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="42"/>
         <source>Actions</source>
         <translation>Actions</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="305"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="45"/>
+        <source>No milestones configured</source>
+        <translation>Pas de jalons configurés</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="58"/>
         <source>Time</source>
         <translation>Temps</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="81"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="64"/>
+        <source>No milestones triggered yet</source>
+        <translation>Pas encore de jalons déclenchés</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="68"/>
         <source>&lt;h2&gt;History&lt;/h2&gt;</source>
         <translation>&lt;h2&gt;Historique&lt;/h2&gt;</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="157"/>
-        <source>Milestone Name</source>
-        <translation>Nom du Jalon</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="280"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="414"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="88"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="367"/>
         <source>Keys</source>
         <translation>Frappes</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="280"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="416"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="88"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="369"/>
         <source>Clicks</source>
         <translation>Clics</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="163"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="280"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="418"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="88"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="371"/>
         <source>Downloaded MB</source>
         <translation>MB téléchargés</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="164"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="281"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="421"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="88"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="374"/>
         <source>Uploaded MB</source>
         <translation>MB uploadés</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="164"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="281"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="424"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="89"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="93"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="377"/>
         <source>Uptime in Minutes</source>
         <translation>Temps de Fonctionnement en Minutes</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="185"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="160"/>
+        <source>Edit custom message</source>
+        <translation>Modifier le message personnalisé</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="168"/>
+        <source>Delete milestone</source>
+        <translation>Supprimer le jalon</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="217"/>
         <source>Delete Milestone</source>
         <translation>Supprimer le Jalon</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="186"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="218"/>
         <source>Are you sure you want to delete this Milestone?</source>
         <translation>Voulez-vous vraiment supprimer ce Jalon ?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="238"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="252"/>
         <source>Time for coffee, you've made X keys!</source>
         <translation>C'est l'heure d'un café, vous avez atteint X frappes !</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="242"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="256"/>
         <source>Milestone Message</source>
         <translation>Message du Jalon</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="243"/>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="257"/>
         <source>Display a custom message when this Milestone hits:</source>
         <translation>Afficher un message personnalisé lorsque le Jalon est atteint :</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="391"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="395"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="399"/>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="403"/>
-        <source>Please input 100 or higher.</source>
-        <translation>Merci de saisir 100 ou plus.</translation>
-    </message>
-    <message>
-        <location filename="../interface/settings/settingsmilestones.cpp" line="408"/>
-        <source>Please input 10 or higher.</source>
-        <translation>Merci de saisir 10 ou plus.</translation>
+        <location filename="../interface/settings/settingsmilestones.cpp" line="360"/>
+        <source>Please input %1 or higher.</source>
+        <translation>Veuillez entrer %1 ou plus.</translation>
     </message>
 </context>
 <context>
     <name>SettingsProfiles</name>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="17"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="16"/>
         <source>Using Profiles is a way to group statistics together. You can create a profile for a specific project, for a specific keyboard, or to differentiate between personal and work stats.</source>
         <translation>Utiliser les Profils est un moyen de regrouper les statistiques ensemble. Vous pouvez créer un profil pour un projet spécifique, pour un clavier spécifique, ou pour différencier les statistiques personnelles et professionnelles.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="27"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="26"/>
         <source>&lt;b&gt;Upgrade to WhatPulse Premium&lt;/b&gt; to unlock the full potential of Profiles, and start grouping stats and tracking time effortlessly.</source>
         <translation>&lt;b&gt;Passez à WhatPulse Premium&lt;/b&gt; pour débloquer le potentiel complet des Profils, et commencez à regrouper les statistiques et suivre le temps sans effort.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="36"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="35"/>
         <source>Upgrade to Premium</source>
         <translation>Passer à la version Premium</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="49"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="52"/>
         <source>Search</source>
         <translation>Rechercher</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="56"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="60"/>
         <source>Add</source>
         <translation>Ajouter</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="73"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="77"/>
         <source>Name</source>
         <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="73"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="78"/>
         <source>Active</source>
         <translation>Actif</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="74"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="79"/>
         <source>Last used</source>
         <translation>Dernière utilisation</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="111"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="83"/>
+        <source>No profiles configured</source>
+        <translation>Aucun profil configuré</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="98"/>
         <source>Reset to default profile on shutdown or sleep</source>
         <translation>Réinitialiser le profil par défaut à l'arrêt ou en veille</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="120"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="111"/>
+        <source>Reset to default profile when the computer is locked</source>
+        <translation>Réinitialiser au profil par défaut lorsque l'ordinateur est verrouillé</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="121"/>
         <source>Change menu icon color when a profile is active</source>
         <translation>Changer la couleur de l'icône du menu lorsqu'un profil est actif</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="151"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="371"/>
         <source>Activate</source>
         <translation>Activer</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="178"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="146"/>
         <source>Add a new profile</source>
         <translation>Ajouter un nouveau profil</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="179"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="147"/>
         <source>Profile name</source>
         <translation>Nom du profil</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="180"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="148"/>
         <source>Work, or Project X</source>
         <translation>Travail, ou Projet X</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="188"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="156"/>
         <source>Unable to create profile</source>
         <translation>Impossible de créer le profil</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="189"/>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="278"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="157"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="312"/>
         <source>There's already a profile named %1, you cannot have profiles with the same name.</source>
         <translation>Il y a déjà un profil nommé %1, vous ne pouvez pas avoir des profils avec le même nom.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="206"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="179"/>
         <source>Delete Profile</source>
         <translation>Supprimer le profil</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="207"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="180"/>
         <source>Are you sure you want to delete this profile? Its statistics will be merged into the general profile, which will take a few seconds. This can not be reversed.</source>
         <translation>Êtes-vous sûr de vouloir supprimer ce profil ? Ses statistiques seront fusionnées dans le profil général, ce qui prendra quelques instants. Cela ne pourra pas être annulé.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="277"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="311"/>
         <source>Unable to rename profile</source>
         <translation>Impossible de renommer le profil</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="316"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="206"/>
         <source>General</source>
         <translation>Général</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="320"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="283"/>
         <source>You can't edit or delete the general profile.</source>
         <translation>Vous ne pouvez pas modifier ou supprimer le profil général.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.cpp" line="346"/>
+        <location filename="../interface/settings/settingsprofiles.cpp" line="270"/>
         <source>This profile is managed by the website and cannot be edited or deleted.</source>
         <translation>Ce profil est géré par le site Web et ne peut pas être modifié ou supprimé.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsprofiles.h" line="50"/>
+        <location filename="../interface/settings/settingsprofiles.h" line="45"/>
         <source>Profiles</source>
         <translation>Profils</translation>
     </message>
@@ -5512,191 +5784,196 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>SettingsTabContainer</name>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="115"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="149"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="117"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="151"/>
         <source>Advanced</source>
         <translation>Avancé</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="167"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="169"/>
         <source>Enable portable mode</source>
         <translation>Activer le mode portable</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="169"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="171"/>
         <source>Disable &amp;portable mode</source>
         <translation>Désactiver le mode &amp;portable</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="177"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="179"/>
         <source>&amp;Open data directory</source>
         <translation>&amp;Ouvrir le répertoire des données</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="183"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="185"/>
         <source>Re-upload &amp;applications</source>
         <translation>Re-publier les &amp;applications</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="189"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="191"/>
         <source>Resync &amp;time series</source>
         <translation>Resynchroniser la série &amp;temporelle</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="194"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="196"/>
         <source>Reset &amp;database</source>
         <translation>Réinitialiser la &amp;base de données</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="200"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="202"/>
         <source>Update &amp;GeoIP database</source>
         <translation>Mettre à jour la &amp;base de données GeoIP</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="207"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="209"/>
         <source>Update Network Port description database</source>
         <translation>Mettre à jour la base de données des descriptions des ports réseau</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="215"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="217"/>
         <source>Upload &amp;Computer profile</source>
         <translation>Téléverser le profil de l'&amp;ordinateur</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="222"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="224"/>
         <source>&amp;Upload database</source>
         <translation>&amp;Téléverser la base de données</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="161"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="163"/>
         <source>Check macOS Permissions</source>
         <translation>Vérifier les permissions macOS</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="52"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="54"/>
         <source>These settings are managed by your organization administrator.</source>
         <translation>Ces paramètres sont gérés par l'administrateur de votre organisation.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="232"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="466"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="234"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="475"/>
         <source>Use advanced input method</source>
         <translation>Utiliser la méthode de saisie avancée</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="234"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="249"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="468"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="488"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="236"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="251"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="477"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="497"/>
         <source>enabled</source>
         <translation>activée</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="236"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="251"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="470"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="490"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="238"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="253"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="479"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="499"/>
         <source>disabled</source>
         <translation>désactivée</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="247"/>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="486"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="249"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="495"/>
         <source>Focus events timeline</source>
         <translation>Ligne de temps des événements de focus</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="260"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="263"/>
         <source>Show &amp;hardware info</source>
         <translation>Afficher les infos sur le &amp;matériel</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="267"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="270"/>
         <source>&amp;Generate demo data</source>
         <translation>&amp;Générer des données de démonstration</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="273"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="276"/>
         <source>&amp;Generate window message</source>
         <translation>&amp;Générer un message de fenêtre</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="279"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="282"/>
         <source>Re-upload &amp;website domain metadata</source>
         <translation>Re-téléverser les métadonnées du domaine du &amp;site web</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="285"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="287"/>
         <source>Open &amp;login simulator</source>
         <translation>Ouvrir le simulateur de &amp;connexion</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="311"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="293"/>
+        <source>Fetch client &amp;instructions</source>
+        <translation>Récupérer le client et les instructions</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="319"/>
         <source>Settings saved!</source>
         <translation>Paramètres enregistrés !</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="334"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="343"/>
         <source> Check for Updates</source>
         <translation> Chercher des Mises à jour</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="377"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="386"/>
         <source>Uploading Apps</source>
         <translation>Téléversement des Apps</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="378"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="387"/>
         <source>Applications have been marked for upload. It might take an hour before they appear on the website.</source>
         <translation>Les applications sont en cours d'envoi. Vous devrez attendre une heure avant qu'elles apparaissent sur le site web.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="389"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="398"/>
         <source>Time series resync</source>
         <translation>Réinitialisation de la série temporelle</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="390"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="399"/>
         <source>The next time you pulse, the time series data of the last 2 weeks will be resynced with the website.</source>
         <translation>La prochaine fois que vous impulser, les données de la série temporelle des 2 dernières semaines seront resynchronisées avec le site web.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="412"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="421"/>
         <source>Empty Database</source>
         <translation>Vider la Base de Données</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="413"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="422"/>
         <source>Emptying out your local database will destroy all local statistics and logout your account. There is no recovery for this, continue?</source>
         <translation>Vider votre base de données locale détruira toutes vos statistiques locales et vous déconnectera de votre compte. Cette action est irréversible, poursuivre ?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="431"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="440"/>
         <source>Upload Computer Info</source>
         <translation>Téléverser les informations de l'ordinateur</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="432"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="441"/>
         <source>Successfully started the computer profile upload. The website will be updated in a few minutes.</source>
         <translation>Le téléchargement du profil de l'ordinateur a été lancé avec succès. Le site web sera mis à jour dans quelques minutes.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="474"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="483"/>
         <source>Restart required</source>
         <translation>Redémarrage requis</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="475"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="484"/>
         <source>Before this setting change can take effect, please restart WhatPulse.</source>
         <translation>Avant que ce changement de paramètre puisse prendre effet, veuillez redémarrer WhatPulse.</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="562"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="582"/>
         <source>Re-uploading Website Domains</source>
         <translation>Re-téléversement des domaines de site web</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingstabcontainer.cpp" line="563"/>
+        <location filename="../interface/settings/settingstabcontainer.cpp" line="583"/>
         <source>%1 website domains have been marked for metadata re-upload. They will be uploaded shortly.</source>
         <translation>%1 domaines de site web ont été marqués pour un re-téléversement des métadonnées. Ils seront téléversés sous peu.</translation>
     </message>
@@ -5819,8 +6096,8 @@ Tous les labels personnalisés seront supprimés !</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="368"/>
-        <source>Collection paused — no activity is being recorded</source>
-        <translation>Collecte en pause — aucune activité n'est enregistrée</translation>
+        <source>Collection paused - no activity is being recorded</source>
+        <translation>Collecte en pause - aucune activité n'est enregistrée</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="374"/>
@@ -5869,75 +6146,95 @@ Tous les labels personnalisés seront supprimés !</translation>
     </message>
 </context>
 <context>
+    <name>TagChip</name>
+    <message>
+        <location filename="../interface/widgets/tagchip.cpp" line="70"/>
+        <source>Remove</source>
+        <translation>Supprimer</translation>
+    </message>
+    <message>
+        <location filename="../interface/widgets/tagchip.cpp" line="71"/>
+        <source>Remove %1</source>
+        <translation>Supprimer %1</translation>
+    </message>
+</context>
+<context>
+    <name>TagChipList</name>
+    <message>
+        <location filename="../interface/widgets/tagchiplist.cpp" line="12"/>
+        <source>Add</source>
+        <translation>Ajouter</translation>
+    </message>
+</context>
+<context>
     <name>TaskTrayPopup</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="360"/>
-        <location filename="../interface/tasktraypopup.cpp" line="378"/>
+        <location filename="../interface/tasktraypopup.cpp" line="281"/>
+        <location filename="../interface/tasktraypopup.cpp" line="366"/>
         <source>Activate a profile</source>
         <translation>Activer un profil</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="390"/>
+        <location filename="../interface/tasktraypopup.cpp" line="222"/>
         <source>Pulse</source>
         <translation>Pulse</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="396"/>
+        <location filename="../interface/tasktraypopup.cpp" line="228"/>
         <source>Open WhatPulse</source>
         <translation>Ouvrir WhatPulse</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="402"/>
-        <source>View Online Stats</source>
-        <translation>Voir ses Statistiques en Ligne</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="408"/>
-        <source>Toggle Geek Window</source>
-        <translation>Basculer vers la fenêtre Geek</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="416"/>
+        <location filename="../interface/tasktraypopup.cpp" line="197"/>
         <source>Input</source>
         <translation>Saisies</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="422"/>
+        <location filename="../interface/tasktraypopup.cpp" line="203"/>
         <source>Network</source>
         <translation>Réseau</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="427"/>
+        <location filename="../interface/tasktraypopup.cpp" line="209"/>
         <source>Uptime</source>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="435"/>
+        <location filename="../interface/tasktraypopup.cpp" line="215"/>
         <source>Account</source>
         <translation>Compte</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="441"/>
-        <source>Check for Updates</source>
-        <translation>Chercher des Mises à jour</translation>
+        <location filename="../interface/tasktraypopup.cpp" line="234"/>
+        <source>View online stats</source>
+        <translation>Voir les statistiques en ligne</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="447"/>
+        <location filename="../interface/tasktraypopup.cpp" line="245"/>
+        <location filename="../interface/tasktraypopup.cpp" line="317"/>
+        <source>Close Geek Window</source>
+        <translation>Fermer la fenêtre Geek</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup.cpp" line="246"/>
+        <location filename="../interface/tasktraypopup.cpp" line="318"/>
+        <source>Open Geek Window</source>
+        <translation>Ouvrir la fenêtre Geek</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup.cpp" line="266"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="453"/>
+        <location filename="../interface/tasktraypopup.cpp" line="272"/>
+        <source>Check for updates</source>
+        <translation>Vérifier les mises à jour</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup.cpp" line="299"/>
         <source>Exit WhatPulse</source>
         <translation>Quitter WhatPulse</translation>
-    </message>
-</context>
-<context>
-    <name>TaskTrayPopup_Profiles</name>
-    <message>
-        <location filename="../interface/tasktraypopup_profiles.cpp" line="83"/>
-        <source>General</source>
-        <translation>Général</translation>
     </message>
 </context>
 <context>
@@ -6065,69 +6362,92 @@ Tous les labels personnalisés seront supprimés !</translation>
     </message>
 </context>
 <context>
-    <name>TrayMenuItemPause</name>
+    <name>TrayProfileDropdown</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="255"/>
+        <location filename="../interface/tasktraypopup/trayprofiledropdown.cpp" line="114"/>
+        <source>Search profiles…</source>
+        <translation>Rechercher des profils…</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/trayprofiledropdown.cpp" line="200"/>
+        <source>Manage profiles</source>
+        <translation>Gérer les profils</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/trayprofiledropdown.cpp" line="231"/>
+        <source>General</source>
+        <translation>Général</translation>
+    </message>
+</context>
+<context>
+    <name>TrayStatsPanel</name>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="67"/>
+        <source>Today</source>
+        <translation>Aujourd'hui</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="68"/>
+        <source>Week</source>
+        <translation>Semaine</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="69"/>
+        <source>Unpulsed</source>
+        <translation>Non pulsé</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="74"/>
+        <source>Keys</source>
+        <translation>Frappes</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="77"/>
+        <source>Clicks</source>
+        <translation>Clics</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="80"/>
+        <source>Words</source>
+        <translation>Mots</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="83"/>
+        <source>Uptime</source>
+        <translation>Temps de fonctionnement</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="86"/>
+        <source>Download</source>
+        <translation>Téléchargement</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="89"/>
+        <source>Upload</source>
+        <translation>Téléversement</translation>
+    </message>
+    <message>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="141"/>
         <source>Paused</source>
         <translation>En pause</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="255"/>
-        <source>Tracking</source>
-        <translation>Suivi</translation>
+        <location filename="../interface/tasktraypopup/traystatspanel.cpp" line="209"/>
+        <source>n/a</source>
+        <translation>n/d</translation>
     </message>
 </context>
 <context>
-    <name>TrayMenuItemStats</name>
+    <name>TrayTrackingPill</name>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="138"/>
-        <source>Keys:</source>
-        <translation>Frappes :</translation>
+        <location filename="../interface/tasktraypopup/traytrackingpill.cpp" line="31"/>
+        <source>Paused</source>
+        <translation>En pause</translation>
     </message>
     <message>
-        <location filename="../interface/tasktraypopup.cpp" line="139"/>
-        <source>Clicks:</source>
-        <translation>Clics :</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="140"/>
-        <source>Uptime:</source>
-        <translation>Uptime :</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="141"/>
-        <source>Down:</source>
-        <translation>Descendant :</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="142"/>
-        <source>Up:</source>
-        <translation>Ascendant :</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="151"/>
-        <source>Keys: %1</source>
-        <translation>Frappes : %1</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="157"/>
-        <source>Clicks: %1</source>
-        <translation>Clicks : %1</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="164"/>
-        <source>Down: %1</source>
-        <translation>Descendant :  %1</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="167"/>
-        <source>Up: %1</source>
-        <translation>Ascendant : %1</translation>
-    </message>
-    <message>
-        <location filename="../interface/tasktraypopup.cpp" line="174"/>
-        <source>Uptime: %3</source>
-        <translation>Uptime : %3</translation>
+        <location filename="../interface/tasktraypopup/traytrackingpill.cpp" line="31"/>
+        <source>Tracking</source>
+        <translation>Suivi</translation>
     </message>
 </context>
 <context>
@@ -6169,28 +6489,28 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>UploadDatabaseWindow</name>
     <message>
-        <location filename="../interface/UploadDatabaseWindow.cpp" line="37"/>
+        <location filename="../interface/windows/UploadDatabaseWindow.cpp" line="37"/>
         <source>Uploading database...</source>
         <translation>Téléversement de la base de données...</translation>
     </message>
     <message>
-        <location filename="../interface/UploadDatabaseWindow.cpp" line="44"/>
-        <location filename="../interface/UploadDatabaseWindow.cpp" line="119"/>
+        <location filename="../interface/windows/UploadDatabaseWindow.cpp" line="44"/>
+        <location filename="../interface/windows/UploadDatabaseWindow.cpp" line="119"/>
         <source>Close</source>
         <translation>Fermer</translation>
     </message>
     <message>
-        <location filename="../interface/UploadDatabaseWindow.cpp" line="55"/>
+        <location filename="../interface/windows/UploadDatabaseWindow.cpp" line="55"/>
         <source>Upload database?</source>
         <translation>Téléverser la base de données ?</translation>
     </message>
     <message>
-        <location filename="../interface/UploadDatabaseWindow.cpp" line="56"/>
+        <location filename="../interface/windows/UploadDatabaseWindow.cpp" line="56"/>
         <source>Did a developer ask you to upload your database?</source>
         <translation>Est-ce qu'un développeur vous a demandé de téléverser votre base de données ?</translation>
     </message>
     <message>
-        <location filename="../interface/UploadDatabaseWindow.cpp" line="97"/>
+        <location filename="../interface/windows/UploadDatabaseWindow.cpp" line="97"/>
         <source> left</source>
         <translation> restant</translation>
     </message>
@@ -6229,99 +6549,114 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>UptimeApplicationsPage</name>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="62"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="65"/>
         <source>Show only recently used applications</source>
         <translation>Afficher seulement les applications utilisées récemment</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="69"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="72"/>
         <source>Show only running applications</source>
         <translation>Afficher seulement les application actives</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="526"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="696"/>
+        <source>Show more... (%1 titles shown)</source>
+        <translation>Afficher plus... (%1 titres affichés)</translation>
+    </message>
+    <message>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="705"/>
+        <source>No window title data for this period</source>
+        <translation>Aucune donnée de titre de fenêtre pour cette période</translation>
+    </message>
+    <message>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="764"/>
         <source>&amp;Export to .csv</source>
         <translation>&amp;Exporter au format .csv</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="530"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="769"/>
         <source>&amp;Export Wizard</source>
         <translation>Assistant d'&amp;exportation</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="93"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="109"/>
         <source>Application</source>
         <translation>Application</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="93"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="99"/>
+        <source>Filter applications and loaded titles...</source>
+        <translation>Filtrer les applications et les titres chargés...</translation>
+    </message>
+    <message>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="109"/>
         <source>Focus time</source>
         <translation>Temps de concentration</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="94"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="110"/>
         <source>Active time</source>
         <translation>Temps actif</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="94"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="110"/>
         <source>Total runtime</source>
         <translation>Durée totale d'exécution</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="122"/>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="142"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="146"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="166"/>
         <source>Exclude</source>
         <translation>Exclure</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="128"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="152"/>
         <source>Open File Location</source>
         <translation>Ouvrir l'Emplacement du Fichier</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="135"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="159"/>
         <source>Open Online Profile</source>
         <translation>Ouvrir le Profil en Ligne</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="148"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="172"/>
         <source>Open in Browser</source>
         <translation>Ouvrir dans le navigateur</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="163"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="187"/>
         <source>Exclude application?</source>
         <translation>Exclure l'application ?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="164"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="188"/>
         <source>Are you sure you want to exclude application '%1'?</source>
         <translation>Êtes-vous sûr de vouloir exclure l'application '%1'?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="166"/>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="240"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="190"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="265"/>
         <source>Also delete all stored data</source>
         <translation>Supprimer également toutes les données enregistrées</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="236"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="261"/>
         <source>Exclude website?</source>
         <translation>Exclure le site web?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="237"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="262"/>
         <source>Are you sure you want to exclude website '%1' from tracking?</source>
         <translation>Êtes-vous sûr de vouloir exclure le site web '%1' du suivi?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="214"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="239"/>
         <source>Not yet</source>
         <translation>Pas encore</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="215"/>
+        <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="240"/>
         <source>This application has not been uploaded to the website yet, please check back in an hour or so.</source>
         <translation>Cette application n'est pas encore enregistrée sur le site web, revenez dans environ une heure.</translation>
     </message>
@@ -6697,92 +7032,92 @@ Tous les labels personnalisés seront supprimés !</translation>
         <translation>Activité de l'Application</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="99"/>
-        <location filename="../interface/UptimeTab.cpp" line="113"/>
+        <location filename="../interface/UptimeTab.cpp" line="111"/>
+        <location filename="../interface/UptimeTab.cpp" line="125"/>
         <source>Uptime - Computer Uptime</source>
         <translation>Uptime - Uptime de la machine</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="101"/>
-        <location filename="../interface/UptimeTab.cpp" line="114"/>
+        <location filename="../interface/UptimeTab.cpp" line="113"/>
+        <location filename="../interface/UptimeTab.cpp" line="126"/>
         <source>Uptime - Reboot Calendar</source>
         <translation>Uptime - Calendrier des Redémarrages</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="103"/>
         <location filename="../interface/UptimeTab.cpp" line="115"/>
+        <location filename="../interface/UptimeTab.cpp" line="127"/>
         <source>Uptime - Applications</source>
         <translation>Uptime - Applications</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="105"/>
-        <location filename="../interface/UptimeTab.cpp" line="116"/>
+        <location filename="../interface/UptimeTab.cpp" line="117"/>
+        <location filename="../interface/UptimeTab.cpp" line="128"/>
         <source>Uptime - Application Activity</source>
         <translation>Uptime - Activité de l'Application</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="107"/>
+        <location filename="../interface/UptimeTab.cpp" line="119"/>
         <source>Uptime</source>
         <translation>Temps de fonctionnement</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="227"/>
-        <location filename="../interface/UptimeTab.cpp" line="233"/>
+        <location filename="../interface/UptimeTab.cpp" line="239"/>
+        <location filename="../interface/UptimeTab.cpp" line="245"/>
         <source>uptime and reboot data (all except per application) </source>
         <translation>données d'uptime et de redémarrages (sauf données 'par application') </translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="228"/>
-        <location filename="../interface/UptimeTab.cpp" line="234"/>
+        <location filename="../interface/UptimeTab.cpp" line="240"/>
+        <location filename="../interface/UptimeTab.cpp" line="246"/>
         <source>Reset Uptime/Reboot History</source>
         <translation>Réinitialiser l'Historique d'Uptime/Redémarrages</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="238"/>
-        <location filename="../interface/UptimeTab.cpp" line="243"/>
+        <location filename="../interface/UptimeTab.cpp" line="250"/>
+        <location filename="../interface/UptimeTab.cpp" line="255"/>
         <source>application uptime data</source>
         <translation>données du temps de fonctionnement de l'application</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="239"/>
-        <location filename="../interface/UptimeTab.cpp" line="244"/>
+        <location filename="../interface/UptimeTab.cpp" line="251"/>
+        <location filename="../interface/UptimeTab.cpp" line="256"/>
         <source>Reset Application History</source>
         <translation>Réinitialiser l'Historique de l'Application</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="249"/>
+        <location filename="../interface/UptimeTab.cpp" line="261"/>
         <source>Do you want to reset all uptime data or just the %1?</source>
         <translation>Voulez-vous supprimer toutes les données d'uptime ou juste le %1 ?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="248"/>
-        <location filename="../interface/UptimeTab.cpp" line="265"/>
-        <location filename="../interface/UptimeTab.cpp" line="295"/>
-        <location filename="../interface/UptimeTab.cpp" line="322"/>
-        <location filename="../interface/UptimeTab.cpp" line="344"/>
-        <location filename="../interface/UptimeTab.cpp" line="366"/>
+        <location filename="../interface/UptimeTab.cpp" line="260"/>
+        <location filename="../interface/UptimeTab.cpp" line="277"/>
+        <location filename="../interface/UptimeTab.cpp" line="307"/>
+        <location filename="../interface/UptimeTab.cpp" line="334"/>
+        <location filename="../interface/UptimeTab.cpp" line="358"/>
+        <location filename="../interface/UptimeTab.cpp" line="382"/>
         <source>Delete stats?</source>
         <translation>Supprimer les stats ?</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="251"/>
+        <location filename="../interface/UptimeTab.cpp" line="263"/>
         <source>Reset All Stats</source>
         <translation>Réinitialiser toutes les statistiques</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="266"/>
-        <location filename="../interface/UptimeTab.cpp" line="296"/>
+        <location filename="../interface/UptimeTab.cpp" line="278"/>
+        <location filename="../interface/UptimeTab.cpp" line="308"/>
         <source>Are you sure you want to delete all (except per application) recorded uptime statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes vos statistiques d'uptime (sauf celles par application) ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="323"/>
-        <location filename="../interface/UptimeTab.cpp" line="345"/>
+        <location filename="../interface/UptimeTab.cpp" line="335"/>
+        <location filename="../interface/UptimeTab.cpp" line="359"/>
         <source>Are you sure you want to delete all recorded per application uptime statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques d'uptime par application ? Cette action est irréversible.</translation>
     </message>
     <message>
-        <location filename="../interface/UptimeTab.cpp" line="367"/>
+        <location filename="../interface/UptimeTab.cpp" line="383"/>
         <source>Are you sure you want to delete all recorded uptime statistics? This cannot be undone.</source>
         <translation>Voulez-vous vraiment supprimer toutes les statistiques d'uptime ? Cette action est irréversible.</translation>
     </message>
@@ -7121,32 +7456,32 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>VersionCheck</name>
     <message>
-        <location filename="../online/versioncheck.cpp" line="238"/>
-        <location filename="../online/versioncheck.cpp" line="388"/>
+        <location filename="../online/versioncheck.cpp" line="236"/>
+        <location filename="../online/versioncheck.cpp" line="386"/>
         <source>Error checking for new versions</source>
         <translation>Erreur lors de la recherche de nouvelles versions</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="239"/>
+        <location filename="../online/versioncheck.cpp" line="237"/>
         <source>There was an error running the WhatPulseMaintenanceTool, which checks for new versions. Please try again or refer to the error below for more information:</source>
         <translation>Une erreur s'est produite lors de l'exécution de l'outil de maintenance WhatPulse, qui vérifie les nouvelles versions. Veuillez réessayer ou consulter l'erreur ci-dessous pour plus d'informations :</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="271"/>
-        <location filename="../online/versioncheck.cpp" line="363"/>
-        <location filename="../online/versioncheck.cpp" line="549"/>
+        <location filename="../online/versioncheck.cpp" line="269"/>
+        <location filename="../online/versioncheck.cpp" line="361"/>
+        <location filename="../online/versioncheck.cpp" line="547"/>
         <source>Latest version</source>
         <translation>Dernière version</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="272"/>
-        <location filename="../online/versioncheck.cpp" line="364"/>
-        <location filename="../online/versioncheck.cpp" line="550"/>
+        <location filename="../online/versioncheck.cpp" line="270"/>
+        <location filename="../online/versioncheck.cpp" line="362"/>
+        <location filename="../online/versioncheck.cpp" line="548"/>
         <source>You're running the latest version of WhatPulse.</source>
         <translation>Vous utilisez la dernière version de WhatPulse.</translation>
     </message>
     <message>
-        <location filename="../online/versioncheck.cpp" line="389"/>
+        <location filename="../online/versioncheck.cpp" line="387"/>
         <source>There was an error checking for updates. Please try again later.</source>
         <translation>Une erreur s'est produite lors de la vérification des mises à jour. Veuillez réessayer plus tard.</translation>
     </message>
@@ -7310,67 +7645,67 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>WebsiteStatsWindow</name>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="23"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="23"/>
         <source>Website Statistics</source>
         <translation>Statistiques du site web</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="39"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="39"/>
         <source>Website Time &amp; Input Statistics</source>
         <translation>Statistiques de temps et d'entrée du site web</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="48"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="48"/>
         <source>Website</source>
         <translation>Site web</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="48"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="48"/>
         <source>Time</source>
         <translation>Temps</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="48"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="48"/>
         <source>Keys</source>
         <translation>Frappes</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="48"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="48"/>
         <source>Clicks</source>
         <translation>Clics</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="49"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="49"/>
         <source>Scrolls</source>
         <translation>Défilements</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="49"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="49"/>
         <source>Distance</source>
         <translation>Distance</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="49"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="49"/>
         <source>Words</source>
         <translation>Mots</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="77"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="77"/>
         <source>Connected browser extensions</source>
         <translation>Extensions de navigateur connectées</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="182"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="182"/>
         <source>(unable to get connection status)</source>
         <translation>(impossible d'obtenir le statut de la connexion)</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="189"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="189"/>
         <source>(website tracking not available)</source>
         <translation>(suivi du site web non disponible)</translation>
     </message>
     <message>
-        <location filename="../interface/WebsiteStatsWindow.cpp" line="197"/>
+        <location filename="../interface/windows/WebsiteStatsWindow.cpp" line="197"/>
         <source>No extensions connected</source>
         <translation>Aucune extension connectée</translation>
     </message>
@@ -7434,138 +7769,138 @@ Tous les labels personnalisés seront supprimés !</translation>
 <context>
     <name>WizardRestoreChoicePage</name>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="52"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="53"/>
         <source>We found data from your previous installation. Choose how you'd like to proceed:</source>
         <translation>Nous avons trouvé des données de votre installation précédente. Choisissez comment vous souhaitez procéder :</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="73"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="74"/>
         <source>Restore a database backup</source>
         <translation>Restaurer une sauvegarde de base de données</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="75"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="76"/>
         <source>Download and restore your stats and settings from a backup.</source>
         <translation>Téléchargez et rétablissez vos statistiques et paramètres à partir d'une sauvegarde.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="108"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="109"/>
         <source>Date</source>
         <translation>Date</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="108"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="109"/>
         <source>Computer</source>
         <translation>Ordinateur</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="109"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="110"/>
         <source>Backup Size</source>
         <translation>Taille de la Backup</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="141"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="142"/>
         <source>Restore previous settings</source>
         <translation>Restaurer les paramètres précédents</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="143"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="144"/>
         <source>Applies your previous preferences (pulse interval, appearance, ignored apps, etc.) without restoring stats.</source>
         <translation>Applique vos préférences précédentes (intervalle d'activation, apparence, applications ignorées, etc.) sans restaurer les statistiques.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="166"/>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="271"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="167"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="272"/>
         <source>Start fresh</source>
         <translation>Commencer à neuf</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="245"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="246"/>
         <source>No database backups found for this account.</source>
         <translation>Aucune sauvegarde de base de données trouvée pour ce compte.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="256"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="257"/>
         <source>No previous settings found for this account.</source>
         <translation>Aucun paramètre précédent trouvé pour ce compte.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="269"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="270"/>
         <source>Continue with current data</source>
         <translation>Continuer avec les données actuelles</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="348"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="349"/>
         <source>Cannot proceed</source>
         <translation>Impossible de procéder</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="349"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="350"/>
         <source>Please select a database backup file from the list before you proceed.</source>
         <translation>Veuillez sélectionner un fichier de backup de base de données parmi la liste ci-dessous avant de poursuivre.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="370"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="371"/>
         <source>Contacting website..</source>
         <translation>Contact avec le site en cours..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="617"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="647"/>
         <source>Starting download..</source>
         <translation>Démarrage du téléchargement..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="620"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="650"/>
         <source>Premium only</source>
         <translation>Réservé aux premiums</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="621"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="651"/>
         <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Désolé, les sauvegardes en ligne sont réservées aux membres Premium. Plus d'informations : https://whatpulse.org/premium</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="626"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="656"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="627"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="657"/>
         <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Désolé, le site a rencontré une erreur lors de la préparation de votre sauvegarde. Veuillez réessayer plus tard. Voici l'erreur : %1</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="639"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="669"/>
         <source>Downloading backup..</source>
         <translation>Téléchargement de la backup..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="646"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="676"/>
         <source>Download completed!</source>
         <translation>Téléchargement complété !</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="649"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="679"/>
         <source>Download failed</source>
         <translation>Échec du téléchargement</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="655"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="685"/>
         <source>Extracting database..</source>
         <translation>Extraction de la base de données..</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="669"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="699"/>
         <source>Extraction failed</source>
         <translation>Échec de l'extraction</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="670"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="700"/>
         <source>Failed to extract the database backup. Please try again.</source>
         <translation>Échec de l'extraction de la sauvegarde de la base de données. Veuillez réessayer.</translation>
     </message>
     <message>
-        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="678"/>
+        <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="708"/>
         <source>All done! Click Finish to restart and activate the restored database.</source>
         <translation>Tout est prêt ! Cliquez sur Terminer pour redémarrer et activer la base de données restaurée.</translation>
     </message>
