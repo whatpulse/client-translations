@@ -5340,8 +5340,8 @@ Przesyłanie: Nieznany</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="874"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="891"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="879"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="896"/>
         <source>Select label to edit..</source>
         <translation>Wybierz etykietę do edytowania..</translation>
     </message>
@@ -5357,7 +5357,7 @@ Przesyłanie: Nieznany</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="146"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="368"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="373"/>
         <source>Help &amp; formula syntax</source>
         <translation>Pomoc i składnia formuły</translation>
     </message>
@@ -5388,161 +5388,171 @@ Przesyłanie: Nieznany</translation>
         <translation>Avatar</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="254"/>
         <source>Import...</source>
         <translation>Importuj...</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="238"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="256"/>
         <source>Import an avatar pack from a .zip file</source>
         <translation>Importuj paczkę avatarów z pliku .zip</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="243"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="261"/>
         <source>Open folder</source>
         <translation>Otwórz folder</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="246"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="264"/>
         <source>Open the avatars folder to add or edit packs by hand</source>
         <translation>Otwórz folder z avatarami, aby ręcznie dodać lub edytować paczki</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="251"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="269"/>
         <source>Refresh</source>
         <translation>Odśwież</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="254"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="272"/>
         <source>Reload avatars from disk after adding or editing images</source>
         <translation>Ponownie załaduj avatary z dysku po dodaniu lub edytowaniu obrazów</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="266"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="241"/>
         <source>Avatar: </source>
         <translation>Avatar: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="280"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="245"/>
         <source>Small</source>
         <translation>Mały</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="282"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="247"/>
         <source>Big</source>
         <translation>Duży</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="284"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="358"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="244"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="363"/>
         <source>Size: </source>
         <translation>Rozmiar: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="288"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="279"/>
+        <source>Download avatars</source>
+        <translation>Pobierz awatary</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="282"/>
+        <source>Browse and download avatar packs from whatpulse.org</source>
+        <translation>Przeglądaj i pobieraj pakiety awatarów z whatpulse.org</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="293"/>
         <source>Bounce on keystrokes and clicks</source>
         <translation>Podskok przy naciśnięciach klawiszy i kliknięciach</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="291"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="296"/>
         <source>When disabled, only a very subtle motion smooths the image transitions</source>
         <translation>Gdy wyłączone, jedynie bardzo subtelny ruch wygładza przejścia obrazów</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="298"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="303"/>
         <source>Statistics overlay</source>
         <translation>Nakładka ze statystykami</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="301"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="306"/>
         <source>Show statistics under the avatar</source>
         <translation>Pokaż statystyki pod avatarem</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="332"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="460"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="468"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="594"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="337"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="428"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="465"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="473"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="599"/>
         <source>Reset to default</source>
         <translation>Zresetuj do ustawień domyślnych</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="377"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="382"/>
         <source>Window behavior</source>
         <translation>Zachowanie okna</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="472"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="477"/>
         <source>Background color: </source>
         <translation>Kolor tła: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="354"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="481"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="359"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="486"/>
         <source>Font color: </source>
         <translation>Kolor czcionki: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="495"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="500"/>
         <source>Font size: </source>
         <translation>Rozmiar czcionki: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="510"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="392"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="515"/>
         <source>Close on double click</source>
         <translation>Zamknij po podwójnym kliknięciu</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="521"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="400"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="526"/>
         <source>Put on top of all windows</source>
         <translation>Umieść na wierzchu wszystkich okien</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="538"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="543"/>
         <source>Snap to grid</source>
         <translation>Przyciągnij do siatki</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="567"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
         <source>Transparency: </source>
         <translation>Przezroczystość: </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="582"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="418"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="587"/>
         <source>Call to Center</source>
         <translation>Przesuń na środek</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="737"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="742"/>
         <source>Pulsar (built-in)</source>
         <translation>Pulsar (wbudowany)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="762"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="767"/>
         <source>Import avatar pack</source>
         <translation>Importuj paczkę avatarów</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="763"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="768"/>
         <source>Avatar packs (*.zip)</source>
         <translation>Paczki avatarów (*.zip)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="772"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="777"/>
         <source>Could not import avatar pack</source>
         <translation>Nie można zaimportować paczki avatarów</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="987"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="992"/>
         <source>Reset to default?</source>
         <translation>Zresetować do domyślnych?</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="988"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="993"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>Czy chcesz zresetować Geek Window do wartości domyślnych?
@@ -7446,6 +7456,11 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>kilometr</translation>
     </message>
     <message>
+        <location filename="../utils.cpp" line="346"/>
+        <source>m</source>
+        <translation>m</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="350"/>
         <source>meters</source>
         <translation>metry</translation>
@@ -7454,6 +7469,11 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <location filename="../utils.cpp" line="352"/>
         <source>meter</source>
         <translation>miernik</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="361"/>
+        <source>cm</source>
+        <translation>cm</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="365"/>
@@ -7466,6 +7486,11 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>centymetr</translation>
     </message>
     <message>
+        <location filename="../utils.cpp" line="384"/>
+        <source>mi</source>
+        <translation>mi</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="388"/>
         <source>miles</source>
         <translation>mile</translation>
@@ -7476,7 +7501,31 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>mila</translation>
     </message>
     <message>
+        <location filename="../utils.cpp" line="403"/>
+        <source>yd</source>
+        <translation>jard</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="407"/>
+        <source>yards</source>
+        <translation>jardy</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="409"/>
+        <source>yard</source>
+        <translation>jard</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="419"/>
+        <source>in</source>
+        <translation>cal</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="423"/>
+        <source>inches</source>
+        <translation>cale</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="425"/>
         <source>inch</source>
         <translation>cala</translation>
@@ -7606,7 +7655,7 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="930"/>
-        <location filename="../utils.cpp" line="1709"/>
+        <location filename="../utils.cpp" line="1720"/>
         <source>Left</source>
         <translation>Lewo</translation>
     </message>
@@ -7617,7 +7666,7 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="936"/>
-        <location filename="../utils.cpp" line="1707"/>
+        <location filename="../utils.cpp" line="1718"/>
         <source>Right</source>
         <translation>Prawo</translation>
     </message>
@@ -7677,18 +7726,17 @@ Spowoduje to usunięcie Twoich zmian w układzie!</translation>
         <translation>Uaktualnij do Premium, aby odblokować tę funkcję</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1711"/>
+        <location filename="../utils.cpp" line="1722"/>
         <source>Middle</source>
         <translation>Środek</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1713"/>
-        <location filename="../utils.cpp" line="1715"/>
+        <location filename="../utils.cpp" line="1724"/>
         <source>Other</source>
         <translation>Inny</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1729"/>
+        <location filename="../utils.cpp" line="1738"/>
         <source>Button</source>
         <translation>Klawisz</translation>
     </message>

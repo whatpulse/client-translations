@@ -5337,8 +5337,8 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="874"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="891"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="879"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="896"/>
         <source>Select label to edit..</source>
         <translation>选择标签以编辑..</translation>
     </message>
@@ -5354,7 +5354,7 @@ Upload: unknown</source>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeekwindow.cpp" line="146"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="368"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="373"/>
         <source>Help &amp; formula syntax</source>
         <translation>帮助 &amp; 公式语法</translation>
     </message>
@@ -5385,161 +5385,171 @@ Upload: unknown</source>
         <translation>头像</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="254"/>
         <source>Import...</source>
         <translation>导入...</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="238"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="256"/>
         <source>Import an avatar pack from a .zip file</source>
         <translation>从.zip文件导入头像包</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="243"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="261"/>
         <source>Open folder</source>
         <translation>打开文件夹</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="246"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="264"/>
         <source>Open the avatars folder to add or edit packs by hand</source>
         <translation>打开头像文件夹以手动添加或编辑包</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="251"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="269"/>
         <source>Refresh</source>
         <translation>刷新</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="254"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="272"/>
         <source>Reload avatars from disk after adding or editing images</source>
         <translation>添加或编辑图像后从磁盘重新加载头像</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="266"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="241"/>
         <source>Avatar: </source>
         <translation>头像： </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="280"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="245"/>
         <source>Small</source>
         <translation>小</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="282"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="247"/>
         <source>Big</source>
         <translation>大</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="284"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="358"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="244"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="363"/>
         <source>Size: </source>
         <translation>大小： </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="288"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="279"/>
+        <source>Download avatars</source>
+        <translation>下载头像</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="282"/>
+        <source>Browse and download avatar packs from whatpulse.org</source>
+        <translation>从 whatpulse.org 浏览并下载头像包</translation>
+    </message>
+    <message>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="293"/>
         <source>Bounce on keystrokes and clicks</source>
         <translation>在按键和点击时弹跳</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="291"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="296"/>
         <source>When disabled, only a very subtle motion smooths the image transitions</source>
         <translation>禁用时，只有非常微妙的运动可以使图像过渡更流畅</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="298"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="303"/>
         <source>Statistics overlay</source>
         <translation>统计覆盖</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="301"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="306"/>
         <source>Show statistics under the avatar</source>
         <translation>在头像下显示统计信息</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="332"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="460"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="468"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="594"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="337"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="428"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="465"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="473"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="599"/>
         <source>Reset to default</source>
         <translation>重置为初始状态</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="377"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="382"/>
         <source>Window behavior</source>
         <translation>窗口行为</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="472"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="477"/>
         <source>Background color: </source>
         <translation>背景颜色： </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="354"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="481"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="359"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="486"/>
         <source>Font color: </source>
         <translation>文字颜色： </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="495"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="500"/>
         <source>Font size: </source>
         <translation>文字大小： </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="510"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="392"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="515"/>
         <source>Close on double click</source>
         <translation>双击关闭</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="521"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="400"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="526"/>
         <source>Put on top of all windows</source>
         <translation>置于所有窗口之上</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="538"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="543"/>
         <source>Snap to grid</source>
         <translation>对齐到网格</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="567"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
         <source>Transparency: </source>
         <translation>透明度： </translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="582"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="418"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="587"/>
         <source>Call to Center</source>
         <translation>移动到中央</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="737"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="742"/>
         <source>Pulsar (built-in)</source>
         <translation>Pulsar（内置）</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="762"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="767"/>
         <source>Import avatar pack</source>
         <translation>导入头像包</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="763"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="768"/>
         <source>Avatar packs (*.zip)</source>
         <translation>头像包 (*.zip)</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="772"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="777"/>
         <source>Could not import avatar pack</source>
         <translation>无法导入头像包</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="987"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="992"/>
         <source>Reset to default?</source>
         <translation>重置为初始状态？</translation>
     </message>
     <message>
-        <location filename="../interface/settings/settingsgeekwindow.cpp" line="988"/>
+        <location filename="../interface/settings/settingsgeekwindow.cpp" line="993"/>
         <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
         <translation>是否将悬浮窗重置为初始状态？
@@ -7443,6 +7453,11 @@ This will reset any custom layouts!</source>
         <translation>千米</translation>
     </message>
     <message>
+        <location filename="../utils.cpp" line="346"/>
+        <source>m</source>
+        <translation>米</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="350"/>
         <source>meters</source>
         <translation>仪表</translation>
@@ -7451,6 +7466,11 @@ This will reset any custom layouts!</source>
         <location filename="../utils.cpp" line="352"/>
         <source>meter</source>
         <translation>仪表</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="361"/>
+        <source>cm</source>
+        <translation>厘米</translation>
     </message>
     <message>
         <location filename="../utils.cpp" line="365"/>
@@ -7463,6 +7483,11 @@ This will reset any custom layouts!</source>
         <translation>公分</translation>
     </message>
     <message>
+        <location filename="../utils.cpp" line="384"/>
+        <source>mi</source>
+        <translation>英里</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="388"/>
         <source>miles</source>
         <translation>英里</translation>
@@ -7473,7 +7498,31 @@ This will reset any custom layouts!</source>
         <translation>英里</translation>
     </message>
     <message>
+        <location filename="../utils.cpp" line="403"/>
+        <source>yd</source>
+        <translation>码</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="407"/>
+        <source>yards</source>
+        <translation>码</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="409"/>
+        <source>yard</source>
+        <translation>码</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="419"/>
+        <source>in</source>
+        <translation>英寸</translation>
+    </message>
+    <message>
+        <location filename="../utils.cpp" line="423"/>
+        <source>inches</source>
+        <translation>英寸</translation>
+    </message>
+    <message>
         <location filename="../utils.cpp" line="425"/>
         <source>inch</source>
         <translation>寸</translation>
@@ -7603,7 +7652,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../utils.cpp" line="930"/>
-        <location filename="../utils.cpp" line="1709"/>
+        <location filename="../utils.cpp" line="1720"/>
         <source>Left</source>
         <translation>左</translation>
     </message>
@@ -7614,7 +7663,7 @@ This will reset any custom layouts!</source>
     </message>
     <message>
         <location filename="../utils.cpp" line="936"/>
-        <location filename="../utils.cpp" line="1707"/>
+        <location filename="../utils.cpp" line="1718"/>
         <source>Right</source>
         <translation>右</translation>
     </message>
@@ -7674,18 +7723,17 @@ This will reset any custom layouts!</source>
         <translation>升级到高级版以解锁此功能</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1711"/>
+        <location filename="../utils.cpp" line="1722"/>
         <source>Middle</source>
         <translation>中键</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1713"/>
-        <location filename="../utils.cpp" line="1715"/>
+        <location filename="../utils.cpp" line="1724"/>
         <source>Other</source>
         <translation>其他</translation>
     </message>
     <message>
-        <location filename="../utils.cpp" line="1729"/>
+        <location filename="../utils.cpp" line="1738"/>
         <source>Button</source>
         <translation>按键</translation>
     </message>

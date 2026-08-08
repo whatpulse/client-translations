@@ -1814,17 +1814,17 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="90"/>
       <source>Search applications or titles...</source>
-      <translation type="finished">Search applications or titles...</translation>
+      <translation>Search applications or titles...</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="101"/>
       <source>Group window titles</source>
-      <translation type="finished">Group window titles</translation>
+      <translation>Group window titles</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="105"/>
       <source>Fold expanded window titles into groups by detected project, workspace, or service.</source>
-      <translation type="finished">Fold expanded window titles into groups by detected project, workspace, or service.</translation>
+      <translation>Fold expanded window titles into groups by detected project, workspace, or service.</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="125"/>
@@ -1924,14 +1924,14 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="838"/>
       <source>Show more... (%1 titles shown)</source>
-      <translation type="finished">Show more... (%1 titles shown)</translation>
+      <translation>Show more... (%1 titles shown)</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="847"/>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="877"/>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="913"/>
       <source>No window title data for this period</source>
-      <translation type="finished">No window title data for this period</translation>
+      <translation>No window title data for this period</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1061"/>
@@ -1957,7 +1957,7 @@ Please check your permissions on: %2</translation>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1094"/>
       <source>Copy</source>
-      <translation type="finished">Copy</translation>
+      <translation>Copy</translation>
     </message>
     <message>
       <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1120"/>
@@ -4320,37 +4320,37 @@ Upload: unknown</translation>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="174"/>
       <source>The selected file does not exist.</source>
-      <translation type="finished">The selected file does not exist.</translation>
+      <translation>The selected file does not exist.</translation>
     </message>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="179"/>
       <source>Could not create a temporary folder for extraction.</source>
-      <translation type="finished">Could not create a temporary folder for extraction.</translation>
+      <translation>Could not create a temporary folder for extraction.</translation>
     </message>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="184"/>
       <source>The file is not a valid zip archive, or it is empty.</source>
-      <translation type="finished">The file is not a valid zip archive, or it is empty.</translation>
+      <translation>The file is not a valid zip archive, or it is empty.</translation>
     </message>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="189"/>
       <source>The pack does not contain an 'idle' image. At least an idle image is required.</source>
-      <translation type="finished">The pack does not contain an 'idle' image. At least an idle image is required.</translation>
+      <translation>The pack does not contain an 'idle' image. At least an idle image is required.</translation>
     </message>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="197"/>
       <source>Could not create the avatars folder.</source>
-      <translation type="finished">Could not create the avatars folder.</translation>
+      <translation>Could not create the avatars folder.</translation>
     </message>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="206"/>
       <source>Could not create the destination folder.</source>
-      <translation type="finished">Could not create the destination folder.</translation>
+      <translation>Could not create the destination folder.</translation>
     </message>
     <message>
       <location filename="../interface/PulsarAvatarPack.cpp" line="227"/>
       <source>The pack could not be imported.</source>
-      <translation type="finished">The pack could not be imported.</translation>
+      <translation>The pack could not be imported.</translation>
     </message>
   </context>
   <context>
@@ -4733,7 +4733,7 @@ Upload: unknown</translation>
     <message>
       <location filename="../interface/settings/settingsactivestats.cpp" line="93"/>
       <source>Per Window Title</source>
-      <translation type="finished">Per Window Title</translation>
+      <translation>Per Window Title</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsactivestats.cpp" line="112"/>
@@ -5330,8 +5330,8 @@ Upload: unknown</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="104"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="874"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="891"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="879"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="896"/>
       <source>Select label to edit..</source>
       <translation>Select label to edit..</translation>
     </message>
@@ -5347,7 +5347,7 @@ Upload: unknown</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="146"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="368"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="373"/>
       <source>Help &amp; formula syntax</source>
       <translation>Help &amp; formula syntax</translation>
     </message>
@@ -5360,179 +5360,189 @@ Upload: unknown</translation>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="175"/>
       <source>Window style: </source>
-      <translation type="finished">Window style: </translation>
+      <translation>Window style: </translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="179"/>
       <source>Statistics</source>
-      <translation type="finished">Statistics</translation>
+      <translation>Statistics</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="182"/>
       <source>Desktop buddy</source>
-      <translation type="finished">Desktop buddy</translation>
+      <translation>Desktop buddy</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="220"/>
       <source>Avatar</source>
-      <translation type="finished">Avatar</translation>
-    </message>
-    <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="236"/>
-      <source>Import...</source>
-      <translation type="finished">Import...</translation>
-    </message>
-    <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="238"/>
-      <source>Import an avatar pack from a .zip file</source>
-      <translation type="finished">Import an avatar pack from a .zip file</translation>
-    </message>
-    <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="243"/>
-      <source>Open folder</source>
-      <translation type="finished">Open folder</translation>
-    </message>
-    <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="246"/>
-      <source>Open the avatars folder to add or edit packs by hand</source>
-      <translation type="finished">Open the avatars folder to add or edit packs by hand</translation>
-    </message>
-    <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="251"/>
-      <source>Refresh</source>
-      <translation type="finished">Refresh</translation>
+      <translation>Avatar</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="254"/>
+      <source>Import...</source>
+      <translation>Import...</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="256"/>
+      <source>Import an avatar pack from a .zip file</source>
+      <translation>Import an avatar pack from a .zip file</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="261"/>
+      <source>Open folder</source>
+      <translation>Open folder</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="264"/>
+      <source>Open the avatars folder to add or edit packs by hand</source>
+      <translation>Open the avatars folder to add or edit packs by hand</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="269"/>
+      <source>Refresh</source>
+      <translation>Refresh</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="272"/>
       <source>Reload avatars from disk after adding or editing images</source>
-      <translation type="finished">Reload avatars from disk after adding or editing images</translation>
+      <translation>Reload avatars from disk after adding or editing images</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="266"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="241"/>
       <source>Avatar: </source>
-      <translation type="finished">Avatar: </translation>
+      <translation>Avatar: </translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="280"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="245"/>
       <source>Small</source>
-      <translation type="finished">Small</translation>
+      <translation>Small</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="247"/>
+      <source>Big</source>
+      <translation>Big</translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="244"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="363"/>
+      <source>Size: </source>
+      <translation>Size: </translation>
+    </message>
+    <message>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="279"/>
+      <source>Download avatars</source>
+      <translation type="finished">Download avatars</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingsgeekwindow.cpp" line="282"/>
-      <source>Big</source>
-      <translation type="finished">Big</translation>
+      <source>Browse and download avatar packs from whatpulse.org</source>
+      <translation type="finished">Browse and download avatar packs from whatpulse.org</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="284"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="358"/>
-      <source>Size: </source>
-      <translation type="finished">Size: </translation>
-    </message>
-    <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="288"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="293"/>
       <source>Bounce on keystrokes and clicks</source>
-      <translation type="finished">Bounce on keystrokes and clicks</translation>
+      <translation>Bounce on keystrokes and clicks</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="291"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="296"/>
       <source>When disabled, only a very subtle motion smooths the image transitions</source>
-      <translation type="finished">When disabled, only a very subtle motion smooths the image transitions</translation>
+      <translation>When disabled, only a very subtle motion smooths the image transitions</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="298"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="303"/>
       <source>Statistics overlay</source>
-      <translation type="finished">Statistics overlay</translation>
+      <translation>Statistics overlay</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="301"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="306"/>
       <source>Show statistics under the avatar</source>
-      <translation type="finished">Show statistics under the avatar</translation>
+      <translation>Show statistics under the avatar</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="332"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="423"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="460"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="468"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="594"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="337"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="428"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="465"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="473"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="599"/>
       <source>Reset to default</source>
       <translation>Reset to default</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="377"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="382"/>
       <source>Window behavior</source>
-      <translation type="finished">Window behavior</translation>
+      <translation>Window behavior</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="472"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="477"/>
       <source>Background color: </source>
       <translation>Background color: </translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="354"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="481"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="359"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="486"/>
       <source>Font color: </source>
       <translation>Font color: </translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="495"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="500"/>
       <source>Font size: </source>
       <translation>Font size: </translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="387"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="510"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="392"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="515"/>
       <source>Close on double click</source>
       <translation>Close on double click</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="395"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="521"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="400"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="526"/>
       <source>Put on top of all windows</source>
       <translation>Put on top of all windows</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="538"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="543"/>
       <source>Snap to grid</source>
       <translation>Snap to grid</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="567"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="572"/>
       <source>Transparency: </source>
       <translation>Transparency: </translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="413"/>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="582"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="418"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="587"/>
       <source>Call to Center</source>
       <translation>Call to Center</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="737"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="742"/>
       <source>Pulsar (built-in)</source>
-      <translation type="finished">Pulsar (built-in)</translation>
+      <translation>Pulsar (built-in)</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="762"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="767"/>
       <source>Import avatar pack</source>
-      <translation type="finished">Import avatar pack</translation>
+      <translation>Import avatar pack</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="763"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="768"/>
       <source>Avatar packs (*.zip)</source>
-      <translation type="finished">Avatar packs (*.zip)</translation>
+      <translation>Avatar packs (*.zip)</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="772"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="777"/>
       <source>Could not import avatar pack</source>
-      <translation type="finished">Could not import avatar pack</translation>
+      <translation>Could not import avatar pack</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="987"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="992"/>
       <source>Reset to default?</source>
       <translation>Reset to default?</translation>
     </message>
     <message>
-      <location filename="../interface/settings/settingsgeekwindow.cpp" line="988"/>
+      <location filename="../interface/settings/settingsgeekwindow.cpp" line="993"/>
       <source>Do you want to reset the Geek Window to default?
 This will reset any custom layouts!</source>
       <translation>Do you want to reset the Geek Window to default?
@@ -6043,7 +6053,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/settings/settingstabcontainer.cpp" line="217"/>
       <source>Update window-title grouping packs</source>
-      <translation type="finished">Update window-title grouping packs</translation>
+      <translation>Update window-title grouping packs</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingstabcontainer.cpp" line="224"/>
@@ -6156,12 +6166,12 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/settings/settingstabcontainer.cpp" line="463"/>
       <source>Updating window-title grouping packs</source>
-      <translation type="finished">Updating window-title grouping packs</translation>
+      <translation>Updating window-title grouping packs</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingstabcontainer.cpp" line="464"/>
       <source>WhatPulse is checking for an updated window-title grouping pack in the background. If a newer version is available it will be applied automatically.</source>
-      <translation type="finished">WhatPulse is checking for an updated window-title grouping pack in the background. If a newer version is available it will be applied automatically.</translation>
+      <translation>WhatPulse is checking for an updated window-title grouping pack in the background. If a newer version is available it will be applied automatically.</translation>
     </message>
     <message>
       <location filename="../interface/settings/settingstabcontainer.cpp" line="495"/>
@@ -6572,12 +6582,12 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../util/titlegroupingservice.cpp" line="78"/>
       <source>Ungrouped</source>
-      <translation type="finished">Ungrouped</translation>
+      <translation>Ungrouped</translation>
     </message>
     <message>
       <location filename="../util/titlegroupingservice.cpp" line="80"/>
       <source>Other</source>
-      <translation type="finished">Other</translation>
+      <translation>Other</translation>
     </message>
   </context>
   <context>
@@ -6806,12 +6816,12 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="79"/>
       <source>Group window titles</source>
-      <translation type="finished">Group window titles</translation>
+      <translation>Group window titles</translation>
     </message>
     <message>
       <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="83"/>
       <source>Fold expanded window titles into groups by detected project, workspace, or service.</source>
-      <translation type="finished">Fold expanded window titles into groups by detected project, workspace, or service.</translation>
+      <translation>Fold expanded window titles into groups by detected project, workspace, or service.</translation>
     </message>
     <message>
       <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="110"/>
@@ -6857,7 +6867,7 @@ This will reset any custom layouts!</translation>
     <message>
       <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="217"/>
       <source>Copy</source>
-      <translation type="finished">Copy</translation>
+      <translation>Copy</translation>
     </message>
     <message>
       <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="245"/>
@@ -7436,6 +7446,11 @@ This will reset any custom layouts!</translation>
       <translation>kilometer</translation>
     </message>
     <message>
+      <location filename="../utils.cpp" line="346"/>
+      <source>m</source>
+      <translation type="finished">m</translation>
+    </message>
+    <message>
       <location filename="../utils.cpp" line="350"/>
       <source>meters</source>
       <translation>meters</translation>
@@ -7444,6 +7459,11 @@ This will reset any custom layouts!</translation>
       <location filename="../utils.cpp" line="352"/>
       <source>meter</source>
       <translation>meter</translation>
+    </message>
+    <message>
+      <location filename="../utils.cpp" line="361"/>
+      <source>cm</source>
+      <translation type="finished">cm</translation>
     </message>
     <message>
       <location filename="../utils.cpp" line="365"/>
@@ -7456,6 +7476,11 @@ This will reset any custom layouts!</translation>
       <translation>centimeter</translation>
     </message>
     <message>
+      <location filename="../utils.cpp" line="384"/>
+      <source>mi</source>
+      <translation type="finished">mi</translation>
+    </message>
+    <message>
       <location filename="../utils.cpp" line="388"/>
       <source>miles</source>
       <translation>miles</translation>
@@ -7466,7 +7491,31 @@ This will reset any custom layouts!</translation>
       <translation>mile</translation>
     </message>
     <message>
+      <location filename="../utils.cpp" line="403"/>
+      <source>yd</source>
+      <translation type="finished">yd</translation>
+    </message>
+    <message>
+      <location filename="../utils.cpp" line="407"/>
+      <source>yards</source>
+      <translation type="finished">yards</translation>
+    </message>
+    <message>
+      <location filename="../utils.cpp" line="409"/>
+      <source>yard</source>
+      <translation type="finished">yard</translation>
+    </message>
+    <message>
       <location filename="../utils.cpp" line="419"/>
+      <source>in</source>
+      <translation type="finished">in</translation>
+    </message>
+    <message>
+      <location filename="../utils.cpp" line="423"/>
+      <source>inches</source>
+      <translation type="finished">inches</translation>
+    </message>
+    <message>
       <location filename="../utils.cpp" line="425"/>
       <source>inch</source>
       <translation>inch</translation>
@@ -7601,7 +7650,7 @@ This will reset any custom layouts!</translation>
     </message>
     <message>
       <location filename="../utils.cpp" line="930"/>
-      <location filename="../utils.cpp" line="1709"/>
+      <location filename="../utils.cpp" line="1720"/>
       <source>Left</source>
       <translation>Left</translation>
     </message>
@@ -7612,7 +7661,7 @@ This will reset any custom layouts!</translation>
     </message>
     <message>
       <location filename="../utils.cpp" line="936"/>
-      <location filename="../utils.cpp" line="1707"/>
+      <location filename="../utils.cpp" line="1718"/>
       <source>Right</source>
       <translation>Right</translation>
     </message>
@@ -7672,18 +7721,17 @@ This will reset any custom layouts!</translation>
       <translation>Upgrade to Premium to unlock this feature</translation>
     </message>
     <message>
-      <location filename="../utils.cpp" line="1711"/>
+      <location filename="../utils.cpp" line="1722"/>
       <source>Middle</source>
       <translation>Middle</translation>
     </message>
     <message>
-      <location filename="../utils.cpp" line="1713"/>
-      <location filename="../utils.cpp" line="1715"/>
+      <location filename="../utils.cpp" line="1724"/>
       <source>Other</source>
       <translation>Other</translation>
     </message>
     <message>
-      <location filename="../utils.cpp" line="1729"/>
+      <location filename="../utils.cpp" line="1738"/>
       <source>Button</source>
       <translation>Button</translation>
     </message>
