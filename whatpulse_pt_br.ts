@@ -164,7 +164,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="439"/>
-        <source>You can&apos;t change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
+        <source>You can't change your password inside the client. Please log out and log back in with the same email address and computer name to change your password in this client. Your stats will be preserved if you use the same details.</source>
         <translation>Você não pode alterar sua senha dentro do cliente. Por favor, saia e faça login novamente com o mesmo endereço de e-mail e nome do computador para alterar sua senha neste cliente. Suas estatísticas serão preservadas se você usar os mesmos detalhes.</translation>
     </message>
     <message>
@@ -194,7 +194,7 @@
     </message>
     <message>
         <location filename="../interface/AccountTab.cpp" line="479"/>
-        <source>Successfully started a backup. It&apos;ll run in the background, and will take a few minutes.</source>
+        <source>Successfully started a backup. It'll run in the background, and will take a few minutes.</source>
         <translation>Backup iniciado com sucesso. Ele será executado em segundo plano e levará alguns minutos.</translation>
     </message>
 </context>
@@ -241,224 +241,72 @@
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="71"/>
         <source>Request timed out. Please check your internet connection and try again.</source>
-        <translation type="unfinished">Requisição expirou. Por favor, verifique sua conexão com a internet e tente novamente.</translation>
+        <translation>Requisição expirou. Por favor, verifique sua conexão com a internet e tente novamente.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="73"/>
         <source>The WhatPulse website sent a response that could not be read. Please try again in a little while.</source>
-        <translation type="unfinished"></translation>
+        <translation>O site do WhatPulse enviou uma resposta que não pôde ser lida. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="76"/>
         <source>The request was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A solicitação foi cancelada.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="78"/>
         <source>The request could not be sent in time. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível enviar a solicitação a tempo. Tente novamente.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="80"/>
         <source>WhatPulse is set to work offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse está configurado para funcionar offline.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="82"/>
         <source>Could not sign in to the WhatPulse website. Please try again in a little while.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível entrar no site do WhatPulse. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="84"/>
         <source>This server does not support that feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este servidor não oferece suporte a esse recurso.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="92"/>
         <source>Too many requests. Please wait a moment and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitações demais. Aguarde um momento e tente novamente.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="94"/>
         <source>This feature requires WhatPulse Premium.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este recurso requer o WhatPulse Premium.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="96"/>
         <source>Your account has been suspended.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua conta foi suspensa.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="98"/>
         <source>This computer has been archived.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este computador foi arquivado.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="100"/>
         <source>WhatPulse can no longer sign in on this computer. Please link this computer to your account again.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não pode mais entrar neste computador. Vincule este computador à sua conta novamente.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="102"/>
         <source>Your organization has been disabled, please contact your administrator.</source>
-        <translation type="unfinished">Sua organização foi desativada, por favor, entre em contato com seu administrador.</translation>
+        <translation>Sua organização foi desativada, por favor, entre em contato com seu administrador.</translation>
     </message>
     <message>
         <location filename="../online/websiteapi/ApiError.cpp" line="107"/>
         <source>The WhatPulse website reported an error. Please try again in a little while.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>ApiTestWindow</name>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="39"/>
-        <source>API test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="72"/>
-        <source>API calls that have passed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="76"/>
-        <source>Test read-only calls</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="82"/>
-        <source>Test all calls</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="88"/>
-        <source>Reset results</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="101"/>
-        <source>Status</source>
-        <translation type="unfinished">Status</translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="101"/>
-        <source>Call</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="101"/>
-        <source>Route</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="101"/>
-        <source>Last result</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="106"/>
-        <source>Website API calls</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="114"/>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="115"/>
-        <source>Filter the logs</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="122"/>
-        <source>Show bodies</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="126"/>
-        <source>Follow</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="142"/>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="144"/>
-        <source>Requests</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="143"/>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="145"/>
-        <source>Collector log</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="168"/>
-        <source>The collector didn&apos;t answer (%1). It only offers this in a debug build with networking on.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="187"/>
-        <source>Requests go to %1, the local development server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="188"/>
-        <source>Requests go to %1. Calls that change data are off unless POINT_CLIENT_TO_WHATPULSE_LOCAL is set.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="219"/>
-        <source>Test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="222"/>
-        <source>Test %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="225"/>
-        <source>Changes data, so it only runs against the local development server.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="286"/>
-        <source>Not on v4 yet</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="289"/>
-        <source>Running</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="291"/>
-        <source>Not tested</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="294"/>
-        <source>Passed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="294"/>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="307"/>
-        <source>Failed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="332"/>
-        <source>%1 of %2 calls passed, %3 failed. %4 more aren&apos;t on v4 yet.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="378"/>
-        <source>Not sent</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../interface/windows/ApiTestWindow.cpp" line="391"/>
-        <source>No request seen</source>
-        <translation type="unfinished"></translation>
+        <translation>O site do WhatPulse informou um erro. Tente novamente daqui a pouco.</translation>
     </message>
 </context>
 <context>
@@ -470,7 +318,7 @@
     </message>
     <message>
         <location filename="../application.cpp" line="327"/>
-        <source>Couldn&apos;t detect any system tray on this system, and I need that to run.</source>
+        <source>Couldn't detect any system tray on this system, and I need that to run.</source>
         <translation>Não foi possível detectar nenhuma bandeja do sistema neste sistema, e eu preciso disso para executar.</translation>
     </message>
     <message>
@@ -491,7 +339,7 @@
     <message>
         <location filename="../application.cpp" line="471"/>
         <source>WhatPulse failure</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha do WhatPulse</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="472"/>
@@ -499,17 +347,20 @@
 %1
 
 Please check that both programs are the same version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível abrir o banco de dados de estatísticas informado pelo processo coletor:
+%1
+
+Verifique se os dois programas estão na mesma versão.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1415"/>
         <source>Display scaling issue detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema de escala de exibição detectado</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1416"/>
         <source>A Windows compatibility setting (high DPI scaling override) is enabled for WhatPulse. This can cause the tray menu to appear in the wrong position or render incorrectly. To remove it: right-click WhatPulse.exe, open Properties &gt; Compatibility &gt; Change high DPI settings, and disable the scaling override.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma configuração de compatibilidade do Windows (substituição da escala de DPI alto) está ativada para o WhatPulse. Isso pode fazer com que o menu da bandeja apareça na posição errada ou seja exibido incorretamente. Para removê-la: clique com o botão direito em WhatPulse.exe, abra Propriedades &gt; Compatibilidade &gt; Alterar configurações de DPI alto e desative a substituição da escala.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1459"/>
@@ -541,7 +392,7 @@ Please check that both programs are the same version.</source>
         <location filename="../application.cpp" line="1527"/>
         <location filename="../application.cpp" line="1540"/>
         <source>&amp;Pause Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pausar monitoramento</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1484"/>
@@ -557,7 +408,7 @@ Please check that both programs are the same version.</source>
         <location filename="../application.cpp" line="1526"/>
         <location filename="../application.cpp" line="1539"/>
         <source>&amp;Resume Tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Retomar monitoramento</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1632"/>
@@ -567,22 +418,22 @@ Please check that both programs are the same version.</source>
     <message>
         <location filename="../application.cpp" line="2400"/>
         <source>The collector did not confirm the data move. It may still be running in the background. The previous mode has been kept; please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>O coletor não confirmou a transferência dos dados. Ele ainda pode estar em execução em segundo plano. O modo anterior foi mantido; tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="2406"/>
         <source>Moving the data files failed. Check write permissions on the destination. The previous mode has been kept.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao mover os arquivos de dados. Verifique as permissões de gravação no destino. O modo anterior foi mantido.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="3475"/>
         <source>Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentar novamente</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="3475"/>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Sair</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="1615"/>
@@ -622,7 +473,7 @@ Please check that both programs are the same version.</source>
     <message>
         <location filename="../application.cpp" line="1939"/>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar comentários</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="2087"/>
@@ -631,8 +482,8 @@ Please check that both programs are the same version.</source>
     </message>
     <message>
         <location filename="../application.cpp" line="2088"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>A configuração &quot;Trabalhar Offline&quot; está ativada. Isso impede que o cliente fique online, incluindo o envio de dados. Desative essa configuração e você poderá enviar dados novamente.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>A configuração "Trabalhar Offline" está ativada. Isso impede que o cliente fique online, incluindo o envio de dados. Desative essa configuração e você poderá enviar dados novamente.</translation>
     </message>
     <message>
         <location filename="../application.cpp" line="2350"/>
@@ -921,8 +772,8 @@ Você deseja continuar?</translation>
     </message>
     <message>
         <location filename="../interface/windows/applicationssyncwindow.cpp" line="828"/>
-        <source>&apos;%1&apos; has been marked for re-upload. It can take up to 15 minutes for the application to be synced again.</source>
-        <translation>&apos;%1&apos; foi marcado para reenvio. Pode levar até 15 minutos para que o aplicativo seja sincronizado novamente.</translation>
+        <source>'%1' has been marked for re-upload. It can take up to 15 minutes for the application to be synced again.</source>
+        <translation>'%1' foi marcado para reenvio. Pode levar até 15 minutos para que o aplicativo seja sincronizado novamente.</translation>
     </message>
 </context>
 <context>
@@ -958,17 +809,17 @@ Você deseja continuar?</translation>
     <message>
         <location filename="../collector/CollectorAccountAuthorizer.cpp" line="123"/>
         <source>The link with the website was lost. Please try linking this computer again.</source>
-        <translation type="unfinished"></translation>
+        <translation>A conexão com o site foi perdida. Tente vincular este computador novamente.</translation>
     </message>
     <message>
         <location filename="../collector/CollectorAccountAuthorizer.cpp" line="151"/>
         <source>WhatPulse could not save your account. Please check that the data directory is writable, and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não conseguiu salvar sua conta. Verifique se é possível gravar no diretório de dados e tente novamente.</translation>
     </message>
     <message>
         <location filename="../collector/CollectorAccountAuthorizer.cpp" line="468"/>
         <source>Authorization process has timed out after %1 hours. Please try again.</source>
-        <translation type="unfinished">O processo de autorização expirou após %1 horas. Tente novamente.</translation>
+        <translation>O processo de autorização expirou após %1 horas. Tente novamente.</translation>
     </message>
 </context>
 <context>
@@ -976,35 +827,35 @@ Você deseja continuar?</translation>
     <message>
         <location filename="../appcore/CollectorStartupError.cpp" line="89"/>
         <source>WhatPulse could not start</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível iniciar o WhatPulse</translation>
     </message>
     <message>
         <location filename="../appcore/CollectorStartupError.cpp" line="104"/>
         <source>WhatPulse records your statistics with a background program (whatpulse-collector), but it could not be found at:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Please reinstall WhatPulse to restore it.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse registra suas estatísticas com um programa em segundo plano (whatpulse-collector), mas ele não foi encontrado em:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Reinstale o WhatPulse para restaurá-lo.</translation>
     </message>
     <message>
         <location filename="../appcore/CollectorStartupError.cpp" line="112"/>
         <source>WhatPulse could not launch its background program (whatpulse-collector) at:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Security software may be blocking it, or the file may be damaged. Check your security software, or reinstall WhatPulse.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não conseguiu iniciar seu programa em segundo plano (whatpulse-collector) em:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;&lt;br&gt;Um software de segurança pode estar bloqueando-o, ou o arquivo pode estar danificado. Verifique seu software de segurança ou reinstale o WhatPulse.</translation>
     </message>
     <message>
         <location filename="../appcore/CollectorStartupError.cpp" line="120"/>
         <source>A different version of the WhatPulse background program (whatpulse-collector) is already running and is not compatible with this version of WhatPulse. This can happen after an incomplete update.&lt;br&gt;&lt;br&gt;End the whatpulse-collector process or restart your computer, then start WhatPulse again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma versão diferente do programa em segundo plano do WhatPulse (whatpulse-collector) já está em execução e não é compatível com esta versão do WhatPulse. Isso pode acontecer após uma atualização incompleta.&lt;br&gt;&lt;br&gt;Encerre o processo whatpulse-collector ou reinicie o computador e, em seguida, inicie o WhatPulse novamente.</translation>
     </message>
     <message numerus="yes">
         <location filename="../appcore/CollectorStartupError.cpp" line="129"/>
         <source>WhatPulse started its background program (whatpulse-collector), but it did not respond within %n second(s). It may have stopped because of an error, or your computer may be very busy.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform/>
+            <numerusform/>
         </translation>
     </message>
     <message>
         <location filename="../appcore/CollectorStartupError.cpp" line="137"/>
         <source>Details are in the log files in:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Os detalhes estão nos arquivos de log em:&lt;br&gt;&lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -1054,32 +905,32 @@ Você deseja continuar?</translation>
     <message>
         <location filename="../online/DataFileDownloader.cpp" line="62"/>
         <source>New GeoIP database seems to be too small (%1), stopping update.</source>
-        <translation type="unfinished">O novo banco de dados GeoIP parece ser muito pequeno (%1), interrompendo a atualização.</translation>
+        <translation>O novo banco de dados GeoIP parece ser muito pequeno (%1), interrompendo a atualização.</translation>
     </message>
     <message>
         <location filename="../online/DataFileDownloader.cpp" line="70"/>
         <source>Unable to write temporary GeoIP update file (%1), permission denied.</source>
-        <translation type="unfinished">Não foi possível gravar o arquivo de atualização temporária do GeoIP (%1), permissão negada.</translation>
+        <translation>Não foi possível gravar o arquivo de atualização temporária do GeoIP (%1), permissão negada.</translation>
     </message>
     <message>
         <location filename="../online/DataFileDownloader.cpp" line="77"/>
         <source>Failed to write GeoIP database file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao gravar o arquivo do banco de dados GeoIP.</translation>
     </message>
     <message>
         <location filename="../online/DataFileDownloader.cpp" line="95"/>
         <source>Failed to replace GeoIP database file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao substituir o arquivo do banco de dados GeoIP.</translation>
     </message>
     <message>
         <location filename="../online/DataFileDownloader.cpp" line="102"/>
         <source>The downloaded network port descriptions file does not look right.</source>
-        <translation type="unfinished"></translation>
+        <translation>O arquivo baixado com as descrições das portas de rede parece estar incorreto.</translation>
     </message>
     <message>
         <location filename="../online/DataFileDownloader.cpp" line="109"/>
         <source>Unable to write the network port descriptions file (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível gravar o arquivo com as descrições das portas de rede (%1).</translation>
     </message>
 </context>
 <context>
@@ -1116,8 +967,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="656"/>
-        <source>The database &apos;%1&apos; is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
-        <translation>O banco de dados &apos;%1&apos; é somente leitura. WhatPulse não pode armazenar nenhuma estatística até que você corrija esse problema.</translation>
+        <source>The database '%1' is read-only. WhatPulse cannot store any statistics until you fix this problem.</source>
+        <translation>O banco de dados '%1' é somente leitura. WhatPulse não pode armazenar nenhuma estatística até que você corrija esse problema.</translation>
     </message>
     <message>
         <location filename="../util/database.cpp" line="699"/>
@@ -1152,7 +1003,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../database/databasebackuputility.cpp" line="206"/>
         <source>Networking is off.</source>
-        <translation type="unfinished"></translation>
+        <translation>A rede está desativada.</translation>
     </message>
     <message>
         <location filename="../database/databasebackuputility.cpp" line="243"/>
@@ -1174,7 +1025,7 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="42"/>
-        <source>Hi there! According to my records, it&apos;s been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I&apos;m done.</source>
+        <source>Hi there! According to my records, it's been &lt;b&gt;%1&lt;/b&gt; days since your last online database backup. Please take a minute and do so now. This window will close automatically when I'm done.</source>
         <translation>Olá! De acordo com meus registros, já se passaram &lt;b&gt;%1&lt;/b&gt; dias desde o seu último backup de banco de dados online. Por favor, reserve um minuto para fazer isso agora. Esta janela será fechada automaticamente quando eu terminar.</translation>
     </message>
     <message>
@@ -1206,7 +1057,7 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="172"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Desculpe, o recurso de backup online é exclusivo para membros Premium. Mais informações aqui: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -1216,7 +1067,7 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/windows/DatabaseBackupWindow.cpp" line="183"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Desculpe, o site apresentou um erro ao preparar seu backup. Tente novamente mais tarde. Aqui está o erro: %1</translation>
     </message>
     <message>
@@ -1260,17 +1111,17 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="406"/>
-        <source>You&apos;ve typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
+        <source>You've typed the most on &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% keys!)</source>
         <translation>Você digitou mais em &lt;b&gt;%VAR2:date%&lt;/b&gt; (%VAR1:int% teclas!)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="421"/>
-        <source>You&apos;ve clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
+        <source>You've clicked the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% clicks)</source>
         <translation>Você clicou mais dentro do aplicativo &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% cliques)</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="435"/>
-        <source>You&apos;ve typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
+        <source>You've typed the most inside application &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% keys)</source>
         <translation>Você digitou mais dentro do aplicativo &lt;b&gt;%VAR1:appname%&lt;/b&gt;! (%VAR2:int% teclas)</translation>
     </message>
     <message>
@@ -1385,7 +1236,7 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../facts.cpp" line="802"/>
-        <source>You&apos;ve rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
+        <source>You've rebooted your computer &lt;b&gt;%VAR1:int%&lt;/b&gt; times.</source>
         <translation>Você reiniciou seu computador &lt;b&gt;%VAR1:int%&lt;/b&gt; vezes.</translation>
     </message>
     <message>
@@ -1417,386 +1268,386 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="52"/>
         <source>Not sure</source>
-        <translation type="unfinished"></translation>
+        <translation>Não tenho certeza</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="181"/>
         <source>Kind of feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipo de feedback</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="182"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="406"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="407"/>
         <source>Report a problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Relatar um problema</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="183"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="423"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="424"/>
         <source>Suggest a feature</source>
-        <translation type="unfinished"></translation>
+        <translation>Sugerir um recurso</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="184"/>
         <source>Other feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Outro feedback</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="213"/>
         <source>you@example.com</source>
-        <translation type="unfinished"></translation>
+        <translation>you@example.com</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="214"/>
         <source>Email address for replies</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço de e-mail para respostas</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="219"/>
         <source>&amp;Email address</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Endereço de e-mail</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="236"/>
         <source>Descriptions can be up to %1 characters, so the rest was left out.</source>
-        <translation type="unfinished"></translation>
+        <translation>As descrições podem ter até %1 caracteres; por isso, o restante foi cortado.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="255"/>
         <source>How much would this feature help you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quanto este recurso ajudaria você?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="257"/>
         <source>How much would this &amp;help you?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quanto isso &amp;ajudaria você?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="263"/>
         <source>Diagnostics to include</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados de diagnóstico a incluir</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="267"/>
         <source>Log files</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de log</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="274"/>
         <source>Statistics database</source>
-        <translation type="unfinished"></translation>
+        <translation>Banco de dados de estatísticas</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="295"/>
         <source>Upload progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progresso do envio</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="303"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="915"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="313"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="341"/>
         <source>Tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>Ícone da bandeja</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="342"/>
         <source>Geek Window</source>
-        <translation type="unfinished">Janela para Nerds</translation>
+        <translation>Janela para Nerds</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="343"/>
         <source>Other</source>
-        <translation type="unfinished">Outro</translation>
+        <translation>Outro</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="348"/>
         <source>Nice to have</source>
-        <translation type="unfinished"></translation>
+        <translation>Seria bom ter</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="350"/>
         <source>Important to me</source>
-        <translation type="unfinished"></translation>
+        <translation>É importante para mim</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="352"/>
-        <source>I can&apos;t use WhatPulse well without it</source>
-        <translation type="unfinished"></translation>
+        <source>I can't use WhatPulse well without it</source>
+        <translation>Não consigo usar o WhatPulse direito sem isso</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="409"/>
         <source>Describe what went wrong and WhatPulse will send it to the developers, together with the diagnostics you select below. Everything you send is only visible to WhatPulse support.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descreva o que deu errado e o WhatPulse enviará o relato aos desenvolvedores, junto com os dados de diagnóstico selecionados abaixo. Tudo o que você enviar ficará visível apenas para o suporte do WhatPulse.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="412"/>
         <source>&amp;Where did it happen?</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Onde isso aconteceu?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="414"/>
         <source>Where in WhatPulse did the problem happen?</source>
-        <translation type="unfinished"></translation>
+        <translation>Em que parte do WhatPulse o problema aconteceu?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="415"/>
         <source>&amp;What happened?</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;O que aconteceu?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="417"/>
         <source>What were you doing, what did you expect to happen, and what happened instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>O que você estava fazendo, o que esperava que acontecesse e o que aconteceu?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="419"/>
         <source>Description of the problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição do problema</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="420"/>
         <source>Send report</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar relato</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="426"/>
         <source>Missing something? Tell the developers what you would like WhatPulse to do. Requests go straight to the people building the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Está faltando alguma coisa? Conte aos desenvolvedores o que você gostaria que o WhatPulse fizesse. As solicitações vão direto para quem está desenvolvendo o aplicativo.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="429"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="447"/>
         <source>&amp;Which part of WhatPulse?</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Qual parte do WhatPulse?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="431"/>
         <source>Which part of WhatPulse is the feature about?</source>
-        <translation type="unfinished"></translation>
+        <translation>A qual parte do WhatPulse esse recurso se refere?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="432"/>
         <source>&amp;What would you like to see?</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;O que você gostaria de ver?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="434"/>
         <source>What would you like WhatPulse to do, and how would it help you?</source>
-        <translation type="unfinished"></translation>
+        <translation>O que você gostaria que o WhatPulse fizesse e como isso ajudaria você?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="437"/>
         <source>Description of the feature request</source>
-        <translation type="unfinished"></translation>
+        <translation>Descrição da solicitação de recurso</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="438"/>
         <source>Send request</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar solicitação</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="441"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="442"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="453"/>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar feedback</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="444"/>
         <source>Anything else on your mind - a compliment, a question, or a thought about where WhatPulse should go? Send it to the developers here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Quer compartilhar algo mais — um elogio, uma pergunta ou uma ideia sobre os rumos do WhatPulse? Envie sua mensagem aos desenvolvedores por aqui.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="449"/>
         <source>Which part of WhatPulse is the feedback about?</source>
-        <translation type="unfinished"></translation>
+        <translation>A qual parte do WhatPulse esse feedback se refere?</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="450"/>
         <source>&amp;Your feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu &amp;feedback</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="451"/>
         <source>Tell us what you think.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conte para nós o que você acha.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="452"/>
         <source>Your feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu feedback</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="516"/>
         <source>Log files (%1) - what WhatPulse recorded while running. Almost every problem needs these.</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivos de log (%1) — o que o WhatPulse registrou durante a execução. Quase todo problema exige esses arquivos.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="521"/>
         <source>Statistics database (%1) - your local statistics. Only needed for problems with wrong or missing numbers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Banco de dados de estatísticas (%1) — suas estatísticas locais. Só é necessário em caso de números incorretos ou ausentes.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="527"/>
         <source>Files are compressed before sending, so the upload is a lot smaller than the sizes above. Sending the database can take a while on a slow connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os arquivos são compactados antes do envio, então o tamanho enviado é bem menor do que os tamanhos acima. O envio do banco de dados pode demorar em uma conexão lenta.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="532"/>
         <source>Files are compressed before sending, so the upload is a lot smaller than the sizes above.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os arquivos são compactados antes do envio, então o tamanho enviado é bem menor do que os tamanhos acima.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="574"/>
         <source>Please describe the problem in a bit more detail - what you did, and what went wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descreva o problema com um pouco mais de detalhes: o que você fez e o que deu errado.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="579"/>
         <source>Please describe the feature in a bit more detail - what it should do, and how it would help you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Descreva o recurso com um pouco mais de detalhes: o que ele deveria fazer e como ajudaria você.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="583"/>
         <source>Please write a little more so the developers know what you mean.</source>
-        <translation type="unfinished"></translation>
+        <translation>Escreva um pouco mais para que os desenvolvedores entendam o que você quer dizer.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="593"/>
         <source>Please enter an email address so the developers can reply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Insira um endereço de e-mail para que os desenvolvedores possam responder.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="602"/>
         <source>That does not look like a valid email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse endereço de e-mail não parece válido.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="608"/>
         <source>Please log in to your WhatPulse account first - feedback is filed under your account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faça login na sua conta do WhatPulse primeiro — o feedback é registrado na sua conta.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="623"/>
         <source>Almost there</source>
-        <translation type="unfinished"></translation>
+        <translation>Quase lá</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="655"/>
         <source>Compressing diagnostics...</source>
-        <translation type="unfinished"></translation>
+        <translation>Compactando os dados de diagnóstico...</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="686"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="772"/>
         <source>Could not send the feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível enviar o feedback</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="687"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="756"/>
         <source>WhatPulse is not connected to its background service. Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não está conectado ao serviço em segundo plano. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="693"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="917"/>
         <source>Sending...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando...</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="716"/>
         <source>Could not prepare the diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível preparar os dados de diagnóstico</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="727"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="833"/>
         <source>The diagnostics are too large</source>
-        <translation type="unfinished"></translation>
+        <translation>Os dados de diagnóstico são grandes demais</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="742"/>
         <source>Sending the report...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando o relato...</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="755"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="784"/>
         <source>Could not send the report</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível enviar o relato</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="801"/>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="869"/>
         <source>Report sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Relato enviado</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="802"/>
         <source>Your report was sent, but the diagnostics could not be attached. Support will contact you if they need them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu relato foi enviado, mas não foi possível anexar os dados de diagnóstico. O suporte entrará em contato caso precise deles.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="824"/>
         <source>Uploaded %1 of %2 files...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2 arquivos enviados...</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="838"/>
         <source>Uploading diagnostics...</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando os dados de diagnóstico...</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="855"/>
         <source>Could not upload the diagnostics</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível enviar os dados de diagnóstico</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="856"/>
         <source>Your report was sent, but the diagnostics did not make it: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Seu relato foi enviado, mas os dados de diagnóstico não foram: %1</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="870"/>
         <source>Thanks for reporting this. Support has everything they need and will get back to you by email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecemos por relatar o problema. O suporte recebeu todas as informações necessárias e responderá por e-mail.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="874"/>
         <source>Request sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação enviada</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="875"/>
         <source>Thanks for the suggestion. It went straight to the developers, who read every request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecemos pela sugestão. Ela foi enviada diretamente aos desenvolvedores, que leem todas as solicitações.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="879"/>
         <source>Feedback sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback enviado</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="880"/>
         <source>Thanks for taking the time. The developers read everything that comes in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecemos por dedicar seu tempo. Os desenvolvedores leem todas as mensagens recebidas.</translation>
     </message>
     <message>
         <location filename="../interface/windows/FeedbackWindow.cpp" line="918"/>
         <source>Close</source>
-        <translation type="unfinished">Fechar</translation>
+        <translation>Fechar</translation>
     </message>
 </context>
 <context>
@@ -1804,7 +1655,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="346"/>
         <source>Hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Oculto</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="442"/>
@@ -2024,72 +1875,72 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="605"/>
         <source>League Division</source>
-        <translation type="unfinished"></translation>
+        <translation>Divisão da liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="614"/>
         <source>League Rank</source>
-        <translation type="unfinished"></translation>
+        <translation>Posição na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="618"/>
         <source>League Group Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamanho do grupo da liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="622"/>
         <source>League Zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona da liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="625"/>
         <source>League Score</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontuação na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="628"/>
         <source>League Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>Teclas na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="631"/>
         <source>League Clicks</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliques na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="636"/>
         <source>League Points To Promotion</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontos para subir de divisão</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="641"/>
         <source>League Points Above Relegation</source>
-        <translation type="unfinished"></translation>
+        <translation>Pontos acima da zona de rebaixamento</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="647"/>
         <source>League Gap To Next Rank</source>
-        <translation type="unfinished"></translation>
+        <translation>Diferença para a próxima posição na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="652"/>
         <source>League Lead Over Next Rank</source>
-        <translation type="unfinished"></translation>
+        <translation>Vantagem sobre a próxima posição na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="656"/>
         <source>League Phase</source>
-        <translation type="unfinished"></translation>
+        <translation>Fase da liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="665"/>
         <source>League Time Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo restante na liga</translation>
     </message>
     <message>
         <location filename="../util/geekstattranslator.cpp" line="674"/>
         <source>League Last Updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Última atualização da liga</translation>
     </message>
 </context>
 <context>
@@ -2490,8 +2341,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1210"/>
-        <source>Are you sure you want to exclude website &apos;%1&apos; from tracking?</source>
-        <translation>Tem certeza de que deseja excluir o site &apos;%1&apos; do rastreamento?</translation>
+        <source>Are you sure you want to exclude website '%1' from tracking?</source>
+        <translation>Tem certeza de que deseja excluir o site '%1' do rastreamento?</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1080"/>
@@ -2505,8 +2356,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1134"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos;?</source>
-        <translation>Tem certeza de que deseja excluir o aplicativo &apos;%1&apos;?</translation>
+        <source>Are you sure you want to exclude application '%1'?</source>
+        <translation>Tem certeza de que deseja excluir o aplicativo '%1'?</translation>
     </message>
     <message>
         <location filename="../interface/InputTab/inputapplicationspage.cpp" line="1136"/>
@@ -3037,8 +2888,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="206"/>
-        <source>History of keys, words, clicks, scrolls, and distance between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Histórico de teclas, palavras, cliques, rolagens e distância entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>History of keys, words, clicks, scrolls, and distance between '%1' and '%2' </source>
+        <translation>Histórico de teclas, palavras, cliques, rolagens e distância entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="246"/>
@@ -3081,28 +2932,28 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="420"/>
-        <source>Heatmap of keys between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Mapa de Calor das teclas entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Heatmap of keys between '%1' and '%2' </source>
+        <translation>Mapa de Calor das teclas entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="486"/>
-        <source>Heatmap of clicks between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Mapa de Calor dos clicks entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Heatmap of clicks between '%1' and '%2' </source>
+        <translation>Mapa de Calor dos clicks entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="558"/>
-        <source>Application input between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Uso dos aplicativos entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Application input between '%1' and '%2' </source>
+        <translation>Uso dos aplicativos entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="643"/>
-        <source>Key combinations between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Combinação de teclas entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Key combinations between '%1' and '%2' </source>
+        <translation>Combinação de teclas entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="712"/>
-        <source>Key combinations per application between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Combinação de teclas por aplicativo entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Key combinations per application between '%1' and '%2' </source>
+        <translation>Combinação de teclas por aplicativo entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/inputpage.cpp" line="808"/>
@@ -3216,7 +3067,7 @@ Verifique suas permissões em: %2</translation>
         <location filename="../interface/InputTab.cpp" line="474"/>
         <location filename="../interface/InputTab.cpp" line="513"/>
         <source>Reset failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao redefinir</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="349"/>
@@ -3226,7 +3077,7 @@ Verifique suas permissões em: %2</translation>
         <location filename="../interface/InputTab.cpp" line="475"/>
         <location filename="../interface/InputTab.cpp" line="514"/>
         <source>Could not delete the statistics from the database. Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível excluir as estatísticas do banco de dados. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="362"/>
@@ -3255,8 +3106,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/InputTab.cpp" line="528"/>
-        <source>No input devices found, are your &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissions&lt;/a&gt; set up correctly?</source>
-        <translation>Nenhum dispositivo de entrada encontrado, suas &lt;a href=&quot;https://whatpulse.org/in/linux-install&quot; style=&quot;color: %1&quot;&gt;permissões&lt;/a&gt; estão configuradas corretamente?</translation>
+        <source>No input devices found, are your &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissions&lt;/a&gt; set up correctly?</source>
+        <translation>Nenhum dispositivo de entrada encontrado, suas &lt;a href="https://whatpulse.org/in/linux-install" style="color: %1"&gt;permissões&lt;/a&gt; estão configuradas corretamente?</translation>
     </message>
 </context>
 <context>
@@ -3335,77 +3186,77 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="262"/>
         <source>less than an hour</source>
-        <translation type="unfinished"></translation>
+        <translation>menos de uma hora</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="267"/>
         <source>%1h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="270"/>
         <source>%1d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1d</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="272"/>
         <source>%1d %2h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1d %2h</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="279"/>
         <source>less than an hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>há menos de uma hora</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="283"/>
         <source>1 hour ago</source>
-        <translation type="unfinished"></translation>
+        <translation>há 1 hora</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="283"/>
         <source>%1 hours ago</source>
-        <translation type="unfinished"></translation>
+        <translation>há %1 horas</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="286"/>
         <source>1 day ago</source>
-        <translation type="unfinished"></translation>
+        <translation>há 1 dia</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="286"/>
         <source>%1 days ago</source>
-        <translation type="unfinished">%1 dias atrás</translation>
+        <translation>%1 dias atrás</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="298"/>
         <source>Promotion zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona de promoção</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="300"/>
         <source>Safe</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona segura</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="302"/>
         <source>Relegation zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona de rebaixamento</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="312"/>
         <source>Live</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao vivo</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="314"/>
         <source>Final sprint</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprint final</translation>
     </message>
     <message>
         <location filename="../types/LeagueStanding.cpp" line="316"/>
         <source>Photo finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Chegada acirrada</translation>
     </message>
 </context>
 <context>
@@ -3494,7 +3345,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/MainWindow.cpp" line="361"/>
         <source>Database maintenance progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progresso da manutenção do banco de dados</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="375"/>
@@ -3503,7 +3354,7 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/MainWindow.cpp" line="443"/>
-        <source>There&apos;s a new version available!</source>
+        <source>There's a new version available!</source>
         <translation>Há uma nova versão disponível para download!</translation>
     </message>
     <message>
@@ -3573,139 +3424,139 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="48"/>
         <source>Keyboard</source>
-        <translation type="unfinished">Teclado</translation>
+        <translation>Teclado</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="48"/>
         <source>Mouse</source>
-        <translation type="unfinished">Mouse</translation>
+        <translation>Mouse</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="49"/>
         <location filename="../interface/navigation/navigationmodel.h" line="67"/>
         <location filename="../interface/navigation/navigationmodel.h" line="74"/>
         <source>Applications</source>
-        <translation type="unfinished">Aplicativos</translation>
+        <translation>Aplicativos</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="49"/>
         <source>Input History</source>
-        <translation type="unfinished">Histórico de Entrada</translation>
+        <translation>Histórico de Entrada</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="52"/>
         <source>Key Combinations</source>
-        <translation type="unfinished">Combinação de Teclas</translation>
+        <translation>Combinação de Teclas</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="59"/>
         <source>Overview</source>
-        <translation type="unfinished">Visão Geral</translation>
+        <translation>Visão Geral</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="60"/>
         <source>Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="63"/>
         <source>Network</source>
-        <translation type="unfinished">Rede</translation>
+        <translation>Rede</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="67"/>
         <source>Interfaces</source>
-        <translation type="unfinished">Interfaces</translation>
+        <translation>Interfaces</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="67"/>
         <source>Real-time</source>
-        <translation type="unfinished">Tempo real</translation>
+        <translation>Tempo real</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="68"/>
         <source>Countries</source>
-        <translation type="unfinished">Países</translation>
+        <translation>Países</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="68"/>
         <source>Port Types</source>
-        <translation type="unfinished">Tipo de portas</translation>
+        <translation>Tipo de portas</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="70"/>
         <source>Uptime</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo de atividade</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="74"/>
         <source>Computer Uptime</source>
-        <translation type="unfinished"></translation>
+        <translation>Tempo de atividade do computador</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="74"/>
         <source>Reboot Calendar</source>
-        <translation type="unfinished">Histórico de Reinicializações</translation>
+        <translation>Histórico de Reinicializações</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="75"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="76"/>
         <source>Account</source>
-        <translation type="unfinished">Conta</translation>
+        <translation>Conta</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="86"/>
         <source>General</source>
-        <translation type="unfinished">Geral</translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="86"/>
         <source>Profiles</source>
-        <translation type="unfinished">Perfis</translation>
+        <translation>Perfis</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="87"/>
         <source>Auto Pulse</source>
-        <translation type="unfinished">Pulsar automaticamente</translation>
+        <translation>Pulsar automaticamente</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="87"/>
         <source>Appearance</source>
-        <translation type="unfinished">Aparência</translation>
+        <translation>Aparência</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="88"/>
         <source>Geek Window</source>
-        <translation type="unfinished">Janela para Nerds</translation>
+        <translation>Janela para Nerds</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="88"/>
         <source>Active Stats</source>
-        <translation type="unfinished">Estatísticas Ativas</translation>
+        <translation>Estatísticas Ativas</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="89"/>
         <source>Exclusions</source>
-        <translation type="unfinished">Exclusões</translation>
+        <translation>Exclusões</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="89"/>
         <source>Milestones</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcos</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="90"/>
         <source>Client API</source>
-        <translation type="unfinished">API do Client</translation>
+        <translation>API do Client</translation>
     </message>
     <message>
         <location filename="../interface/navigation/navigationmodel.h" line="90"/>
         <source>Proxy</source>
-        <translation type="unfinished">Proxy</translation>
+        <translation>Proxy</translation>
     </message>
 </context>
 <context>
@@ -3891,8 +3742,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="209"/>
-        <source>Network interface traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Tráfego de interface de rede entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Network interface traffic between '%1' and '%2' </source>
+        <translation>Tráfego de interface de rede entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="240"/>
@@ -3925,18 +3776,18 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="306"/>
-        <source>Network per applications between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Rede por aplicativos entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Network per applications between '%1' and '%2' </source>
+        <translation>Rede por aplicativos entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="367"/>
-        <source>Country network traffic between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Tráfego de rede do país entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Country network traffic between '%1' and '%2' </source>
+        <translation>Tráfego de rede do país entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="435"/>
-        <source>Network per type between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Rede por tipo entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Network per type between '%1' and '%2' </source>
+        <translation>Rede por tipo entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/networkpage.cpp" line="527"/>
@@ -3973,8 +3824,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="376"/>
-        <source>Your GeoIP database is empty, per country stats won&apos;t work. Click &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;here&lt;/a&gt; to refresh the database.</source>
-        <translation>Seu banco de dados GeoIP está vazio, as estatísticas por país não funcionarão. Clique &lt;a href=&quot;#&quot; style=&quot;color: %1&quot;&gt;aqui&lt;/a&gt; para atualizar o banco de dados.</translation>
+        <source>Your GeoIP database is empty, per country stats won't work. Click &lt;a href="#" style="color: %1"&gt;here&lt;/a&gt; to refresh the database.</source>
+        <translation>Seu banco de dados GeoIP está vazio, as estatísticas por país não funcionarão. Clique &lt;a href="#" style="color: %1"&gt;aqui&lt;/a&gt; para atualizar o banco de dados.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="431"/>
@@ -4048,7 +3899,7 @@ Verifique suas permissões em: %2</translation>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="615"/>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="650"/>
         <source>Reset failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao redefinir</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="522"/>
@@ -4057,22 +3908,22 @@ Verifique suas permissões em: %2</translation>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="616"/>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="651"/>
         <source>Could not delete the statistics from the database. Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível excluir as estatísticas do banco de dados. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="703"/>
         <source>Updating GeoIP database</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando o banco de dados GeoIP</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="704"/>
         <source>The GeoIP database update has been requested. Country statistics will appear once it finishes downloading.</source>
-        <translation type="unfinished"></translation>
+        <translation>A atualização do banco de dados GeoIP foi solicitada. As estatísticas por país serão exibidas quando o download for concluído.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="739"/>
-        <source>External PCap service not connected. Set up &lt;a href=&quot;https://whatpulse.org/go/linux-network-setup&quot; style=&quot;color: %1&quot;&gt;the external PCap service&lt;/a&gt; for network stats.</source>
-        <translation>Serviço PCap externo não conectado. Configure &lt;a href=&quot;https://whatpulse.org/go/linux-network-setup&quot; style=&quot;color: %1&quot;&gt;o serviço PCap externo&lt;/a&gt; para estatísticas de rede.</translation>
+        <source>External PCap service not connected. Set up &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;the external PCap service&lt;/a&gt; for network stats.</source>
+        <translation>Serviço PCap externo não conectado. Configure &lt;a href="https://whatpulse.org/go/linux-network-setup" style="color: %1"&gt;o serviço PCap externo&lt;/a&gt; para estatísticas de rede.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="486"/>
@@ -4116,8 +3967,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="717"/>
-        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</source>
-        <translation>Npcap não encontrado, que é necessário para estatísticas de rede.&lt;br&gt; Baixe em&lt;a href=&quot;https://nmap.org/npcap/&quot; style=&quot;color: %1&quot;&gt;nmap.org&lt;/a&gt;</translation>
+        <source>Npcap not found, which is needed for network statistics.&lt;br&gt;Download at &lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</source>
+        <translation>Npcap não encontrado, que é necessário para estatísticas de rede.&lt;br&gt; Baixe em&lt;a href="https://nmap.org/npcap/" style="color: %1"&gt;nmap.org&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkOverview.cpp" line="724"/>
@@ -4243,7 +4094,7 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="91"/>
-        <source>Per-application network stats isn&apos;t currently supported on Linux, sorry.</source>
+        <source>Per-application network stats isn't currently supported on Linux, sorry.</source>
         <translation>As estatísticas de rede por aplicativo não são atualmente suportadas no Linux, desculpe.</translation>
     </message>
     <message>
@@ -4258,8 +4109,8 @@ Verifique suas permissões em: %2</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="485"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos;?</source>
-        <translation>Tem certeza de que deseja excluir o aplicativo &apos;%1&apos;?</translation>
+        <source>Are you sure you want to exclude application '%1'?</source>
+        <translation>Tem certeza de que deseja excluir o aplicativo '%1'?</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkApplications.cpp" line="487"/>
@@ -4546,12 +4397,12 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="544"/>
         <source>Delete failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao excluir</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="545"/>
         <source>Could not delete the network interface from the database. Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível excluir a interface de rede do banco de dados. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkInterfaces.cpp" line="37"/>
@@ -4619,7 +4470,7 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="135"/>
         <source>Recording unknown traffic types is a Premium feature. You can turn it off at any time, but turning it back on requires Premium.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar tipos de tráfego desconhecidos é um recurso Premium. Você pode desativá-lo a qualquer momento, mas para ativá-lo novamente é necessário ter o Premium.</translation>
     </message>
     <message>
         <location filename="../interface/NetworkTab/NetworkTypeTraffic.cpp" line="146"/>
@@ -4698,24 +4549,24 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../collector/OnlineIntentRouter.cpp" line="116"/>
         <source>The update event could not be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível salvar o evento de atualização.</translation>
     </message>
     <message>
         <location filename="../collector/OnlineIntentRouter.cpp" line="290"/>
         <source>The support session is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>A sessão de suporte não foi encontrada.</translation>
     </message>
     <message>
         <location filename="../collector/OnlineIntentRouter.cpp" line="296"/>
         <location filename="../collector/OnlineIntentRouter.cpp" line="332"/>
         <source>This file is not one WhatPulse is allowed to upload.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não tem permissão para enviar este arquivo.</translation>
     </message>
     <message>
         <location filename="../collector/OnlineIntentRouter.cpp" line="303"/>
         <location filename="../collector/OnlineIntentRouter.cpp" line="339"/>
         <source>The file could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível ler o arquivo.</translation>
     </message>
 </context>
 <context>
@@ -4723,12 +4574,12 @@ Verifique suas permissões em: %2</translation>
     <message>
         <location filename="../appcore/OnlineRequestProxy.cpp" line="37"/>
         <source>The connection to the WhatPulse collector process was lost. Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>A conexão com o processo de coleta do WhatPulse foi perdida. Tente novamente daqui a pouco.</translation>
     </message>
     <message>
         <location filename="../appcore/OnlineRequestProxy.cpp" line="78"/>
         <source>Could not reach the WhatPulse collector process (%1). Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível se conectar ao processo de coleta do WhatPulse (%1). Tente novamente daqui a pouco.</translation>
     </message>
 </context>
 <context>
@@ -4780,32 +4631,32 @@ Disponível: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="59"/>
         <source>%1 of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 de %2</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="75"/>
         <source>Results in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Resultados em %1</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="76"/>
         <source>Round ends in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A rodada termina em %1</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="85"/>
         <source>&lt;1h</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;1h</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="88"/>
         <source>%1h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="90"/>
         <source>%1d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1d</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="131"/>
@@ -4818,7 +4669,7 @@ Disponível: %2</translation>
         <location filename="../interface/OverviewTab.cpp" line="238"/>
         <location filename="../interface/OverviewTab.cpp" line="239"/>
         <source>View leagues</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver ligas</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="285"/>
@@ -4851,17 +4702,17 @@ Disponível: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="422"/>
         <source>%1 old</source>
-        <translation type="unfinished"></translation>
+        <translation>Há %1</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="423"/>
         <source>Pulse to refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse para atualizar</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="424"/>
         <source>Data from %1 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>Dados de %1 atrás</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="525"/>
@@ -4920,8 +4771,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="647"/>
-        <source>The option &apos;Work Offline&apos; is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
-        <translation>A opção &apos;Trabalhar offline&apos; está ativada, então você não pode pulsar. Desative essa opção para retomar a pulsagem.</translation>
+        <source>The option 'Work Offline' is enabled, so you cannot pulse. Disable that option to resume pulsing.</source>
+        <translation>A opção 'Trabalhar offline' está ativada, então você não pode pulsar. Desative essa opção para retomar a pulsagem.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="658"/>
@@ -4930,8 +4781,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="659"/>
-        <source>The setting &quot;Work Offline&quot; is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
-        <translation>A configuração &quot;Trabalhar offline&quot; está ativada. Isso impede que o cliente se conecte à internet, incluindo a pulsagem. Desative essa configuração e você poderá pulsar novamente.</translation>
+        <source>The setting "Work Offline" is enabled. This prevents the client from going online, which includes pulsing. Disable that setting and you can pulse again.</source>
+        <translation>A configuração "Trabalhar offline" está ativada. Isso impede que o cliente se conecte à internet, incluindo a pulsagem. Desative essa configuração e você poderá pulsar novamente.</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="669"/>
@@ -4967,12 +4818,12 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="26"/>
         <source>Device Control and Data Access</source>
-        <translation type="unfinished"></translation>
+        <translation>Controle de dispositivos e acesso a dados</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="28"/>
         <source>Accessibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Acessibilidade</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="97"/>
@@ -5005,17 +4856,17 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="193"/>
         <source>WhatPulse needs the %1 permission to discover applications.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse precisa da permissão %1 para descobrir aplicativos.</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="206"/>
         <source>%1 permission granted</source>
-        <translation type="unfinished"></translation>
+        <translation>Permissão %1 concedida</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="211"/>
         <source>Open %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir %1</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="238"/>
@@ -5024,13 +4875,13 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="243"/>
-        <source>WhatPulse needs permissions to count your keys and clicks.  Don&apos;t quit WhatPulse when asked.</source>
+        <source>WhatPulse needs permissions to count your keys and clicks.  Don't quit WhatPulse when asked.</source>
         <translation>O WhatPulse precisa de permissões para contar suas teclas e cliques. Não saia do WhatPulse quando solicitado.</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="255"/>
         <source>Input Monitoring permission granted</source>
-        <translation type="unfinished"></translation>
+        <translation>Permissão de Monitoramento de Entrada concedida</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="260"/>
@@ -5039,8 +4890,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="283"/>
-        <source>&lt;center&gt;Here&apos;s how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked, try removing WhatPulse from the list (use the &apos;-&apos;) and adding it again. This can be needed after macOS upgrades.&lt;/center&gt;</source>
-        <translation>&lt;center&gt;Assim deve parecer: &lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;:/mac/preferences_example.png&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Se a caixa de seleção já estiver marcada, tente remover o WhatPulse da lista (use o &apos;-&apos;) e adicioná-lo novamente. Isso pode ser necessário após atualizações do macOS.&lt;/center&gt;</translation>
+        <source>&lt;center&gt;Here's how it should look: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;If the checkbox is already checked, try removing WhatPulse from the list (use the '-') and adding it again. This can be needed after macOS upgrades.&lt;/center&gt;</source>
+        <translation>&lt;center&gt;Assim deve parecer: &lt;br /&gt;&lt;br /&gt;&lt;img src=":/mac/preferences_example.png" /&gt;&lt;br /&gt;&lt;br /&gt;Se a caixa de seleção já estiver marcada, tente remover o WhatPulse da lista (use o '-') e adicioná-lo novamente. Isso pode ser necessário após atualizações do macOS.&lt;/center&gt;</translation>
     </message>
     <message>
         <location filename="../interface/mac/permissionsmanager.cpp" line="289"/>
@@ -5097,7 +4948,7 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/premiumexpiredpopup.cpp" line="72"/>
-        <source>Don&apos;t remind me</source>
+        <source>Don't remind me</source>
         <translation>Não me lembre</translation>
     </message>
 </context>
@@ -5130,7 +4981,7 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../online/proactivationprocess.cpp" line="43"/>
         <source>Unable to reach the WhatPulse service. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível conectar ao serviço do WhatPulse. Tente novamente.</translation>
     </message>
     <message>
         <location filename="../online/proactivationprocess.cpp" line="55"/>
@@ -5229,8 +5080,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/PulsarAvatarPack.cpp" line="189"/>
-        <source>The pack does not contain an &apos;idle&apos; image. At least an idle image is required.</source>
-        <translation>O pacote não contém uma imagem de &apos;ocioso&apos;. Pelo menos uma imagem de ocioso é necessária.</translation>
+        <source>The pack does not contain an 'idle' image. At least an idle image is required.</source>
+        <translation>O pacote não contém uma imagem de 'ocioso'. Pelo menos uma imagem de ocioso é necessária.</translation>
     </message>
     <message>
         <location filename="../interface/PulsarAvatarPack.cpp" line="197"/>
@@ -5257,8 +5108,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../system/mac/macnativehelpers.mm" line="471"/>
-        <source>Mac OS Version not supported; Please tick &quot;Enable access for assistive devices&quot; in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
-        <translation>A versão do Mac OS não é compatível; ative a opção &quot;Habilitar acesso para dispositivos de assistência&quot; no painel &quot;Acesso Universal&quot; nas Preferências do Sistema e reinicie o cliente. Caso contrário, a contagem de teclas não funcionará. Um cliente atualizado requer uma nova habilitação.</translation>
+        <source>Mac OS Version not supported; Please tick "Enable access for assistive devices" in the Universal Access pane in System Preferences and restart the client. Keycounting will not work otherwise. An upgraded client requires a re-enable.</source>
+        <translation>A versão do Mac OS não é compatível; ative a opção "Habilitar acesso para dispositivos de assistência" no painel "Acesso Universal" nas Preferências do Sistema e reinicie o cliente. Caso contrário, a contagem de teclas não funcionará. Um cliente atualizado requer uma nova habilitação.</translation>
     </message>
     <message>
         <location filename="../types/GamepadButton.h" line="31"/>
@@ -5632,8 +5483,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="126"/>
-        <source>Measure time and effort spent on websites via our browser extension. Install the extension for your browser from the &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;downloads page&lt;/a&gt;.</source>
-        <translation>Meça o tempo e o esforço gastos em sites através da nossa extensão para navegador. Instale a extensão para o seu navegador na &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;página de downloads&lt;/a&gt;.</translation>
+        <source>Measure time and effort spent on websites via our browser extension. Install the extension for your browser from the &lt;a href="%1" style="color: %2"&gt;downloads page&lt;/a&gt;.</source>
+        <translation>Meça o tempo e o esforço gastos em sites através da nossa extensão para navegador. Instale a extensão para o seu navegador na &lt;a href="%1" style="color: %2"&gt;página de downloads&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="140"/>
@@ -5662,8 +5513,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.cpp" line="206"/>
-        <source>Allow the &lt;a href=&quot;https://github.com/whatpulse/linux-external-pcap-service&quot; style=&quot;color: %1&quot;&gt;external pcap service&lt;/a&gt; to send network traffic. This is required for network statistics on Linux when running as AppImage or without root privileges.</source>
-        <translation>Permita que o &lt;a href=&quot;https://github.com/whatpulse/linux-external-pcap-service&quot; style=&quot;color: %1&quot;&gt;serviço pcap externo&lt;/a&gt; envie tráfego de rede. Isso é necessário para estatísticas de rede no Linux ao executar como AppImage ou sem privilégios de root.</translation>
+        <source>Allow the &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;external pcap service&lt;/a&gt; to send network traffic. This is required for network statistics on Linux when running as AppImage or without root privileges.</source>
+        <translation>Permita que o &lt;a href="https://github.com/whatpulse/linux-external-pcap-service" style="color: %1"&gt;serviço pcap externo&lt;/a&gt; envie tráfego de rede. Isso é necessário para estatísticas de rede no Linux ao executar como AppImage ou sem privilégios de root.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsactivestats.h" line="16"/>
@@ -5737,17 +5588,17 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="144"/>
         <source>&lt;b&gt;Navigation&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;Navegação&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="148"/>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra lateral</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="149"/>
         <source>Top bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra superior</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsappearance.cpp" line="167"/>
@@ -5877,12 +5728,12 @@ Enviado: desconhecido</translation>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="399"/>
         <source>Not currently auto pulsing. Change a setting to enable auto pulsing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não está enviando pulsos automaticamente no momento. Altere uma configuração para ativar o envio automático de pulsos.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="402"/>
         <source>Auto pulsing </source>
-        <translation type="unfinished"></translation>
+        <translation>Envio automático de pulsos </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="415"/>
@@ -5916,17 +5767,17 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="447"/>
-        <source>you&apos;ve downloaded </source>
+        <source>you've downloaded </source>
         <translation>você baixou </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="460"/>
-        <source>you&apos;ve uploaded </source>
+        <source>you've uploaded </source>
         <translation>você enviou </translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsautopulse.cpp" line="473"/>
-        <source>you&apos;ve collected </source>
+        <source>you've collected </source>
         <translation>você coletou </translation>
     </message>
     <message>
@@ -5964,8 +5815,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="74"/>
-        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Developer Center&lt;/a&gt;</source>
-        <translation>A API do Cliente é uma maneira de extrair informações em tempo real do cliente WhatPulse. Você pode usar isso para alimentar seus dados em outra aplicação. Saiba mais em nosso &lt;a href=&quot;https://whatpulse.org/in/client_api&quot; style=&quot;color: %1&quot;&gt;Centro de Desenvolvedores&lt;/a&gt;</translation>
+        <source>The Client API is a way to extract real-time information from the WhatPulse client. You can use this to feed your data into another application. Find out more in our &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Developer Center&lt;/a&gt;</source>
+        <translation>A API do Cliente é uma maneira de extrair informações em tempo real do cliente WhatPulse. Você pode usar isso para alimentar seus dados em outra aplicação. Saiba mais em nosso &lt;a href="https://whatpulse.org/in/client_api" style="color: %1"&gt;Centro de Desenvolvedores&lt;/a&gt;</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsclientapi.cpp" line="97"/>
@@ -6039,8 +5890,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="92"/>
-        <source>Excluded applications. Each tag is one active exclusion. Click a tag to remove it, or + to add one. &apos;All stats&apos; drops the app from every stat entirely; &apos;Window titles&apos; keeps uptime but redacts titles.</source>
-        <translation>Aplicações excluídas. Cada tag é uma exclusão ativa. Clique em uma tag para removê-la, ou + para adicionar uma. &apos;Todas as estatísticas&apos; remove o app de todas as estatísticas; &apos;Títulos de janelas&apos; mantém o tempo de atividade, mas remove os títulos.</translation>
+        <source>Excluded applications. Each tag is one active exclusion. Click a tag to remove it, or + to add one. 'All stats' drops the app from every stat entirely; 'Window titles' keeps uptime but redacts titles.</source>
+        <translation>Aplicações excluídas. Cada tag é uma exclusão ativa. Clique em uma tag para removê-la, ou + para adicionar uma. 'Todas as estatísticas' remove o app de todas as estatísticas; 'Títulos de janelas' mantém o tempo de atividade, mas remove os títulos.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="102"/>
@@ -6079,7 +5930,7 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="196"/>
-        <source>Excluded network interfaces. WhatPulse skips upload and download traffic on these - useful for VPNs, virtual adapters, or NICs you don&apos;t want counted.</source>
+        <source>Excluded network interfaces. WhatPulse skips upload and download traffic on these - useful for VPNs, virtual adapters, or NICs you don't want counted.</source>
         <translation>Interfaces de rede excluídas. O WhatPulse ignora o tráfego de upload e download nessas interfaces - útil para VPNs, adaptadores virtuais ou NICs que você não deseja contar.</translation>
     </message>
     <message>
@@ -6111,8 +5962,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="387"/>
-        <source>Overridden by &apos;All stats&apos; - remove that tag to make this active.</source>
-        <translation>Substituído por &apos;Todas as estatísticas&apos; - remova essa tag para ativar.</translation>
+        <source>Overridden by 'All stats' - remove that tag to make this active.</source>
+        <translation>Substituído por 'Todas as estatísticas' - remova essa tag para ativar.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="430"/>
@@ -6131,8 +5982,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="626"/>
-        <source>Examples: facebook.com (exact match), *.facebook.com (includes subdomains), dev.* (any domain with subdomain &apos;dev&apos;)</source>
-        <translation>Exemplos: facebook.com (correspondência exata), *.facebook.com (inclui subdomínios), dev.* (qualquer domínio com subdomínio &apos;dev&apos;)</translation>
+        <source>Examples: facebook.com (exact match), *.facebook.com (includes subdomains), dev.* (any domain with subdomain 'dev')</source>
+        <translation>Exemplos: facebook.com (correspondência exata), *.facebook.com (inclui subdomínios), dev.* (qualquer domínio com subdomínio 'dev')</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="643"/>
@@ -6187,8 +6038,8 @@ Enviado: desconhecido</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="795"/>
-        <source>Examples: &lt;code&gt;[\w.+-]+@[\w-]+\.[\w.-]+&lt;/code&gt; (emails), &lt;code&gt;confidential&lt;/code&gt; (contains &apos;confidential&apos;).</source>
-        <translation>Exemplos: &lt;code&gt;[\w.+-]+@[\w-]+\.[\w.-]+&lt;/code&gt; (e-mails), &lt;code&gt;confidential&lt;/code&gt; (contém &apos;confidential&apos;).</translation>
+        <source>Examples: &lt;code&gt;[\w.+-]+@[\w-]+\.[\w.-]+&lt;/code&gt; (emails), &lt;code&gt;confidential&lt;/code&gt; (contains 'confidential').</source>
+        <translation>Exemplos: &lt;code&gt;[\w.+-]+@[\w-]+\.[\w.-]+&lt;/code&gt; (e-mails), &lt;code&gt;confidential&lt;/code&gt; (contém 'confidential').</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsexclusions.cpp" line="807"/>
@@ -6525,7 +6376,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <location filename="../interface/settings/settingsgeneral.cpp" line="111"/>
         <location filename="../interface/settings/settingsgeneral.cpp" line="112"/>
         <source>Managed by your organization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerenciado pela sua organização.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="118"/>
@@ -6535,12 +6386,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="128"/>
         <source>Always enabled in this version of WhatPulse.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sempre ativado nesta versão do WhatPulse.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.cpp" line="152"/>
         <source>Launching when the computer starts is managed by your organization.</source>
-        <translation type="unfinished"></translation>
+        <translation>A inicialização junto com o computador é gerenciada pela sua organização.</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsgeneral.h" line="16"/>
@@ -6656,7 +6507,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsmilestones.cpp" line="268"/>
-        <source>Time for coffee, you&apos;ve made X keys!</source>
+        <source>Time for coffee, you've made X keys!</source>
         <translation>Hora de descanço, vocẽ pressionou X teclas!</translation>
     </message>
     <message>
@@ -6765,7 +6616,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingsprofiles.cpp" line="167"/>
         <location filename="../interface/settings/settingsprofiles.cpp" line="320"/>
-        <source>There&apos;s already a profile named %1, you cannot have profiles with the same name.</source>
+        <source>There's already a profile named %1, you cannot have profiles with the same name.</source>
         <translation>Já existe um perfil com o nome %1, você não pode ter perfis com o mesmo nome.</translation>
     </message>
     <message>
@@ -6790,7 +6641,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingsprofiles.cpp" line="292"/>
-        <source>You can&apos;t edit or delete the general profile.</source>
+        <source>You can't edit or delete the general profile.</source>
         <translation>Você não pode editar ou excluir o perfil geral.</translation>
     </message>
     <message>
@@ -7007,22 +6858,22 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="275"/>
         <source>&amp;Report a problem</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Relatar um problema</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="282"/>
         <source>Debug</source>
-        <translation type="unfinished"></translation>
+        <translation>Depuração</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="285"/>
         <source>Open &amp;API test window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir janela de teste da &amp;API</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="290"/>
         <source>&amp;Launch demo session</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Iniciar sessão de demonstração</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="296"/>
@@ -7047,47 +6898,47 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="329"/>
         <source>Simulate &amp;league standing</source>
-        <translation type="unfinished"></translation>
+        <translation>Simular classificação da &amp;liga</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="332"/>
         <source>Live, safe zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao vivo, zona segura</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="333"/>
         <source>Live, promotion zone leader</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao vivo, líder da zona de promoção</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="334"/>
         <source>Live, relegation zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ao vivo, zona de rebaixamento</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="335"/>
         <source>Bronze, no relegation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bronze, sem rebaixamento</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="336"/>
         <source>Final sprint (scores hidden)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprint final (pontuações ocultas)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="337"/>
         <source>Photo finish</source>
-        <translation type="unfinished"></translation>
+        <translation>Chegada acirrada</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="338"/>
         <source>Outdated info (2 days old)</source>
-        <translation type="unfinished"></translation>
+        <translation>Informações desatualizadas (2 dias)</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="339"/>
         <source>Clear standing</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar classificação</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="379"/>
@@ -7162,12 +7013,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="692"/>
         <source>Simulate available &amp;update</source>
-        <translation type="unfinished"></translation>
+        <translation>Simular &amp;atualização disponível</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="694"/>
         <source>Clear simulated &amp;update</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpar &amp;atualização simulada</translation>
     </message>
     <message>
         <location filename="../interface/settings/settingstabcontainer.cpp" line="832"/>
@@ -7193,18 +7044,18 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/widgets/sidebar/sidebarnavigationwidget.cpp" line="70"/>
         <source>Advanced</source>
-        <translation type="unfinished">Avançado</translation>
+        <translation>Avançado</translation>
     </message>
     <message>
         <location filename="../interface/widgets/sidebar/sidebarnavigationwidget.cpp" line="126"/>
         <location filename="../interface/widgets/sidebar/sidebarnavigationwidget.cpp" line="362"/>
         <source>Collapse</source>
-        <translation type="unfinished"></translation>
+        <translation>Recolher</translation>
     </message>
     <message>
         <location filename="../interface/widgets/sidebar/sidebarnavigationwidget.cpp" line="362"/>
         <source>Expand</source>
-        <translation type="unfinished"></translation>
+        <translation>Expandir</translation>
     </message>
 </context>
 <context>
@@ -7234,7 +7085,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="159"/>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="535"/>
         <source>Upgrade to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualize para %1</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="170"/>
@@ -7319,12 +7170,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="432"/>
         <source>The WhatPulse collector service keeps stopping and could not be restarted. Statistics are NOT being recorded. Restart WhatPulse, or check collector.log in the data folder if this keeps happening.</source>
-        <translation type="unfinished"></translation>
+        <translation>O serviço coletor do WhatPulse continua parando e não foi possível reiniciá-lo. As estatísticas NÃO estão sendo registradas. Reinicie o WhatPulse ou verifique o arquivo collector.log na pasta de dados se isso continuar acontecendo.</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="438"/>
         <source>Not connected to the WhatPulse collector service, reconnecting. If the collector is still running, statistics are being recorded and will appear once reconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem conexão com o serviço coletor do WhatPulse. Reconectando. Se o coletor ainda estiver em execução, as estatísticas estarão sendo registradas e aparecerão assim que a conexão for restabelecida.</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="448"/>
@@ -7384,12 +7235,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="537"/>
         <source>Upgrade WhatPulse to version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualize o WhatPulse para a versão %1</translation>
     </message>
     <message>
         <location filename="../interface/widgets/statusbarwidget.cpp" line="539"/>
-        <source>WhatPulse %1 is available. Click to see what&apos;s new and install the update.</source>
-        <translation type="unfinished"></translation>
+        <source>WhatPulse %1 is available. Click to see what's new and install the update.</source>
+        <translation>O WhatPulse %1 está disponível. Clique para ver as novidades e instalar a atualização.</translation>
     </message>
 </context>
 <context>
@@ -7397,28 +7248,28 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../support/SupportBundle.cpp" line="124"/>
         <source>The statistics database could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível encontrar o banco de dados de estatísticas.</translation>
     </message>
     <message>
         <location filename="../support/SupportBundle.cpp" line="132"/>
         <location filename="../support/SupportBundle.cpp" line="169"/>
         <source>Could not create a place to prepare the upload.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível criar um local para preparar o envio.</translation>
     </message>
     <message>
         <location filename="../support/SupportBundle.cpp" line="144"/>
         <source>Could not compress the statistics database.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível compactar o banco de dados de estatísticas.</translation>
     </message>
     <message>
         <location filename="../support/SupportBundle.cpp" line="161"/>
         <source>No log files were found to send.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum arquivo de log foi encontrado para enviar.</translation>
     </message>
     <message>
         <location filename="../support/SupportBundle.cpp" line="182"/>
         <source>Could not compress the log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível compactar os arquivos de log.</translation>
     </message>
 </context>
 <context>
@@ -7426,42 +7277,42 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="50"/>
         <source>This report has %1 attachments, but only %2 can be sent at a time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Este relatório tem %1 anexos, mas apenas %2 podem ser enviados por vez.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="60"/>
-        <source>&quot;%1&quot; is %2, which is larger than the %3 the website accepts. Please send the report without this attachment and contact support for another way to share it.</source>
-        <translation type="unfinished"></translation>
+        <source>"%1" is %2, which is larger than the %3 the website accepts. Please send the report without this attachment and contact support for another way to share it.</source>
+        <translation>"%1" tem %2, que é maior que o limite de %3 aceito pelo site. Envie o relatório sem este anexo e entre em contato com o suporte para encontrar outra maneira de compartilhá-lo.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="73"/>
         <source>The attachments add up to %1, which is more than the %2 the website accepts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Os anexos totalizam %1, que é mais do que o limite de %2 aceito pelo site.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="92"/>
         <source>WhatPulse is not connected to its background service.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não está conectado ao serviço em segundo plano.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="97"/>
         <source>The support session is incomplete. Please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>A sessão de suporte está incompleta. Tente novamente.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="121"/>
         <source>The upload was cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>O envio foi cancelado.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="132"/>
-        <source>Could not read &quot;%1&quot; to upload it.</source>
-        <translation type="unfinished"></translation>
+        <source>Could not read "%1" to upload it.</source>
+        <translation>Não foi possível ler "%1" para enviá-lo.</translation>
     </message>
     <message>
         <location filename="../support/SupportUploadClient.cpp" line="165"/>
         <source>The upload lost track of which file it was sending.</source>
-        <translation type="unfinished"></translation>
+        <translation>O envio perdeu a referência de qual arquivo estava sendo enviado.</translation>
     </message>
 </context>
 <context>
@@ -7662,7 +7513,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <name>TimePeriodCustomTimeWindow_IntroPage</name>
     <message>
         <location filename="../interface/widgets/timeperiod.cpp" line="636"/>
-        <source>Select the start and end date of the period you&apos;d like to see statistics from.</source>
+        <source>Select the start and end date of the period you'd like to see statistics from.</source>
         <translation>Escolha a data de início e a data de término pra ver as estatísticas desse período.</translation>
     </message>
     <message>
@@ -7699,7 +7550,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/tasktraypopup/trayfooterprofilechip.cpp" line="48"/>
         <source>Profile: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Perfil: %1</translation>
     </message>
 </context>
 <context>
@@ -7793,12 +7644,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/tasktraypopup/traytrackingpill.cpp" line="32"/>
         <source>Resume tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Retomar o rastreamento</translation>
     </message>
     <message>
         <location filename="../interface/tasktraypopup/traytrackingpill.cpp" line="32"/>
         <source>Pause tracking</source>
-        <translation type="unfinished"></translation>
+        <translation>Pausar o rastreamento</translation>
     </message>
 </context>
 <context>
@@ -7842,30 +7693,30 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="68"/>
         <source>No data available</source>
-        <translation type="unfinished">Nenhum dado disponível</translation>
+        <translation>Nenhum dado disponível</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="116"/>
         <source>Application activity tracking is available to Premium members only. Upgrade to see detailed application activity.</source>
-        <translation type="unfinished">O rastreamento de atividade de aplicação está disponível apenas para membros Premium. Faça um upgrade para ver atividades detalhadas de aplicações.</translation>
+        <translation>O rastreamento de atividade de aplicação está disponível apenas para membros Premium. Faça um upgrade para ver atividades detalhadas de aplicações.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="190"/>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="199"/>
         <source>Today</source>
-        <translation type="unfinished">Hoje</translation>
+        <translation>Hoje</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="192"/>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="201"/>
         <source>Yesterday</source>
-        <translation type="unfinished">Ontem</translation>
+        <translation>Ontem</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="208"/>
         <location filename="../interface/UptimeTab/uptimeapplicationactivityview.cpp" line="213"/>
         <source>%1 %2 to %3 %4</source>
-        <translation type="unfinished">%1 %2 até %3 %4</translation>
+        <translation>%1 %2 até %3 %4</translation>
     </message>
 </context>
 <context>
@@ -7909,12 +7760,12 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="65"/>
         <source>Activity</source>
-        <translation type="unfinished"></translation>
+        <translation>Atividade</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="69"/>
         <source>Data</source>
-        <translation type="unfinished">Dados</translation>
+        <translation>Dados</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="118"/>
@@ -7979,8 +7830,8 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="334"/>
-        <source>Are you sure you want to exclude application &apos;%1&apos;?</source>
-        <translation>Tem certeza de que deseja excluir o aplicativo &apos;%1&apos;?</translation>
+        <source>Are you sure you want to exclude application '%1'?</source>
+        <translation>Tem certeza de que deseja excluir o aplicativo '%1'?</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="336"/>
@@ -7995,8 +7846,8 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="408"/>
-        <source>Are you sure you want to exclude website &apos;%1&apos; from tracking?</source>
-        <translation>Tem certeza de que deseja excluir o site &apos;%1&apos; do rastreamento?</translation>
+        <source>Are you sure you want to exclude website '%1' from tracking?</source>
+        <translation>Tem certeza de que deseja excluir o site '%1' do rastreamento?</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab/uptimeapplicationspage.cpp" line="385"/>
@@ -8289,8 +8140,8 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="270"/>
-        <source>Reboot list between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Listagem de reinicializações entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Reboot list between '%1' and '%2' </source>
+        <translation>Listagem de reinicializações entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="300"/>
@@ -8299,8 +8150,8 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="345"/>
-        <source>Active application time between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Tempo de aplicação ativa entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Active application time between '%1' and '%2' </source>
+        <translation>Tempo de aplicação ativa entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/uptimepage.cpp" line="353"/>
@@ -8444,7 +8295,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <location filename="../interface/UptimeTab.cpp" line="340"/>
         <location filename="../interface/UptimeTab.cpp" line="376"/>
         <source>Reset failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao redefinir</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="274"/>
@@ -8452,7 +8303,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <location filename="../interface/UptimeTab.cpp" line="341"/>
         <location filename="../interface/UptimeTab.cpp" line="377"/>
         <source>Could not delete the statistics from the database. Please try again in a moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível excluir as estatísticas do banco de dados. Tente novamente em instantes.</translation>
     </message>
     <message>
         <location filename="../interface/UptimeTab.cpp" line="321"/>
@@ -8853,7 +8704,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
         <location filename="../online/versioncheck.cpp" line="364"/>
         <location filename="../online/versioncheck.cpp" line="532"/>
         <location filename="../online/versioncheck.cpp" line="760"/>
-        <source>You&apos;re running the latest version of WhatPulse.</source>
+        <source>You're running the latest version of WhatPulse.</source>
         <translation>Você está executado a versão mais recente do WhatPulse.</translation>
     </message>
     <message>
@@ -8864,32 +8715,32 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../online/versioncheck.cpp" line="790"/>
         <source>Updating WhatPulse</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando o WhatPulse</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="791"/>
-        <source>Downloading the update. WhatPulse will restart when it&apos;s done.</source>
-        <translation type="unfinished"></translation>
+        <source>Downloading the update. WhatPulse will restart when it's done.</source>
+        <translation>Baixando a atualização. O WhatPulse será reiniciado quando o download terminar.</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="810"/>
         <source>Restart required</source>
-        <translation type="unfinished">Reinício necessário</translation>
+        <translation>Reinício necessário</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="811"/>
         <source>WhatPulse was updated, but could not restart itself. Quit WhatPulse and start it again to finish the update.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse foi atualizado, mas não conseguiu reiniciar sozinho. Feche o WhatPulse e abra-o novamente para concluir a atualização.</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="822"/>
         <source>Update failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na atualização</translation>
     </message>
     <message>
         <location filename="../online/versioncheck.cpp" line="823"/>
         <source>WhatPulse could not install the update. Please try again later, or download the latest version from whatpulse.org/downloads.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não conseguiu instalar a atualização. Tente novamente mais tarde ou baixe a versão mais recente em whatpulse.org/downloads.</translation>
     </message>
 </context>
 <context>
@@ -8996,8 +8847,8 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/websitepage.cpp" line="217"/>
-        <source>Active time per domain between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Tempo ativo por domínio entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Active time per domain between '%1' and '%2' </source>
+        <translation>Tempo ativo por domínio entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/websitepage.cpp" line="235"/>
@@ -9029,13 +8880,13 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/websitepage.cpp" line="296"/>
-        <source>Input activity per domain between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Atividade de entrada por domínio entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Input activity per domain between '%1' and '%2' </source>
+        <translation>Atividade de entrada por domínio entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/websitepage.cpp" line="410"/>
-        <source>Activity per domain per browser between &apos;%1&apos; and &apos;%2&apos; </source>
-        <translation>Atividade por domínio por navegador entre &apos;%1&apos; e &apos;%2&apos; </translation>
+        <source>Activity per domain per browser between '%1' and '%2' </source>
+        <translation>Atividade por domínio por navegador entre '%1' e '%2' </translation>
     </message>
     <message>
         <location filename="../interface/ExportWindow/websitepage.cpp" line="527"/>
@@ -9110,7 +8961,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <name>WindowMessageBanner</name>
     <message>
         <location filename="../interface/widgets/WindowMessageBanner.cpp" line="43"/>
-        <source>What&apos;s new?</source>
+        <source>What's new?</source>
         <translation>Quais são as novidades?</translation>
     </message>
 </context>
@@ -9166,7 +9017,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <name>WizardRestoreChoicePage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="54"/>
-        <source>We found data from your previous installation. Choose how you&apos;d like to proceed:</source>
+        <source>We found data from your previous installation. Choose how you'd like to proceed:</source>
         <translation>Encontramos dados da sua instalação anterior. Escolha como você gostaria de proceder:</translation>
     </message>
     <message>
@@ -9252,7 +9103,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="654"/>
-        <source>Sorry, the online backup feature is for Premium members only. There&apos;s more information here: https://whatpulse.org/premium</source>
+        <source>Sorry, the online backup feature is for Premium members only. There's more information here: https://whatpulse.org/premium</source>
         <translation>Desculpe, o recurso de backup online é apenas para membros Premium. Há mais informações aqui: https://whatpulse.org/premium</translation>
     </message>
     <message>
@@ -9262,7 +9113,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardRestoreChoicePage.cpp" line="660"/>
-        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here&apos;s the error: %1</source>
+        <source>Sorry, the website gave an error preparing for your backup. Please try again later. Here's the error: %1</source>
         <translation>Desculpe, o site apresentou um erro ao preparar seu backup. Tente novamente mais tarde. Aqui está o erro: %1</translation>
     </message>
     <message>
@@ -9306,14 +9157,14 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <message>
         <location filename="../online/websiteapi/NetworkBootstrap.cpp" line="89"/>
         <source>WhatPulse could not set up a secure connection on this computer. A required component is missing or was blocked, possibly by security software. Reinstalling WhatPulse usually fixes this.</source>
-        <translation type="unfinished"></translation>
+        <translation>O WhatPulse não conseguiu estabelecer uma conexão segura neste computador. Um componente necessário está ausente ou foi bloqueado, possivelmente por um software de segurança. Reinstalar o WhatPulse geralmente corrige isso.</translation>
     </message>
 </context>
 <context>
     <name>wizardAuthorizationPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="28"/>
-        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you&apos;re off to the races!</source>
+        <source>You have been redirected to the website, please follow the instructions there. After you finish the login procedure, the client will automagically log in and you're off to the races!</source>
         <translation>Você foi redirecionado para o site, siga as instruções lá. Depois de concluir o procedimento de login, o cliente fará login automaticamente e você estará pronto para começar!</translation>
     </message>
     <message>
@@ -9324,21 +9175,21 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="147"/>
-        <source>If your browser did not open, try clicking or copying &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;this link&lt;/a&gt;.</source>
-        <translation>Se o seu navegador não abriu, tente clicar ou copiar &lt;a href=&quot;%1&quot; style=&quot;color: %2&quot;&gt;este link&lt;/a&gt;.</translation>
+        <source>If your browser did not open, try clicking or copying &lt;a href="%1" style="color: %2"&gt;this link&lt;/a&gt;.</source>
+        <translation>Se o seu navegador não abriu, tente clicar ou copiar &lt;a href="%1" style="color: %2"&gt;este link&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardAuthorizationPage.cpp" line="189"/>
         <source>Our server is producing errors, please check back in a few minutes. Sorry!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nosso servidor está apresentando erros. Tente novamente em alguns minutos. Desculpe!</translation>
     </message>
 </context>
 <context>
     <name>wizardMainPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="12"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you&apos;ll be redirected to our website to complete the login.&lt;br /&gt;</source>
-        <translation>Bem-vindo ao WhatPulse, o &lt;b&gt;único&lt;/b&gt; programa de estatísticas que você precisará. O WhatPulse responde à pergunta &quot;Quanto eu uso meu computador em um dia?&quot;&lt;br /&gt;&lt;br /&gt;Vamos começar. Se você já possui uma conta, clique em &lt;b&gt;Fazer login&lt;/b&gt;. Se você é novo no WhatPulse, clique em &lt;b&gt;Registrar&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;Em ambos os casos, você será redirecionado para nosso site para concluir o login.&lt;br /&gt;</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started. If you already have an account, please click &lt;b&gt;Login&lt;/b&gt;. If you are new to WhatPulse, please click &lt;b&gt;Register&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;In both cases you'll be redirected to our website to complete the login.&lt;br /&gt;</source>
+        <translation>Bem-vindo ao WhatPulse, o &lt;b&gt;único&lt;/b&gt; programa de estatísticas que você precisará. O WhatPulse responde à pergunta "Quanto eu uso meu computador em um dia?"&lt;br /&gt;&lt;br /&gt;Vamos começar. Se você já possui uma conta, clique em &lt;b&gt;Fazer login&lt;/b&gt;. Se você é novo no WhatPulse, clique em &lt;b&gt;Registrar&lt;/b&gt;.&lt;br /&gt;&lt;br /&gt;Em ambos os casos, você será redirecionado para nosso site para concluir o login.&lt;br /&gt;</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardMainPage.cpp" line="26"/>
@@ -9365,8 +9216,8 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <name>wizardMainPagePro</name>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="124"/>
-        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you&apos;ll ever need. WhatPulse answers the question &apos;How much do I use my computer in one day?&apos;&lt;br /&gt;&lt;br /&gt;Let&apos;s get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
-        <translation>Bem-vindo ao WhatPulse, o &lt;b&gt;único&lt;/b&gt; programa de estatísticas que você precisará. O WhatPulse responde à pergunta &quot;Quanto eu uso meu computador em um dia?&quot;&lt;br /&gt;&lt;br /&gt;Vamos começar digitando o seu &lt;strong&gt;nome ou ID da organização&lt;/strong&gt;, conforme fornecido pelo administrador do seu WhatPulse Professional.</translation>
+        <source>Welcome to WhatPulse, &lt;b&gt;the only&lt;/b&gt; statistics program you'll ever need. WhatPulse answers the question 'How much do I use my computer in one day?'&lt;br /&gt;&lt;br /&gt;Let's get started by entering your &lt;strong&gt;organization name or ID&lt;/strong&gt;, as provided by your WhatPulse Professional administrator.</source>
+        <translation>Bem-vindo ao WhatPulse, o &lt;b&gt;único&lt;/b&gt; programa de estatísticas que você precisará. O WhatPulse responde à pergunta "Quanto eu uso meu computador em um dia?"&lt;br /&gt;&lt;br /&gt;Vamos começar digitando o seu &lt;strong&gt;nome ou ID da organização&lt;/strong&gt;, conforme fornecido pelo administrador do seu WhatPulse Professional.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizardPro.cpp" line="150"/>
@@ -9383,7 +9234,7 @@ Isso redefinirá todos os layouts personalizados!</translation>
     <name>wizardSettingsPage</name>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="23"/>
-        <source>Choose what you&apos;d like WhatPulse to track. You can change this anytime in settings.</source>
+        <source>Choose what you'd like WhatPulse to track. You can change this anytime in settings.</source>
         <translation>Escolha o que você gostaria que o WhatPulse rastreasse. Você pode alterar isso a qualquer momento nas configurações.</translation>
     </message>
     <message>
@@ -9408,13 +9259,13 @@ Isso redefinirá todos os layouts personalizados!</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="144"/>
-        <source>WhatPulse lets you control what&apos;s public and what&apos;s private in your &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;privacy settings&lt;/a&gt;.</source>
-        <translation>O WhatPulse permite que você controle o que é público e o que é privado nas suas &lt;a href=&quot;https://whatpulse.org/go/client-privacy-settings&quot; style=&quot;color: %1&quot;&gt;configurações de privacidade&lt;/a&gt;.</translation>
+        <source>WhatPulse lets you control what's public and what's private in your &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;privacy settings&lt;/a&gt;.</source>
+        <translation>O WhatPulse permite que você controle o que é público e o que é privado nas suas &lt;a href="https://whatpulse.org/go/client-privacy-settings" style="color: %1"&gt;configurações de privacidade&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../interface/AccountTabWizard/WizardSettingsPage.cpp" line="157"/>
-        <source>Want website tracking? Install the &lt;a href=&quot;https://whatpulse.org/go/client-download-browser-extensions&quot; style=&quot;color: %1&quot;&gt;browser extension&lt;/a&gt;.</source>
-        <translation>Quer rastrear sites? Instale a &lt;a href=&quot;https://whatpulse.org/go/client-download-browser-extensions&quot; style=&quot;color: %1&quot;&gt;extensão do navegador&lt;/a&gt;.</translation>
+        <source>Want website tracking? Install the &lt;a href="https://whatpulse.org/go/client-download-browser-extensions" style="color: %1"&gt;browser extension&lt;/a&gt;.</source>
+        <translation>Quer rastrear sites? Instale a &lt;a href="https://whatpulse.org/go/client-download-browser-extensions" style="color: %1"&gt;extensão do navegador&lt;/a&gt;.</translation>
     </message>
 </context>
 </TS>
