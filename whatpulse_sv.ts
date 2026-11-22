@@ -4712,7 +4712,7 @@ Tillgängligt: %2</translation>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="424"/>
         <source>Data from %1 ago</source>
-        <translation>Data från för %1 sedan</translation>
+        <translation>Data hämtad för %1 sedan</translation>
     </message>
     <message>
         <location filename="../interface/OverviewTab.cpp" line="525"/>
